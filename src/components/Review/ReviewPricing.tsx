@@ -12,8 +12,11 @@ const ReviewPricing = () => {
                     <h2 className="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 mb-4">
                         Kies jouw Review Pakket
                     </h2>
-                    <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+                    <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-4">
                         Verzamel meer reviews en groei online met onze complete pakketten.
+                    </p>
+                    <p className="text-sm text-gray-500 max-w-2xl mx-auto italic">
+                        * De genoemde inhoud is een voorbeeld. Stel zelf je ideale mix samen van stickers, kaartjes en displays.
                     </p>
                 </div>
 
