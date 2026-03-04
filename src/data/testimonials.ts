@@ -3,72 +3,72 @@ import { ITestimonial } from "@/types";
 
 export const testimonials: ITestimonial[] = [
     {
-        name: 'Mark Janssen',
-        role: 'Dakservice Janssen, Utrecht',
-        message: 'Sta je net op een dakkapel, belt er een klant voor een lekkage. Voorheen nam ik niet op, nu pakt de AI het direct op en plant de afspraak in. Ideaal.',
+        name: 'Dr. Sarah de Vries',
+        role: 'Tandartspraktijk De Glimlach, Utrecht',
+        message: 'Tijdens behandelingen kan ik de telefoon niet opnemen. KliniekAI vangt alles op, plant afspraken in en stuurt herinneringen. Het aantal no-shows is drastisch gedaald.',
         avatar: '/images/testimonials/testimonial-1.jpg',
         stars: 5
     },
     {
-        name: 'Sander de Vries',
-        role: 'Sander Daktechniek, Rotterdam',
-        message: 'Ik was bang dat het robotachtig zou klinken, maar klanten merken het verschil niet. Ze zijn blij dat ze direct iemand "spreken" als ik bezig ben.',
+        name: 'Mark van der Linden',
+        role: 'Fysiotherapie Centrum, Rotterdam',
+        message: 'Ik was sceptisch over AI in de zorg, maar het voelt heel persoonlijk. Patiënten worden direct geholpen en ik heb meer rust tussen de behandelingen door.',
         avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
-        name: 'Pieter Bakker',
-        role: 'Bakker Dakwerken, Amsterdam',
-        message: 'Offertes maken was altijd een drama in de avonduren. Nu doet het systeem het meeste werk. Ik heb weer tijd voor mijn gezin.',
+        name: 'Elise Visser',
+        role: 'Huidkliniek Visser, Amsterdam',
+        message: 'De marketing tools zijn fantastisch. Onze instagram loopt vanzelf en we krijgen continu nieuwe aanmeldingen voor intakes. Het systeem betaalt zichzelf dubbel en dwars terug.',
         avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
-        name: 'Lars Visser',
-        role: 'Visser Renovatie, Den Haag',
-        message: 'Geen dubbele afspraken meer en mijn routes zijn veel logischer. Het systeem snapt gewoon hoe een dakdekker werkt. Scheelt me uren per week.',
+        name: 'Robert Jansen',
+        role: 'Huisartsenpraktijk West, Den Haag',
+        message: 'De administratieve last is enorm verminderd. Het systeem filtert de vragen en plant alleen in wat nodig is. Mijn assistente heeft nu tijd voor echte patiëntenzorg.',
         avatar: '/images/testimonials/testimonial-4.jpg',
         stars: 5
     },
     {
-        name: 'Karel van den Berg',
-        role: 'Dakspecialist Brabant, Eindhoven',
-        message: 'Als je handen onder de bitumen zitten, pak je je telefoon niet. Nu krijg ik gewoon een appje met de klusdetails. Top oplossing.',
+        name: 'Laura Bakker',
+        role: 'Psychologenpraktijk Inzicht, Eindhoven',
+        message: 'Discretie en bereikbaarheid zijn cruciaal. KliniekAI handelt alles professioneel af. Cliënten voelen zich gehoord, ook als ik in gesprek ben.',
         avatar: '/images/testimonials/testimonial-5.png',
         stars: 5
     },
     {
-        name: 'Erik de Groot',
-        role: 'De Groot Dak & Zink, Arnhem',
-        message: 'De automatische facturatie is goud. Klus klaar, factuur de deur uit. Vroeger deed ik dat pas in het weekend, nu is het meteen geregeld.',
+        name: 'Tom Meijer',
+        role: 'Chiropractie Meijer, Arnhem',
+        message: 'De automatische facturatie scheelt me uren per week. Behandeling klaar, factuur verstuurd. Geen achterstallige administratie meer in het weekend.',
         avatar: '/images/testimonials/testimonial-6.png',
         stars: 5
     },
     {
-        name: 'Tom van Dijk',
-        role: 'Van Dijk Dakbedekking, Groningen',
-        message: 'Mijn planner was ziek, maar de zaak draaide gewoon door. Klanten werden netjes te woord gestaan en ingepland. Redde mijn week.',
+        name: 'Sophie van Dijk',
+        role: 'Schoonheidssalon Pure, Groningen',
+        message: 'Mijn agenda is altijd perfect gevuld. Valt er een gat? Het systeem vult het op met wachtlijst patiënten. Echt een top oplossing voor mijn kliniek.',
         avatar: '/images/testimonials/testimonial-7.png',
         stars: 4
     },
     {
-        name: 'Arjan Meijer',
-        role: 'Meijer Dakonderhoud, Zwolle',
-        message: 'De "Gemiste Oproep SMS" levert me direct geld op. Mensen bellen verder als je niet opneemt, maar nu blijven ze hangen door dat berichtje.',
+        name: 'Dr. Jan Willems',
+        role: 'Orthodontie Praktijk, Zwolle',
+        message: 'De "Gemiste Oproep SMS" werkt perfect. Patiënten bellen niet meer rond naar andere praktijken, maar maken direct een afspraak via de link die ze krijgen.',
         avatar: '/images/testimonials/testimonial-8.jpg',
         stars: 5
     },
     {
-        name: 'Daan de Jong',
-        role: 'Dakservice De Jong, Tilburg',
-        message: 'Ik ben handig met branders, niet met computers. Maar dit systeem is simpel. Duidelijk overzicht en geen gedoe.',
+        name: 'Linda de Jong',
+        role: 'Voedingscoach Linda, Tilburg',
+        message: 'Ik ben goed in coachen, niet in techniek. Maar dit systeem is zo simpel. Alles in één overzicht en het werkt gewoon altijd.',
         avatar: '/images/testimonials/testimonial-9.jpg',
         stars: 5
     },
     {
-        name: 'Robert Veenstra',
-        role: 'Veenstra Daktechniek, Maastricht',
-        message: 'De investering waard? Eén grote klus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
+        name: 'Kliniek Excellent',
+        role: 'Cosmetische Kliniek, Maastricht',
+        message: 'Sinds we met KliniekAI werken is onze online zichtbaarheid enorm gegroeid. We staan bovenaan in Google en de agenda zit maanden vol.',
         avatar: '/images/testimonials/testimonial-10.png',
         stars: 5
     },

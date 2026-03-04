@@ -2,47 +2,47 @@ import { IFAQ } from "@/types";
 
 export const faqs: IFAQ[] = [
     {
-        question: "Hoe zit het met de veiligheid van mijn bedrijfsdata?",
-        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR richtlijnen. Jouw bedrijfsdata en klantgegevens blijven van jou en worden nooit gebruikt om publieke AI-modellen te trainen zonder jouw expliciete toestemming.",
+        question: "Hoe zit het met de veiligheid van patiëntgegevens?",
+        answer: "Veiligheid en privacy staan voorop. Wij voldoen strikt aan de AVG/GDPR en NEN 7510 richtlijnen voor de zorg. Patiëntgegevens zijn versleuteld en worden nooit gedeeld met derden.",
     },
     {
-        question: "Wat levert het mij concreet op (ROI)?",
-        answer: "Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen oproepen meer, wat direct leidt tot meer omzet. Eén geredde lekkageklus per maand dekt vaak de kosten al, nog los van de professionele uitstraling.",
+        question: "Wat levert het mijn praktijk op?",
+        answer: "Gemiddeld bespaart een kliniek 15+ uur per week aan administratie en telefoontjes. Daarnaast optimaliseren we uw bezetting door gaten in de agenda direct op te vullen. Meer tijd voor patiënten, minder bureaucratie.",
     },
     {
-        question: "Heb ik technische kennis nodig om dit te beheren?",
-        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je Dakdekker AI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
+        question: "Heb ik technische kennis nodig?",
+        answer: "Nee, absoluut niet. Wij richten het systeem volledig voor u in. U en uw team kunnen er direct mee werken zonder training. Het is intuïtiever dan de meeste EPD-systemen.",
     },
     {
-        question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        question: "Koppelt dit met mijn EPD/EHR?",
+        answer: "Ja, wij koppelen met gangbare systemen zoals Exact, Outlook, en diverse medische agenda software. Afspraken en dossiernotities worden veilig en correct gesynchroniseerd.",
     },
     {
-        question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is getraind om eerlijk te zijn. Als hij het antwoord niet weet of de vraag te complex is, schakelt hij het gesprek netjes door naar jou, of neemt hij een boodschap aan zodat je zelf kunt terugbellen. Je raakt dus nooit een lead kwijt.",
+        question: "Wat als de AI een medische vraag krijgt?",
+        answer: "De AI geeft geen medisch advies. Bij inhoudelijke medische vragen schakelt de assistent door naar een specialist of maakt een terugbelverzoek voor de dienstdoende arts.",
     },
     {
-        question: "Is dit geschikt voor ZZP'ers of alleen grote bedrijven?",
-        answer: "Ons systeem is schaalbaar. Voor ZZP'ers is het ideaal om bereikbaar te zijn terwijl je op het dak zit. Voor grotere bedrijven biedt het krachtige dispatch- en routingmogelijkheden om het kantoorpersoneel te ontlasten.",
+        question: "Is dit geschikt voor zelfstandige specialisten?",
+        answer: "Zeker. Voor ZZP-artsen en therapeuten fungeren wij als full-time praktijkondersteuner. U focust op de behandeling, wij zorgen dat de telefoon wordt opgenomen en de administratie loopt.",
     },
     {
-        question: "Kan ik 's avonds en in het weekend andere instellingen gebruiken?",
-        answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij stormschade spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
+        question: "Kan ik de bereikbaarheid instellen?",
+        answer: "Uiteraard. U bepaalt de kantoortijden. Buiten deze tijden kan de AI spoedgevallen filteren en doorzetten naar de waarnemer, of reguliere vragen parkeren voor de volgende werkdag.",
     },
     {
-        question: "Is het testen echt gratis?",
-        answer: "Ja, de software-toegang is 14 dagen 100% gratis. Je betaalt alleen voor je daadwerkelijke verbruik (zoals belminuten, AI-generaties en SMS'jes), omdat wij deze kosten ook direct moeten afdragen. Je zit nergens aan vast.",
+        question: "Zit ik vast aan een contract?",
+        answer: "Nee, onze samenwerking is flexibel en maandelijks opzegbaar. Wij geloven dat kwaliteit bindt, geen contracten.",
     },
     {
-        question: "Is de strategie-call echt gratis?",
-        answer: "Honderd procent. Geen addertjes. Wij denken graag met je mee hoe je dit systeem het beste kunt inzetten voor jouw bedrijf. Of je daarna klant wordt of niet, je krijgt van ons altijd eerlijk advies waar je direct mee aan de slag kunt.",
+        question: "Is de demo vrijblijvend?",
+        answer: "Volledig. We analyseren uw praktijkvoering en kijken waar we winst kunnen behalen. Geen verplichtingen, wel direct inzicht in mogelijke verbeteringen.",
     },
     {
-        question: "Waarom is de managed service niet geautomatiseerd?",
-        answer: "Omdat de huidige technologie nog niet betrouwbaar genoeg is om dit volledig te automatiseren. Hoewel het technisch mogelijk is, kan AI foutjes maken. Juist de menselijke touch van een expert zorgt voor een betere merkverbinding en een positief resultaat, in plaats van dat het spammerig overkomt.",
+        question: "Wat houdt 'managed service' in?",
+        answer: "Dat wij uw digitale praktijkondersteuner zijn. Wij beheren de software, zorgen voor updates, en helpen bij uw online positionering. U de zorg, wij de techniek.",
     },
     {
-        question: "Hoe snel is het inzetbaar?",
-        answer: "De basisinrichting staat binnen 5 minuten. Wil je een uitgebreide kennisbank en complexe koppelingen? Dan ben je met onze hulp vaak binnen één werkdag volledig operationeel.",
+        question: "Hoe snel kunnen we starten?",
+        answer: "Na de intake kunnen we binnen 24-48 uur operationeel zijn. We leiden uw telefonie om en koppelen uw agenda. Uw praktijk draait gewoon door.",
     }
 ];

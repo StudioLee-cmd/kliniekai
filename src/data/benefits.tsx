@@ -16,7 +16,7 @@ export const benefits: IBenefit[] = [
             },
             {
                 title: "Klantgeheugen & Historie",
-                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere klussen en klantdata.",
+                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere afspraken en patiëntdata.",
                 icon: <FiUsers size={26} />
             },
             {

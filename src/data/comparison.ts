@@ -6,56 +6,37 @@ export interface IComparisonItem {
 
 export const comparisonData: IComparisonItem[] = [
     {
-        role: "Social Media Manager",
-        cost: 500,
-        description: "Voor dagelijkse posts en engagement"
+        role: "Praktijk Manager",
+        cost: 3500,
+        description: "Voor planning en administratie"
     },
     {
-        role: "Marketing Strateeg",
-        cost: 650,
-        description: "Voor advertenties en strategie"
+        role: "Marketing Bureau",
+        cost: 1500,
+        description: "Voor patiëntenwerving en campagnes"
+    },
+    {
+        role: "Medisch Secretaresse",
+        cost: 2800,
+        description: "Voor telefoon en afspraken"
     },
     {
         role: "SEO Specialist",
         cost: 500,
-        description: "Voor blogs en ranking onderhoud"
+        description: "Voor vindbaarheid in de regio"
     },
     {
-        role: "Professionele Fotograaf",
-        cost: 550,
-        description: "Voor 1 shoot per maand"
-    },
-    {
-        role: "Video & Content Creator",
-        cost: 550,
-        description: "Voor video's en reels"
-    },
-    {
-        role: "CRM & Email Marketing",
+        role: "Website Beheer",
         cost: 200,
-        description: "Vervangt HubSpot & Mailchimp"
+        description: "Hosting, updates en wijzigingen"
     },
     {
-        role: "Website & Funnel Builder",
-        cost: 100,
-        description: "Vervangt Wix, WordPress & Hosting"
-    },
-    {
-        role: "Social Media Tools",
-        cost: 100,
-        description: "Vervangt Hootsuite, Buffer & Later"
-    },
-    {
-        role: "Reserveringssysteem & Kassa",
-        cost: 45,
-        description: "Vervangt Salonized, Treatwell & BarberBooking"
-    },
-    {
-        role: "Agenda & Planning Tools",
-        cost: 25,
-        description: "Vervangt Calendly, Acuity & team-agenda's"
+        role: "Software Abonnementen",
+        cost: 400,
+        description: "Losse tools voor mail, planning, reviews"
     }
 ];
 
-export const totalTraditionalCost = 3220;
-export const kapperAICost = 297;
+// Comparison values
+export const totalTraditionalCost = 8900;
+export const kliniekAICost = 297;
