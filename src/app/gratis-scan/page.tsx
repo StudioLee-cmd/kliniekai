@@ -148,10 +148,17 @@ const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
 export default function GratisScanPage() {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
-    const startScan = (data: any) => {
+    const startScan = async (data: any) => {
         setIsModalOpen(true);
-        // Here you would typically trigger the webhook/n8n workflow
-        console.log("Starting scan with data:", data);
+        try {
+            await fetch('https://n8n.aireclamestudio.nl/webhook/free-scan', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ ...data, niche: 'Kliniek' }),
+            });
+        } catch (err) {
+            console.error('Webhook error:', err);
+        }
     };
 
     return (
@@ -159,13 +166,14 @@ export default function GratisScanPage() {
             <Header />
 
             <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
-                <div className="max-w-xl mx-auto">
-                    <div className="text-center mb-10">
-                        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
-                            Gratis AI & SEO Scan
+                <div className="max-w-3xl mx-auto">
+                    <div className="text-center mb-12">
+                        <h1 className="text-4xl md:text-5xl font-bold mb-6 text-[var(--foreground)]">
+                            Gratis AI Readiness Scan
                         </h1>
-                        <p className="text-lg text-gray-600 dark:text-gray-300">
-                            We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
+                        <p className="text-xl text-[var(--foreground-accent)]">
+                            Ontdek binnen 2 minuten hoeveel tijd en geld uw kliniek kan besparen met AI.
+                            Vul uw gegevens in en ontvang een gepersonaliseerd rapport.
                         </p>
                     </div>
 
@@ -210,7 +218,7 @@ export default function GratisScanPage() {
                                     <iframe
                                         width="100%"
                                         height="100%"
-                                        src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"
+                                        src="https://www.youtube.com/embed/3RaBKCJdLMA?autoplay=1&mute=1"
                                         title="Waiting Room Video"
                                         frameBorder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
