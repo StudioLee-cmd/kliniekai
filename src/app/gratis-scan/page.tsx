@@ -167,14 +167,13 @@ export default function GratisScanPage() {
             <Header />
 
             <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
-                <div className="max-w-3xl mx-auto">
-                    <div className="text-center mb-12">
-                        <h1 className="text-4xl md:text-5xl font-bold mb-6 text-[var(--foreground)]">
-                            Gratis AI Readiness Scan
+                <div className="max-w-xl mx-auto">
+                    <div className="text-center mb-10">
+                        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
+                            Gratis AI & SEO Scan
                         </h1>
-                        <p className="text-xl text-[var(--foreground-accent)]">
-                            Ontdek binnen 2 minuten hoeveel tijd en geld uw kliniek kan besparen met AI.
-                            Vul uw gegevens in en ontvang een gepersonaliseerd rapport.
+                        <p className="text-lg text-gray-600 dark:text-gray-300">
+                            We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
                         </p>
                     </div>
 
