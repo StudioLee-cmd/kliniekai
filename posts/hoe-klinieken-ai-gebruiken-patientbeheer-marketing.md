@@ -38,4 +38,4 @@ Bovendien helpt AI bij het bijhouden van sociale media content: actuele informat
 
 Klinieken die AI inzetten, zien minder no-shows, hogere patiënttevredenheid en groeiende online zichtbaarheid. De investering betaalt zich terug in de eerste maand.
 
-Meer informatie? Bezoek [kliniekai.nl](https://kliniekai.nl).
+Meer informatie? Bezoek [kliniekai.nl](https://www.kliniekai.nl).
