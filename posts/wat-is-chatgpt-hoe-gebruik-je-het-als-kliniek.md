@@ -69,4 +69,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend �
 
 ChatGPT is nuttig voor teksten en interne communicatie. KliniekAI is het systeem dat je kliniek efficiënter en vindbaarder maakt — automatisch, 24/7, specifiek voor klinieken.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
