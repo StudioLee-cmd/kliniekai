@@ -44,5 +44,9 @@ export const faqs: IFAQ[] = [
     {
         question: "Hoe snel kunnen we starten?",
         answer: "Na de intake kunnen we binnen 24-48 uur operationeel zijn. We leiden uw telefonie om en koppelen uw agenda. Uw praktijk draait gewoon door.",
+    },
+    {
+        question: "Wat moet ik zelf nog doen?",
+        answer: "Dat bepaal je helemaal zelf. Je kunt kiezen tussen Self-Service, waarbij je alles zelf beheert via ons gebruiksvriendelijke dashboard, of onze Managed Service, waarbij wij alles voor je regelen. Bij de managed optie hoef je slechts ~15 minuten per maand te bellen met je vaste accountmanager voor updates en afstemming. De rest doen wij.",
     }
 ];
