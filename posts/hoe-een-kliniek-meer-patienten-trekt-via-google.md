@@ -101,7 +101,7 @@ Uw kliniek is er voor de patiënt. Wij zorgen dat die patiënt u vindt:
 
 Meer patiënten, minder gemiste kansen, alles op orde.
 
-**Ontdek wat KliniekAI voor uw praktijk doet.** Plan een kennismaking via kliniekai.nl.
+**Ontdek wat KliniekAI voor uw praktijk doet.** Plan een kennismaking via [kliniekai.nl](https://www.kliniekai.nl).
 
 ---
 
