@@ -78,4 +78,4 @@ Of je nu een cosmetische kliniek, huidtherapiepraktijk of medisch centrum runt �
 - **Simpel beheersysteem?** Salonized combineert agenda en kassa in één.
 - **Groeien met AI?** [KliniekAI](/) combineert boekingen, reviews, chatbot en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat KliniekAI voor jouw kliniek kan betekenen? [Neem contact op](/contact).
+Benieuwd wat KliniekAI voor jouw kliniek kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
