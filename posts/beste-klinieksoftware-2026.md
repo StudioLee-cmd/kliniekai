@@ -53,7 +53,7 @@ Of je nu een cosmetische kliniek, huidtherapiepraktijk of medisch centrum runt �
 
 [KliniekAI](/) is een compleet AI-systeem voor klinieken: online afsprakenbeheer, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines — zonder commissie.
 
-**Sterkste punt:** Alles in één met AI: afsprakenbeheer, facturatie, review-automatisering via WhatsApp, AI-chatbot die vragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-klinieken-meer-patienten-krijgen-via-google). Custom booking app zonder commissie.
+**Sterkste punt:** Alles in één met AI: afsprakenbeheer, facturatie, review-automatisering via WhatsApp, AI-chatbot die vragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-kliniek-meer-patienten-trekt-via-google). Custom booking app zonder commissie.
 
 **Nadeel:** Geen EPD of medisch dossiersysteem — voor uitgebreide patiëntendossiers combineer je het met een tool als Clinicminds.
 

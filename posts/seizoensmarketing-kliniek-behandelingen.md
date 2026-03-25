@@ -19,7 +19,7 @@ De klinieken die hun marketing afstemmen op deze patronen, hebben een stabielere
 
 Het voorjaar is het moment waarop patienten actie ondernemen:
 
-**Huidvernieuwingsbehandelingen**. Chemical peels, microneedling en laserbehandelingen zijn populair in maart-mei. Patienten willen hun huid vernieuwen voor de zomer. Promoot deze behandelingen vanaf februari op je [website](/blog/kliniek-website-converteren) en [social media](/blog/social-media-voor-klinieken).
+**Huidvernieuwingsbehandelingen**. Chemical peels, microneedling en laserbehandelingen zijn populair in maart-mei. Patienten willen hun huid vernieuwen voor de zomer. Promoot deze behandelingen vanaf februari op je [website](/blog/kliniek-website-conversie-meer-patienten) en [social media](/blog/social-media-voor-klinieken).
 
 **Preventieve screenings**. Het voorjaar is een goed moment om huidcontroles te promoten. "Lentescan: laat je huid controleren voor de zomer." Laagdrempelig en het brengt patienten in contact met je kliniek.
 
@@ -43,7 +43,7 @@ De herfst en winter zijn ideaal voor behandelingen met hersteltijd:
 
 **Feestdagenvoorbereiding**. In november en december willen patienten er goed uitzien voor de feestdagen. Bied speciale pakketten aan en communiceer early-bird beschikbaarheid.
 
-**Cadeaubonnen**. Behandelingen als cadeau zijn populair in december. Promoot cadeaubonnen actief via je [email marketing](/blog/email-marketing-klinieken) en website.
+**Cadeaubonnen**. Behandelingen als cadeau zijn populair in december. Promoot cadeaubonnen actief via je [email marketing](/blog/email-marketing-kliniek-patientcontact) en website.
 
 **Jaarplanning voor chronische patienten**. Patienten met doorlopende behandelingen plannen vaak in januari voor het hele jaar. Stuur een herinnering: "Plan nu je behandelingen voor 2027."
 

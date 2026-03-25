@@ -11,7 +11,7 @@ tags: ["E-mail", "Marketing", "Patiëntbehoud"]
 
 E-mailmarketing is een van de meest onderbenutte kanalen in de gezondheidszorg. Terwijl andere sectoren al jaren profiteren van geautomatiseerde e-mailflows, communiceren veel klinieken nog steeds via telefoon en papieren brieven.
 
-Dat is een gemiste kans. E-mail is persoonlijk, meetbaar en schaalbaar. Je kunt duizenden patiënten bereiken met een klik, terwijl elke e-mail aanvoelt als een persoonlijk bericht. Combineer het met goede [patiëntbeleving](/blog/patientbeleving-kliniek-contact-nazorg) en je bouwt een loyale patiëntenkring op.
+Dat is een gemiste kans. E-mail is persoonlijk, meetbaar en schaalbaar. Je kunt duizenden patiënten bereiken met een klik, terwijl elke e-mail aanvoelt als een persoonlijk bericht. Combineer het met goede [patiëntbeleving](/blog/patientbeleving-verbeteren-kliniek) en je bouwt een loyale patiëntenkring op.
 
 ## Afspraakherinneringen automatiseren
 
@@ -21,7 +21,7 @@ De meest directe ROI van e-mailmarketing zit in afspraakherinneringen:
 - **24 uur voor de afspraak**: korte bevestiging met voorbereidingsinstructies
 - **Na de afspraak**: bedankmail met nazorginstructies
 
-Automatische herinneringen verminderen no-shows met 30-50%. Bij een gemiddelde no-show rate van 10% en een consultprijs van €150 bespaart dit al snel duizenden euro's per maand. Lees meer over hoe je [no-shows vermindert](/blog/no-shows-verminderen-kliniek) als kliniek.
+Automatische herinneringen verminderen no-shows met 30-50%. Bij een gemiddelde no-show rate van 10% en een consultprijs van €150 bespaart dit al snel duizenden euro's per maand. Lees meer over hoe je [no-shows vermindert](/blog/no-shows-kliniek-verminderen) als kliniek.
 
 ## Gezondheidsnieuwsbrieven die gelezen worden
 

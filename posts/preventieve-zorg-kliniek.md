@@ -44,7 +44,7 @@ Bied gerichte screenings aan voor risicogroepen:
 Content als preventie-instrument:
 
 - [Blogartikelen](/blog/branding-kliniek) over preventie
-- Seizoenstips via [email](/blog/email-marketing-klinieken-patiëntcontact)
+- Seizoenstips via [email](/blog/email-marketing-kliniek-patientcontact)
 - Voorlichtingsavonden in de kliniek
 
 ## Hoe bouw je een preventief programma op?
@@ -64,7 +64,7 @@ Analyseer je patiëntenbestand: welke behandelingen doe je het meest? Daar ligt 
 
 ### Stap 3: Automatiseer herinneringen
 
-Gebruik je kliniek-software of [email marketing](/blog/email-marketing-klinieken-patiëntcontact) om automatisch herinneringen te sturen. Patinten waarderen het en je vult je planning met planbare afspraken.
+Gebruik je kliniek-software of [email marketing](/blog/email-marketing-kliniek-patientcontact) om automatisch herinneringen te sturen. Patinten waarderen het en je vult je planning met planbare afspraken.
 
 ### Stap 4: Meet en optimaliseer
 
@@ -74,14 +74,14 @@ Houd bij hoeveel patiënten reageren op preventieaanbiedingen. Optimaliseer je b
 
 Patiënten zoeken steeds vaker online naar preventieve informatie. Zorg dat je kliniek daar zichtbaar is:
 
-- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-kliniek-meer-patiënten) met preventiediensten
+- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-kliniek) met preventiediensten
 - Blogartikelen over seizoensgebonden gezondheid
-- [Social media](/blog/social-media-klinieken-meer-patiënten) met preventietips
-- [Website](/blog/kliniek-website-meer-patiënten-betere-ervaring) met preventie-informatie
+- [Social media](/blog/social-media-klinieken-patienten) met preventietips
+- [Website](/blog/kliniek-website-conversie-meer-patienten) met preventie-informatie
 
 ## Laat je preventieve marketing professioneel aanpakken
 
-Bij StudioLee helpen we klinieken met hun online marketing — van [leadgeneratie](/blog/leadgeneratie-klinieken-meer-nieuwe-patiënten) tot patiëntcommunicatie. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee helpen we klinieken met hun online marketing — van [leadgeneratie](/blog/leadgeneratie-kliniek-nieuwe-patienten) tot patiëntcommunicatie. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

@@ -52,7 +52,7 @@ Huisartsen zijn een belangrijke bron van patiënten voor gespecialiseerde klinie
 - **Terugkoppeling**: rapporteer altijd terug naar de verwijzende huisarts
 - **Bereikbaarheid**: maak het makkelijk voor huisartsen om te verwijzen — een directe lijn of online verwijsformulier
 
-Combineer verwijzingen met je online [reputatie](/blog/online-reputatie-kliniek). Een huisarts die je Googlet en 4,9 sterren met 100+ reviews ziet, verwijst met meer vertrouwen.
+Combineer verwijzingen met je online [reputatie](/blog/online-reputatie-kliniek-beschermen-versterken). Een huisarts die je Googlet en 4,9 sterren met 100+ reviews ziet, verwijst met meer vertrouwen.
 
 ## Conclusie
 

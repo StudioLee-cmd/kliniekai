@@ -25,7 +25,7 @@ De meest effectieve manier om no-shows te verminderen is automatische afspraakhe
 
 **Herinnering 2 — 3 uur van tevoren**: per SMS of WhatsApp. Kort en direct: "Uw afspraak bij [kliniek] is vandaag om [tijd]. Tot straks!"
 
-Twee herinneringen verlagen het no-show percentage gemiddeld met 40%. De kosten zijn minimaal — de meeste [praktijkmanagement-software](/blog/no-shows-verminderen-kliniek) biedt dit als standaardfunctie.
+Twee herinneringen verlagen het no-show percentage gemiddeld met 40%. De kosten zijn minimaal — de meeste [praktijkmanagement-software](/blog/no-shows-kliniek-verminderen) biedt dit als standaardfunctie.
 
 ## Bevestigingsberichten die werken
 
@@ -46,7 +46,7 @@ Communicatie stopt niet bij de behandeling. Nazorg is een krachtig contactmoment
 
 **Dag 1 na behandeling**: stuur een bericht met nazorginstructies. "Vermijd de komende 24 uur intensief sporten" of "Neem het medicijn twee keer per dag in." Dit laat zien dat je om de patient geeft.
 
-**Week 1**: vraag hoe het gaat. "Heeft u nog vragen over uw behandeling? We helpen u graag." Dit is ook het perfecte moment om een [review](/blog/meer-google-reviews-kliniek) te vragen.
+**Week 1**: vraag hoe het gaat. "Heeft u nog vragen over uw behandeling? We helpen u graag." Dit is ook het perfecte moment om een [review](/blog/meer-google-reviews-voor-je-kliniek) te vragen.
 
 **Maand 3 of 6**: stuur een herinnering voor een controleafspraak als dat relevant is. Preventief contact voorkomt dat patienten pas terugkomen wanneer het probleem verergerd is.
 
@@ -71,7 +71,7 @@ De trend gaat richting WhatsApp en SMS — sneller, persoonlijker en hogere open
 - **Te formeel communiceren**: een bericht dat klinkt als een juridische mededeling werkt niet. Houd het warm en menselijk
 - **Alleen communiceren bij problemen**: als de enige berichten die je stuurt facturen en afspraakherinneringen zijn, bouw je geen relatie op
 - **Geen mogelijkheid om online te verzetten**: als annuleren moeilijk is, kiezen patienten ervoor om simpelweg niet te komen
-- **[Online reputatie](/blog/online-reputatie-kliniek) negeren**: slechte reviews over communicatie schrikken nieuwe patienten af
+- **[Online reputatie](/blog/online-reputatie-kliniek-beschermen-versterken) negeren**: slechte reviews over communicatie schrikken nieuwe patienten af
 
 ## Aan de slag
 

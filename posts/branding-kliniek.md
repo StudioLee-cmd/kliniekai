@@ -47,7 +47,7 @@ Je website is vaak het eerste contactpunt. Deze moet je merkidentiteit perfect w
 - Consistent met je visuele identiteit
 - Duidelijke informatie over behandelingen en kosten
 - Makkelijk een afspraak maken
-- [Sterke reviews en testimonials](/blog/online-reputatie-kliniek-imago)
+- [Sterke reviews en testimonials](/blog/online-reputatie-kliniek-beschermen-versterken)
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-kliniek) is je tweede gezicht — houd ook dit consistent met je merk.
 
@@ -101,4 +101,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug.
 
 Branding is geen luxe voor grote ziekenhuizen — het is een essentieel onderscheidend vermogen voor elke kliniek. Door te investeren in een consistente visuele identiteit, een duidelijke tone of voice en een professionele online aanwezigheid, bouw je het vertrouwen op dat patiënten nodig hebben om voor jou te kiezen.
 
-Lees ook hoe je [meer nieuwe patiënten genereert via je website](/blog/leadgeneratie-klinieken-meer-patienten) en hoe je [no-shows vermindert met slimme communicatie](/blog/klantcommunicatie-kliniek-minder-no-shows).
+Lees ook hoe je [meer nieuwe patiënten genereert via je website](/blog/leadgeneratie-kliniek-nieuwe-patienten) en hoe je [no-shows vermindert met slimme communicatie](/blog/klantcommunicatie-kliniek-no-shows).

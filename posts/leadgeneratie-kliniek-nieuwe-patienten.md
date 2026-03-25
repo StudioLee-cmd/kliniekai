@@ -11,7 +11,7 @@ tags: ["leadgeneratie", "kliniek", "patienten"]
 
 ## Waarom je website je beste verkoopkanaal is
 
-De meeste patienten beginnen hun zoektocht online. Ze googelen hun klacht, vergelijken klinieken en bekijken [reviews](/blog/meer-google-reviews-kliniek). Pas daarna pakken ze de telefoon — als ze al bellen.
+De meeste patienten beginnen hun zoektocht online. Ze googelen hun klacht, vergelijken klinieken en bekijken [reviews](/blog/meer-google-reviews-voor-je-kliniek). Pas daarna pakken ze de telefoon — als ze al bellen.
 
 Je website is het scharnierpunt in die zoektocht. Het is het moment waarop een bezoeker besluit: "Dit is de kliniek voor mij" of "ik ga verder zoeken." En de meeste kliniekwebsites verliezen op dat moment.
 
@@ -53,7 +53,7 @@ Leadgeneratie zonder vertrouwen werkt niet. Patienten laten zich pas behandelen 
 
 **Blogartikelen over behandelingen**. Uitgebreide artikelen die uitleggen hoe een behandeling werkt, wat de resultaten zijn en wat de patient kan verwachten. Dit is niet alleen goed voor SEO, maar ook voor het vertrouwen van de lezer.
 
-**Reviews en ervaringen**. Laat [Google reviews](/blog/meer-google-reviews-kliniek) zien op je website. Echte ervaringen van echte patienten zijn overtuigender dan welke marketingtekst dan ook.
+**Reviews en ervaringen**. Laat [Google reviews](/blog/meer-google-reviews-voor-je-kliniek) zien op je website. Echte ervaringen van echte patienten zijn overtuigender dan welke marketingtekst dan ook.
 
 ## Leads opvolgen zonder opdringerig te zijn
 
@@ -65,7 +65,7 @@ Een lead is geen patient. Er zit een stap tussen: de opvolging. Hoe je die doet,
 
 **Bied een laagdrempelige vervolgstap**. "Zullen we een kort telefoongesprek inplannen zodat ik uw vragen kan beantwoorden?" is beter dan "Wanneer wilt u een afspraak maken?"
 
-**Stuur een herinnering**. Heeft de patient een intake ingepland maar nog niet bevestigd? Een vriendelijke herinnering via [email](/blog/email-marketing-klinieken) of sms doet wonderen.
+**Stuur een herinnering**. Heeft de patient een intake ingepland maar nog niet bevestigd? Een vriendelijke herinnering via [email](/blog/email-marketing-kliniek-patientcontact) of sms doet wonderen.
 
 ## Aan de slag
 
