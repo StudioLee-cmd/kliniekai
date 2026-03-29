@@ -7,8 +7,6 @@ image: "/images/blog/kliniek-website-conversie-meer-patienten.png"
 tags: ["Website", "Conversie", "Patiënten"]
 ---
 
-# Je kliniek-website laten converteren: meer patiënten via een betere ervaring
-
 Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Misschien 1 op de 100 — terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.
 
 Het probleem is zelden het verkeer. Het probleem is de conversie — het omzetten van een bezoeker in een patiënt. En dat is precies waar dit artikel over gaat.

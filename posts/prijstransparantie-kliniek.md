@@ -7,8 +7,6 @@ image: "/images/blog/prijstransparantie-kliniek.png"
 tags: ["prijzen communiceren", "kliniek", "marketing"]
 ---
 
-# Prijstransparantie als kliniek: waarom heldere tarieven meer patienten opleveren
-
 "Wat kost een behandeling bij jullie?" Het is de vraag die elke potentiele patient stelt — vaak aan zichzelf, achter een scherm. Als je [website](/blog/kliniek-website-conversie-meer-patienten) geen antwoord geeft, klikt de patient door naar een kliniek die dat wel doet.
 
 ## Waarom patienten prijzen willen weten

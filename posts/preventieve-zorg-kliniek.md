@@ -7,8 +7,6 @@ image: "/images/blog/preventieve-zorg-kliniek.png"
 tags: ["preventieve zorg", "kliniek", "patiëntbinding"]
 ---
 
-# Preventieve zorg als kliniek: voorlichting die patiënten bindt
-
 De meeste klinieken richten zich op behandelen: patiënten komen met een klacht, je lost het op, en ze vertrekken. Maar de klinieken die investeren in preventieve zorg, bouwen een veel sterkere band met hun patiënten — en een stabieler verdienmodel.
 
 ## Waarom preventieve zorg loont

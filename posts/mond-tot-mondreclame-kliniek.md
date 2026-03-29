@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-kliniek.png"
 tags: ["mond-tot-mond", "kliniek", "marketing"]
 ---
 
-# Mond-tot-mondreclame als kliniek: tevreden patienten als beste marketing
-
 Wanneer iemand een kliniek zoekt voor een behandeling, vraagt die persoon eerst aan vrienden en familie. "Ken je een goede kliniek?" Dat gesprek vindt dagelijks plaats — en het is de krachtigste marketingvorm die er bestaat voor medische zorg.
 
 In dit artikel leer je hoe je als kliniek mond-tot-mondreclame stimuleert zonder commercieel over te komen.

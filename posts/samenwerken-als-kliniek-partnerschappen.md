@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-kliniek-partnerschappen.png"
 tags: ["samenwerkingen", "kliniek", "groei"]
 ---
 
-# Samenwerken als kliniek: partnerschappen die meer patienten opleveren
-
 De meeste patienten komen bij een kliniek via twee kanalen: Google en doorverwijzingen. Terwijl Google-marketing geld kost en onzeker is, zijn doorverwijzingen van huisartsen en andere zorgverleners gratis en structureel. Toch investeren veel klinieken nauwelijks in deze relaties.
 
 ## Waarom doorverwijzingen de beste patienten zijn
@@ -16,7 +14,7 @@ De meeste patienten komen bij een kliniek via twee kanalen: Google en doorverwij
 Een patient die door de huisarts is doorverwezen:
 - Heeft al een indicatie voor behandeling
 - Heeft vertrouwen in de verwijzer (en dus in jou)
-- Verschijnt vaker op afspraken (minder [no-shows](/blog/klantcommunicatie-kliniek-minder-no-shows))
+- Verschijnt vaker op afspraken (minder [no-shows](/blog/klantcommunicatie-kliniek-no-shows))
 - Is meer tevreden over de behandeling
 
 ## De beste partners voor klinieken
