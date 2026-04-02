@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-kliniek-beschermen-versterken.png"
 tags: ["Kliniek", "Online Reputatie", "Reviews"]
+cluster: "online-reputatie"
 ---
 
 ## Waarom online reputatie alles is voor klinieken

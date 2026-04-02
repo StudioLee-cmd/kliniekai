@@ -7,6 +7,7 @@ image: "/images/blog/leadgeneratie-kliniek-nieuwe-patienten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["leadgeneratie", "kliniek", "patienten"]
+cluster: "lead-opvolging"
 ---
 
 ## Waarom je website je beste verkoopkanaal is

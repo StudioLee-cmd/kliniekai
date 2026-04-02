@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-arts-priveeklinieken.jpg"
 tags: ["1 April", "Leads", "Klantcontact"]
+cluster: "lead-opvolging"
 ---
 
 ## De robot-arts die alles kan

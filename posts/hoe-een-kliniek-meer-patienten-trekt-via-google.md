@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-kliniek-meer-patienten-trekt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Patiënten", "Kliniek"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom klinieken steeds meer online gevonden worden

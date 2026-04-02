@@ -5,6 +5,7 @@ date: "2026-01-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/zorgkaart-reviews-automatiseren.png"
 tags: ["Marketing", "Reputatie", "Groei"]
+cluster: ""
 ---
 
 Patiënten kiezen hun behandelaar steeds vaker online. Ze zoeken op "Beste fysiotherapeut Utrecht" of "Dermatoloog reviews". Als uw kliniek daar niet tussen staat met een hoge score, loopt u dagelijks nieuwe patiënten mis.

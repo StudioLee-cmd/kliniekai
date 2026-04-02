@@ -5,6 +5,7 @@ date: "2026-01-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beveiliging-privacy-ai.png"
 tags: ["Privacy", "AVG", "Veiligheid"]
+cluster: ""
 ---
 
 Bij het introduceren van nieuwe technologie in de zorg is de eerste vraag altijd: "Is het veilig?". Terecht. Medische gegevens zijn de meest gevoelige persoonsgegevens die er zijn.

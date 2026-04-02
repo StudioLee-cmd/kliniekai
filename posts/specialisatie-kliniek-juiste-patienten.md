@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-kliniek-juiste-patienten.png"
 tags: ["Specialisatie", "Marketing", "Patiëntenwerving"]
+cluster: "specialisatie"
 ---
 
 ## Waarom specialisatie aantrekkingskracht heeft

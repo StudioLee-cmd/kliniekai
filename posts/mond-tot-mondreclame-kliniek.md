@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-kliniek.png"
 tags: ["mond-tot-mond", "kliniek", "marketing"]
+cluster: "mond-tot-mondreclame"
 ---
 
 Wanneer iemand een kliniek zoekt voor een behandeling, vraagt die persoon eerst aan vrienden en familie. "Ken je een goede kliniek?" Dat gesprek vindt dagelijks plaats — en het is de krachtigste marketingvorm die er bestaat voor medische zorg.

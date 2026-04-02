@@ -5,6 +5,7 @@ date: "2026-02-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-zorg.png"
 tags: ["Efficiency", "No-Shows", "Praktijkvoering"]
+cluster: ""
 ---
 
 Het is de grootste frustratie van elke medisch specialist: een gat in de agenda omdat een patiënt niet komt opdagen. No-shows kosten de Nederlandse zorgsector miljoenen euro's per jaar. Uw behandelruimte staat leeg, uw personeel wacht, en de patiënt op de wachtlijst had dolgraag willen komen.

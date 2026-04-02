@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-kliniek-meer-patienten-google.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom patiënten hun kliniek online zoeken

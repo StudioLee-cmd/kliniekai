@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-kliniek.png"
 tags: ["Branding", "Kliniek", "Groei"]
+cluster: "branding"
 ---
 
 Er zijn tientallen klinieken in elke regio. Ze bieden vergelijkbare behandelingen, hebben vergelijkbare kwalificaties, en vragen vergelijkbare prijzen. Toch kiezen patiënten sommige klinieken consistent boven andere. Het verschil? Branding.

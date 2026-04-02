@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijstransparantie-kliniek.png"
 tags: ["prijzen communiceren", "kliniek", "marketing"]
+cluster: "prijzen-communiceren"
 ---
 
 "Wat kost een behandeling bij jullie?" Het is de vraag die elke potentiele patient stelt — vaak aan zichzelf, achter een scherm. Als je [website](/blog/kliniek-website-conversie-meer-patienten) geen antwoord geeft, klikt de patient door naar een kliniek die dat wel doet.

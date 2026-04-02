@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-kliniek-partnerschappen.png"
 tags: ["samenwerkingen", "kliniek", "groei"]
+cluster: "samenwerkingen"
 ---
 
 De meeste patienten komen bij een kliniek via twee kanalen: Google en doorverwijzingen. Terwijl Google-marketing geld kost en onzeker is, zijn doorverwijzingen van huisartsen en andere zorgverleners gratis en structureel. Toch investeren veel klinieken nauwelijks in deze relaties.

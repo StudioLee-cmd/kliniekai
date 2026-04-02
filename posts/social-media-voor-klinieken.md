@@ -5,6 +5,7 @@ date: "2026-01-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-klinieken.png"
 tags: ["Social Media", "Branding", "Educatie"]
+cluster: ""
 ---
 
 Als medisch specialist wilt u autoriteit uitstralen. U wilt gevonden worden op uw expertise. Social media is daarvoor een krachtig kanaal, maar het kost veel tijd om consequent professionele content te maken.

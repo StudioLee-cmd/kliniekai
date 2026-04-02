@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-kliniek.png"
 tags: ["Tools", "ChatGPT", "Klinieken"]
+cluster: "tools-uitleg"
 ---
 
 ChatGPT wordt steeds vaker gebruikt in de zorg. Maar wat kan het concreet voor jouw kliniek? En waar houdt het op?

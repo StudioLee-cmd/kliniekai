@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-kliniek.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 Patienten kiezen een kliniek steeds vaker online. Ze zoeken op Google, vergelijken reviews en bekijken foto's voordat ze bellen. Je Google Bedrijfsprofiel is daarmee je digitale wachtkamer — het eerste contact dat potentiele patienten met je kliniek hebben.

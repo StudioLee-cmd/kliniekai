@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-klinieken-ai-gebruiken-patientbeheer-marketing.png"
 tags: ["AI", "Automatisering", "Klinieken"]
+cluster: "ai-automatisering"
 ---
 
 Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én een efficiënte organisatie draaien. Wachttijden, no-shows, administratie, online zichtbaarheid — de operationele druk groeit. AI helpt klinieken beide uitdagingen aan te pakken.

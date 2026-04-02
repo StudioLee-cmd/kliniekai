@@ -5,6 +5,7 @@ date: "2026-02-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-zorg.png"
 tags: ["Bereikbaarheid", "Telefonie", "Patiëntservice"]
+cluster: ""
 ---
 
 In de moderne maatschappij verwachten patiënten directe bereikbaarheid. Maar u wilt 's avonds en in het weekend niet gestoord worden voor niet-dringende zaken. En tijdens spreekuren kan uw assistente niet altijd de telefoon opnemen omdat ze patiënten aan de balie helpt.

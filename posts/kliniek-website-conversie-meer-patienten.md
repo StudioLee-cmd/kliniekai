@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-website-conversie-meer-patienten.png"
 tags: ["Website", "Conversie", "Patiënten"]
+cluster: "website-conversie"
 ---
 
 Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Misschien 1 op de 100 — terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.

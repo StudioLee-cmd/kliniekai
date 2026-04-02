@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bereikbaarheid-kliniek.png"
 tags: ["bereikbaarheid", "kliniek", "patientcommunicatie"]
+cluster: "voice-ai"
 ---
 
 Een patient belt je kliniek. De lijn is bezet. Ze proberen het later opnieuw — opnieuw bezet. De derde keer bellen ze een concurrent. Dit scenario speelt zich dagelijks af bij klinieken die hun bereikbaarheid niet op orde hebben.
