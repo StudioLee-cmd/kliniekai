@@ -1,7 +1,7 @@
 ---
 title: "Social media strategie voor klinieken: expertise tonen"
 excerpt: "Bouw vertrouwen op via social media. Praktische strategie voor klinieken om expertise en resultaten professioneel te tonen."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-strategie-klinieken.png"
 tags: ["Social Media", "Marketing"]
