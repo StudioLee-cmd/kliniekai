@@ -17,7 +17,7 @@ Een actief wachtlijstsysteem doet twee dingen tegelijk. Het vermindert de impact
 
 Een reservelijst is passief: patiënten staan erop en hopen dat er iets vrijkomt. Een wachtlijst is actief: zodra een plek vrijvalt, krijgt de eerste geschikte patiënt automatisch een bericht.
 
-Moderne systemen koppelen de wachtlijst aan je agenda. Bij een annulering of no-show stuurt het systeem direct een WhatsApp-bericht naar patiënten die eerder terecht willen. Wie het eerst bevestigt, krijgt de plek.
+Moderne [systemen](/chatbot) koppelen de wachtlijst aan je agenda. Bij een annulering of no-show stuurt het systeem direct een WhatsApp-bericht naar patiënten die eerder terecht willen. Wie het eerst bevestigt, krijgt de plek.
 
 ## Automatische herinneringen combineren met wachtlijstbeheer
 
