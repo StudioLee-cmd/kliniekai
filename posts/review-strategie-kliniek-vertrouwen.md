@@ -27,7 +27,7 @@ Nooit druk uitoefenen. Een review is een gunst, geen verplichting.
 
 ## Automatisering met een menselijke touch
 
-Stuur reviewverzoeken automatisch, maar maak ze persoonlijk. Gebruik de naam van de behandelaar en verwijs naar het type afspraak — zonder medische details.
+Stuur [reviewverzoeken automatisch](/reviews), maar maak ze persoonlijk. Gebruik de naam van de behandelaar en verwijs naar het type afspraak — zonder medische details.
 
 "Beste [naam], bedankt voor uw bezoek bij [behandelaar]. Wij streven naar de beste zorg. Zou u uw ervaring willen delen? [link]"
 
