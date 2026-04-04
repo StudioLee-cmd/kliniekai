@@ -62,7 +62,7 @@ Combineer Google Reviews met ZorgkaartNederland voor maximaal bereik.
 
 De meeste klinieken investeren in advertenties maar verwaarlozen hun organische vindbaarheid. Dat biedt een kans: met structurele lokale SEO — regelmatige blogposts, actief Google Bedrijfsprofiel, review-automatisering — bouw je een voorsprong op die steeds moeilijker in te halen is.
 
-Bij [StudioLee](/tarieven) wordt dit volledige traject voor je gemanaged. Van [SEO-content](/seo) tot [review-management](/reviews) — jij besteedt er [15 minuten per maand](/gratis-scan) aan.
+Bij [StudioLee](/tarieven) wordt dit volledige traject voor je gemanaged. Van [SEO-content](/seo) tot [review-management](/reviews) — jij besteedt er [15 minuten per maand](/gratis-scan) aan. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
 
 ## Veelgestelde vragen
 
