@@ -44,6 +44,16 @@ Houd een digitale wachtlijst bij. Bij elke annulering of no-show stuurt het syst
 
 Wees transparant: "Bij herhaaldelijk niet verschijnen zonder afmelding behouden wij ons het recht voor een toeslag van €25 in rekening te brengen." Alleen al het communiceren van dit beleid vermindert no-shows.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als kliniek.
+
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 No-shows in je kliniek zijn geen onvermijdelijk kwaad. Met automatische WhatsApp-herinneringen, actieve bevestiging en wachtlijstmanagement draai je het probleem om en vul je elke behandelplek.
