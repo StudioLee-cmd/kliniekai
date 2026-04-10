@@ -25,7 +25,7 @@ De oplossing zit niet in meer telefoonlijnen of extra personeel. De oplossing zi
 
 ## Automatische opvolging: binnen 60 seconden
 
-Een AI-systeem detecteert elke gemiste oproep en stuurt de beller binnen 60 seconden een WhatsApp-bericht: "We zagen dat je belde. Onze lijn was bezet, excuses daarvoor. Waarmee kunnen we je helpen? Je kunt hier direct een afspraak inplannen: [link]."
+Een [AI-telefonist](/voice-ai) detecteert elke gemiste oproep en stuurt de beller binnen 60 seconden een WhatsApp-bericht: "We zagen dat je belde. Onze lijn was bezet, excuses daarvoor. Waarmee kunnen we je helpen? Je kunt hier direct een afspraak inplannen: [link]."
 
 Die ene zin verandert een gemiste kans in een actieve conversatie. De patient voelt zich gezien, kan direct actie ondernemen, en jouw assistente hoeft er niets voor te doen.
 
