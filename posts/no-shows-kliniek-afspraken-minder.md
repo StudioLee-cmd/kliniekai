@@ -2,11 +2,11 @@
 title: "No-shows in je kliniek verminderen: praktische aanpak"
 excerpt: "Gemiste afspraken kosten klinieken duizenden euro's per maand. Ontdek welke aanpak het beste werkt om no-shows structureel te verlagen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-afspraken-minder.jpg"
 tags: ["No-shows", "Kliniek", "Planning"]
 ---
-
 ## Lege behandelstoelen kosten geld
 
 Een patient die niet komt opdagen bezet een plek die een andere patient had kunnen gebruiken. Bij klinieken is dit extra problematisch omdat behandelingen vaak 30 tot 60 minuten duren en niet makkelijk op het laatste moment worden ingevuld. Een gemiddelde behandeling van 80 tot 200 euro die niet doorgaat, is direct verloren omzet.

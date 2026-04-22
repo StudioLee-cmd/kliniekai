@@ -2,11 +2,11 @@
 title: "Lokale vindbaarheid als kliniek: meer patiënten via Google"
 excerpt: "Hoe trek je als privékliniek meer patiënten aan via Google? Lokale SEO-strategieën die werken voor klinieken en zorgpraktijken."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-vindbaarheid-kliniek-meer-patienten.jpg"
 tags: ["SEO", "Vindbaarheid", "Kliniek"]
 ---
-
 ## De verschuiving naar online zoeken in de zorg
 
 Patiënten kiezen steeds vaker hun zorgverlener op basis van online informatie. Een privékliniek die niet vindbaar is op Google, mist een groot deel van potentiële patiënten. Vooral bij niet-spoedeisende zorg — cosmetische behandelingen, fysiotherapie, tandheelkunde — neemt de patiënt de tijd om te vergelijken.

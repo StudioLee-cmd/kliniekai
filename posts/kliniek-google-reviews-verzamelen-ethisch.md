@@ -2,11 +2,11 @@
 title: "Google reviews verzamelen als kliniek: ethisch en effectief"
 excerpt: "Reviews zijn cruciaal voor kliniek-vindbaarheid, maar privacy en ethiek vragen extra aandacht. Lees hoe je het zorgvuldig en effectief doet."
 date: "2026-04-08"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-google-reviews-verzamelen-ethisch.jpg"
 tags: ["Reviews", "Kliniek", "Patientcommunicatie"]
 ---
-
 ## Waarom reviews voor klinieken anders zijn
 
 Voor een kapper of een loodgieter is een review verzamelen relatief eenvoudig: vraag het direct na de behandeling, klant is blij, klant geeft een review. Voor een kliniek ligt het ingewikkelder. Patienten zijn kwetsbaar, behandelingen zijn persoonlijk, en privacy is een serieus thema. Een verkeerd reviewverzoek kan onhandig overkomen of, erger, in strijd zijn met richtlijnen.

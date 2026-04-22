@@ -2,11 +2,11 @@
 title: "Cosmetische kliniek vindbaar maken op Google: zo doe je dat"
 excerpt: "Patiënten zoeken online naar behandelingen in hun regio. Ontdek hoe je als cosmetische kliniek beter vindbaar wordt in Google en meer aanvragen krijgt."
 date: "2026-04-11"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/cosmetische-kliniek-vindbaar-google.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
 ---
-
 ## Waarom online vindbaarheid cruciaal is voor klinieken
 
 Een cosmetische behandeling is geen impulsaankoop. Patiënten doen weken tot maanden onderzoek voordat ze een kliniek kiezen. Ze lezen reviews, vergelijken prijzen, bekijken voor-en-na foto's en checken welke behandelaars gecertificeerd zijn. Dat onderzoek begint vrijwel altijd op Google.

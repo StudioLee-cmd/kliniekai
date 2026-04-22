@@ -2,11 +2,11 @@
 title: "Van intake tot afspraak: patiëntopvolging voor klinieken"
 excerpt: "Tussen de eerste aanvraag en de afspraak verlies je als kliniek de meeste patiënten. Zo automatiseer je de opvolging."
 date: "2026-04-15"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-opvolging-kliniek-intake-afspraak.jpg"
 tags: ["Patiënten", "Opvolging", "Automatisering"]
 ---
-
 Een patiënt vult het intakeformulier in op je website. Twee dagen later belt de assistente terug om een afspraak in te plannen. Voicemail. Ze probeert het de volgende dag opnieuw. Weer geen gehoor. Na drie pogingen verdwijnt het formulier in de stapel en de patiënt naar een andere kliniek.
 
 Dit scenario speelt zich dagelijks af bij klinieken door heel Nederland. Niet omdat de assistente haar werk niet doet, maar omdat handmatige opvolging simpelweg te langzaam is voor de verwachting van de moderne patiënt.

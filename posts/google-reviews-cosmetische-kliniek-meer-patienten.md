@@ -2,11 +2,11 @@
 title: "Google reviews als kliniek: meer patiënten via vertrouwen"
 excerpt: "Patiënten kiezen een cosmetische kliniek op basis van reviews. Ontdek hoe je meer reviews verzamelt en je reputatie versterkt."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-cosmetische-kliniek-meer-patienten.jpg"
 tags: ["Reviews", "Vindbaarheid", "Groei"]
 ---
-
 ## Reviews zijn de beslisfactor bij cosmetische behandelingen
 
 Bij een cosmetische ingreep staat er meer op het spel dan bij een kapperbezoek. Patiënten laten iets aan hun gezicht of lichaam doen. Ze willen 100 procent zeker zijn dat ze bij de juiste kliniek zitten. Reviews zijn het sterkste bewijs dat je kunt leveren.

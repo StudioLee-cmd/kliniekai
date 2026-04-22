@@ -2,11 +2,11 @@
 title: "Leads opvolgen als kliniek: van aanvraag naar patient"
 excerpt: "Veel klinieken verliezen potentiele patienten door trage opvolging. Leer hoe je aanvragen sneller omzet naar afspraken."
 date: "2026-04-07"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-kliniek-meer-patienten.jpg"
 tags: ["Leads", "Kliniek", "Patientwerving"]
 ---
-
 ## De onzichtbare patienten die je kwijtraakt
 
 Een potentiele patient bezoekt je website om 21:00 uur. Ze bekijkt de behandelpagina, leest de reviews, en vult het contactformulier in met een vraag over een consult. De volgende ochtend om 09:00 opent de assistente de inbox. Het formulier wordt gelezen, maar er zijn eerst 15 telefoontjes af te handelen. Om 11:30 stuurt ze een antwoord.

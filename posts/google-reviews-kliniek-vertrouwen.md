@@ -2,11 +2,11 @@
 title: "Google reviews voor je kliniek: zo bouw je vertrouwen op"
 excerpt: "Patiënten kiezen een kliniek op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt."
 date: "2026-04-17"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-kliniek-vertrouwen.jpg"
 tags: ["Reviews", "Vertrouwen", "Google"]
 ---
-
 ## Waarom reviews voor klinieken extra belangrijk zijn
 
 Bij een kliniek staat er meer op het spel dan bij de gemiddelde dienstverlener. Patienten vertrouwen hun gezondheid of uiterlijk toe aan je team. Die beslissing wordt sterk beinvloed door wat andere patienten schrijven. Een kliniek met 4,8 sterren en 50 reviews wekt fundamenteel meer vertrouwen dan een kliniek met 3 reviews, hoe goed die ook zijn.

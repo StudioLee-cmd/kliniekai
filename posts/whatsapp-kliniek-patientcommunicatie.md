@@ -2,11 +2,11 @@
 title: "WhatsApp voor je kliniek: snellere patiëntcommunicatie in 2026"
 excerpt: "Patiënten willen snel en makkelijk communiceren. WhatsApp maakt dat mogelijk zonder extra druk op je balie."
 date: "2026-04-05"
+cluster: "sms-whatsapp"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-kliniek-patientcommunicatie.jpg"
 tags: ["WhatsApp", "Kliniek", "Communicatie"]
 ---
-
 ## De telefoon die niet stopt met rinkelen
 
 Je balie-assistent neemt de hele dag telefoons aan. Afspraken maken, verzetten, annuleren, vragen over openingstijden, vragen over resultaten. Elke oproep duurt 3-5 minuten. Bij 60 telefoontjes per dag is dat 4-5 uur aan de telefoon.

@@ -2,11 +2,11 @@
 title: "Annuleringsbeleid communiceren als kliniek: duidelijke afspraken die no-shows verlagen"
 excerpt: "Een helder annuleringsbeleid verlaagt no-shows in je kliniek zonder patienten af te schrikken. Zo communiceer je het professioneel."
 date: "2026-04-10"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annuleringsbeleid-kliniek-duidelijke-afspraken.jpg"
 tags: ["No-shows", "Kliniek", "Beleid"]
 ---
-
 ## Waarom communicatie het verschil maakt
 
 De meeste klinieken hebben een annuleringsbeleid. Het staat ergens op de website, in de kleine lettertjes van het intakeformulier, misschien in de algemene voorwaarden. Maar patienten weten het niet. Ze hebben het nooit gelezen, het is ze nooit verteld, en wanneer ze niet komen opdagen zijn ze oprecht verbaasd dat er consequenties zijn.

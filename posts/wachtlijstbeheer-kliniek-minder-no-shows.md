@@ -2,11 +2,11 @@
 title: "Wachtlijstbeheer in je kliniek: minder no-shows"
 excerpt: "Slim wachtlijstbeheer vermindert no-shows en vult geannuleerde plekken direct op. Ontdek hoe je als kliniek je planning maximaliseert zonder extra administratie."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijstbeheer-kliniek-minder-no-shows.jpg"
 tags: ["No-shows", "Wachtlijstbeheer", "Kliniek", "Planning"]
 ---
-
 ## Waarom wachtlijstbeheer de sleutel is tot minder no-shows
 
 Elke kliniek kent het probleem: een patiënt belt af op het laatste moment en het tijdslot blijft leeg. Tegelijkertijd staan er patiënten te wachten op een eerdere afspraak. Het verbinden van die twee groepen — dat is wachtlijstbeheer.

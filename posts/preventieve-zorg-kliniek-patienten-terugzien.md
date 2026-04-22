@@ -2,11 +2,11 @@
 title: "Preventieve zorg promoten: zo komen patienten vaker terug"
 excerpt: "Patienten komen pas als er klachten zijn. Met preventieve zorg bouw je een terugkerend bezoekpatroon op. Ontdek hoe je dit als kliniek slim aanpakt."
 date: "2026-04-14"
+cluster: "preventieve-zorg"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek-patienten-terugzien.jpg"
 tags: ["Preventieve Zorg", "Patientenbinding", "Kliniek Tips"]
 ---
-
 ## De meeste patienten komen te laat
 
 Huisartsen en klinieken kennen het patroon: een patient belt pas als de klachten niet meer te negeren zijn. De bloeddruk die al maanden te hoog is, de huidvlek die er al een half jaar zit, de rugklachten die steeds erger worden. Vroeg ingrijpen had het verschil gemaakt, maar de patient wachtte tot het niet anders kon.

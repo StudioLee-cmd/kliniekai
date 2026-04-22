@@ -2,11 +2,11 @@
 title: "Review strategie voor klinieken: vertrouwen opbouwen"
 excerpt: "Patiënten kiezen een kliniek op basis van reviews. Ontdek hoe je met een professionele review strategie meer beoordelingen verzamelt en vertrouwen opbouwt."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-kliniek-vertrouwen.jpg"
 tags: ["Reviews", "Review strategie", "Kliniek", "Patiëntvertrouwen"]
 ---
-
 ## Waarom reviews voor klinieken anders werken
 
 Bij een kapper is een review laagdrempelig. Bij een kliniek ligt het gevoeliger — patiënten delen niet graag dat ze een behandeling hebben ondergaan. Toch zijn reviews cruciaal. Nieuwe patiënten lezen ze aandachtig en baseren hun keuze erop.

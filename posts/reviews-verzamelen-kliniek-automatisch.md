@@ -2,11 +2,11 @@
 title: "Reviews verzamelen voor je kliniek: automatisch en AVG-proof"
 excerpt: "Klinieken met sterke Google reviews trekken meer patiënten aan. Leer hoe je reviews automatisch verzamelt binnen de grenzen van de AVG."
 date: "2026-04-06"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-kliniek-automatisch.jpg"
 tags: ["Reviews", "Kliniek", "AVG"]
 ---
-
 ## Waarom reviews cruciaal zijn voor klinieken
 
 Patiënten kiezen hun zorgverlener steeds vaker op basis van online reviews. ZorgkaartNederland, Google Reviews en Trustpilot zijn de nieuwe mond-tot-mondreclame. Een kliniek met 50 positieve reviews en een 4,7 gemiddelde trekt structureel meer nieuwe patiënten dan een kliniek zonder online aanwezigheid.

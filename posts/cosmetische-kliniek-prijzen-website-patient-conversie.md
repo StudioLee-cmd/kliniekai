@@ -2,11 +2,11 @@
 title: "Cosmetische kliniek prijzen op website: wel of niet tonen?"
 excerpt: "De echte afweging voor cosmetische klinieken: wel of geen prijzen op je website tonen? Met cijfers over conversie, leadkwaliteit en welke hybride aanpak bewezen werkt."
 date: "2026-04-22"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/cosmetische-kliniek-prijzen-website-patient-conversie.jpg"
 tags: ["Kliniek", "Prijzen", "Website", "Conversie"]
 ---
-
 De eigenaars van cosmetische klinieken zitten op een schijnbaar onmogelijke keuze. Prijzen op de website tonen lijkt transparant en professioneel, maar trekt ook prijsshoppers en voegt concurrentiedruk toe. Prijzen verbergen achter een "consult aanvragen"-formulier beschermt tegen bodemprijs-discussies, maar jaagt ook bezoekers weg die gewoon willen weten of jouw behandeling in hun budget past.
 
 Er is geen universeel juist antwoord op deze vraag. Wat wel bestaat is een hybride aanpak die in praktijk 20 tot 35 procent meer gekwalificeerde consultaanvragen oplevert dan beide extremen. In deze gids staat hoe je die aanpak inricht, met concrete cijfers over welke prijs-informatie wat doet met je bezoeker-naar-consult-ratio.

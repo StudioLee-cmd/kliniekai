@@ -2,11 +2,11 @@
 title: "Patiëntcommunicatie automatiseren in je kliniek: beter contact, minder werkdruk"
 excerpt: "Baliemedewerkers besteden uren per dag aan telefoon en herinneringen. Automatisering geeft hen die tijd terug zonder patiënttevredenheid te verliezen."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-automatisering-patientcommunicatie.jpg"
 tags: ["Automatisering", "Kliniek", "Patiëntcommunicatie"]
 ---
-
 ## De balie als flessenhals
 
 In de meeste klinieken is de balie het drukste punt. Telefoons die rinkelen, patiënten die inchecken, afspraken die verzet moeten worden, herinneringen die verstuurd moeten worden. Baliemedewerkers jongleren met tien taken tegelijk, en de wachtrij groeit.

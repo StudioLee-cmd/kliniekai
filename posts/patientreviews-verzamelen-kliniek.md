@@ -2,11 +2,11 @@
 title: "Patiëntreviews verzamelen als kliniek: zo doe je het"
 excerpt: "Patiënten lezen reviews voordat ze een kliniek kiezen. Leer hoe je als kliniek structureel meer positieve Google Reviews verzamelt zonder opdringerig te zijn."
 date: "2026-04-19"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-verzamelen-kliniek.jpg"
 tags: ["Reviews", "Groei", "Tips"]
 ---
-
 ## Waarom patiëntreviews alles bepalen
 
 Een patiënt die zoekt op "kliniek [stad]" of "huidkliniek behandeling" kijkt eerst naar de sterren. Een kliniek met 4,8 sterren en 120 reviews wint het van een kliniek met 4,2 en 15 reviews. Dat is geen gevoel, dat is hoe Google werkt.

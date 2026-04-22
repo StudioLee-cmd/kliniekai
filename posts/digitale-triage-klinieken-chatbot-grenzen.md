@@ -2,11 +2,11 @@
 title: "Digitale triage klinieken: waar chatbots wel en niet werken"
 excerpt: "Digitale triage in je kliniek: welke patiëntvragen een chatbot veilig kan afhandelen, en welke altijd naar een mens moeten — plus hoe je dat grens trekt."
 date: "2026-04-21"
+cluster: "digitale-triage"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-klinieken-chatbot-grenzen.jpg"
 tags: ["Kliniek", "Chatbot", "Digitale triage", "Patiëntcommunicatie"]
 ---
-
 Elke privékliniek bespreekt vroeg of laat de vraag: moeten we een chatbot inzetten om patiëntvragen op te vangen? Het antwoord is vrijwel altijd ja — maar alleen met een duidelijke grens tussen wat de chatbot doet en wat altijd een mens moet blijven. Die grens noemen we digitale triage: het vooraf beoordelen of een vraag standaard genoeg is om automatisch beantwoord te worden, of dat er een medewerker of behandelaar aan te pas moet komen.
 
 Deze gids behandelt die grens concreet. Welke tien typen patiëntvragen een chatbot prima kan afhandelen, welke acht typen altijd naar een mens moeten, hoe je de overgang elegant regelt zonder dat de patiënt het gevoel krijgt ergens in een wachtrij te hangen, en welke juridische en kwalitatieve kaders in Nederland gelden voor medische triage via een bot.

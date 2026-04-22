@@ -2,11 +2,11 @@
 title: "5-minutenregel kliniek: zo win je leads voor de concurrent belt"
 excerpt: "Leads die binnen 5 minuten een reactie krijgen, converteren 21x vaker. Zo bouw je als kliniek een opvolgsysteem dat patiënten binnenhaalt voordat de concurrent belt."
 date: "2026-04-16"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/5-minutenregel-kliniek-leadopvolging-snelheid.jpg"
 tags: ["Kliniek", "Lead opvolging", "AI"]
 ---
-
 ## Wat is de 5-minutenregel (en waarom is het voor klinieken zo hard)
 
 Een vrouw in Hilversum overweegt een botox-behandeling. Het is 21:43, ze scrollt op haar bank door Instagram, ziet een resultaat dat haar aanspreekt en vult een contactformulier in op de website van een lokale kliniek. Klikt op verzenden, scrollt verder, vult een tweede formulier in op een andere kliniek, dan een derde. Twintig minuten later sluit ze haar laptop en gaat slapen. De volgende ochtend heeft ze al gekozen welke kliniek haar het meeste vertrouwen geeft. De keuze hangt voor 60 procent af van wie het eerst, het meest persoonlijk en het meest deskundig heeft gereageerd.
