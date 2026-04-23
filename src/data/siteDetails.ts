@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Klinieken',
     siteUrl: 'https://www.kliniekai.nl/',
     metadata: {
-        title: 'KliniekAI - De slimme assistent voor jouw medische kliniek',
+        title: 'KliniekAI - AI voor jouw medische kliniek',
         description: 'Bespaar zeeën van tijd en focus op patiëntenzorg. KliniekAI regelt je afspraken, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-NL',
