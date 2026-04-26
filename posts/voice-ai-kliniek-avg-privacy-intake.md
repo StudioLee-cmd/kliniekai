@@ -1,6 +1,6 @@
 ---
 title: "Voice AI voor klinieken: AVG en privacy"
-excerpt: "Een AI telefonist voor een private kliniek moet patiëntinfo veilig en AVG-conform behandelen. Dit is hoe je dat inricht zonder omzet of vertrouwen te verliezen."
+excerpt: "Een AI telefonist voor een private kliniek moet patiëntinfo veilig en AVG-conform behandelen. Zo richt je dat in zonder vertrouwen te verliezen."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-kliniek-avg-privacy-intake.jpg"
