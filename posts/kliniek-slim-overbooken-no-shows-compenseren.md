@@ -1,5 +1,5 @@
 ---
-title: "Slim overbooken in je kliniek: no-shows compenseren zonder dubbele afspraken"
+title: "Slim overbooken kliniek: no-shows compenseren in 2026"
 slug: kliniek-slim-overbooken-no-shows-compenseren
 date: "2026-05-01"
 excerpt: "Klinieken die overbooken halen 12-18% meer omzet zonder extra personeel. Het slimme model: hoe doe je het zonder boze patiënten of dubbele afspraken?"
