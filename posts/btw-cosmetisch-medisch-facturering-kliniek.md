@@ -6,7 +6,7 @@ excerpt: "Medisch noodzakelijk is BTW-vrij, cosmetisch 21 procent BTW. Splitsing
 image: "/images/blog/btw-cosmetisch-medisch-facturering-kliniek.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Prijzen", "BTW", "Administratie", "Facturering", "Kliniek"]
-cluster: "prijzen-communiceren"
+cluster: "automatisering"
 ---
 
 **In het kort:**

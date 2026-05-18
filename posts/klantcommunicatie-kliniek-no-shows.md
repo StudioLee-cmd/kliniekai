@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-kliniek-no-shows.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["communicatie", "kliniek", "no-shows"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Wat no-shows je kliniek kosten

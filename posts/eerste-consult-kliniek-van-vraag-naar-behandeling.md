@@ -2,7 +2,7 @@
 title: "Eerste consult in de kliniek: van vraag naar behandeling"
 excerpt: "Het eerste consult bepaalt of een patiënt boekt. Ontdek hoe je als cosmetische kliniek van een intake een behandelplan maakt."
 date: "2026-04-12"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eerste-consult-kliniek-van-vraag-naar-behandeling.jpg"
 tags: ["Leads", "Conversie", "Groei"]

@@ -2,7 +2,7 @@
 title: "Review strategie voor klinieken: vertrouwen opbouwen"
 excerpt: "Patiënten kiezen een kliniek op basis van reviews. Ontdek hoe je met een professionele review strategie meer beoordelingen verzamelt en vertrouwen opbouwt."
 date: "2026-04-03"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-kliniek-vertrouwen.jpg"
 tags: ["Reviews", "Review strategie", "Kliniek", "Patiëntvertrouwen"]

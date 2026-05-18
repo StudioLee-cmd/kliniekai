@@ -2,7 +2,7 @@
 title: "Digitale pre-screening voor cosmetische klinieken: 7 vragen vóór de intake"
 excerpt: "Pre-screening voor de eerste afspraak filtert ongeschikte aanvragen, beschermt je behandeltijd en verhoogt intake-conversie met 25-40%. Zo zet je het op."
 date: "2026-04-25"
-cluster: "digitale-triage"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-pre-screening-cosmetische-kliniek-intake-vragen.jpg"
 tags: ["Cosmetische kliniek", "Digitale triage", "Pre-screening", "Intake"]

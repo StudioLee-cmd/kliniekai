@@ -5,7 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-reduceren.jpg"
 tags: ["No-shows", "Praktijkmanagement", "Groei"]
-cluster: "no-shows"
+cluster: "automatisering"
 ---
 
 ## De impact van no-shows op medische klinieken

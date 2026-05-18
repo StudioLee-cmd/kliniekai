@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kliniek-patientcontact.png"
 tags: ["E-mail", "Marketing", "Patiëntbehoud"]
-cluster: "email-marketing"
+cluster: "automatisering"
 ---
 
 ## Waarom e-mail werkt voor klinieken

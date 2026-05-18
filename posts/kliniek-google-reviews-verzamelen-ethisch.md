@@ -2,7 +2,7 @@
 title: "Google reviews verzamelen als kliniek: ethisch en effectief"
 excerpt: "Reviews zijn cruciaal voor kliniek-vindbaarheid, maar privacy en ethiek vragen extra aandacht. Lees hoe je het zorgvuldig en effectief doet."
 date: "2026-04-08"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-google-reviews-verzamelen-ethisch.jpg"
 tags: ["Reviews", "Kliniek", "Patientcommunicatie"]

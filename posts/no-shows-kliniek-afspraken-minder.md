@@ -2,7 +2,7 @@
 title: "No-shows in je kliniek verminderen: praktische aanpak"
 excerpt: "Gemiste afspraken kosten klinieken duizenden euro's per maand. Ontdek welke aanpak het beste werkt om no-shows structureel te verlagen."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-afspraken-minder.jpg"
 tags: ["No-shows", "Kliniek", "Planning"]

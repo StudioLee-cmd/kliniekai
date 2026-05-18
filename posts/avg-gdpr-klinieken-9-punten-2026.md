@@ -6,7 +6,7 @@ excerpt: "AVG voor klinieken in 2026: 9 concrete punten die elke kliniek-eigenaa
 image: "/images/blog/avg-gdpr-klinieken-9-punten-2026.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["AVG", "GDPR", "Privacy", "AI Automatisering"]
-cluster: "ai-automatisering"
+cluster: "automatisering"
 ---
 
 **In het kort:**

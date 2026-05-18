@@ -2,7 +2,7 @@
 title: "Patiëntreviews verzamelen als kliniek: zo doe je het"
 excerpt: "Patiënten lezen reviews voordat ze een kliniek kiezen. Leer hoe je als kliniek structureel meer positieve Google Reviews verzamelt zonder opdringerig te zijn."
 date: "2026-04-19"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-verzamelen-kliniek.jpg"
 tags: ["Reviews", "Groei", "Tips"]

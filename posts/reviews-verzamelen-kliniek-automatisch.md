@@ -2,7 +2,7 @@
 title: "Reviews verzamelen voor je kliniek: automatisch en AVG-proof"
 excerpt: "Klinieken met sterke Google reviews trekken meer patiënten aan. Leer hoe je reviews automatisch verzamelt binnen de grenzen van de AVG."
 date: "2026-04-06"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-kliniek-automatisch.jpg"
 tags: ["Reviews", "Kliniek", "AVG"]

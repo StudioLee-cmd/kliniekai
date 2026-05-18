@@ -5,7 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeleving-verbeteren-kliniek.png"
 tags: ["Kliniek", "Patientbeleving", "Klantreis"]
-cluster: "patientbeleving"
+cluster: "automatisering"
 ---
 
 ## Patientbeleving begint niet bij de behandeling

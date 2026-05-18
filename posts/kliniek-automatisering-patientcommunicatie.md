@@ -2,7 +2,7 @@
 title: "Patiëntcommunicatie automatiseren in je kliniek: beter contact, minder werkdruk"
 excerpt: "Baliemedewerkers besteden uren per dag aan telefoon en herinneringen. Automatisering geeft hen die tijd terug zonder patiënttevredenheid te verliezen."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-automatisering-patientcommunicatie.jpg"
 tags: ["Automatisering", "Kliniek", "Patiëntcommunicatie"]

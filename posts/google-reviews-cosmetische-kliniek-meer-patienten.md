@@ -2,7 +2,7 @@
 title: "Google reviews als kliniek: meer patiënten via vertrouwen"
 excerpt: "Patiënten kiezen een cosmetische kliniek op basis van reviews. Ontdek hoe je meer reviews verzamelt en je reputatie versterkt."
 date: "2026-04-12"
-cluster: "vindbaarheid"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-cosmetische-kliniek-meer-patienten.jpg"
 tags: ["Reviews", "Vindbaarheid", "Groei"]

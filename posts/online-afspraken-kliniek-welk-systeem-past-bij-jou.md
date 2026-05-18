@@ -6,7 +6,7 @@ excerpt: "5 online-afspraak-systemen voor klinieken vergeleken: Treatwell, Simpl
 image: "/images/blog/online-afspraken-kliniek-welk-systeem-past-bij-jou.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Software-vergelijking", "Online-afspraken", "Booking", "Kliniek"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 **In het kort:**

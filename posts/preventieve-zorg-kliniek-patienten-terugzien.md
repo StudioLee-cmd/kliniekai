@@ -2,7 +2,7 @@
 title: "Preventieve zorg promoten: zo komen patienten vaker terug"
 excerpt: "Patienten komen pas als er klachten zijn. Met preventieve zorg bouw je een terugkerend bezoekpatroon op. Ontdek hoe je dit als kliniek slim aanpakt."
 date: "2026-04-14"
-cluster: "preventieve-zorg"
+cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek-patienten-terugzien.jpg"
 tags: ["Preventieve Zorg", "Patientenbinding", "Kliniek Tips"]

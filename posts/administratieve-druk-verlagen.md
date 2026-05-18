@@ -5,7 +5,7 @@ date: "2026-01-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratieve-druk-verlagen.png"
 tags: ["Administratie", "Werkdruk", "Zorginnovatie"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 De regeldruk in de zorg is enorm. Dossieropbouw, declaraties, verwijsbrieven; het snoept allemaal tijd af van waar het echt om gaat: het contact met de patiënt. Veel zorgverleners nemen administratie mee naar huis en werken in de avonduren door.

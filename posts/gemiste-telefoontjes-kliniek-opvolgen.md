@@ -2,7 +2,7 @@
 title: "Gemiste telefoontjes opvolgen als kliniek: geen potentiele patient verliezen"
 excerpt: "Elke gemiste oproep is een potentiele patient die je kwijtraakt. Zo vang je gemiste telefoontjes op en zet je ze om naar afspraken."
 date: "2026-04-09"
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-telefoontjes-kliniek-opvolgen.jpg"
 tags: ["Lead opvolging", "Kliniek", "Bereikbaarheid"]

@@ -2,7 +2,7 @@
 title: "No-shows verminderen in je kliniek: automatische oplossingen die werken"
 excerpt: "Gemiste afspraken kosten je kliniek duizenden euro's per jaar. Automatische herinneringen verminderen no-shows met 50-70%."
 date: "2026-04-05"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-kliniek.jpg"
 tags: ["No-shows", "Kliniek", "Automatisering"]

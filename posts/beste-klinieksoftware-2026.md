@@ -5,7 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-klinieksoftware-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 Of je nu een cosmetische kliniek, huidtherapiepraktijk of medisch centrum runt — zonder goede software raak je het overzicht kwijt. Van afspraken en dossiers tot marketing en reviews: de juiste tools bepalen hoe professioneel én zichtbaar jouw kliniek is.

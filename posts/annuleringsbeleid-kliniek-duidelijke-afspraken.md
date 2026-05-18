@@ -2,7 +2,7 @@
 title: "Annuleringsbeleid communiceren als kliniek: duidelijke afspraken die no-shows verlagen"
 excerpt: "Een helder annuleringsbeleid verlaagt no-shows in je kliniek zonder patienten af te schrikken. Zo communiceer je het professioneel."
 date: "2026-04-10"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annuleringsbeleid-kliniek-duidelijke-afspraken.jpg"
 tags: ["No-shows", "Kliniek", "Beleid"]

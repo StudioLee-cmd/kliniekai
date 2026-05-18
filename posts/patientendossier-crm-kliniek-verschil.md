@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientendossier-crm-kliniek-verschil.jpg"
 tags: ["CRM", "Patiëntdossier", "Kliniek Operatie"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## In het kort

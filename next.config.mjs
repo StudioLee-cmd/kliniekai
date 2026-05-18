@@ -10,6 +10,14 @@ const nextConfig = {
             { source: '/reviews-voor-:suffix', destination: '/reviews', permanent: true },
             { source: '/seo-voor-:suffix', destination: '/seo', permanent: true },
             { source: '/social-media-voor-:suffix', destination: '/social-media', permanent: true },
+                    { source: '/blog/cosmetische-behandelingen-mannen-35-plus-doelgroep-specialisme', destination: '/', permanent: true },
+            { source: '/blog/tatoeage-verwijdering-laser-kliniek-traject-specialisme', destination: '/', permanent: true },
+            { source: '/blog/skin-booster-peeling-kliniek-specialisme-toevoegen', destination: '/', permanent: true },
+            { source: '/blog/haartransplantatie-haarverlies-behandeling-kliniek-specialisme', destination: '/', permanent: true },
+            { source: '/blog/permanente-make-up-pmu-toevoegen-kliniek', destination: '/', permanent: true },
+            { source: '/blog/acne-littekenherstel-kliniek-specialisme', destination: '/', permanent: true },
+            { source: '/blog/laserontharing-groei-segment-kliniek-2026', destination: '/', permanent: true },
+            { source: '/blog/robot-arts-priveeklinieken', destination: '/', permanent: true },
         ];
     },
 };

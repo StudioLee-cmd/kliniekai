@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-prijzen-op-website-wel-of-niet.jpg"
 tags: ["Prijzen", "Website", "Kliniek"]
-cluster: "prijzen-communiceren"
+cluster: "website"
 ---
 
 Kliniek-eigenaren lopen al jaren tegen dezelfde vraag aan: zet je wél of níet prijzen op je website? Transparant zijn trekt gekwalificeerde leads, maar je geeft concurrentie makkelijk inzicht. Alles verbergen wekt wantrouwen bij goed geïnformeerde patiënten, maar je houdt wel controle in het intakegesprek.

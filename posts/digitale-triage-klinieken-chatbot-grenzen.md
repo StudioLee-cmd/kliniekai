@@ -2,7 +2,7 @@
 title: "Digitale triage klinieken: waar chatbots wel en niet werken"
 excerpt: "Digitale triage in je kliniek: welke patiëntvragen een chatbot veilig kan afhandelen, en welke altijd naar een mens moeten — plus hoe je dat grens trekt."
 date: "2026-04-21"
-cluster: "digitale-triage"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-klinieken-chatbot-grenzen.jpg"
 tags: ["Kliniek", "Chatbot", "Digitale triage", "Patiëntcommunicatie"]

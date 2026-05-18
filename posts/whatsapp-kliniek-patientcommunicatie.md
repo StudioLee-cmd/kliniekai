@@ -2,7 +2,7 @@
 title: "WhatsApp voor je kliniek: snellere patiëntcommunicatie in 2026"
 excerpt: "Patiënten willen snel en makkelijk communiceren. WhatsApp maakt dat mogelijk zonder extra druk op je balie."
 date: "2026-04-05"
-cluster: "sms-whatsapp"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-kliniek-patientcommunicatie.jpg"
 tags: ["WhatsApp", "Kliniek", "Communicatie"]

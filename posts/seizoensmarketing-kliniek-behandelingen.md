@@ -7,7 +7,7 @@ image: "/images/blog/seizoensmarketing-kliniek-behandelingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["seizoenswerk", "kliniek", "behandelingen"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 ## Waarom seizoenen je behandelaanbod bepalen

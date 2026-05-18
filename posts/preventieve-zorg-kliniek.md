@@ -5,7 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek.png"
 tags: ["preventieve zorg", "kliniek", "patiëntbinding"]
-cluster: "preventieve-zorg"
+cluster: "branding"
 ---
 
 De meeste klinieken richten zich op behandelen: patiënten komen met een klacht, je lost het op, en ze vertrekken. Maar de klinieken die investeren in preventieve zorg, bouwen een veel sterkere band met hun patiënten — en een stabieler verdienmodel.

@@ -2,7 +2,7 @@
 title: "Van intake tot afspraak: patiëntopvolging voor klinieken"
 excerpt: "Tussen de eerste aanvraag en de afspraak verlies je als kliniek de meeste patiënten. Zo automatiseer je de opvolging."
 date: "2026-04-15"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-opvolging-kliniek-intake-afspraak.jpg"
 tags: ["Patiënten", "Opvolging", "Automatisering"]

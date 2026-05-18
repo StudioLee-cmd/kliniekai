@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen voor je kliniek: zo halveer je no-shows"
 excerpt: "Automatische herinneringen via WhatsApp verminderen no-shows met 40 tot 60 procent. Zo stel je het in voor je kliniek."
 date: "2026-04-18"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-kliniek-minder-no-shows.jpg"
 tags: ["Herinneringen", "No-shows", "Automatisering"]

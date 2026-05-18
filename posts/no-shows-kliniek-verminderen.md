@@ -5,7 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-verminderen.png"
 tags: ["Kliniek", "No-shows", "Patiëntbeheer"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## Wat no-shows je kliniek écht kosten
