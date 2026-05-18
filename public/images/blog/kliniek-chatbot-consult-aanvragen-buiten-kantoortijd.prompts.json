@@ -1,0 +1,25 @@
+{
+  "slug": "kliniek-chatbot-consult-aanvragen-buiten-kantoortijd",
+  "supporting": {
+    "model": "gpt-image-2-text-to-image",
+    "cost": "$0.03",
+    "task_id": "aeaf0edf284bfb4eb1a7aae2051c1ddd",
+    "aspect_ratio": "1:1",
+    "resolution": "1K",
+    "output_url": "https://tempfile.aiquickdraw.com/images/chatgpt/file_00000000f4c471f6b34742a4fbc7495b.png",
+    "prompt": "Photographic close-up of a premium medical/cosmetic clinic reception detail in soft afternoon daylight from tall linen-curtained windows. On a polished white marble counter with brushed-brass trim: a glass vase with three white peonies, a folded dark-navy linen towel, a leather appointment portfolio half open with a gold pen resting on a small leather pen-holder (no readable writing, just abstract pencil marks), a clear glass of water on a round leather coaster, and a matte-black smartphone propped at a slight angle against a small white ceramic dish, screen showing soft cream wallpaper (no readable text, no UI). Background slightly blurred: a soft cream wall with a gold-framed minimalist abstract painting, and a small velvet armchair just visible at the edge. Photographic realism, premium minimalist clinic atmosphere, warm muted palette (cream, marble white, brushed brass, navy linen, gold accent). No people, no faces, no logos, no readable text anywhere."
+  },
+  "hero": {
+    "model": "nano-banana-2",
+    "cost": "$0.04",
+    "task_id": "8e888e425d40d79f6fe3433a11f1ca8c",
+    "aspect_ratio": "16:9",
+    "resolution": "1K",
+    "output_format": "jpg",
+    "image_input": "[supporting URL]",
+    "output_url": "https://tempfile.aiquickdraw.com/na2/8e888e425d40d79f6fe3433a11f1ca8c1364625.jpeg",
+    "prompt": "Wide cinematic 16:9 photo of the same premium clinic reception scene from the reference image, soft late-afternoon daylight from a tall linen-curtained window. In the foreground, a woman's hand (no face visible, only fingers and forearm in a fitted white shirt cuff with a small silver-watch glimpse) lifting the SAME gold pen from the SAME open leather appointment portfolio, the SAME page with abstract pencil lines visible. The SAME polished white marble counter with brushed-brass trim. To the right of the portfolio: the SAME matte-black smartphone propped at a slight angle against the SAME small white ceramic dish, screen now showing soft cream wallpaper with two pale-grey abstract speech-bubble shapes (no readable text, no UI elements). The SAME glass of water on the SAME round leather coaster. The SAME folded dark-navy linen towel. The SAME glass vase of three white peonies. Background slightly blurred: the SAME cream wall with gold-framed minimalist abstract painting and the SAME navy velvet armchair just visible at the edge. Photographic realism, NO face, NO logos, NO readable text or screen UI, single coherent premium clinic scene matching the reference image lighting, palette and anchor objects. Action conveys 'starting a consultation note': pen lifted from portfolio, page open."
+  },
+  "total_cost": "$0.07",
+  "date": "2026-05-18"
+}
