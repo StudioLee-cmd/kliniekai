@@ -6,7 +6,7 @@ excerpt: "Klinieken die overbooken halen 12-18% meer omzet zonder extra personee
 image: "/images/blog/kliniek-slim-overbooken-no-shows-compenseren.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["No-shows", "Overbooking", "Capaciteit", "Planning", "Kliniekvoering"]
-cluster: "no-shows"
+cluster: "automatisering"
 ---
 
 Klinieken die geen no-show-strategie hebben, draaien gemiddeld 8 tot 14 procent verlies aan onbenutte agenda-slots — €40.000 tot €120.000 per jaar voor een gemiddelde Nederlandse kliniek. De meest gebruikte oplossing is herinneringen verbeteren: SMS, WhatsApp, telefoontje vooraf. Die helpen — maar bereiken in de praktijk een plafond van 60 tot 75 procent reductie. De resterende no-shows blijven hangen.
