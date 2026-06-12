@@ -1,5 +1,6 @@
 ---
 title: "Branding als kliniek: zo bouw je een herkenbaar en betrouwbaar merk"
+seoTitle: "Branding als kliniek"
 excerpt: "Een sterke merkidentiteit onderscheidt je kliniek van de concurrentie. Ontdek hoe branding meer patiënten aantrekt en vertrouwen opbouwt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

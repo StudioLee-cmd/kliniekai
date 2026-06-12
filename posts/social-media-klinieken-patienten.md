@@ -1,5 +1,6 @@
 ---
 title: "Social media voor klinieken: meer patiënten bereiken via online marketing"
+seoTitle: "Social media voor klinieken"
 excerpt: "Ontdek hoe klinieken social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor klinieken in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

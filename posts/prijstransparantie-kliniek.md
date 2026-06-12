@@ -1,5 +1,6 @@
 ---
 title: "Prijstransparantie als kliniek: waarom heldere tarieven meer patienten opleveren"
+seoTitle: "Prijstransparantie als kliniek"
 excerpt: "Klinieken die transparant zijn over prijzen, trekken meer en betere patienten. Leer hoe je tarieven communiceert zonder commercieel over te komen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

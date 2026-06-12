@@ -1,5 +1,6 @@
 ---
 title: "No-shows verminderen in je kliniek: automatische oplossingen die werken"
+seoTitle: "No-shows verminderen in je kliniek"
 excerpt: "Gemiste afspraken kosten je kliniek duizenden euro's per jaar. Automatische herinneringen verminderen no-shows met 50-70%."
 date: "2026-04-05"
 cluster: "automatisering"

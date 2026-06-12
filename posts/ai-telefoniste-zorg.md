@@ -1,5 +1,6 @@
 ---
 title: "De Assistent die Nooit Pauze Heeft: 24/7 Bereikbaarheid voor uw Patiënten"
+seoTitle: "De Assistent die Nooit Pauze Heeft"
 excerpt: "Patiënten bellen niet alleen tussen 9 en 5. Met een AI-telefoniste bent u altijd bereikbaar voor spoed, afspraken en vragen, zonder extra personeelskosten."
 date: "2026-02-05"
 authorSlug: "tim-van-der-lee"

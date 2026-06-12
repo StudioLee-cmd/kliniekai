@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als kliniek: tevreden patienten als beste marketing"
-excerpt: "De krachtigste marketingvorm voor klinieken is mond-tot-mondreclame. Leer hoe je patienten activeert als ambassadeurs."
+seoTitle: "Mond-tot-mondreclame als kliniek"
+excerpt: "De krachtigste marketingvorm voor klinieken is mond-tot-mondreclame. Leer hoe je patienten activeert als ambassadeurs. Met concrete acties."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-kliniek.png"

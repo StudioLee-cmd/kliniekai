@@ -1,6 +1,6 @@
 ---
 title: "AI en Medische Data: Hoe Zit het met Veiligheid en AVG?"
-excerpt: "Innovatie kan niet zonder veiligheid. Lees hoe wij voldoen aan de strengste normen voor databeveiliging in de zorg."
+excerpt: "Innovatie kan niet zonder veiligheid. Lees hoe wij voldoen aan de strengste normen voor databeveiliging in de zorg. Inclusief AVG en NEN 7510."
 date: "2026-01-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beveiliging-privacy-ai.png"

@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als kliniek: zo bescherm en versterk je je imago"
+seoTitle: "Online reputatie als kliniek"
 excerpt: "Een negatieve review kan je kliniek meer schaden dan een slechte behandeling. Zo bescherm je je online reputatie en bouw je aan een sterk imago."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

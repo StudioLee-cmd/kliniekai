@@ -1,6 +1,6 @@
 ---
 title: "Leads opvolgen als kliniek: van aanvraag naar patient"
-excerpt: "Veel klinieken verliezen potentiele patienten door trage opvolging. Leer hoe je aanvragen sneller omzet naar afspraken."
+excerpt: "Veel klinieken verliezen potentiele patienten door trage opvolging. Leer hoe je aanvragen sneller omzet naar afspraken. Met automatisering."
 date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "5-minutenregel kliniek: zo win je leads voor de concurrent belt"
-excerpt: "Leads die binnen 5 minuten een reactie krijgen, converteren 21x vaker. Zo bouw je als kliniek een opvolgsysteem dat patiënten binnenhaalt voordat de concurrent belt."
+seoTitle: "5-minutenregel kliniek"
+excerpt: "Leads die binnen 5 minuten reactie krijgen converteren 21x vaker. Zo bouw je als kliniek een opvolgsysteem dat sneller is dan de concurrent."
 date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

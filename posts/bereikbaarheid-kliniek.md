@@ -1,5 +1,6 @@
 ---
 title: "Bereikbaarheid als kliniek: zo missen patienten nooit een antwoord"
+seoTitle: "Bereikbaarheid als kliniek"
 excerpt: "Patienten verwachten snelle antwoorden. Leer hoe je als kliniek je bereikbaarheid verbetert zonder je team te overbelasten."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

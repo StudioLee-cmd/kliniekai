@@ -1,6 +1,6 @@
 ---
 title: "Cosmetische kliniek prijzen op website: wel of niet tonen?"
-excerpt: "De echte afweging voor cosmetische klinieken: wel of geen prijzen op je website tonen? Met cijfers over conversie, leadkwaliteit en welke hybride aanpak bewezen werkt."
+excerpt: "Wel of geen prijzen op je website als cosmetische kliniek? Met cijfers over conversie, leadkwaliteit en de hybride aanpak die bewezen werkt."
 date: "2026-04-22"
 cluster: "website"
 authorSlug: "tim-van-der-lee"

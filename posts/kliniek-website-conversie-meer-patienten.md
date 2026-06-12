@@ -1,5 +1,6 @@
 ---
 title: "Je kliniek-website laten converteren: meer patiënten via een betere ervaring"
+seoTitle: "Je kliniek-website laten converteren"
 excerpt: "Je kliniek-website trekt bezoekers, maar te weinig afspraken. Ontdek hoe je conversie verhoogt zonder meer verkeer te hoeven genereren."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

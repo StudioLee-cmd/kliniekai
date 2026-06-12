@@ -1,5 +1,6 @@
 ---
 title: "Meer Patiënten via ZorgkaartNederland en Google: De Kracht van Reviews"
+seoTitle: "Meer Patiënten via ZorgkaartNederland en Google"
 excerpt: "Online reputatie is cruciaal voor klinieken. Ontdek hoe u automatisch meer positieve ervaringen verzamelt en zichtbaarder wordt voor nieuwe patiënten."
 date: "2026-01-28"
 authorSlug: "tim-van-der-lee"

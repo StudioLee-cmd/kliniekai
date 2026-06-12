@@ -1,6 +1,7 @@
 ---
 title: "Patientbeleving verbeteren in je kliniek: van eerste contact tot nazorg"
-excerpt: "Van het eerste telefoontje tot de nazorg-mail: elk contactmoment bepaalt of een patient terugkomt en je aanbeveelt."
+seoTitle: "Patientbeleving verbeteren in je kliniek"
+excerpt: "Van het eerste telefoontje tot de nazorg-mail: elk contactmoment bepaalt of een patient terugkomt en je aanbeveelt. Zo optimaliseer je elk moment."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeleving-verbeteren-kliniek.png"

@@ -1,6 +1,6 @@
 ---
 title: "Wachtlijstbeheer in je kliniek: minder no-shows"
-excerpt: "Slim wachtlijstbeheer vermindert no-shows en vult geannuleerde plekken direct op. Ontdek hoe je als kliniek je planning maximaliseert zonder extra administratie."
+excerpt: "Slim wachtlijstbeheer vermindert no-shows en vult geannuleerde plekken direct op. Zo maximaliseer je als kliniek je planning zonder extra werk."
 date: "2026-04-03"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Hoe AI het Aantal No-Shows in Uw Kliniek Drastisch Vermindert"
+seoTitle: "Hoe AI no-shows in uw kliniek vermindert"
 excerpt: "No-shows zijn een dure kostenpost voor elke praktijk. Ontdek hoe slimme SMS-herinneringen en AI-bevestigingen uw agenda volhouden."
 date: "2026-02-10"
 authorSlug: "tim-van-der-lee"

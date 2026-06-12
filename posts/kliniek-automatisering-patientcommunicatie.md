@@ -1,5 +1,6 @@
 ---
 title: "Patiëntcommunicatie automatiseren in je kliniek: beter contact, minder werkdruk"
+seoTitle: "Patiëntcommunicatie automatiseren in je kliniek"
 excerpt: "Baliemedewerkers besteden uren per dag aan telefoon en herinneringen. Automatisering geeft hen die tijd terug zonder patiënttevredenheid te verliezen."
 date: "2026-04-06"
 cluster: "automatisering"

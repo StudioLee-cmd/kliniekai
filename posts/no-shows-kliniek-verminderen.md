@@ -1,5 +1,6 @@
 ---
 title: "No-shows verminderen in je kliniek: bewezen strategieën voor minder gemiste afspraken"
+seoTitle: "No-shows verminderen in je kliniek"
 excerpt: "No-shows kosten klinieken duizenden euro's per maand — vooral bij high-value behandelingen. Deze strategieën werken bewezen."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

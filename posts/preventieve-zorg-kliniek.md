@@ -1,5 +1,6 @@
 ---
 title: "Preventieve zorg als kliniek: voorlichting die patiënten bindt"
+seoTitle: "Preventieve zorg als kliniek"
 excerpt: "Preventieve zorg is niet alleen goed voor patiënten — het is ook een slimme groeistrategie voor klinieken. Zo zet je het op."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

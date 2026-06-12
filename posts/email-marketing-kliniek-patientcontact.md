@@ -1,6 +1,7 @@
 ---
 title: "E-mailmarketing voor klinieken: contact houden tussen behandelingen"
-excerpt: "Leer hoe je als kliniek met slimme e-mails patiënten behoudt, no-shows vermindert en de tevredenheid verhoogt."
+seoTitle: "E-mailmarketing voor klinieken"
+excerpt: "Leer hoe je als kliniek met slimme e-mails patiënten behoudt, no-shows vermindert en de tevredenheid verhoogt. Met voorbeeldmails."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kliniek-patientcontact.png"

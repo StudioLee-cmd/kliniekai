@@ -1,5 +1,6 @@
 ---
 title: "Klantcommunicatie in je kliniek: minder no-shows, meer tevredenheid"
+seoTitle: "Klantcommunicatie in je kliniek"
 slug: "klantcommunicatie-kliniek-no-shows"
 date: "2026-03-21"
 excerpt: "No-shows kosten je kliniek duizenden euro's per jaar. Slimme communicatie vermindert gemiste afspraken en verbetert de patientervaring."

@@ -1,6 +1,6 @@
 ---
 title: "Google reviews voor je kliniek: zo bouw je vertrouwen op"
-excerpt: "Patiënten kiezen een kliniek op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt."
+excerpt: "Patiënten kiezen een kliniek op basis van reviews. Ontdek hoe je structureel meer positieve beoordelingen verzamelt. Volledig automatisch."
 date: "2026-04-17"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

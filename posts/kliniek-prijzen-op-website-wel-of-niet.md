@@ -1,6 +1,6 @@
 ---
 title: "Prijzen op je kliniek-website: wel of niet vermelden?"
-excerpt: "Klinieken die prijzen communiceren krijgen minder onderzoeksvragen maar betere leads. Wanneer werkt transparantie en wanneer is 'op aanvraag' slimmer?"
+excerpt: "Klinieken die prijzen communiceren krijgen minder onderzoeksvragen maar betere leads. Wanneer werkt transparantie en wanneer is op aanvraag slimmer?"
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-prijzen-op-website-wel-of-niet.jpg"

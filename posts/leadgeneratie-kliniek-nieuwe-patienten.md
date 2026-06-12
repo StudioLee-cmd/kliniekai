@@ -1,5 +1,6 @@
 ---
 title: "Leadgeneratie voor klinieken: meer nieuwe patienten via je website"
+seoTitle: "Leadgeneratie voor klinieken"
 slug: "leadgeneratie-kliniek-nieuwe-patienten"
 date: "2026-03-22"
 excerpt: "Je kliniek-website trekt bezoekers, maar hoeveel worden er patient? Ontdek hoe je met slimme leadgeneratie meer nieuwe patienten binnenhaalt."

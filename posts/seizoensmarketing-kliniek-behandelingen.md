@@ -1,8 +1,9 @@
 ---
 title: "Seizoensmarketing voor klinieken: het juiste aanbod op het juiste moment"
+seoTitle: "Seizoensmarketing voor klinieken"
 slug: "seizoensmarketing-kliniek-behandelingen"
 date: "2026-03-23"
-excerpt: "De vraag naar behandelingen verschilt per seizoen. Ontdek hoe je als kliniek inspeelt op seizoenstrends en je bezettingsgraad het hele jaar door optimaliseert."
+excerpt: "De vraag naar behandelingen verschilt per seizoen. Zo speel je als kliniek in op seizoenstrends en optimaliseer je je bezetting het hele jaar."
 image: "/images/blog/seizoensmarketing-kliniek-behandelingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

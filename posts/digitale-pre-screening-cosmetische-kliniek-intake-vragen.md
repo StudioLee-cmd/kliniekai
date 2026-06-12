@@ -1,5 +1,6 @@
 ---
 title: "Digitale pre-screening voor cosmetische klinieken: 7 vragen vóór de intake"
+seoTitle: "Digitale pre-screening voor cosmetische klinieken"
 excerpt: "Pre-screening voor de eerste afspraak filtert ongeschikte aanvragen, beschermt je behandeltijd en verhoogt intake-conversie met 25-40%. Zo zet je het op."
 date: "2026-04-25"
 cluster: "automatisering"

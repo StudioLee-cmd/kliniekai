@@ -1,6 +1,7 @@
 ---
 title: "De 5-minutenregel bij klinieken: wie als eerste reageert, wint"
-excerpt: "Onderzoek van MIT laat zien dat leads die binnen 5 minuten contact terug krijgen, 21 keer vaker converteren dan leads waar 30+ minuten tussen zit. Zo haal je die 5 minuten."
+seoTitle: "De 5-minutenregel bij klinieken"
+excerpt: "Onderzoek van MIT laat zien dat leads die binnen 5 minuten contact terug krijgen, 21 keer vaker converteren dan leads waar 30+ minuten tussen zit."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/5-minutenregel-kliniek-leadresponse.jpg"

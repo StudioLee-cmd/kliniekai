@@ -1,6 +1,7 @@
 ---
 title: "Google Bedrijfsprofiel als kliniek: meer patienten uit je regio"
-excerpt: "Ontdek hoe je als kliniek je Google Bedrijfsprofiel inzet om meer patienten aan te trekken."
+seoTitle: "Google Bedrijfsprofiel als kliniek"
+excerpt: "Ontdek hoe je als kliniek je Google Bedrijfsprofiel inzet om meer patienten aan te trekken. Met praktische optimalisatietips en voorbeelden."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-kliniek.png"

@@ -1,5 +1,6 @@
 ---
 title: "Meer Tijd voor de Patiënt: Hoe AI de Administratieve Last Verlaagt"
+seoTitle: "Meer Tijd voor de Patiënt"
 excerpt: "Nederlandse zorgverleners besteden 40% van hun tijd aan administratie. Zie hoe AI dit kan terugdringen zodat de menselijke maat terugkeert."
 date: "2026-01-20"
 authorSlug: "tim-van-der-lee"

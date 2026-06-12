@@ -1,6 +1,7 @@
 ---
 title: "WhatsApp voor je kliniek: snellere patiëntcommunicatie in 2026"
-excerpt: "Patiënten willen snel en makkelijk communiceren. WhatsApp maakt dat mogelijk zonder extra druk op je balie."
+seoTitle: "WhatsApp voor je kliniek"
+excerpt: "Patiënten willen snel en makkelijk communiceren. WhatsApp maakt dat mogelijk zonder extra druk op je balie. Veilig en AVG-proof ingericht."
 date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

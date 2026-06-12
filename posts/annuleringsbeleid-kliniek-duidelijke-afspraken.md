@@ -1,5 +1,6 @@
 ---
 title: "Annuleringsbeleid communiceren als kliniek: duidelijke afspraken die no-shows verlagen"
+seoTitle: "Annuleringsbeleid communiceren als kliniek"
 excerpt: "Een helder annuleringsbeleid verlaagt no-shows in je kliniek zonder patienten af te schrikken. Zo communiceer je het professioneel."
 date: "2026-04-10"
 cluster: "automatisering"

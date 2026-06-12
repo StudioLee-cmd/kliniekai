@@ -1,6 +1,6 @@
 ---
 title: "Hoe een kliniek meer patiënten trekt via Google"
-excerpt: "Mensen zoeken online naar een kliniek die bij hen past. Wie gevonden wordt op het juiste moment, wint het vertrouwen. Dit is hoe je als kliniek zichtbaar wordt in Google."
+excerpt: "Mensen zoeken online naar een kliniek die bij hen past. Wie op het juiste moment gevonden wordt, wint. Zo word je als kliniek zichtbaar in Google."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-kliniek-meer-patienten-trekt-via-google.png"

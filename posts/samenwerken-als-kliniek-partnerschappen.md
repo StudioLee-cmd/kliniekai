@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als kliniek: partnerschappen die meer patienten opleveren"
+seoTitle: "Samenwerken als kliniek"
 excerpt: "Strategische samenwerkingen met huisartsen, fysiotherapeuten en apothekers helpen klinieken aan een constante stroom doorverwijzingen."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

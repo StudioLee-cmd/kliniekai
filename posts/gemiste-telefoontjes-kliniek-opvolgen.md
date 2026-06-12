@@ -1,5 +1,6 @@
 ---
 title: "Gemiste telefoontjes opvolgen als kliniek: geen potentiele patient verliezen"
+seoTitle: "Gemiste telefoontjes opvolgen als kliniek"
 excerpt: "Elke gemiste oproep is een potentiele patient die je kwijtraakt. Zo vang je gemiste telefoontjes op en zet je ze om naar afspraken."
 date: "2026-04-09"
 cluster: "voice-ai"

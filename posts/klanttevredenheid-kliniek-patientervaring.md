@@ -1,6 +1,7 @@
 ---
 title: "Klanttevredenheid in je kliniek: zo verbeter je de patiëntervaring"
-excerpt: "Leer hoe je als kliniek de patiëntervaring structureel verbetert voor meer loyaliteit en doorverwijzingen."
+seoTitle: "Klanttevredenheid in je kliniek"
+excerpt: "Leer hoe je als kliniek de patiëntervaring structureel verbetert voor meer loyaliteit en doorverwijzingen. Met concrete meetpunten."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-kliniek-patientervaring.jpg"

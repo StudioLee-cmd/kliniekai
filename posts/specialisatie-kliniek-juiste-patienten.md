@@ -1,6 +1,7 @@
 ---
 title: "Specialisatie als kliniek uitdragen: trek precies de juiste patiënten"
-excerpt: "Leer hoe je als kliniek je specialisatie online uitdraagt om de juiste patiënten aan te trekken."
+seoTitle: "Specialisatie als kliniek uitdragen"
+excerpt: "Leer hoe je als kliniek je specialisatie online uitdraagt om de juiste patiënten aan te trekken. Van positionering tot content: praktische stappen."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-kliniek-juiste-patienten.png"
