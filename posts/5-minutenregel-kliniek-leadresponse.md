@@ -85,7 +85,7 @@ Dit zijn voorwaarden, geen showstoppers. Een goede leverancier heeft dit standaa
 
 **De intake-flow te generiek maken.** Een kliniek voor cosmetische ingrepen heeft compleet andere intake-vragen dan een ZBC voor orthopedische behandelingen. Maak de flow specifiek voor jouw behandelings-mix.
 
-**Geen aandacht voor tone-of-voice.** Klinieken waar patiënten nerveus zijn over een behandeling willen geen robotachtige flow. Train de chatbot op empathische, geruststellende formuleringen. Lees onze aanpak voor [klantcommunicatie bij klinieken](/blog/klantcommunicatie-kliniek-empathie) voor hoe je dit in de tone meeneemt.
+**Geen aandacht voor tone-of-voice.** Klinieken waar patiënten nerveus zijn over een behandeling willen geen robotachtige flow. Train de chatbot op empathische, geruststellende formuleringen. Lees onze aanpak voor klantcommunicatie bij klinieken voor hoe je dit in de tone meeneemt.
 
 ## Waar begin je
 
