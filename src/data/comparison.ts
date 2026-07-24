@@ -39,4 +39,7 @@ export const comparisonData: IComparisonItem[] = [
 
 // Comparison values
 export const totalTraditionalCost = 8900;
-export const kapperAICost = 297;
+// Merk-neutrale naam: de export droeg de merknaam van een andere niche-site
+// (template-kopieerlek). Alleen de NAAM is gecorrigeerd; het bedrag blijft ongewijzigd,
+// want prijzen zijn een business-beslissing (RULE 5).
+export const onzePrijsPerMaand = 297;
