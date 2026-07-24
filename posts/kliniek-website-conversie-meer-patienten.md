@@ -90,4 +90,4 @@ A/B-testen hoeft niet ingewikkeld te zijn. Verander één element (de kleur van 
 
 Meer patiënten beginnen niet altijd bij meer websiteverkeer. Vaak begint het bij een betere ervaring voor de bezoekers die er al zijn. Verlaag de frictie, toon vertrouwenssignalen, bied meerdere contactkanalen, en meet je resultaten. Een stijging van 2% naar 5% conversie betekent 150% meer afspraken — met dezelfde hoeveelheid bezoekers.
 
-Wil je hulp bij het optimaliseren van je kliniek-website? Bekijk wat [KliniekAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het optimaliseren van je kliniek-website? Bekijk wat [KliniekAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

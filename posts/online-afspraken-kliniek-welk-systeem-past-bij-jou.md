@@ -142,6 +142,6 @@ Bij KliniekAI helpen we klinieken hun complete booking-stack opbouwen. Concreet 
 - Automatische review-flow gekoppeld aan post-behandeling
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor klinieken](/gratis-scan) of bekijk onze [tarieven KliniekAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor klinieken](/gratis-scan) of bekijk onze [tarieven KliniekAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-klinieksoftware-2026" class="text-dark fw-semibold">Beste klinieksoftware 2026: vergelijking van top-10 systemen</a> →</p></div></div></div>

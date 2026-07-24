@@ -114,6 +114,6 @@ Bij KliniekAI helpen we klinieken hun BTW-flow inrichten zodat zowel juridisch c
 - Een [seo voor klinieken](/seo) traject voor patient-acquisition zonder dat BTW-twijfel een drempel vormt
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor klinieken](/gratis-scan) of bekijk onze [tarieven KliniekAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor klinieken](/gratis-scan) of bekijk onze [tarieven KliniekAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kliniek-prijzen-op-website-wel-of-niet" class="text-dark fw-semibold">Prijzen op je kliniek-website: wel of niet vermelden?</a> →</p></div></div></div>
