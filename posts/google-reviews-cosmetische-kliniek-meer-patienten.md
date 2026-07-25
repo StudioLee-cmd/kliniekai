@@ -60,7 +60,9 @@ Gebruik echte namen en sterren. Geen anonieme quotes. Authenticiteit is alles in
 
 Een review die zegt "geweldig resultaat" is sterk. Dezelfde review met een before-and-after foto erbij is onweerstaanbaar. Vraag patiënten toestemming om hun resultaat te fotograferen en te delen (met of zonder naam).
 
-Combineer de review met de foto op je website en social media. Dit is de krachtigste marketingcombinatie die een cosmetische kliniek heeft.
+Combineer de review met de foto op je website en social media. Dit is de krachtigste marketingcombinatie die een [cosmetische kliniek](/blog/cosmetische-kliniek-prijzen-website-patient-conversie) heeft.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/zorgkaart-reviews-automatiseren" class="text-dark fw-semibold">Meer Patiënten via ZorgkaartNederland en Google: De Kracht van Reviews</a> →</p></div></div></div>
 
 ## Begin met je bestaande tevreden patiënten
 
