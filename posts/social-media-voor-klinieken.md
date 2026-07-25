@@ -7,8 +7,7 @@ image: "/images/blog/social-media-voor-klinieken.png"
 tags: ["Social Media", "Branding", "Educatie"]
 cluster: "social-media"
 ---
-
-Als medisch specialist wilt u autoriteit uitstralen. U wilt gevonden worden op uw expertise. Social media is daarvoor een krachtig kanaal, maar het kost veel tijd om consequent professionele content te maken.
+Als medisch specialist wilt u autoriteit uitstralen. U wilt gevonden worden op uw expertise. [Social media](/social-media) is daarvoor een krachtig kanaal, maar het kost veel tijd om consequent professionele content te maken.
 
 Met de Content Assistent van KliniekAI deelt u eenvoudig uw kennis. Heeft u een mooie 'voor en na' (uiteraard geanonimiseerd en met toestemming)? Of een interessant medisch feitje? Stuur het naar de app.
 
