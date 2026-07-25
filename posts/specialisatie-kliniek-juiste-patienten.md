@@ -8,7 +8,6 @@ image: "/images/blog/specialisatie-kliniek-juiste-patienten.png"
 tags: ["Specialisatie", "Marketing", "Patiëntenwerving"]
 cluster: "branding"
 ---
-
 ## Waarom specialisatie aantrekkingskracht heeft
 
 Patiënten zoeken niet naar "een kliniek" — ze zoeken naar de beste kliniek voor hún specifieke behandeling. Of het nu gaat om dermatologie, oogheelkunde, fertilitiet of cosmetische ingrepen: specialisatie trekt patiënten die precies weten wat ze willen en bereid zijn ervoor te reizen.
@@ -55,6 +54,8 @@ Huisartsen zijn een belangrijke bron van patiënten voor gespecialiseerde klinie
 - **Bereikbaarheid**: maak het makkelijk voor huisartsen om te verwijzen — een directe lijn of online verwijsformulier
 
 Combineer verwijzingen met je online [reputatie](/blog/online-reputatie-kliniek-beschermen-versterken). Een huisarts die je Googlet en 4,9 sterren met 100+ reviews ziet, verwijst met meer vertrouwen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kliniek-positionering-niche-of-brede-aanpak" class="text-dark fw-semibold">Specialiseren als kliniek: scherpe niche of brede aanpak?</a> →</p></div></div></div>
 
 ## Conclusie
 
