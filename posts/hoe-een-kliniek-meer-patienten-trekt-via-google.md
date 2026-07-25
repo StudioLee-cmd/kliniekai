@@ -7,7 +7,6 @@ image: "/images/blog/hoe-een-kliniek-meer-patienten-trekt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Patiënten", "Kliniek"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom klinieken steeds meer online gevonden worden
 
 Patiënten die een kliniek zoeken — voor fysiotherapie, een esthetische behandeling, psychologie of een andere specialisatie — beginnen hun zoektocht online. Ze lezen reviews, vergelijken informatie, en boeken vervolgens via de website of telefoon.
@@ -31,7 +30,7 @@ Voor klinieken is het Google Bedrijfsprofiel het eerste wat potentiële patiënt
 
 ## Stap 2: Bouw aan je online beoordelingsprofiel
 
-Reviews zijn in de zorgsector extra krachtig — mensen stellen vertrouwen in een behandelaar en willen bewijs dat anderen goede ervaringen hebben gehad.
+Reviews zijn in de zorgsector extra krachtig — mensen stellen [vertrouwen](/reviews) in een behandelaar en willen bewijs dat anderen goede ervaringen hebben gehad.
 
 Vraag patiënten na de behandeling om een review:
 
