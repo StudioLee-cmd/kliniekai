@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-kliniek-reduceren.jpg"
 tags: ["No-shows", "Praktijkmanagement", "Groei"]
 cluster: "automatisering"
 ---
-
 ## De impact van no-shows op medische klinieken
 
 No-shows treffen klinieken harder dan de meeste andere sectoren. Behandelingen duren langer, er is vaak specifieke voorbereiding nodig, en personeel wordt ingepland op basis van de agenda. Een gemiste afspraak is niet alleen omzetverlies — het verstoort het hele dagritme van de kliniek.
@@ -58,6 +57,8 @@ Overweeg ook online check-in: patiënten bevestigen hun aanwezigheid via een app
 
 Een bijkomend voordeel van digitale intake is dat patiënten hun eigen gegevens actueel houden. Adreswijzigingen, nieuw telefoonnummer, gewijzigde medicatie — dit alles wordt vastgelegd voordat de patiënt de kliniek binnenloopt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verminderen-kliniek" class="text-dark fw-semibold">No-shows verminderen in je kliniek: automatische oplossingen die werken</a> →</p></div></div></div>
+
 ## Meten en verbeteren
 
 Wat je niet meet, kun je niet verbeteren. Houd per maand bij:
@@ -69,8 +70,8 @@ Wat je niet meet, kun je niet verbeteren. Houd per maand bij:
 
 Na drie maanden zie je patronen: misschien zijn dinsdagen problematisch, of missen patiënten vooral controleafspraken. Met die inzichten kun je gericht ingrijpen.
 
-Stel concrete doelen: een no-show percentage onder de 5 procent is haalbaar met de juiste combinatie van herinneringen, een duidelijk beleid en digitale bevestiging. De meeste klinieken die deze maatregelen invoeren zien binnen drie maanden al een halvering van het aantal no-shows.
+Stel concrete doelen: een no-show percentage onder de 5 procent is haalbaar met de juiste combinatie van [herinneringen](/automatisering), een duidelijk beleid en digitale bevestiging. De meeste klinieken die deze maatregelen invoeren zien binnen drie maanden al een halvering van het aantal no-shows.
 
-Deel de resultaten met je team. Als iedereen ziet dat het aantal no-shows daalt, motiveert dat om het beleid consequent te hanteren. Transparantie over de voortgang houdt het systeem in stand.
+Deel de resultaten met je team. Als iedereen ziet dat het [aantal no-shows](/blog/no-shows-verminderen-zorg) daalt, motiveert dat om het beleid consequent te hanteren. Transparantie over de voortgang houdt het systeem in stand.
 
 Wil je weten hoe AI jouw kliniek kan helpen met herinneringen en patiëntcommunicatie? Vraag een [gratis AI-scan](/gratis-scan) aan.
