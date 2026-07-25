@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Branding", "Concurrentie", "Vindbaarheid", "Kliniek"]
 cluster: "branding"
 ---
-
 Een kliniek-eigenaar in Utrecht voelde aan dat haar instroom van nieuwe patienten al twee kwartalen afvlakte. Ze had geen idee waarom, want haar behandelteam was sterker dan ooit, de wachttijd was kort en de reviews die binnenkwamen waren positief. Op een zaterdagochtend ging ze zitten met een leeg A4 en haar laptop, en in 28 minuten had ze het antwoord. Drie kilometer verderop opende een tweede esthetische kliniek 8 maanden eerder. Die kliniek had inmiddels 287 Google-reviews op 4,9 sterren tegen haar 94 op 4,8. Op Instagram zaten ze op 4.100 volgers tegen haar 1.200. Hun website laadde in 1,2 seconde, de hare in 4,3. En ze hadden online-boeking met directe behandel-prijzen, terwijl bij haar de behandel-tarieven pas na een intake-gesprek besproken werden.
 
 Geen consultant, geen marketingbureau, geen abonnement. Een lijstje van zes datapunten, drie concurrent-URL's en een halfuur. Het verschil tussen "ik weet niet waarom de groei vertraagt" en "ik weet exact welke vier gaten ik moet dichten".
@@ -103,6 +102,8 @@ Twee specifieke valkuilen: vergelijk niet met de marktleider in een andere stad 
 Drie situaties waarin een vrijdagmiddag-meting niet voldoende is. Een kliniek met 3 of meer locaties heeft per locatie een eigen lokale concurrentie en een eigen Google Bedrijfsprofiel, dat is 30 min per locatie, niet 30 min totaal. Een kliniek die overweegt te verhuizen of een nieuwe vestiging te openen heeft een uitgebreidere markt-scan nodig (verkeer, parkeren, demografie). En een kliniek waarvan de instroom in een kwartaal met meer dan 20 procent is gedaald moet niet alleen de zichtbaarheidsgap meten maar ook de patient-uitstroom (welke patienten zijn weggegaan, waarom, en waar zijn ze nu).
 
 Voor alle drie geldt: de 6-datapunten-meting hierboven is nog steeds de eerste stap. Het is niet voldoende, maar het is wel het juiste begin. Pas als je weet waar je staat op de basismetingen weet je welke vervolgvragen waard zijn om dieper te onderzoeken.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/preventieve-zorg-kliniek-patienten-terugzien" class="text-dark fw-semibold">Preventieve zorg promoten: zo komen patienten vaker terug</a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 
