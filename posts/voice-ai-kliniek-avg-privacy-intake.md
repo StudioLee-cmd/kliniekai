@@ -7,7 +7,6 @@ image: "/images/blog/voice-ai-kliniek-avg-privacy-intake.jpg"
 cluster: "voice-ai"
 tags: ["Voice AI", "AVG", "Kliniek Operaties"]
 ---
-
 Een patient belt een private huidkliniek voor een afspraak voor een mol-controle. De voicemail is vol. Niemand neemt op. De patient probeert een tweede kliniek, krijgt direct een mens aan de lijn, plant een afspraak, en komt nooit terug bij de eerste kliniek. Dit gebeurt 30 tot 50 keer per maand bij een gemiddelde private kliniek met één behandelkamer. Vertrouwen wordt verbroken in de eerste 30 seconden van de eerste oproep, en vertrouwen wint elke keer van merknaam.
 
 Een Voice AI telefonist voor een kliniek lost dit op, mits hij twee dingen goed doet: alle inkomende oproepen direct opnemen, en patient-informatie volgens AVG behandelen. Dat tweede is waar veel klinieken aarzelen. Mag een AI medische intake-vragen stellen? Hoe waarborg je vertrouwelijkheid? Wat slaat de AI op en wat niet? Dit artikel laat zien hoe je voice AI inricht voor een private kliniek zonder dat je in conflict komt met AVG of medisch-tuchtrecht.
@@ -158,6 +157,8 @@ Het welkomstbericht maakt dat duidelijk: "met de digitale assistente." Dit is ve
 ### Wat kost dit per maand?
 
 100 tot 250 euro per maand voor een private kliniek met 40-60 oproepen per week. Setup eenmalig 1.000-2.500 euro inclusief AVG-check.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-zorg" class="text-dark fw-semibold">De Assistent die Nooit Pauze Heeft: 24/7 Bereikbaarheid voor uw Patiënten</a> →</p></div></div></div>
 
 ## Klaar om je telefoon te laten draaien zonder AVG-zorgen?
 
