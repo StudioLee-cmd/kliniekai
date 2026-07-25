@@ -8,7 +8,6 @@ image: "/images/blog/google-bedrijfsprofiel-kliniek.png"
 tags: ["Google", "Vindbaarheid", "Marketing"]
 cluster: "vindbaarheid"
 ---
-
 Patienten kiezen een kliniek steeds vaker online. Ze zoeken op Google, vergelijken reviews en bekijken foto's voordat ze bellen. Je Google Bedrijfsprofiel is daarmee je digitale wachtkamer — het eerste contact dat potentiele patienten met je kliniek hebben.
 
 Een goed onderhouden profiel straalt professionaliteit en betrouwbaarheid uit. Een verwaarloosd profiel wekt twijfel. In dit artikel leer je hoe je je kliniekprofiel optimaal benut.
@@ -45,12 +44,12 @@ Upload minimaal 15-20 foto's en werk ze tweemaal per jaar bij. Seizoensdecoratie
 
 ## Berichten en updates plaatsen
 
-Google Posts zijn berichten die direct op je profiel verschijnen. Gebruik ze voor gezondheidstips die aansluiten bij het seizoen: griepreventie in de herfst, huidverzorging in de zomer, stresspreventie rond de feestdagen.
+[Google Posts](/blog/google-posts-kliniek-8-posttypes) zijn berichten die direct op je profiel verschijnen. Gebruik ze voor gezondheidstips die aansluiten bij het seizoen: griepreventie in de herfst, huidverzorging in de zomer, stresspreventie rond de feestdagen.
 
 Je kunt ook aanbiedingen plaatsen: een gratis intakegesprek, korting op een specifieke behandeling of een open dag. Berichten zijn zichtbaar gedurende zeven dagen, dus plan ze wekelijks.
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is het visitekaartje van je kliniek. Volledig ingevuld, actief onderhouden en versterkt met goede reviews trekt het patienten aan die al vertrouwen hebben voordat ze binnenstappen. Investeer er wekelijks twintig minuten in — het loont.
+Je Google Bedrijfsprofiel is het visitekaartje van je kliniek. Volledig ingevuld, actief onderhouden en versterkt met goede reviews trekt het patienten aan die al [vertrouwen](/reviews) hebben voordat ze binnenstappen. Investeer er wekelijks twintig minuten in — het loont.
 
 Benieuwd hoe jouw profiel scoort? Vraag een [gratis scan aan](/gratis-scan) en ontdek direct verbeterpunten.
