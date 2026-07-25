@@ -124,6 +124,8 @@ Zodra je kliniek door de 50 reviews heen breekt, met een gemiddelde van 4,5 of h
 
 Het is een investering die maandenlang doorwerkt zonder dat je elke maand iets nieuws hoeft te doen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patientreviews-verzamelen-kliniek" class="text-dark fw-semibold">Patiëntreviews verzamelen als kliniek: zo doe je het</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:
