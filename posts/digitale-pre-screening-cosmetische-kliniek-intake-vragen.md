@@ -124,6 +124,8 @@ Voor een formulier-route (eenvoudige variant): 1-2 weken inclusief AVG-check en 
 
 Automatisch een follow-up sturen na 24 uur ("we missen nog 2 antwoorden — wil je nog even afmaken zodat we je intake goed kunnen voorbereiden?"). Bij gebrek aan reactie binnen 72 uur de aanvraag in 'incomplete'-status zetten en de patiënt opnemen in een algemeen aanvragen-bestand. Verwerk geen onvolledige pre-screening tot een geboekte afspraak — dat ondermijnt het hele systeem.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/patient-opvolging-kliniek-intake-afspraak" class="text-dark fw-semibold">Van intake tot afspraak: patiëntopvolging voor klinieken</a> →</p></div></div></div>
+
 ## Conclusie
 
 Pre-screening is een van de weinige kliniek-investeringen waarbij de winst aan beide kanten van de balans tegelijk voelbaar is: meer geschikte patiënten op de stoel, kortere intakes, minder teleurstelling, hogere reviews. De zeven vragen — behandelwens, gezondheid, medicatie, allergieën, eerdere behandelingen, verwachting, foto's — dekken het overgrote deel van wat je vooraf moet weten. De vorm (formulier, chatbot of WhatsApp) kies je op basis van je behandelmix en doelgroep. AVG-compliance is non-negotiable, maar prima oplosbaar met de juiste tooling.
