@@ -7,14 +7,13 @@ image: "/images/blog/seo-kliniek-meer-patienten-google.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom patiënten hun kliniek online zoeken
 
 De tijd dat patiënten alleen via huisarts­verwijzingen bij een kliniek terechtkwamen is voorbij. Steeds meer mensen zoeken zelf: "huidkliniek [plaatsnaam]", "ooglaserbehandeling kosten" of "beste kliniek voor [behandeling]".
 
 Google is het startpunt. Een kliniek die goed vindbaar is voor relevante zoekopdrachten krijgt een constante stroom van nieuwe patiënten — zonder advertentiebudget.
 
-Maar SEO voor klinieken is anders dan voor een webshop of restaurant. Medische content vraagt om expertise, betrouwbaarheid en zorgvuldigheid. Google beoordeelt gezondheidscontent strenger via het E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness).
+Maar [SEO voor klinieken](/seo) is anders dan voor een webshop of restaurant. Medische content vraagt om expertise, betrouwbaarheid en zorgvuldigheid. Google beoordeelt gezondheidscontent strenger via het E-E-A-T framework (Experience, Expertise, Authoritativeness, Trustworthiness).
 
 ## Technische SEO: de basis op orde
 
