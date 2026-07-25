@@ -48,7 +48,7 @@ Fout: "Blij dat uw botoxbehandeling goed is verlopen!"
 
 ## Zorgkaart Nederland niet vergeten
 
-Naast Google Reviews is Zorgkaart Nederland belangrijk voor klinieken. Veel patiënten checken beide platforms. Zorg dat je profiel daar ook compleet is en verwijs er in je reviewverzoeken naar.
+Naast [Google Reviews](/blog/google-reviews-kliniek-vertrouwen) is Zorgkaart Nederland belangrijk voor klinieken. Veel patiënten checken beide platforms. Zorg dat je profiel daar ook compleet is en verwijs er in je reviewverzoeken naar.
 
 ## Veelgestelde vragen
 
