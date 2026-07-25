@@ -7,7 +7,6 @@ image: "/images/blog/patientendossier-crm-kliniek-verschil.jpg"
 tags: ["CRM", "Patiëntdossier", "Kliniek Operatie"]
 cluster: "automatisering"
 ---
-
 ## In het kort
 
 - **Een patiëntdossier (EPD/EHR) is medisch en wettelijk verplicht.** Een CRM is operationeel en marketing-gericht. Twee verschillende doelen, twee verschillende systemen.
@@ -70,7 +69,7 @@ Concreet wat een CRM voor een Nederlandse kliniek doet, dingen die het EPD niet 
 - **Verjaardags- of bijzondere-momenten-bericht** indien je dit als kliniek doet
 - **Onderhoudsabonnement-beheer** voor klinieken die dat aanbieden (wanneer-volgende-afspraak-trigger)
 
-Dit zijn allemaal operationele en marketing-functies. Geen ervan is zorginhoudelijk. Allemaal zonder toegang tot medische data uit het EPD.
+Dit zijn allemaal operationele en marketing-functies. Geen ervan is zorginhoudelijk. Allemaal zonder toegang tot [medische data](/blog/beveiliging-privacy-ai) uit het EPD.
 
 ## Vier veelgemaakte fouten
 
