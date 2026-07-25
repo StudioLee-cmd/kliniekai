@@ -35,6 +35,8 @@ Met een [automatisch systeem](/voice-ai) gaan deze opvolgberichten vanzelf uit n
 
 ![Stijlvolle cosmetische kliniek wachtruimte met velvet stoelen](/images/blog/eerste-consult-kliniek-van-vraag-naar-behandeling-2.jpg)
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seizoensmarketing-kliniek-behandelingen" class="text-dark fw-semibold">Seizoensmarketing voor klinieken: het juiste aanbod op het juiste moment</a> →</p></div></div></div>
+
 ## Conversie verhogen zonder harder te verkopen
 
 Het gaat niet om harder verkopen. Het gaat om beter luisteren, eerlijker adviseren en consequenter opvolgen. Klinieken die hun consult-naar-behandeling ratio bijhouden zien na het verbeteren van de opvolging een stijging van 20 tot 35 procent.
