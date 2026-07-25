@@ -8,7 +8,6 @@ image: "/images/blog/no-shows-kliniek-verminderen.png"
 tags: ["Kliniek", "No-shows", "Patiëntbeheer"]
 cluster: "automatisering"
 ---
-
 ## Wat no-shows je kliniek écht kosten
 
 Een gemiste afspraak bij de huisarts kost €30-50. Maar een no-show bij een privékliniek? Dat kan oplopen tot €200-500 per gemiste behandeling. Cosmetische ingrepen, tandheelkundige procedures, fysiotherapiesessies — elke lege behandelstoel is een directe omzetderving.
@@ -70,9 +69,11 @@ Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bie
 | + Aanbetaling | 70-80% |
 | Alle maatregelen samen | 80-90% |
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kliniek-afspraken-minder" class="text-dark fw-semibold">No-shows in je kliniek verminderen: praktische aanpak</a> →</p></div></div></div>
+
 ## Conclusie
 
-No-shows zijn geen onvermijdelijk probleem in de zorg — het is een communicatieprobleem. Met de juiste combinatie van herinneringen, bevestigingen en empathische opvolging houd je je behandelstoelen bezet.
+No-shows zijn geen onvermijdelijk probleem in de zorg — het is een communicatieprobleem. Met de juiste combinatie van [herinneringen](/automatisering), bevestigingen en empathische opvolging houd je je behandelstoelen bezet.
 
 Met [KliniekAI](/) automatiseer je het volledige patiëntcommunicatieproces. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
