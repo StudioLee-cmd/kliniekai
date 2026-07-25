@@ -60,6 +60,8 @@ Je annuleringsbeleid hoort op je website, maar niet als eerste wat de patient zi
 
 Gebruik een positieve framing: "Zo zorgen we dat iedereen de zorg krijgt die ze nodig hebben" in plaats van "Kosten bij niet-verschijnen." Het eerste is servicegericht, het tweede is dreigend.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kliniek-slim-overbooken-no-shows-compenseren" class="text-dark fw-semibold">Slim overbooken kliniek: no-shows compenseren in 2026</a> →</p></div></div></div>
+
 ## Conclusie: communicatie voorkomt confrontatie
 
 Een annuleringsbeleid dat goed gecommuniceerd wordt, voorkomt de meeste no-shows. De patient weet wat verwacht wordt, heeft middelen om te annuleren, en voelt zich niet overvallen als er consequenties zijn.
