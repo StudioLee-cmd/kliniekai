@@ -8,12 +8,11 @@ image: "/images/blog/klanttevredenheid-kliniek-patientervaring.jpg"
 tags: ["Klanttevredenheid", "Patiëntervaring", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom patiënttevredenheid centraal staat
 
 In de zorg draait alles om de patiënt. Maar patiënttevredenheid gaat verder dan medische kwaliteit — het omvat de hele ervaring, van het eerste telefoontje tot de nazorg na de behandeling.
 
-Klinieken die structureel werken aan patiënttevredenheid zien het terug in hun resultaten: meer terugkerende patiënten, betere reviews, meer doorverwijzingen en een sterkere reputatie.
+Klinieken die structureel werken aan patiënttevredenheid zien het terug in hun resultaten: meer terugkerende patiënten, betere reviews, meer doorverwijzingen en een sterkere [reputatie](/reviews).
 
 Het begint met begrijpen wat patiënten belangrijk vinden. En dat is niet altijd wat je denkt.
 
