@@ -41,6 +41,8 @@ Bovendien verlengt elke no-show de wachtlijst. Patienten die wachten op een afsp
 
 **Persoonlijk contact bij veelplegers.** Na drie no-shows: een telefoontje van de praktijkmanager. Vaak spelen er onderliggende problemen (angst, vervoer, financien) die je kunt bespreken en oplossen. Soms is een vast belmoment voorafgaand aan de afspraak de simpelste oplossing.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-kliniek-meer-patienten" class="text-dark fw-semibold">Leads opvolgen als kliniek: van aanvraag naar patient</a> →</p></div></div></div>
+
 ## Begin met de maatregel die het snelst werkt
 
 Automatische herinneringen leveren het snelste resultaat met de minste investering. Start daar. Na een maand analyseer je de impact en voeg je de volgende maatregel toe: het wachtlijstsysteem. Na twee maanden heb je een compleet systeem dat 60 tot 80 procent van je no-shows elimineert.
