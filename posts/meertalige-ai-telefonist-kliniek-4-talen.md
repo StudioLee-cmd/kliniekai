@@ -8,7 +8,6 @@ image: "/images/blog/meertalige-ai-telefonist-kliniek-4-talen.jpg"
 tags: ["Voice AI", "Bereikbaarheid", "Patiëntcommunicatie"]
 cluster: "voice-ai"
 ---
-
 Het is kwart voor zeven, je receptie is dicht, en er belt een patiënt die net een behandeling heeft gehad en zich zorgen maakt over wat zwelling. Ze spreekt Turks en een beetje Engels, geen Nederlands. Ze krijgt je voicemail in het Nederlands, begrijpt de helft, en hangt op. Morgen belt ze niet je kliniek terug, maar de kliniek twee straten verderop die wél opnam.
 
 Dat is de stille lekkage in veel private klinieken: niet de kwaliteit van de zorg, maar de taal aan de telefoon. In de Randstad spreekt een fors deel van je patiënten thuis geen Nederlands. Premium zorg verdient premium bereikbaarheid, en bereikbaarheid betekent niets als de beller je niet verstaat. Een [ai telefonist voor klinieken](/voice-ai) die meerdere talen spreekt, vangt precies die gesprekken op die je nu ongemerkt verliest.
@@ -65,7 +64,7 @@ Dat vierde punt is de belangrijkste: je zet niets live wat je niet zelf in elke 
 
 ## Aan de slag
 
-Je hoeft geen meertalig receptieteam aan te nemen om meertalig bereikbaar te zijn. Wij bij KliniekAI zetten de telefonist op in de talen die jouw patiënten spreken, binnen jouw protocol en AVG-conform, zodat jij behandelt en wij de patiëntcommunicatie regelen. We werken met een Groei-of-Geld-Terug Garantie: levert het na de afgesproken periode geen betere bereikbaarheid en meer opgevangen afspraken op, dan krijg je je geld terug.
+Je hoeft geen meertalig receptieteam aan te nemen om meertalig bereikbaar te zijn. Wij bij KliniekAI zetten de telefonist op in de talen die jouw patiënten spreken, binnen jouw protocol en AVG-conform, zodat jij behandelt en wij de [patiëntcommunicatie](/blog/spoedtarief-toeslag-ai-telefonist-kliniek) regelen. We werken met een Groei-of-Geld-Terug Garantie: levert het na de afgesproken periode geen betere bereikbaarheid en meer opgevangen afspraken op, dan krijg je je geld terug.
 
 Wil je eerst weten hoeveel anderstalige gesprekken je nu misloopt? Vraag een [gratis ai scan voor klinieken](/gratis-scan) aan, dan brengen we je bereikbaarheid per taal in kaart. Die Turkstalige patiënte van kwart voor zeven? Met een meertalige telefonist krijgt zij morgen gewoon antwoord, en jij de afspraak.
 
