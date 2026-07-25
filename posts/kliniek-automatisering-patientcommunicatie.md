@@ -71,6 +71,8 @@ De meeste moderne kliniekmanagementsystemen voldoen standaard aan deze eisen.
 - Kortere consulten door digitale intake
 - Hogere patiënttevredenheid door snellere communicatie
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-kliniek-patientcommunicatie" class="text-dark fw-semibold">WhatsApp voor je kliniek: snellere patiëntcommunicatie in 2026</a> →</p></div></div></div>
+
 ## Begin met het hoogste rendement
 
 Start met automatische afspraakherinneringen. Dit levert direct de meeste tijdwinst op en is eenvoudig te implementeren.
