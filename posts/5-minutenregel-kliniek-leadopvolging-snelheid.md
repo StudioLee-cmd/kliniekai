@@ -92,6 +92,8 @@ Wat je niet meet, kun je niet verbeteren. Vier metrics die elke kliniek dagelijk
 
 Een eenvoudig dashboard met deze cijfers tilt je kliniek binnen drie maanden van middenmoot naar top-presterend.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/5-minutenregel-kliniek-leadresponse" class="text-dark fw-semibold">De 5-minutenregel bij klinieken: wie als eerste reageert, wint</a> →</p></div></div></div>
+
 ## Van eerste contact naar geboekt consult: je actieplan voor week 1
 
 Begin niet met alles tegelijk. Drie acties deze week:
