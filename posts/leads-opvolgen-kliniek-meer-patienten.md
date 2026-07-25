@@ -94,6 +94,8 @@ Dit verlaagt de drempel voor patienten die 's avonds of in het weekend beslissen
 
 Een [AI-telefonist](/voice-ai) die buiten kantoortijden bereikbaar is, vangt deze aanvragen op. De AI beantwoordt veelgestelde vragen, noteert de contactgegevens, en stuurt je direct een samenvatting. De volgende ochtend bel je terug met alle informatie die je nodig hebt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/eerste-consult-kliniek-van-vraag-naar-behandeling" class="text-dark fw-semibold">Eerste consult in de kliniek: van vraag naar behandeling</a> →</p></div></div></div>
+
 ## Wat levert betere opvolging op?
 
 De impact van snellere opvolging is direct meetbaar:
