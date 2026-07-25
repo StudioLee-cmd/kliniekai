@@ -67,6 +67,8 @@ Geef patiënten 2 uur om te reageren op een wachtlijst-aanbod. Geen reactie? Het
 
 In dat geval is een no-show daadwerkelijk een leeg slot. Focus dan op preventie: sterkere herinneringen, telefonische bevestiging voor dure behandelingen en een consequent no-show beleid.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kliniek-reduceren" class="text-dark fw-semibold">No-shows in je kliniek reduceren: van probleem naar systeem</a> →</p></div></div></div>
+
 ## Conclusie
 
 Wachtlijstbeheer is geen luxe maar een essentieel onderdeel van een efficiënte kliniekplanning. Het vangt no-shows op, verkort wachttijden en verhoogt je omzet. Begin met een simpele wachtlijst en automatiseer de communicatie.
