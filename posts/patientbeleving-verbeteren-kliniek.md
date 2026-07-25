@@ -8,7 +8,6 @@ image: "/images/blog/patientbeleving-verbeteren-kliniek.png"
 tags: ["Kliniek", "Patientbeleving", "Klantreis"]
 cluster: "automatisering"
 ---
-
 ## Patientbeleving begint niet bij de behandeling
 
 De meeste klinieken focussen op de behandeling zelf — terecht, want dat is de kern. Maar de patientbeleving begint veel eerder en eindigt veel later. Het eerste telefoontje, de wachtruimte, de factuur, de nazorg — elk contactmoment vormt het totaalbeeld.
@@ -37,7 +36,7 @@ Direct na het maken van de afspraak: een professionele bevestiging per email of 
 
 ### 3. De herinnering (24 uur + 2 uur)
 
-Twee herinneringen reduceren no-shows met 40-50%. Voeg een bevestigingsoptie toe: "Kun je komen? Reageer JA of NEE om te verzetten."
+Twee [herinneringen](/automatisering) reduceren no-shows met 40-50%. Voeg een bevestigingsoptie toe: "Kun je komen? Reageer JA of NEE om te verzetten."
 
 ### 4. De ontvangst in de kliniek
 
@@ -90,6 +89,8 @@ Al deze contactmomenten handmatig beheren is onmogelijk bij 30+ patienten per da
 - **Hogere Google reviews** — nazorgberichten leiden tot reviews
 - **Minder no-shows** — goede communicatie vooraf verhoogt aanwezigheid
 - **Hogere omzet per patient** — vertrouwen leidt tot meer behandelingen
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-kliniek-patientervaring" class="text-dark fw-semibold">Klanttevredenheid in je kliniek: zo verbeter je de patiëntervaring</a> →</p></div></div></div>
 
 ## Conclusie
 
