@@ -84,6 +84,8 @@ Met een consistent automatisch systeem kun je verwachten:
 - Meer directe boekingen via Google
 - Betere positie in lokale zoekresultaten
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-respons-automatiseren-kliniek" class="text-dark fw-semibold">Review-respons automatiseren als kliniek: veilig en snel</a> →</p></div></div></div>
+
 ## Beginnen
 
 Stel vandaag een automatisch review-verzoek in: SMS, 3 uur na elk bezoek, met een directe link naar je Google-pagina. Eenvoudig, effectief, AVG-proof.
