@@ -8,7 +8,6 @@ image: "/images/blog/5-minutenregel-kliniek-leadresponse.jpg"
 tags: ["Lead response", "Conversie", "Intake"]
 cluster: "automatisering"
 ---
-
 Het onderzoek van MIT (Oldroyd, 2007) dat de 5-minutenregel populair maakte, is inmiddels bijna twintig jaar oud en nog steeds onverminderd van toepassing. Leads die binnen vijf minuten na aanvraag worden teruggebeld of beantwoord, converteren 21 keer vaker dan leads die 30 minuten of langer moeten wachten. Voor klinieken is dit principe extra relevant: patiënten die een specifieke behandeling overwegen zijn actief aan het vergelijken, en wie eerst reageert, zit in de shortlist. Wie zes uur later reageert, is niet meer in beeld.
 
 De vraag is dus niet of 5 minuten response-tijd belangrijk is. Die is het. De vraag is hoe je als kliniek — met beperkte receptie-capaciteit en een gemiddelde piek van inkomende aanvragen buiten kantooruren — die 5 minuten structureel haalt. Dit artikel legt de drie mechanismen uit die je response-tijd van gemiddeld 6 tot 12 uur terugbrengen naar onder de 5 minuten, ook 's avonds en in het weekend.
@@ -87,6 +86,8 @@ Dit zijn voorwaarden, geen showstoppers. Een goede leverancier heeft dit standaa
 **De intake-flow te generiek maken.** Een kliniek voor cosmetische ingrepen heeft compleet andere intake-vragen dan een ZBC voor orthopedische behandelingen. Maak de flow specifiek voor jouw behandelings-mix.
 
 **Geen aandacht voor tone-of-voice.** Klinieken waar patiënten nerveus zijn over een behandeling willen geen robotachtige flow. Train de chatbot op empathische, geruststellende formuleringen. Lees onze aanpak voor klantcommunicatie bij klinieken voor hoe je dit in de tone meeneemt.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/5-minutenregel-kliniek-leadopvolging-snelheid" class="text-dark fw-semibold">5-minutenregel kliniek: zo win je leads voor de concurrent belt</a> →</p></div></div></div>
 
 ## Waar begin je
 
