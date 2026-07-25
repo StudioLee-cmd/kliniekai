@@ -8,7 +8,6 @@ image: "/images/blog/social-media-klinieken-patienten.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor klinieken
 
 Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke kliniek die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
@@ -19,7 +18,7 @@ In dit artikel leer je precies welke platforms het beste werken voor klinieken, 
 
 ## De beste platforms voor klinieken
 
-Niet elk platform is geschikt voor elke branche. Educatieve content wint op social media voor klinieken. Leg behandelingen uit in begrijpelijke taal met korte video's — patiënten kiezen de kliniek die ze het meest vertrouwen.
+Niet elk platform is geschikt voor elke branche. Educatieve content wint op [social media voor klinieken](/social-media). Leg behandelingen uit in begrijpelijke taal met korte video's — patiënten kiezen de kliniek die ze het meest vertrouwen.
 
 ### Platform overzicht voor klinieken
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Educatieve content wint op soci
 
 ## Vertrouwen opbouwen via educatieve content
 
-Voor klinieken geldt: vertrouwen is alles. Patiënten kiezen de kliniek die ze kennen en vertrouwen. Social media is de perfecte plek om dat vertrouwen op te bouwen — door kennis te delen, je team te laten zien en bereikbaar te zijn.
+Voor klinieken geldt: vertrouwen is alles. Patiënten kiezen de kliniek die ze kennen en vertrouwen. [Social media](/blog/instagram-reels-cosmetische-kliniek-5-formats) is de perfecte plek om dat vertrouwen op te bouwen — door kennis te delen, je team te laten zien en bereikbaar te zijn.
 
 Educatieve content presteert het best. Leg veelvoorkomende klachten uit in eenvoudige taal. Beantwoord vragen die patiënten googelen. Wees de autoriteit in je vakgebied.
 
