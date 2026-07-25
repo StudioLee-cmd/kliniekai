@@ -47,6 +47,8 @@ Klinieken die binnen een uur reageren op intakeaanvragen zien:
 
 Bij een gemiddelde behandelwaarde van €150 en tien aanvragen per week die je nu verliest, is dat €1.500 per week aan gemiste omzet. €78.000 per jaar. Automatische opvolging kost een fractie daarvan.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/same-day-afspraak-kliniek-agenda-inrichten" class="text-dark fw-semibold">Same-day afspraak kliniek: zo richt je je agenda in</a> →</p></div></div></div>
+
 ## Direct starten
 
 Elke dag zonder automatische opvolging is een dag met gemiste patiënten. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel aanvragen je kunt omzetten in afspraken. Groei-of-Geld-Terug Garantie.
