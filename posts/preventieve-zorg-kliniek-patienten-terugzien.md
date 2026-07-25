@@ -41,7 +41,7 @@ Bied een basispakket en een uitgebreid pakket aan. Laat de patient kiezen, maar 
 
 ### 3. Leeftijdsgebonden triggers gebruiken
 
-Bepaalde leeftijden zijn natuurlijke momenten voor preventieve zorg: 40 (hart- en vaatziekten), 50 (darmonderzoek), 60 (gehoor en mobiliteit). Gebruik deze mijlpalen als trigger voor een uitnodiging. "Je bent onlangs 50 geworden. Heb je al nagedacht over een preventieve darmcheck?"
+Bepaalde leeftijden zijn natuurlijke momenten voor [preventieve zorg](/blog/preventieve-zorg-kliniek): 40 (hart- en vaatziekten), 50 (darmonderzoek), 60 (gehoor en mobiliteit). Gebruik deze mijlpalen als trigger voor een uitnodiging. "Je bent onlangs 50 geworden. Heb je al nagedacht over een preventieve darmcheck?"
 
 Dit is persoonlijk zonder opdringerig te zijn. Je helpt de patient herinneren aan iets belangrijks.
 
@@ -56,6 +56,8 @@ Deze content helpt ook je [vindbaarheid op Google](/seo). Mensen zoeken actief n
 ### 5. Opvolging na behandeling
 
 Na elke behandeling is er een moment om preventieve zorg te introduceren. "De behandeling is afgerond. Over zes maanden plannen we een controle in." Dit is geen upsell, het is goede zorg. En het geeft de patient een concrete reden om terug te komen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/mond-tot-mondreclame-kliniek" class="text-dark fw-semibold">Mond-tot-mondreclame als kliniek: tevreden patienten als beste marketing</a> →</p></div></div></div>
 
 ## Begin klein, bouw uit
 
