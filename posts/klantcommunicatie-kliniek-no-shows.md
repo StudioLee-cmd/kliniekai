@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["communicatie", "kliniek", "no-shows"]
 cluster: "automatisering"
 ---
-
 ## Wat no-shows je kliniek kosten
 
 Een gemiste afspraak kost een kliniek gemiddeld 75 tot 150 euro — afhankelijk van het type behandeling. Bij een no-show percentage van 10% en 40 afspraken per dag verlies je dagelijks 300 tot 600 euro aan omzet. Op jaarbasis loopt dat op tot tienduizenden euro's.
@@ -21,7 +20,7 @@ Het goede nieuws: met betere communicatie kun je je no-show percentage met 30-50
 
 ## Automatische herinneringen instellen
 
-De meest effectieve manier om no-shows te verminderen is automatische afspraakherinneringen. Uit onderzoek blijkt dat twee herinneringen het optimale aantal is:
+De meest effectieve manier om no-shows te verminderen is automatische afspraakherinneringen. Uit onderzoek blijkt dat twee [herinneringen](/automatisering) het optimale aantal is:
 
 **Herinnering 1 — 48 uur van tevoren**: per e-mail. Benoem de datum, tijd, locatie en eventuele voorbereiding. Geef de mogelijkheid om te bevestigen of te verzetten.
 
