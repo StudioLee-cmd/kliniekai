@@ -57,7 +57,7 @@ De beste indicator of je deze grens correct hebt getrokken, zie je terug in [pat
 
 ## De overgang mens-bot: belangrijker dan de bot zelf
 
-Waar digitale triage vaak faalt is niet in wat de bot zegt, maar in hoe de overgang naar een mens wordt geregeld als het nodig is. Een patiënt die midden in een serieuze zorgvraag ineens "doorverbind u met een medewerker, gemiddelde wachttijd 12 minuten" krijgt, verliest vertrouwen in de hele kliniek.
+Waar [digitale triage](/blog/digitale-pre-screening-cosmetische-kliniek-intake-vragen) vaak faalt is niet in wat de bot zegt, maar in hoe de overgang naar een mens wordt geregeld als het nodig is. Een patiënt die midden in een serieuze zorgvraag ineens "doorverbind u met een medewerker, gemiddelde wachttijd 12 minuten" krijgt, verliest vertrouwen in de hele kliniek.
 
 Drie principes voor die overgang:
 
@@ -92,6 +92,8 @@ Een realistische invoering voor een kliniek van 5-30 medewerkers:
 - **Maand 3 e.v.:** Finetuning van grensgevallen, uitbreiding naar intake-begeleiding (afspraak boeken na standaard-vragenronde).
 
 Wij bouwen dit gehele triage-systeem voor klinieken in onze managed service. Inclusief de juridische review door onze medische eindverantwoordelijke, de kennisbank-inrichting, en koppeling met je agendasysteem en CRM zodat intakes automatisch terecht komen waar ze horen. Meer over [tarieven en implementatietraject](/tarieven) voor klinieken die dit in één keer goed willen doen. Of vraag een [gratis scan](/gratis-scan) aan waarin we jouw huidige patiëntenstromen in kaart brengen en samen bepalen waar triage-automatisering direct zinvol is.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/avg-gdpr-klinieken-9-punten-2026" class="text-dark fw-semibold">AVG voor klinieken: 9 punten die je moet weten 2026</a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 
