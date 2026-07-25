@@ -92,6 +92,8 @@ De prijspagina werkt het beste in samenhang met twee andere elementen op je webs
 
 Samen vormen prijstransparantie, reviews en directe Q&A de drie pijlers van een hoog-converterende cosmetische kliniek-website.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijstransparantie-kliniek" class="text-dark fw-semibold">Prijstransparantie als kliniek: waarom heldere tarieven meer patienten opleveren</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je consultaanvragen na drie maanden niet meetbaar zijn gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige prijspagina te laten analyseren of bekijk de [tarieven](/tarieven) voor het complete managed pakket. Jij behandelt, wij regelen de rest.
