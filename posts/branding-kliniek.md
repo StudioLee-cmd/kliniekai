@@ -8,7 +8,6 @@ image: "/images/blog/branding-kliniek.png"
 tags: ["Branding", "Kliniek", "Groei"]
 cluster: "branding"
 ---
-
 Er zijn tientallen klinieken in elke regio. Ze bieden vergelijkbare behandelingen, hebben vergelijkbare kwalificaties, en vragen vergelijkbare prijzen. Toch kiezen patiënten sommige klinieken consistent boven andere. Het verschil? Branding.
 
 Branding is niet alleen een logo of een kleurenpalet. Het is het complete gevoel dat patiënten bij je kliniek hebben — van het eerste bezoek aan je website tot de nazorg na een behandeling. In dit artikel lees je hoe je een merkidentiteit opbouwt die vertrouwen wekt en patiënten aantrekt.
@@ -93,7 +92,7 @@ Branding hoeft niet duur te zijn. Start met de basis:
 
 ## Laat je branding professioneel begeleiden
 
-Geen tijd om je merkidentiteit zelf uit te werken? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Branding, online zichtbaarheid, content en reputatiemanagement worden volledig voor je opgepakt.
+Geen tijd om je merkidentiteit zelf uit te werken? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Branding, [online zichtbaarheid](/social-media), content en reputatiemanagement worden volledig voor je opgepakt.
 
 De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug.
 
