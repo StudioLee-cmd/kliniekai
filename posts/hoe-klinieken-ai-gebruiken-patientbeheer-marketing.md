@@ -7,7 +7,6 @@ image: "/images/blog/hoe-klinieken-ai-gebruiken-patientbeheer-marketing.png"
 tags: ["AI", "Automatisering", "Klinieken"]
 cluster: "automatisering"
 ---
-
 Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én een efficiënte organisatie draaien. Wachttijden, no-shows, administratie, online zichtbaarheid — de operationele druk groeit. AI helpt klinieken beide uitdagingen aan te pakken.
 
 ## Wat AI doet voor klinieken
@@ -21,7 +20,7 @@ Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én e
 
 No-shows kosten klinieken gemiddeld 8–12% van de omzet. Een geautomatiseerde herinneringsstroom — 48 uur en 2 uur voor de afspraak — reduceert dit significant. Patiënten kunnen eenvoudig bevestigen of afzeggen, waarna de kliniek de plek direct kan herverdelen.
 
-Klinieken die AI-gestuurde herinneringen inzetten, rapporteren 50–65% minder no-shows binnen 3 maanden.
+Klinieken die AI-gestuurde [herinneringen](/automatisering) inzetten, rapporteren 50–65% minder no-shows binnen 3 maanden.
 
 ## Online zichtbaarheid en nieuwe patiënten
 
@@ -34,6 +33,8 @@ Bovendien helpt AI bij het bijhouden van sociale media content: actuele informat
 **Stap 1**: Activeer online afsprakenbeheer met automatische herinneringen.
 **Stap 2**: Digitaliseer intake en nazorgcommunicatie.
 **Stap 3**: Stel review-automatisering in na elke behandeling.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-kliniek" class="text-dark fw-semibold">Wat is ChatGPT en hoe gebruik je het als kliniek?</a> →</p></div></div></div>
 
 ## Conclusie
 
