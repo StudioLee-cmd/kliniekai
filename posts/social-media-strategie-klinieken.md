@@ -8,8 +8,7 @@ image: "/images/blog/social-media-strategie-klinieken.jpg"
 tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
-
-Patiënten kiezen een kliniek niet alleen op basis van locatie of prijs. Ze willen weten wie hen behandelt, welke resultaten je behaalt en of andere patiënten tevreden zijn. Social media is het kanaal waar je dat verhaal kunt vertellen — mits je het goed aanpakt.
+Patiënten kiezen een kliniek niet alleen op basis van locatie of prijs. Ze willen weten wie hen behandelt, welke resultaten je behaalt en of andere patiënten tevreden zijn. [Social media](/social-media) is het kanaal waar je dat verhaal kunt vertellen — mits je het goed aanpakt.
 
 Te veel klinieken posten af en toe een stockfoto met een generieke gezondheids-tip en noemen dat hun social media strategie. Dat werkt niet. Wat wél werkt is een doordachte aanpak die jouw expertise laat zien, vertrouwen opbouwt en uiteindelijk leidt tot meer intake-afspraken.
 
