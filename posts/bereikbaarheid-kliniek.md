@@ -8,7 +8,6 @@ image: "/images/blog/bereikbaarheid-kliniek.png"
 tags: ["bereikbaarheid", "kliniek", "patientcommunicatie"]
 cluster: "voice-ai"
 ---
-
 Een patient belt je kliniek. De lijn is bezet. Ze proberen het later opnieuw — opnieuw bezet. De derde keer bellen ze een concurrent. Dit scenario speelt zich dagelijks af bij klinieken die hun bereikbaarheid niet op orde hebben.
 
 Bereikbaarheid is meer dan een telefoonnummer. Het is de mate waarin patienten antwoord krijgen wanneer ze dat nodig hebben. In dit artikel lees je hoe je dat als kliniek organiseert.
@@ -83,7 +82,7 @@ Klinieken die investeren in bereikbaarheid zien:
 
 ## Hulp nodig?
 
-Bij KliniekAI helpen we klinieken met het verbeteren van hun bereikbaarheid via slimme automatisering. Van chatbots tot automatische herinneringen — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij KliniekAI helpen we klinieken met het verbeteren van hun bereikbaarheid via slimme [automatisering](/automatisering). Van chatbots tot automatische herinneringen — alles voor slechts 15 minuten per maand van jouw tijd.
 
 Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug. Het risico ligt 100% bij ons.
 
