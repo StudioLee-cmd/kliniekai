@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Leads", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
-
 Een potentiele patient zit op donderdagavond om 21:47 op de bank. Ze heeft net een Instagram-Reel gezien van een ooglid-correctie voor-en-na, klikt door naar je kliniek-website, scrolt langs de behandelingenpagina en heeft drie vragen: "Hoeveel kost een bovenooglid-correctie ongeveer?", "Hoe lang ben ik daarna uit de roulatie?" en "Is er een gratis intake-consult mogelijk?". Op je website is een chat-bubble rechtsonder, ze typt. Het is 21:47, de receptie is om 17:30 dicht gegaan. Vrijdagochtend om 09:18 ziet je receptioniste het bericht. Geen reactie meer van de patient. Want zij heeft donderdagavond om 22:08 al een intake-consult-aanvraag verzonden bij de kliniek twee deuren verderop, die wel binnen 90 seconden antwoordde.
 
 Dat is het patroon waarmee elke cosmetische kliniek, tandheelkundige kliniek en private specialist te maken heeft. 65% van de consult-aanvragen komt buiten kantoortijden binnen, omdat dat de tijd is dat potentiele patienten op de bank rustig kunnen overleggen of onderzoeken. En een aanvraag die niet binnen 30 minuten beantwoord wordt heeft 70% kans dat de patient elders inschrijft.
@@ -133,6 +132,8 @@ Wil je weten hoeveel buiten-kantoor-leads jouw kliniek nu verliest, plan een [gr
 Een AVG-conforme kliniek-chatbot inclusief de 5 vraag-categorieen, de 5 escalatie-regels, de booking-koppeling (Praktijksoftware, ZorgDomein of eigen systeem), en wekelijkse content-updates van de FAQ-bibliotheek, zit inbegrepen in onze Managed Pro voor klinieken vanaf €349 per maand exclusief BTW. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je extra intake-consults niet meetbaar omhoog zijn, krijg je het geld terug.
 
 Wat we niet doen: een chatbot lanceren die de [voice ai voor klinieken](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke contact-aanvragen via website/WhatsApp. De voice AI is voor inkomende telefoongesprekken (vooral 's avonds, voor patienten die liever bellen). Samen vangen ze 80-85% van het buiten-kantoor-contact af.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-trainen-kliniek-data-4-manieren" class="text-dark fw-semibold">AI chatbot trainen op je kliniek-data: 4 manieren</a> →</p></div></div></div>
 
 ## Terug naar de bank van 21:47
 
