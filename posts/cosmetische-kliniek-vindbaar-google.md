@@ -15,7 +15,7 @@ Als jouw kliniek niet verschijnt wanneer iemand zoekt naar "botox [stad]" of "fi
 
 ## Google Bedrijfsprofiel: je belangrijkste etalage
 
-Bij lokale zoekopdrachten toont Google eerst het lokale drieluik met drie klinieken. Je Google Bedrijfsprofiel bepaalt of jij daarin staat. Een compleet profiel bevat:
+Bij lokale zoekopdrachten toont Google eerst het lokale drieluik met drie klinieken. Je [Google Bedrijfsprofiel](/blog/google-qa-kliniek-spoed-parkeren-avg-vragen) bepaalt of jij daarin staat. Een compleet profiel bevat:
 
 - **Bedrijfsnaam en adres** volgens KvK-registratie
 - **Telefoonnummer** (klikbaar, bij voorkeur lokaal)
