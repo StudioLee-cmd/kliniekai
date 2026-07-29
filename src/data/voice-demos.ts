@@ -37,7 +37,7 @@ export const voiceDemos: VoiceDemoOpname[] = [
     {
         id: 'afspraak-inplannen',
         titel: 'Een nieuwe afspraak inplannen',
-        richting: 'Iemand belt voor een intake-consult en twijfelt nog over de behandeling; de agent vraagt door op de wens en plant bij de juiste specialist.',
+        richting: 'Iemand belt voor een intake-consult en twijfelt nog over de behandeling; de agent vraagt door op de wens en plant het consult bij de juiste specialist.',
         stem: 'Thomas',
         src: null,
         duur: null,
