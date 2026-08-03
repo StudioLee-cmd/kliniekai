@@ -164,4 +164,4 @@ Het welkomstbericht maakt dat duidelijk: "met de digitale assistente." Dit is ve
 
 Een goed ingerichte AI telefonist verhoogt de toegankelijkheid van een kliniek zonder dat patient-vertrouwen of AVG-compliance in gevaar komt. Wij regelen dit standaard voor private klinieken die met ons werken, inclusief de AVG-check, het script en de doorlopende monitoring.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste oproepen verloren gaan, en hoe je AVG-conform kunt automatiseren. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw planning de meeste oproepen verloren gaan, en hoe je AVG-conform kunt automatiseren. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

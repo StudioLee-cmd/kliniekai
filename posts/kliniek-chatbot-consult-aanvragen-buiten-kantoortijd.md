@@ -129,7 +129,7 @@ Wil je weten hoeveel buiten-kantoor-leads jouw kliniek nu verliest, plan een [gr
 
 ## Wat StudioLee voor jou doet
 
-Een AVG-conforme kliniek-chatbot inclusief de 5 vraag-categorieen, de 5 escalatie-regels, de booking-koppeling (Praktijksoftware, ZorgDomein of eigen systeem), en wekelijkse content-updates van de FAQ-bibliotheek, zit inbegrepen in onze Managed Pro voor klinieken vanaf €349 per maand exclusief BTW. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je extra intake-consults niet meetbaar omhoog zijn, krijg je het geld terug.
+Een AVG-conforme kliniek-chatbot inclusief de 5 vraag-categorieen, de 5 escalatie-regels, de booking-koppeling (Praktijksoftware, ZorgDomein of eigen systeem), en wekelijkse content-updates van de FAQ-bibliotheek, zit inbegrepen in onze Managed Pro voor klinieken vanaf €349 per maand exclusief BTW. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: een chatbot lanceren die de [voice ai voor klinieken](/voice-ai) volledig vervangt. De chatbot is voor schriftelijke contact-aanvragen via website/WhatsApp. De voice AI is voor inkomende telefoongesprekken (vooral 's avonds, voor patienten die liever bellen). Samen vangen ze 80-85% van het buiten-kantoor-contact af.
 

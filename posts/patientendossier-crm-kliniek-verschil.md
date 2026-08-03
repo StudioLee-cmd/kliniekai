@@ -117,4 +117,4 @@ Vier criteria, in volgorde van belangrijkheid:
 
 Een CRM invoeren naast je bestaande EPD is geen klein project, maar het is wel goed te plannen. Drie tot zes weken voor een degelijke setup, daarna draait het. Vraag een [gratis scan voor je kliniek](/gratis-scan) aan en we kijken samen welke onderdelen je nu mist en wat de impact zou zijn.
 
-Wij regelen dit standaard voor onze kliniek-klanten, inclusief de pseudonimiseerde brug tussen EPD en CRM, branche-specifieke triggers en review-flow. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wij regelen dit standaard voor onze kliniek-klanten, inclusief de pseudonimiseerde brug tussen EPD en CRM, branche-specifieke triggers en review-flow. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

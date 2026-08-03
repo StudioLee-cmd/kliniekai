@@ -94,7 +94,7 @@ Branding hoeft niet duur te zijn. Start met de basis:
 
 Geen tijd om je merkidentiteit zelf uit te werken? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Branding, [online zichtbaarheid](/social-media), content en reputatiemanagement worden volledig voor je opgepakt.
 
-De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe een sterker merk meer patiënten aantrekt.
 

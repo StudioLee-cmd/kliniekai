@@ -102,7 +102,7 @@ Twee dingen horen expliciet buiten dit systeem te blijven, en dat is geen detail
 
 **Patiëntgegevens blijven waar ze horen.** Voor het tonen van beschikbaarheid heb je geen enkel medisch gegeven nodig; je hebt een tijdstip, een duur en een behandelaar nodig. Houd het daarbij. Wat je vastlegt over de patiënt hoort in je patiëntdossier en je [crm voor klinieken](/crm), achter de juiste autorisatie, en niet in een boekingsformulier of een chatlog. Verwerk niet meer gegevens dan nodig is voor het doel; de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/) is daar helder over, en bij gezondheidsgegevens ligt die lat terecht hoger dan elders.
 
-Bij KliniekAI, het klinieklabel van StudioLee, richten we dit als managed dienst in: het meten, de agendastructuur, de koppeling met telefoon en chat, en de vrijvalregel. Daar hoort onze Groei-of-Geld-Terug Garantie bij: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Bij KliniekAI, het klinieklabel van StudioLee, richten we dit als managed dienst in: het meten, de agendastructuur, de koppeling met telefoon en chat, en de vrijvalregel. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

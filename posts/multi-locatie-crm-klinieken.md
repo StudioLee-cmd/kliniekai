@@ -72,4 +72,4 @@ Dat hangt af van hoeveel losse systemen je nu hebt. Met een gefaseerde aanpak, e
 
 ## Volgende stap
 
-Wil je weten waar in jouw kliniek nu patiëntinformatie versnippert en wat één centraal bestand oplevert? Doe de [gratis ai scan voor klinieken](/gratis-scan). We brengen je vestigingen, systemen en opvolging in kaart en laten zien waar je grip en omzet wint. Bij KliniekAI werken we met een Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niets op, dan krijg je je geld terug. Jij behandelt, wij regelen de patiëntcommunicatie.
+Wil je weten waar in jouw kliniek nu patiëntinformatie versnippert en wat één centraal bestand oplevert? Doe de [gratis ai scan voor klinieken](/gratis-scan). We brengen je vestigingen, systemen en opvolging in kaart en laten zien waar je grip en omzet wint. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij behandelt, wij regelen de patiëntcommunicatie.

@@ -85,7 +85,7 @@ Belangrijker dan perfectie is continuïteit. Een kliniek die drie maanden enthou
 
 Wil je weten of het werkt, kijk dan niet naar weergaven maar naar kliks. Laat elke actieknop naar je online boekingspagina wijzen en gebruik een meetbare link, dan zie je in je statistieken precies welke posts afspraken opleveren. Meestal zie je hetzelfde patroon: voorlichting en reviews bouwen vertrouwen op, de uitgelichte behandeling en de actie converteren.
 
-Geen tijd om dit zelf bij te houden? Bij KliniekAI zit het posten op je bedrijfsprofiel in hetzelfde systeem als je [vindbaarheid](/seo), reviews en social media: wij schrijven en plaatsen, jij behandelt. Daar hoort onze Groei-of-Geld-Terug Garantie bij: levert het aantoonbaar geen groei op, dan krijg je je geld terug.
+Geen tijd om dit zelf bij te houden? Bij KliniekAI zit het posten op je bedrijfsprofiel in hetzelfde systeem als je [vindbaarheid](/seo), reviews en social media: wij schrijven en plaatsen, jij behandelt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

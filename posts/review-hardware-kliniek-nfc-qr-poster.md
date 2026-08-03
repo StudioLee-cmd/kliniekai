@@ -92,6 +92,6 @@ Ja, je mag patienten uitnodigen een review te plaatsen, zolang je de inhoud niet
 
 Review-hardware in een kliniek draait niet om zoveel mogelijk bordjes, maar om het juiste duwtje op het juiste moment, in een uitvoering die bij premium zorg past. De NFC-kaart die je behandelaar persoonlijk meegeeft is je motor, de QR-sticker de stille back-up, de poster de versterking. En pas met automatische opvolging erachter haal je er alles uit.
 
-Wil je weten waar jouw kliniek reviews laat liggen? Doe een [gratis ai scan voor klinieken](/gratis-scan) en we laten zien welk moment je nu mist. Werk je met ons samen, dan geldt onze Groei-of-Geld-Terug Garantie: groeit je kliniek niet, dan krijg je je geld terug.
+Wil je weten waar jouw kliniek reviews laat liggen? Doe een [gratis ai scan voor klinieken](/gratis-scan) en we laten zien welk moment je nu mist. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px;"><strong>Lees ook:</strong> <a href="/blog/review-strategie-kliniek-vertrouwen">Review-strategie voor je kliniek: zo bouw je aan vertrouwen</a> &rarr;</p>

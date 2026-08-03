@@ -98,6 +98,6 @@ Niet als je het netjes scheidt van het medisch dossier en via een nette betaalpr
 
 Een aanbetaling is een van de weinige no-show-maatregelen die ingrijpt op het juiste moment: bij het boeken. Goed ingericht beschermt het je premium-agenda zonder dat het patiënten afschrikt of je receptie belast. De sleutel is automatisering plus heldere, eerlijke communicatie.
 
-Benieuwd hoeveel omzet je nu aan no-shows verliest en wat automatisering oplevert? Doe de [gratis ai scan voor klinieken](/gratis-scan) en je ziet direct waar de winst zit. Bij KliniekAI werken we met een Groei-of-Geld-Terug Garantie: levert het je niets op, dan krijg je je geld terug. Jij behandelt, wij regelen de patiëntcommunicatie.
+Benieuwd hoeveel omzet je nu aan no-shows verliest en wat automatisering oplevert? Doe de [gratis ai scan voor klinieken](/gratis-scan) en je ziet direct waar de winst zit. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij behandelt, wij regelen de patiëntcommunicatie.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/declaratie-automatiseren-kliniek-vecozo-koppeling" class="text-dark fw-semibold">Declaratie automatiseren als kliniek: de VECOZO-koppeling</a> →</p>

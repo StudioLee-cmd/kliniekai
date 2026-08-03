@@ -98,6 +98,6 @@ In de meeste gevallen wel: de workflows koppelen aan je bestaande agenda en neme
 
 ## Van losse taken naar een traject dat zichzelf draait
 
-Vijf workflows, één rode draad: het behandeltraject loopt door, ook wanneer je receptie het druk heeft. Jij behandelt, wij regelen de patiëntcommunicatie. Wil je weten welke van de vijf bij jouw kliniek de meeste ruimte oplevert? Vraag de [gratis AI-scan voor klinieken](/gratis-scan) aan, dan zie je per workflow wat er nu blijft liggen. Werk je met KliniekAI samen, dan geldt bovendien de Groei-of-Geld-Terug Garantie: groeit je kliniek niet, dan krijg je je geld terug.
+Vijf workflows, één rode draad: het behandeltraject loopt door, ook wanneer je receptie het druk heeft. Jij behandelt, wij regelen de patiëntcommunicatie. Wil je weten welke van de vijf bij jouw kliniek de meeste ruimte oplevert? Vraag de [gratis AI-scan voor klinieken](/gratis-scan) aan, dan zie je per workflow wat er nu blijft liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/clinicminds-migreren-data-export-valkuilen">Clinicminds migreren als kliniek: data-export + 3 valkuilen</a> &rarr;</p>
