@@ -1,7 +1,7 @@
 ---
 title: "GBP foto's voor cosmetische klinieken: privacy-eerst"
 slug: gbp-fotos-cosmetische-kliniek-privacy-eerst
-date: 2026-04-29
+date: "2026-04-29"
 cluster: "vindbaarheid"
 excerpt: "Foto's op je Google Bedrijfsprofiel als cosmetische kliniek zonder patiëntgezichten. Welke shots, hoe je vertrouwen wekt, en de WGBO/AVG-grens uitgelegd."
 image: "/images/blog/gbp-fotos-cosmetische-kliniek-privacy-eerst.jpg"
