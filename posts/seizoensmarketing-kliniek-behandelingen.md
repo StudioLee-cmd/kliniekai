@@ -21,7 +21,7 @@ De klinieken die hun marketing afstemmen op deze patronen, hebben een stabielere
 
 Het voorjaar is het moment waarop patienten actie ondernemen:
 
-**Huidvernieuwingsbehandelingen**. Chemical peels, microneedling en laserbehandelingen zijn populair in maart-mei. Patienten willen hun huid vernieuwen voor de zomer. Promoot deze behandelingen vanaf februari op je [website](/blog/kliniek-website-conversie-meer-patienten) en [social media](/blog/social-media-voor-klinieken).
+**Huidvernieuwingsbehandelingen**. Chemical peels, microneedling en laserbehandelingen zijn populair in maart-mei. Patienten willen hun huid vernieuwen voor de zomer. Promoot deze behandelingen vanaf februari op je [website](/blog/kliniek-website-conversie-meer-patienten) en [social media](/blog/social-media-klinieken-patienten).
 
 **Preventieve screenings**. Het voorjaar is een goed moment om huidcontroles te promoten. "Lentescan: laat je huid controleren voor de zomer." Laagdrempelig en het brengt patienten in contact met je kliniek.
 

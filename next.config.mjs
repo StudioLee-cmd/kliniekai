@@ -18,6 +18,8 @@ const nextConfig = {
             { source: '/blog/acne-littekenherstel-kliniek-specialisme', destination: '/', permanent: true },
             { source: '/blog/laserontharing-groei-segment-kliniek-2026', destination: '/', permanent: true },
             { source: '/blog/robot-arts-priveeklinieken', destination: '/', permanent: true },
+            { source: '/blog/social-media-voor-klinieken', destination: '/blog/social-media-klinieken-patienten', permanent: true },
+            { source: '/blog/seo-kliniek-meer-patienten-google', destination: '/blog/hoe-een-kliniek-meer-patienten-trekt-via-google', permanent: true },
         ];
     },
 };
