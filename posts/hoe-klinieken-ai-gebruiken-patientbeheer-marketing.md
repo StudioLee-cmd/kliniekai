@@ -18,9 +18,9 @@ Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én e
 
 ## No-shows terugdringen
 
-No-shows kosten klinieken gemiddeld 8–12% van de omzet. Een geautomatiseerde herinneringsstroom — 48 uur en 2 uur voor de afspraak — reduceert dit significant. Patiënten kunnen eenvoudig bevestigen of afzeggen, waarna de kliniek de plek direct kan herverdelen.
+No-shows kosten klinieken een merkbaar deel van de omzet. Een geautomatiseerde herinneringsstroom — 48 uur en 2 uur voor de afspraak — reduceert dit significant. Patiënten kunnen eenvoudig bevestigen of afzeggen, waarna de kliniek de plek direct kan herverdelen.
 
-Klinieken die AI-gestuurde [herinneringen](/automatisering) inzetten, rapporteren 50–65% minder no-shows binnen 3 maanden.
+Klinieken die AI-gestuurde [herinneringen](/automatisering) inzetten, zien binnen enkele maanden fors minder no-shows.
 
 ## Online zichtbaarheid en nieuwe patiënten
 
