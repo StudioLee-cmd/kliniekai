@@ -10,16 +10,16 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- Voor klinieken met gemengde praktijk (medisch noodzakelijk plus cosmetisch) geldt sinds 2024: medisch is BTW-vrijgesteld (artikel 11-1-g Wet OB), cosmetisch is belast met 21 procent. De Belastingdienst hanteert het PFC-Clinic-arrest als toetssteen voor de scheiding. Foutieve splitsing levert naheffing tot 4 jaar terug op met 50 tot 100 procent boete.
+- Voor klinieken met gemengde praktijk (medisch noodzakelijk plus cosmetisch) geldt sinds 2024: medisch is BTW-vrijgesteld (artikel 11-1-g Wet OB), cosmetisch is belast met 21 procent. De Belastingdienst hanteert het PFC-Clinic-arrest als toetssteen voor de scheiding. Foutieve splitsing levert naheffing tot 4 jaar terug op met een forse boete.
 - De scheiding hangt af van het therapeutisch doel: een liposuctie na gewichtsverlies door bariatrische operatie is medisch (BTW-vrij), dezelfde liposuctie voor pure esthetiek is cosmetisch (21 procent BTW). Verzekeraar-vergoeding is geen automatische bewijs van BTW-vrijstelling, dat is een aparte juridische toets.
-- De facturatie-flow moet 4 elementen splitsen: 1) prestatie-omschrijving per behandel-onderdeel, 2) BTW-tarief per regel, 3) verwijzing naar therapeutisch doel of medisch dossier-nummer, 4) optionele toelichting (medische verklaring huisarts, anamnese-criteria). Klinieken die dit niet doen riskeren bij belasting-controle aanvullende heffing van 12 tot 38 procent op alle gemengde omzet over 4 jaar.
+- De facturatie-flow moet 4 elementen splitsen: 1) prestatie-omschrijving per behandel-onderdeel, 2) BTW-tarief per regel, 3) verwijzing naar therapeutisch doel of medisch dossier-nummer, 4) optionele toelichting (medische verklaring huisarts, anamnese-criteria). Klinieken die dit niet doen riskeren bij belasting-controle een aanvullende heffing over alle gemengde omzet over 4 jaar.
 - Een AI-factuurmotor gekoppeld aan je [crm voor klinieken](/crm) splitst BTW-tarief automatisch per behandeling op basis van de gekozen behandelcode en het medisch dossier-veld. Met een [chatbot voor klinieken](/chatbot) op je website beantwoord je intake-vragen over BTW-gevolgen 24/7 voordat de patient instemt.
 
 ## Waarom BTW-splitsing voor klinieken kritiek is in 2026
 
 De Belastingdienst heeft sinds 2024 zijn controle-frequentie op gemengde klinieken verdrievoudigd. Reden: meerdere arresten in 2022-2023 (PFC-Clinic, X-Clinic, een aantal lagere uitspraken) waarbij klinieken miljoenen euro's aan naheffing kregen door foutieve BTW-vrijstelling.
 
-De ratio per Belastingdienst is helder. Medische zorg is vrijgesteld omdat de samenleving belang heeft bij betaalbare zorg. Cosmetische ingrepen zijn een gewone dienst die met 21 procent belast moet zijn, net als alle andere economische activiteit.
+De ratio per Belastingdienst is helder. Medische zorg is vrijgesteld omdat de samenleving belang heeft bij betaalbare zorg. Cosmetische ingrepen zijn een gewone dienst die met 21 procent btw belast moet zijn, net als alle andere economische activiteit.
 
 Het probleem: de scheiding is in de praktijk niet altijd zwart-wit. Veel behandelingen zitten in een grijs-gebied waar zowel een medische als een esthetische component aanwezig is. De Belastingdienst hanteert sinds het PFC-Clinic-arrest (Hoge Raad 2022) de volgende toets:
 
@@ -42,7 +42,7 @@ Bewijslast: verwijzing huisarts of medisch specialist, medisch dossier-onderbouw
 
 Voorbeelden: Botox tegen rimpels zonder medische indicatie, fillers voor lippen-volume, haar-transplantatie voor esthetiek, tand-bleaching voor uitstraling, cosmetische tatoeage.
 
-Bewijslast: standaard 21 procent op factuur, geen verdere onderbouwing nodig.
+Bewijslast: standaard 21 procent btw op de factuur, geen verdere onderbouwing nodig.
 
 ### Categorie 3: Grijs gebied (case-by-case beslissing)
 
@@ -68,7 +68,7 @@ Een correct ingerichte BTW-flow bestaat uit 4 stappen die de kliniek-administrat
 
 **Stap 3, verwijzing naar dossier.** Op de factuur staat een verwijzing naar het medisch dossier-nummer (geanonimiseerd). Bij belasting-controle kan de Belastingdienst dan terug naar het dossier om de BTW-classificatie te verifieren.
 
-**Stap 4, aangifte met AI-controle.** Bij kwartaal-aangifte controleert een AI-script alle facturen op anomalieen (bijvoorbeeld een behandeling die voor 95 procent van de patienten als cosmetisch wordt geclassificeerd maar bij 1 patient als medisch). Anomalieen worden gemarkeerd voor handmatige review voordat de aangifte wordt ingediend.
+**Stap 4, aangifte met AI-controle.** Bij kwartaal-aangifte controleert een AI-script alle facturen op anomalieen (in dit voorbeeld: een behandeling die voor 95 procent van de patienten als cosmetisch wordt geclassificeerd maar bij 1 patient als medisch). Anomalieen worden gemarkeerd voor handmatige review voordat de aangifte wordt ingediend.
 
 Voor [tarieven KliniekAI](/tarieven) inclusief BTW-flow plus EPD-koppeling plus aangifte-controle: bekijk wat een complete oplossing kost.
 
@@ -96,7 +96,7 @@ Kosten: 165 tot 380 euro per maand plus implementatie 4.500 tot 12.500 euro eenm
 
 **Valkuil 1: Standaard 21 procent op alles om risico te vermijden.** Sommige klinieken hanteren overal 21 procent omdat ze "geen gedoe" willen. Resultaat: ze betalen jaarlijks 35.000 tot 180.000 euro te veel BTW en hun patient-prijzen liggen onnodig hoog. Concurrentie-nadeel ten opzichte van klinieken die wel correct splitsen.
 
-**Valkuil 2: Alles als medisch classificeren omdat "we zijn een kliniek".** Risico: bij controle krijgt de kliniek naheffing tot 4 jaar terug plus 50 tot 100 procent boete plus rente. Voor een gemiddelde gemengde kliniek loopt dit op tot 350.000 tot 850.000 euro extra heffing.
+**Valkuil 2: Alles als medisch classificeren omdat "we zijn een kliniek".** Risico: bij controle krijgt de kliniek naheffing tot 4 jaar terug plus een forse boete plus rente. Voor een gemiddelde gemengde kliniek loopt dit op tot 350.000 tot 850.000 euro extra heffing.
 
 **Valkuil 3: Verzekeraar-vergoeding als enige bewijs gebruiken.** Een verzekerde behandeling is meestal medisch, maar de Belastingdienst kan dit afzonderlijk toetsen. Vul altijd aan met eigen medisch dossier-onderbouwing, anders heb je bij controle niets om op terug te vallen.
 
