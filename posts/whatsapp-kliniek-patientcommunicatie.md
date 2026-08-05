@@ -23,7 +23,7 @@ WhatsApp is asynchroon — de assistent beantwoordt berichten wanneer het uitkom
 - WhatsApp-bericht beantwoorden: 30-60 seconden
 - Telefoongesprek: 3-5 minuten
 - Eén medewerker kan 4-5 WhatsApp-gesprekken tegelijk voeren
-- 70% van de telefoontjes kan vervangen worden door WhatsApp
+- Een groot deel van de telefoontjes kan vervangen worden door WhatsApp
 
 ![WhatsApp patiëntcommunicatie](/images/blog/whatsapp-kliniek-patientcommunicatie-2.jpg)
 
