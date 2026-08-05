@@ -76,7 +76,7 @@ Op korte termijn wel — je bent direct zichtbaar. Maar zodra je stopt met betal
 
 ### Hoeveel kost lokale SEO voor een kliniek?
 
-Met een managed service start je vanaf €200 per maand. De ROI is positief zodra de extra patiënten meer opleveren dan de investering — voor de meeste klinieken is dat binnen de eerste maand.
+Wat een managed service kost, staat op onze tarievenpagina. De ROI is positief zodra de extra patiënten meer opleveren dan de investering — voor de meeste klinieken is dat binnen de eerste maand.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-een-kliniek-meer-patienten-trekt-via-google" class="text-dark fw-semibold">SEO voor klinieken: meer patiënten via Google</a> →</p></div></div></div>
 
