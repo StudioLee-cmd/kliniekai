@@ -14,7 +14,7 @@ De vraag is dus niet of 5 minuten response-tijd belangrijk is. Die is het. De vr
 
 ## Waarom klinieken systematisch te traag zijn
 
-De gemiddelde Nederlandse privékliniek of ZBC ontvangt 60 tot 80 procent van nieuwe behandelingsinteresse via de website (contactformulier of telefoongesprek) en 20 procent direct via telefoon aan de balie. Van het totale volume komt 40 procent binnen buiten kantoortijden: avonden, weekenden, vakantieperiodes.
+De gemiddelde Nederlandse privékliniek of ZBC ontvangt het grootste deel van nieuwe behandelingsinteresse via de website (contactformulier of telefoongesprek) en een kleiner deel direct via telefoon aan de balie. Een aanzienlijk deel van het totale volume komt binnen buiten kantoortijden: avonden, weekenden, vakantieperiodes.
 
 Traditioneel antwoordproces:
 - Klant vult 's avonds om 21:00 een contactformulier in
@@ -43,7 +43,7 @@ Deze aanpak matcht de verwachting van de klant zonder dat iemand van je team fys
 
 Een chatbot zonder opvolgings-automatisering is halve oplossing. De tweede schakel is dat elke chatbot-intake automatisch in je CRM (Salesforce Health Cloud, HubSpot, of een kliniek-specifieke oplossing) landt met een getagde lead-score. Hoge-score leads (klaar voor afspraak) krijgen automatisch een telefoongesprek-terugbelverzoek aan de eerste beschikbare medewerker. Lagere-score leads (nog in overweging) gaan in een nurture-sequentie met informatieve mails over de behandeling.
 
-Dit voorkomt dat leads die niet direct boeken in de vergetelheid raken. Zonder automatisering verlies je 40 procent van die lagere-score leads binnen een week. Met automatisering blijft 70 tot 80 procent in de pipeline tot ze beslissen.
+Dit voorkomt dat leads die niet direct boeken in de vergetelheid raken. Zonder automatisering verlies je een groot deel van die lagere-score leads binnen een week. Met automatisering blijft het merendeel in de pipeline tot ze beslissen.
 
 ### 3. AI telefonist voor eerste-contact-gesprekken
 
@@ -56,11 +56,11 @@ Voor klinieken waar het eerste gesprek met een menselijk medewerker extra belang
 Klinieken die alle drie mechanismen implementeren rapporteren na drie maanden:
 
 - **Response-tijd gemiddeld onder de 5 minuten**, ook in weekenden en avonden
-- **Conversie van lead naar behandelingsafspraak** stijgt met 40 tot 80 procent
-- **Verlies aan concurrent** daalt van gemiddeld 35 procent naar onder de 15 procent
+- **Conversie van lead naar behandelingsafspraak** stijgt merkbaar
+- **Verlies aan concurrent** daalt van een groot deel van de aanvragen naar een kleine minderheid
 - **Werkbelasting receptie** stabiliseert omdat de eerste vragen zijn geautomatiseerd — het team kan focussen op complexere gesprekken
 
-In euro's: voor een middelgrote kliniek met 50 nieuwe aanvragen per maand bij een gemiddelde eerste-behandeling-waarde van 1.800 euro, betekent 40 procent hogere conversie ongeveer 25.000 euro extra maandomzet. De investering is 300 tot 600 euro per maand runkosten plus 3.000 tot 7.000 euro eenmalige setup — direct renderend.
+In dit rekenvoorbeeld: voor een middelgrote kliniek met 50 nieuwe aanvragen per maand bij een gemiddelde eerste-behandeling-waarde van 1.800 euro, betekent 40 procent hogere conversie ongeveer 25.000 euro extra maandomzet. De investering is 300 tot 600 euro per maand runkosten plus 3.000 tot 7.000 euro eenmalige setup — direct renderend.
 
 ## Juridische aandachtspunten
 
