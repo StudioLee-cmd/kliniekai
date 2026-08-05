@@ -9,7 +9,7 @@ tags: ["Kliniek", "Prijzen", "Website", "Conversie"]
 ---
 De eigenaars van cosmetische klinieken zitten op een schijnbaar onmogelijke keuze. Prijzen op de website tonen lijkt transparant en professioneel, maar trekt ook prijsshoppers en voegt concurrentiedruk toe. Prijzen verbergen achter een "consult aanvragen"-formulier beschermt tegen bodemprijs-discussies, maar jaagt ook bezoekers weg die gewoon willen weten of jouw behandeling in hun budget past.
 
-Er is geen universeel juist antwoord op deze vraag. Wat wel bestaat is een hybride aanpak die in praktijk 20 tot 35 procent meer gekwalificeerde consultaanvragen oplevert dan beide extremen. In deze gids staat hoe je die aanpak inricht, met concrete cijfers over welke prijs-informatie wat doet met je bezoeker-naar-consult-ratio.
+Er is geen universeel juist antwoord op deze vraag. Wat wel bestaat is een hybride aanpak die in de praktijk merkbaar meer gekwalificeerde consultaanvragen oplevert dan beide extremen. In deze gids staat hoe je die aanpak inricht, en hoe je meet welke prijs-informatie wat doet met je bezoeker-naar-consult-ratio.
 
 ## Waarom pure transparantie niet werkt
 
@@ -23,7 +23,7 @@ Voor de meeste cosmetische klinieken resulteert pure transparantie in: meer webs
 
 Het andere uiterste is prijzen volledig verbergen. "Neem contact op voor een prijsopgave" of "Bel voor tarieven". Dat werkt voor hele dure behandelingen (facelift, operaties) waar patiënten toch al een consult verwachten. Maar voor het grootste volume aan behandelingen (Botox, fillers, laser, peelings) is dit tegenproductief.
 
-Bezoekers die een prijsindicatie willen zien voordat ze een consult aanvragen, gaan bij de meeste klinieken simpelweg terug naar Google en kiezen een andere kliniek die wel openhartig is. Analyse van het gedrag op 47 cosmetische kliniek-websites laat zien: wanneer prijsinformatie volledig ontbreekt, verlaat 68 tot 82 procent van de bezoekers de website binnen 45 seconden. Dat is niet "ze boeken liever een consult om prijzen te horen", dat is "ze zijn weg".
+Bezoekers die een prijsindicatie willen zien voordat ze een consult aanvragen, gaan bij de meeste klinieken simpelweg terug naar Google en kiezen een andere kliniek die wel openhartig is. Ontbreekt prijsinformatie volledig, dan verlaat het overgrote deel van de bezoekers de website binnen een minuut. Dat is niet "ze boeken liever een consult om prijzen te horen", dat is "ze zijn weg".
 
 Het hybride model lost dit op door selectief transparant te zijn.
 
@@ -59,16 +59,16 @@ Naast wát je toont, telt hoe je het toont. De prijspagina van een cosmetische k
 
 **Element 3: foto's van resultaten, niet van producten.** Elke behandeling moet minimaal één voor-na-foto of authentiek resultaat hebben. Dit is het belangrijkste sociale bewijs op een prijspagina, zonder dit blijft het cijferwerk.
 
-**Element 4: "direct boeken" én "consult aanvragen" als dubbele CTA.** De 40 procent bezoekers die hun keuze al heeft gemaakt, wil direct boeken. De 60 procent die twijfelt, wil eerst een consult. Als je alleen één optie aanbiedt, verlies je de andere groep. Een [AI chatbot](/chatbot) in de hoek kan de boekings- en consult-vragen beide automatisch afhandelen, zonder dat je personeel handmatig hoeft op te volgen.
+**Element 4: "direct boeken" én "consult aanvragen" als dubbele CTA.** Een deel van de bezoekers heeft zijn keuze al gemaakt en wil direct boeken. De grotere groep die nog twijfelt, wil eerst een consult. Als je alleen één optie aanbiedt, verlies je de andere groep. Een [AI chatbot](/chatbot) in de hoek kan de boekings- en consult-vragen beide automatisch afhandelen, zonder dat je personeel handmatig hoeft op te volgen.
 
 ## Wat dit betekent voor je lead-kwaliteit
 
 De grote angst van klinieken die prijzen tonen is: "trekt dit niet juist de verkeerde klanten aan?" De data laat het tegenovergestelde zien. Klinieken die het hybride model correct implementeren rapporteren:
 
-- Meer totale websitebezoekers (15-25 procent stijging, transparantie verbetert SEO)
-- Meer consultaanvragen (20-35 procent stijging, bezoekers zien meer relevante informatie)
-- Lagere no-show ratio bij consulten (van 20 procent naar 8-12 procent, mensen die via prijsinformatie binnenkomen, weten beter wat ze verwachten)
-- Hogere conversie consult-naar-behandeling (van 55 procent naar 70-78 procent, kwalitatievere leads)
+- Meer totale websitebezoekers (transparantie verbetert je vindbaarheid)
+- Meer consultaanvragen (bezoekers zien meer relevante informatie voordat ze contact opnemen)
+- Lagere no-show ratio bij consulten (mensen die via prijsinformatie binnenkomen, weten beter wat ze verwachten en zeggen minder vaak af)
+- Hogere conversie consult-naar-behandeling (kwalitatievere leads, dus meer consulten die ook echt tot een behandeling leiden)
 
 Netto is de hybride aanpak een duidelijke winst op bijna elk marketing-KPI. Alleen de "gemiddelde behandelprijs per aanvraag" kan licht dalen omdat je meer kleine-behandeling-aanvragen krijgt, en zelfs dat wordt ruimschoots gecompenseerd door het hogere totaal.
 
@@ -88,7 +88,7 @@ De prijspagina werkt het beste in samenhang met twee andere elementen op je webs
 
 **[Reviews](/reviews) direct zichtbaar bij de prijs.** "Botox frons: €219 ★★★★★ 4,9 gemiddeld op Google (147 reviews voor dit type behandeling)". Dit combineert het cijfer met sociale proof op het moment van de finale beslissing.
 
-**Chatbot voor snelle vragen.** Bezoekers die een kleine twijfel hebben ("is dit inclusief nacontrole?" "hoelang duurt het resultaat?") krijgen direct antwoord zonder een consult aan te vragen. Dat verlaagt de drempel tot boeking én ontlast je receptie. Een goed getrainde AI-chatbot op je website beantwoordt 70-80 procent van deze vragen automatisch.
+**Chatbot voor snelle vragen.** Bezoekers die een kleine twijfel hebben ("is dit inclusief nacontrole?" "hoelang duurt het resultaat?") krijgen direct antwoord zonder een consult aan te vragen. Dat verlaagt de drempel tot boeking én ontlast je receptie. Een goed getrainde AI-chatbot op je website beantwoordt het merendeel van deze vragen automatisch.
 
 Samen vormen prijstransparantie, reviews en directe Q&A de drie pijlers van een hoog-converterende cosmetische kliniek-website.
 
