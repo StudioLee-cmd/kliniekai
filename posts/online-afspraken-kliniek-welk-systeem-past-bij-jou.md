@@ -10,20 +10,20 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- Klinieken zonder online-afspraak-systeem verliezen in 2026 gemiddeld 28-42% van potentiele patiënten in de boekings-fase. Patiënten die niet binnen 30 seconden een afspraak kunnen maken (via desktop of mobiel), gaan naar de concurrent. Een goed ingericht systeem brengt conversie van 6-12% naar 18-28% per website-bezoek.
+- Klinieken zonder online-afspraak-systeem verliezen in 2026 een fors deel van potentiele patiënten in de boekings-fase. Patiënten die niet binnen 30 seconden een afspraak kunnen maken (via desktop of mobiel), gaan naar de concurrent. Een goed ingericht systeem verveelvoudigt de conversie per website-bezoek.
 - De 5 hoofdspelers voor NL klinieken in 2026: Treatwell (€55-€135 per maand, beauty/wellness-focus), SimplyBook (€39-€89 per maand, all-round), Acuity Scheduling (€20-€55 per maand, eenvoudige interface), EasyWeek (€29-€79 per maand, NL-marktleider voor MKB-klinieken) en custom-koppeling met je EPD-systeem (€2.500-€8.000 eenmalig + €150-€500 per maand).
 - De keuze hangt af van vier factoren: aantal behandelaars (1-5 vs 6-15), type behandelingen (eenvoudige consulten vs. complexe pre-screening vereist), integratie-behoefte (alleen-staand vs. EPD-gekoppeld), en patiënt-profiel (jonge millennials vs. oudere populatie).
-- Een [voice ai voor klinieken](/voice-ai) ALS aanvulling op het online-systeem (niet vervanging) levert het meeste rendement: 60-75% van patiënten boekt online, de overige 25-40% (vaak ouderen of complexe cases) belt en wordt 24/7 opgevangen door de AI. Een [crm voor klinieken](/crm) verbindt beide kanalen tot één klant-dossier.
+- Een [voice ai voor klinieken](/voice-ai) ALS aanvulling op het online-systeem (niet vervanging) levert het meeste rendement: het merendeel van de patiënten boekt online, de rest (vaak ouderen of complexe cases) belt en wordt 24/7 opgevangen door de AI. Een [crm voor klinieken](/crm) verbindt beide kanalen tot één klant-dossier.
 
 ## Waarom een online-afspraak-systeem in 2026 noodzakelijk is
 
 In 2026 is een online-afspraak-systeem geen nice-to-have meer voor klinieken. Drie ontwikkelingen sinds 2023 maken het verplicht:
 
-- **Patiënt-verwachting verschuift.** 78% van potentiele patiënten in NL verwacht online te kunnen boeken bij een specialistische zorg-aanbieder (Patientenfederatie 2025 onderzoek). Onder de 50 jaar: 92%.
+- **Patiënt-verwachting verschuift.** Volgens onderzoek van de Patientenfederatie (2025) verwacht 78% van potentiele patiënten in NL online te kunnen boeken bij een specialistische zorg-aanbieder. Onder de 50 jaar: 92%.
 - **Receptie wordt onbetaalbaar.** Een fulltime receptioniste (32-40 uur per week) kost €38.000-€48.000 jaar inclusief werkgeverskosten. Voor klinieken met <8 behandelaars is dit een grote kostenpost die deels overbodig wordt met een goed systeem.
-- **No-shows kosten premium omzet.** Klinieken met manual telefonische afspraken zien 12-18% no-show rate. Klinieken met online-afspraak + automatische herinneringen zien 3-7% no-show rate. Voor een cosmetisch consult van €180-€450: dat verschil is €15.000-€45.000 per jaar omzet-recovery.
+- **No-shows kosten premium omzet.** Reken met 12-18% no-show rate bij klinieken met manual telefonische afspraken, tegen 3-7% bij klinieken met online-afspraak + automatische herinneringen. Voor een cosmetisch consult van €180-€450: dat verschil is €15.000-€45.000 per jaar omzet-recovery.
 
-Voor de gemiddelde kliniek met 5-8 behandelaars: een online-afspraak-systeem brengt 8-15% extra omzet en bespaart 12-20 uur per week receptioniste-tijd. Terugverdien-tijd typically 3-6 maanden.
+Voor de gemiddelde kliniek met 5-8 behandelaars: een online-afspraak-systeem brengt merkbaar extra omzet en bespaart 12-20 uur per week receptioniste-tijd. Terugverdien-tijd typically 3-6 maanden.
 
 ## De 5 hoofdspelers voor NL klinieken in 2026
 
@@ -105,13 +105,13 @@ Reken voor een gemiddelde kliniek met 4 behandelaars en 800 afspraken per maand:
 | EasyWeek | €59 | €0 | €59 |
 | Custom EPD | €350 | €0 | €350 (na eenmalige €5.000) |
 
-Treatwell is met afstand het duurst per maand. Tegenover: marktplaats-bereik die zelfstandig 5-15% extra patiënten levert. Bereken jouw break-even per kliniek-segment.
+Treatwell is met afstand het duurst per maand. Tegenover: marktplaats-bereik dat zelfstandig extra patiënten levert. Bereken jouw break-even per kliniek-segment.
 
 ## Wat NIET helpt: 3 valkuilen
 
 **Valkuil 1: Niet integreren met EPD.** Een online-afspraak-systeem dat NIET koppelt met je patiëntdossier-systeem (EPD) levert dubbele invoer-werk en risico op fouten. Vóór de keuze: check welke EPD-integraties het systeem heeft.
 
-**Valkuil 2: Geen automatische herinneringen.** Een systeem zonder SMS/email-herinneringen 24u en 2u vooraf is incompleet. No-show-rate blijft dan boven 10%, terwijl het met herinneringen onder 5% komt. Controleer of het systeem dit out-of-the-box biedt.
+**Valkuil 2: Geen automatische herinneringen.** Een systeem zonder SMS/email-herinneringen 24u en 2u vooraf is incompleet. No-show-rate blijft dan hoog, terwijl die met herinneringen fors zakt. Controleer of het systeem dit out-of-the-box biedt.
 
 **Valkuil 3: Te vroeg op all-singing all-dancing.** Klinieken die in eerste keer alles tegelijk willen (online-boeking + custom-intake + EPD-integratie + marketing-tools + recall-flow) komen vaak vast in implementatie-purgatoire. Begin met basis (online-boeking + herinneringen + EPD-koppeling) en bouw uit.
 
@@ -121,7 +121,7 @@ Wat je idealiter binnen 60-90 dagen wilt hebben staan:
 
 - Online-afspraak-systeem geïntegreerd met je website (booking-widget op service-pagina's)
 - Automatische SMS + email herinneringen (24u + 2u vooraf)
-- Een [voice ai voor klinieken](/voice-ai) voor de telefonische 30-40% die niet online boekt (24/7 telefoon-opvang)
+- Een [voice ai voor klinieken](/voice-ai) voor het deel dat niet online boekt maar belt (24/7 telefoon-opvang)
 - Een [chatbot voor klinieken](/chatbot) op je website voor pre-screening vragen voordat de boeking komt
 - Een [crm voor klinieken](/crm) dat online-booking + voice-AI + chatbot tot één klant-dossier maakt
 - EPD-integratie (Promedico, MicroHis, of vergelijkbaar) voor dubbele-data-prevention
