@@ -22,7 +22,7 @@ Drie dingen zijn anders bij een private kliniek dan bij een kapper of loodgieter
 **Vertrouwen en gevoeligheid.** Patienten die bellen voor een mol-controle, een esthetische ingreep of een second opinion zijn vaak gespannen. Een robotische, koude AI kan vertrouwen direct breken. De toon moet warm en geruststellend zijn, met expliciete optie om met een mens te spreken.
 
 **In het kort:**
-- AI telefonist verhoogt beantwoordingsgraad inkomende oproepen van 60 naar 95 procent.
+- AI telefonist verhoogt de beantwoordingsgraad van inkomende oproepen naar vrijwel alle gesprekken.
 - AVG-conforme verwerking is mogelijk mits het platform een DPA heeft en gegevens binnen EU blijven.
 - AI mag intake-vragen stellen, geen medisch advies geven.
 - Toon en escalatie naar mens zijn cruciaal, vooral bij gevoelige behandelingen.
@@ -104,9 +104,9 @@ In alle vier de gevallen: de AI moet duidelijk en zonder pauzes doorverbinden. G
 
 Bij twee Nederlandse private klinieken (huidkliniek en cosmetische kliniek) die we het afgelopen jaar hebben begeleid:
 
-- **Beantwoordingsgraad oproepen:** van 65 naar 95 procent
+- **Beantwoordingsgraad oproepen:** van deels naar vrijwel volledig
 - **Tijd tot afspraak:** van gemiddeld 24 uur naar 5 minuten
-- **Geboekte eerste consulten per week:** +25 tot +45 procent
+- **Geboekte eerste consulten per week:** duidelijk meer
 - **Praktijkmanagers tijd vrijgemaakt:** 8-10 uur per week
 - **Patient-tevredenheid (NPS) over telefoonervaring:** stabiel of licht hoger
 
