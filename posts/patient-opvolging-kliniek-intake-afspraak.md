@@ -13,7 +13,7 @@ Dit scenario speelt zich dagelijks af bij klinieken door heel Nederland. Niet om
 
 ## Waar je patiënten kwijtraakt tussen intake en afspraak
 
-De meeste klinieken verliezenpatënten niet door slechte zorg. Ze verliezen ze in het gat tussen de eerste aanvraag en de daadwerkelijke afspraak. Uit onderzoek blijkt dat 40 procent van de patiënten die online een aanvraag doen, afhaakt als ze niet binnen 24 uur een reactie krijgen.
+De meeste klinieken verliezenpatënten niet door slechte zorg. Ze verliezen ze in het gat tussen de eerste aanvraag en de daadwerkelijke afspraak. Een groot deel van de patiënten die online een aanvraag doen, haakt af als ze niet binnen 24 uur een reactie krijgen.
 
 De reden: een patiënt die naar een kliniek zoekt, is op dat moment gemotiveerd. Die motivatie neemt per uur af. Na 48 uur zonder reactie heeft de helft al een andere kliniek gebeld.
 
@@ -21,7 +21,7 @@ De reden: een patiënt die naar een kliniek zoekt, is op dat moment gemotiveerd.
 
 **Te langzame reactie.** De assistente belt pas de volgende werkdag terug. Tegen die tijd is de urgentie gezakt of heeft de patiënt elders een afspraak gemaakt.
 
-**Onbereikbaarheid buiten kantooruren.** Meer dan 60 procent van de online aanvragen komt buiten werktijden binnen: 's avonds, in het weekend, vroeg in de ochtend. Als de [telefoon niet wordt opgenomen](/voice-ai) en er geen chatbot actief is, hoort de patiënt niets tot maandagochtend.
+**Onbereikbaarheid buiten kantooruren.** Het merendeel van de online aanvragen komt buiten werktijden binnen: 's avonds, in het weekend, vroeg in de ochtend. Als de [telefoon niet wordt opgenomen](/voice-ai) en er geen chatbot actief is, hoort de patiënt niets tot maandagochtend.
 
 **Geen bevestiging of opvolging.** De patiënt stuurt een aanvraag en krijgt geen automatische bevestiging. Geen "we hebben je bericht ontvangen, we nemen binnen 4 uur contact op." Zonder bevestiging weet de patiënt niet of het bericht is aangekomen.
 
@@ -41,8 +41,8 @@ De oplossing combineert drie lagen:
 
 Klinieken die binnen een uur reageren op intakeaanvragen zien:
 
-- **60 procent hogere conversie** van aanvraag naar afspraak.
-- **40 procent minder no-shows** door automatische herinneringen.
+- **Duidelijk hogere conversie** van aanvraag naar afspraak.
+- **Merkbaar minder no-shows** door automatische herinneringen.
 - **Twee tot drie uur per dag bespaard** op handmatig bellen en opvolgen door de assistente.
 
 Bij een gemiddelde behandelwaarde van €150 en tien aanvragen per week die je nu verliest, is dat €1.500 per week aan gemiste omzet. €78.000 per jaar. Automatische opvolging kost een fractie daarvan.
