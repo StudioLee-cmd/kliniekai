@@ -18,7 +18,7 @@ Een kliniek met excellente behandelingen maar een chaotische receptie, lange wac
 
 ### 1. Het eerste contact (telefoon of online)
 
-De eerste indruk bepaalt 70% van de perceptie. Wat een patient verwacht:
+De eerste indruk bepaalt een groot deel van de perceptie. Wat een patient verwacht:
 - Telefoon opgenomen binnen 3 keer overgaan
 - Vriendelijke, deskundige stem
 - Directe mogelijkheid om een afspraak te maken
@@ -36,7 +36,7 @@ Direct na het maken van de afspraak: een professionele bevestiging per email of 
 
 ### 3. De herinnering (24 uur + 2 uur)
 
-Twee [herinneringen](/automatisering) reduceren no-shows met 40-50%. Voeg een bevestigingsoptie toe: "Kun je komen? Reageer JA of NEE om te verzetten."
+Twee [herinneringen](/automatisering) reduceren no-shows fors. Voeg een bevestigingsoptie toe: "Kun je komen? Reageer JA of NEE om te verzetten."
 
 ### 4. De ontvangst in de kliniek
 
@@ -78,7 +78,7 @@ Al deze contactmomenten handmatig beheren is onmogelijk bij 30+ patienten per da
 |--------------|-----------|-----------------|
 | Afspraakbevestiging | Receptie belt/mailt | Automatische SMS/email |
 | Herinneringen | Receptie belt dag ervoor | Automatisch 24h + 2h |
-| Nazorgbericht | Vergeten in 80% van gevallen | Altijd verstuurd |
+| Nazorgbericht | Vaak vergeten | Altijd verstuurd |
 | Reviewverzoek | Ongemakkelijk vragen | Automatische SMS na 1 week |
 | Vervolgafspraak | Patient moet zelf bellen | Automatisch voorstel |
 
