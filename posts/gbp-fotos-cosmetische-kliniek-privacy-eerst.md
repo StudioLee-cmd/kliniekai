@@ -94,7 +94,7 @@ Voor de bredere [lokale seo voor klinieken](/seo) hangt foto-cadans aan dezelfde
 
 **Verlichting:** natuurlijk daglicht > kunstlicht. Maak ze tussen 09:00 en 11:00 of tussen 14:00 en 16:00 wanneer je grote ramen open hebt. Vermijd flits.
 
-**Compositie:** rechthoekig, ruim 80% van het beeld is het hoofdonderwerp. Geen kontrast-extreme situaties (donker apparaat tegen wit licht door raam).
+**Compositie:** rechthoekig, reken met ruim 80% van het beeld voor het hoofdonderwerp. Geen kontrast-extreme situaties (donker apparaat tegen wit licht door raam).
 
 **Bewerking:** lichte aanpassing helderheid en wit-balans is OK. GEEN AI-upscaling, GEEN beauty-filter, GEEN extreme kleurverzadiging.
 
