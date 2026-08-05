@@ -16,7 +16,7 @@ Te veel klinieken posten af en toe een stockfoto met een generieke gezondheids-t
 
 De gezondheidszorg is een vertrouwenssector. Mensen vertrouwen hun lichaam en gezondheid toe aan jouw team. Dat vertrouwen begint lang voordat ze een voet in je kliniek zetten — het begint online.
 
-**68% van de patiënten** zegt dat de online aanwezigheid van een zorgverlener invloed heeft op hun keuze. Social media biedt je de kans om:
+**Het merendeel van de patiënten** zegt dat de online aanwezigheid van een zorgverlener invloed heeft op hun keuze. Social media biedt je de kans om:
 
 - **Expertise te tonen** zonder dat het als reclame voelt
 - **Resultaten zichtbaar te maken** (binnen de grenzen van privacy)
@@ -62,7 +62,7 @@ Maak een serie "Wist je dat...?" of FAQ-posts. Beantwoord de vragen die je dagel
 
 ### Resultaten delen (privacy-proof)
 
-Deel resultaten altijd met schriftelijke toestemming. Anonimiseer waar nodig. Gebruik statistieken wanneer individuele cases niet gedeeld kunnen worden: "97% van onze patiënten beveelt deze behandeling aan."
+Deel resultaten altijd met schriftelijke toestemming. Anonimiseer waar nodig. Gebruik statistieken wanneer individuele cases niet gedeeld kunnen worden: "[X]% van onze patiënten beveelt deze behandeling aan."
 
 ## Veelgestelde vragen
 
