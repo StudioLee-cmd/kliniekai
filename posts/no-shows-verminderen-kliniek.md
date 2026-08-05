@@ -12,11 +12,11 @@ tags: ["No-shows", "Kliniek", "Automatisering"]
 
 Patiënt verschijnt niet. Geen afbericht, geen telefoontje. Het behandelblok van 30 minuten is weg — en je had de wachtlijst kunnen bellen als je het eerder had geweten.
 
-In klinieken zijn no-shows een chronisch probleem. Gemiddeld 10-15% van alle afspraken wordt niet nagekomen. Bij sommige specialisaties loopt dit op tot 25%.
+In klinieken zijn no-shows een chronisch probleem. Een aanzienlijk deel van alle afspraken wordt niet nagekomen. Bij sommige specialisaties loopt dat nog verder op.
 
 ## De werkelijke kosten
 
-Voor een kliniek met 40 afspraken per dag en 12% no-shows:
+Reken met een kliniek met 40 afspraken per dag en 12% no-shows:
 
 - 5 gemiste afspraken per dag
 - Bij €80 gemiddelde consulttarief: €400 per dag
@@ -31,7 +31,7 @@ En dat is alleen het directe inkomstenverlies. De indirecte kosten — langere w
 
 ### 1. WhatsApp-herinneringen (meest effectief)
 
-WhatsApp heeft een leespercentage van 90%+. Stuur 48 uur en 2 uur voor de afspraak een herinnering met bevestigings- en verzettoptie. Klinieken die dit implementeren rapporteren een daling van 50-70% in no-shows.
+WhatsApp wordt vrijwel altijd gelezen. Stuur 48 uur en 2 uur voor de afspraak een herinnering met bevestigings- en verzettoptie. Klinieken die dit implementeren zien een forse daling in no-shows.
 
 ### 2. Bevestigingsdrempel bij boeking
 
