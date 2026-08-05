@@ -12,7 +12,7 @@ tags: ["No-shows", "Kliniek", "Beleid"]
 
 De meeste klinieken hebben een annuleringsbeleid. Het staat ergens op de website, in de kleine lettertjes van het intakeformulier, misschien in de algemene voorwaarden. Maar patienten weten het niet. Ze hebben het nooit gelezen, het is ze nooit verteld, en wanneer ze niet komen opdagen zijn ze oprecht verbaasd dat er consequenties zijn.
 
-Het probleem is niet het beleid. Het probleem is de communicatie. Een annuleringsbeleid dat niemand kent, werkt niet. Een annuleringsbeleid dat op drie momenten helder wordt gecommuniceerd, verlaagt no-shows met 30 tot 50 procent.
+Het probleem is niet het beleid. Het probleem is de communicatie. Een annuleringsbeleid dat niemand kent, werkt niet. Een annuleringsbeleid dat op drie momenten helder wordt gecommuniceerd, verlaagt no-shows aanzienlijk.
 
 Die drie momenten zijn: bij het boeken, in de bevestiging, en in de herinnering. Mis je een van die drie, dan verlies je het effect.
 
