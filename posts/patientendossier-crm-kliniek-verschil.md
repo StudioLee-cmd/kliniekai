@@ -13,7 +13,7 @@ cluster: "automatisering"
 - **AVG/WGBO-eisen verbieden je om commerciële marketing-communicatie te baseren op medische gegevens** uit het EPD. Je hebt aparte data-stromen nodig.
 - **Klinieken die deze systemen mengen lopen risico op datalekken én op tuchtklachten** als gevoelige info in marketing-systemen belandt.
 - **De ideale opzet: EPD voor zorg, CRM voor klantcontact, met een geanonimiseerde verbinding ertussen.**
-- **Een CRM is geen luxe.** Klinieken zonder CRM verliezen gemiddeld 40 procent van hun terugkerende patiënten.
+- **Een CRM is geen luxe.** Klinieken zonder CRM verliezen een fors deel van hun terugkerende patiënten.
 
 ## Wat is een patiëntdossier?
 
@@ -35,7 +35,7 @@ CRM-systemen voor klinieken: HubSpot, Pipedrive, ActiveCampaign, plus branche-sp
 
 Veel klinieken proberen één systeem te gebruiken voor beide. Dat werkt niet. Drie scenario's laten zien waarom:
 
-**Scenario 1: alleen EPD, geen CRM.** Patiënt komt voor een eenmalige behandeling, blijft een jaar onder de radar, kliniek heeft geen contact-infrastructuur om hem terug te halen. Patiënt vergeet de kliniek, kiest een ander voor zijn volgende behandeling. Kosten: gemiddeld 40 procent verlies van terugkerende patiënten.
+**Scenario 1: alleen EPD, geen CRM.** Patiënt komt voor een eenmalige behandeling, blijft een jaar onder de radar, kliniek heeft geen contact-infrastructuur om hem terug te halen. Patiënt vergeet de kliniek, kiest een ander voor zijn volgende behandeling. Kosten: een fors verlies van terugkerende patiënten.
 
 **Scenario 2: alleen CRM, geen EPD.** Onmogelijk in Nederland. Geen kliniek mag zorg verlenen zonder gestructureerd patiëntdossier. Niet alleen praktisch onmogelijk, ook wettelijk verboden.
 
@@ -93,11 +93,11 @@ Een SSO (single sign-on) over EPD en CRM lijkt handig maar ondermijnt de toegang
 
 Bij vier Nederlandse klinieken (cosmetisch, tandheelkunde, fysiotherapie, dermatologie) die we het afgelopen jaar hebben begeleid bij het invoeren van een CRM naast het bestaande EPD, zagen we gemiddeld:
 
-- **Terugkerende patiënten:** +30 tot +45 procent door automatische recalls
-- **No-shows:** -50 procent door geautomatiseerde herinneringen
+- **Terugkerende patiënten:** duidelijk meer door automatische recalls
+- **No-shows:** fors omlaag door geautomatiseerde herinneringen
 - **Reviews per maand:** van gemiddeld 3 naar 12 (de [chatbot voor klinieken](/chatbot) helpt hierbij)
 - **Werkuren bespaard voor receptie:** 8-12 uur per week
-- **Nieuwsbrief-conversie naar afspraak:** 12-18 procent in eerste maand
+- **Nieuwsbrief-conversie naar afspraak:** reken met 12-18 procent in de eerste maand
 
 Niet enorm individueel maar samen een serieuze omzet-stijging zonder advertentie-budget. Voor een kliniek met 1.000 actieve patiënten en een dealwaarde van 200 euro per behandeling, betekent dit ongeveer 2.000-4.000 euro extra omzet per maand. Bekijk ook onze [tarieven](/tarieven) voor een complete opzet.
 
