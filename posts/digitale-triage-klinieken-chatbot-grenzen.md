@@ -13,9 +13,9 @@ Deze gids behandelt die grens concreet. Welke tien typen patiëntvragen een chat
 
 ## Waarom digitale triage voor klinieken werkt
 
-De gemiddelde kliniek krijgt dagelijks 30 tot 120 vragen binnen via telefoon, formulier, e-mail of WhatsApp. Van die vragen is ruwweg 60 tot 75 procent herhaalde vraag: openingstijden, tarieven van standaardbehandelingen, parkeergelegenheid, wat mee te nemen naar een afspraak, nuchter zijn of niet, wachttijden. Die vragen kosten je receptie per stuk twee tot vier minuten — samen goed voor meerdere uren per week die niet naar werkelijke zorg of complexe intake gaan.
+De gemiddelde kliniek krijgt dagelijks 30 tot 120 vragen binnen via telefoon, formulier, e-mail of WhatsApp. Van die vragen is het merendeel een herhaalde vraag: openingstijden, tarieven van standaardbehandelingen, parkeergelegenheid, wat mee te nemen naar een afspraak, nuchter zijn of niet, wachttijden. Die vragen kosten je receptie per stuk twee tot vier minuten — samen goed voor meerdere uren per week die niet naar werkelijke zorg of complexe intake gaan.
 
-Een goed ingerichte [AI chatbot](/chatbot) op je website of WhatsApp kan die standaardvragen in zes tot tien seconden afhandelen, 24 uur per dag, in Nederlands met correct juridisch voorbehoud. De resterende 25 tot 40 procent — echte medische vragen, klachten over behandelingen, urgente zorgen — wordt door diezelfde chatbot doorgestuurd naar de juiste medewerker of behandelaar met volledige context. Het resultaat: minder werkdruk, snellere reactie, tevredener patiënten.
+Een goed ingerichte [AI chatbot](/chatbot) op je website of WhatsApp kan die standaardvragen in zes tot tien seconden afhandelen, 24 uur per dag, in Nederlands met correct juridisch voorbehoud. De rest — echte medische vragen, klachten over behandelingen, urgente zorgen — wordt door diezelfde chatbot doorgestuurd naar de juiste medewerker of behandelaar met volledige context. Het resultaat: minder werkdruk, snellere reactie, tevredener patiënten.
 
 De valkuil waar veel klinieken intrappen: ze zetten de chatbot te breed in en laten hem medische adviezen geven die buiten zijn competentie vallen. Dat is niet alleen kwalitatief onverantwoord — het is ook juridisch riskant. Hieronder hoe je die grens precies trekt.
 
@@ -88,7 +88,7 @@ Een realistische invoering voor een kliniek van 5-30 medewerkers:
 - **Week 1-2:** Inventariseer de 40-60 meestgestelde patiëntvragen van de laatste drie maanden. Splits in bot-geschikt vs mens-nodig.
 - **Week 3-4:** Laat je medische eindverantwoordelijke de antwoorden voor de bot-vragen goedkeuren. Zet de chatbot live op je website met die antwoorden.
 - **Week 5-6:** Voeg WhatsApp toe als extra kanaal. Monitor welke vragen de bot niet kan beantwoorden en vul de kennisbank aan.
-- **Week 7-8:** Meet de cijfers: hoeveel vragen per dag komen erin, welk percentage is door de bot afgehandeld, wat is de responstijd. Typische uitkomst: 60-80% van routinevragen vangt de bot op.
+- **Week 7-8:** Meet de cijfers: hoeveel vragen per dag komen erin, welk percentage is door de bot afgehandeld, wat is de responstijd. Typische uitkomst: de bot vangt het merendeel van de routinevragen op.
 - **Maand 3 e.v.:** Finetuning van grensgevallen, uitbreiding naar intake-begeleiding (afspraak boeken na standaard-vragenronde).
 
 Wij bouwen dit gehele triage-systeem voor klinieken in onze managed service. Inclusief de juridische review door onze medische eindverantwoordelijke, de kennisbank-inrichting, en koppeling met je agendasysteem en CRM zodat intakes automatisch terecht komen waar ze horen. Meer over [tarieven en implementatietraject](/tarieven) voor klinieken die dit in één keer goed willen doen. Of vraag een [gratis scan](/gratis-scan) aan waarin we jouw huidige patiëntenstromen in kaart brengen en samen bepalen waar triage-automatisering direct zinvol is.
