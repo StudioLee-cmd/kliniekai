@@ -16,16 +16,16 @@ Een goed gekoppeld declaratie-systeem corrigeert dat zonder dat de behandelaar o
 **In het kort:**
 
 - Een vierkoppige kliniek besteedt doorgaans 15 tot 25 uur per maand aan declaratie-werk. Een gekoppeld systeem brengt dat terug naar circa 3 tot 5 uur.
-- De grootste winst zit niet in snellere verzending naar VECOZO, maar in validatie vóór de verzending: 70 tot 80 procent van de afwijzingen ontstaat door velden die in de declaratie ontbreken of fout staan.
+- De grootste winst zit niet in snellere verzending naar VECOZO, maar in validatie vóór de verzending: het overgrote deel van de afwijzingen ontstaat door velden die in de declaratie ontbreken of fout staan.
 - Vier lagen schakelen achter elkaar: EPD-invoer, validatie vooraf, VECOZO-verzending en terugkoppeling-afhandeling. Pas als alle vier kloppen, daalt het afwijzingspercentage substantieel.
 - Specialismen verschillen sterk in declaratie-eisen. Fysio, tandheelkunde, huidtherapie en medisch specialisten hebben elk andere prestatiecodes, vergoedingstabellen en uzovi-koppelingen.
 - Meten op twee getallen: declaratie-cycle-time (gemiddeld aantal dagen tussen behandeling en betaling) en eerste-keer-goed percentage (welke kwartaal je sluit zonder herstelwerk).
 
-## Waarom handmatige declaratie nog steeds bij 1 op de 8 klinieken voorkomt
+## Waarom handmatige declaratie nog steeds bij een deel van de klinieken voorkomt
 
-Branche-onderzoek onder private klinieken laat zien dat ongeveer 12 procent van de Nederlandse kleinere verzekerde-zorg-klinieken de declaratie nog steeds grotendeels handmatig doet. De reden is bijna altijd dezelfde: het EPD waarmee gewerkt wordt heeft geen volwassen VECOZO-module, of de koppeling is op een eerder moment ingericht en is sindsdien niet meer onderhouden. Wat begint als "we doen het zelf wel" eindigt vaak op een administratieve druk die niemand opzettelijk heeft ontworpen. Dezelfde lasten zien we bij klinieken die [hun administratieve druk willen verlagen](/blog/administratieve-druk-verlagen) zonder direct van EPD te wisselen.
+In de praktijk doet een aanzienlijke minderheid van de Nederlandse kleinere verzekerde-zorg-klinieken de declaratie nog steeds grotendeels handmatig. De reden is bijna altijd dezelfde: het EPD waarmee gewerkt wordt heeft geen volwassen VECOZO-module, of de koppeling is op een eerder moment ingericht en is sindsdien niet meer onderhouden. Wat begint als "we doen het zelf wel" eindigt vaak op een administratieve druk die niemand opzettelijk heeft ontworpen. Dezelfde lasten zien we bij klinieken die [hun administratieve druk willen verlagen](/blog/administratieve-druk-verlagen) zonder direct van EPD te wisselen.
 
-De feitelijke kost is bekend: een fout in een prestatiecode, een ontbrekende verwijzing of een verkeerde uzovi-code leidt tot een afwijzing van de declaratie. Die moet handmatig worden opgespoord, gecorrigeerd en opnieuw verzonden. Per afwijzing kost dat doorgaans 15 tot 30 minuten administratieve tijd. Bij een afwijzingspercentage van 8 tot 10 procent loopt dat hard op.
+De feitelijke kost is bekend: een fout in een prestatiecode, een ontbrekende verwijzing of een verkeerde uzovi-code leidt tot een afwijzing van de declaratie. Die moet handmatig worden opgespoord, gecorrigeerd en opnieuw verzonden. Per afwijzing kost dat doorgaans 15 tot 30 minuten administratieve tijd. Reken met een afwijzingspercentage van 8 tot 10 procent en dat loopt hard op.
 
 ## VECOZO in 1 minuut
 
@@ -37,11 +37,11 @@ VECOZO is het centrale knooppunt voor het uitwisselen van declaraties tussen zor
 
 ### Laag 1: het EPD
 
-Het EPD is waar de behandeling wordt vastgelegd. Voor declaratie betekent dat: prestatiecodes, behandeldatum, behandelaar, verwijzer, diagnose, eventueel DBC-traject. De kwaliteit van wat hier wordt vastgelegd, bepaalt of de declaratie überhaupt valide is. Een EPD dat de behandelaar dwingt om een verwijzing aan te koppelen voordat de behandeling wordt afgesloten, voorkomt 30 tot 40 procent van alle latere afwijzingen. De relatie tussen [patiëntendossier en CRM in een kliniek](/blog/patientendossier-crm-kliniek-verschil) bepaalt vaak hoe goed deze laag werkt: een goed gekoppeld dossier voedt automatisch de declaratie zonder dat de behandelaar er nog naar moet kijken.
+Het EPD is waar de behandeling wordt vastgelegd. Voor declaratie betekent dat: prestatiecodes, behandeldatum, behandelaar, verwijzer, diagnose, eventueel DBC-traject. De kwaliteit van wat hier wordt vastgelegd, bepaalt of de declaratie überhaupt valide is. Een EPD dat de behandelaar dwingt om een verwijzing aan te koppelen voordat de behandeling wordt afgesloten, voorkomt een groot deel van alle latere afwijzingen. De relatie tussen [patiëntendossier en CRM in een kliniek](/blog/patientendossier-crm-kliniek-verschil) bepaalt vaak hoe goed deze laag werkt: een goed gekoppeld dossier voedt automatisch de declaratie zonder dat de behandelaar er nog naar moet kijken.
 
 ### Laag 2: validatie vooraf
 
-Hier zit de grootste verborgen winst. Een validatie-module controleert vóór verzending of alle verplichte velden kloppen, of de prestatiecode past bij het traject, of de uzovi-code matcht met de polis en of de verwijzing nog binnen de geldigheidsduur valt. De goede EPD-pakketten doen dit zelf; bij minder volwassen pakketten zit er een externe laag tussen. Klinieken die deze laag goed inrichten zien hun afwijzingspercentage zakken van 8 tot 10 procent naar onder de 3 procent.
+Hier zit de grootste verborgen winst. Een validatie-module controleert vóór verzending of alle verplichte velden kloppen, of de prestatiecode past bij het traject, of de uzovi-code matcht met de polis en of de verwijzing nog binnen de geldigheidsduur valt. De goede EPD-pakketten doen dit zelf; bij minder volwassen pakketten zit er een externe laag tussen. Klinieken die deze laag goed inrichten zien hun afwijzingspercentage sterk zakken.
 
 ### Laag 3: de verzending naar VECOZO
 
@@ -71,9 +71,9 @@ Twee getallen leggen de hele declaratie-prestatie van een kliniek bloot.
 
 **Declaratie-cycle-time:** het gemiddeld aantal dagen tussen de behandeldatum en het moment dat de declaratie betaald is. Een gezonde private kliniek zit hier doorgaans op 18 tot 28 dagen. Boven de 40 dagen klopt er iets niet in laag 2 of laag 4.
 
-**Eerste-keer-goed percentage:** welk percentage van de declaraties zonder afwijzing wordt betaald. Een goed ingericht systeem haalt 92 procent of hoger. Onder de 85 procent betekent dat laag 2 (validatie vooraf) te weinig vangt en je structureel herstelwerk doet.
+**Eerste-keer-goed percentage:** welk percentage van de declaraties zonder afwijzing wordt betaald. Reken met 92 procent of hoger als norm voor een goed ingericht systeem; blijf je onder de 85 procent, dan vangt laag 2 (validatie vooraf) te weinig en doe je structureel herstelwerk.
 
-Naast deze twee is een derde getal nuttig voor kwartaalsturing: het aandeel van de omzet dat verloren gaat aan declaraties die uiteindelijk niet betaald worden. Bij goed onderhouden VECOZO-koppelingen is dat onder de 1,5 procent.
+Naast deze twee is een derde getal nuttig voor kwartaalsturing: het aandeel van de omzet dat verloren gaat aan declaraties die uiteindelijk niet betaald worden. Bij goed onderhouden VECOZO-koppelingen blijft dat aandeel klein.
 
 ## AVG-aandachtspunt
 
