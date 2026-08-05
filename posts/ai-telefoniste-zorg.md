@@ -17,4 +17,4 @@ Hier biedt [Voice AI](/voice-ai) de uitkomst. Geen krakend bandje met "toets 1 v
 ## Wat kan de KliniekAI Telefoniste?
 - **Triage & Urgentie:** De AI kan vragen naar de aard van de klachten. Bij trefwoorden die duiden op spoed, kan het gesprek direct worden doorverbonden naar de dienstdoende arts of spoedpost.
 - **Agenda Beheer:** "Ik wil graag een afspraak bij Dr. Jansen." De AI checkt de agenda, stelt opties voor en boekt de afspraak direct in uw EPD/agenda systeem.
-- **Veelgestelde Vragen:** Vragen over parkeren, tarieven, wachttijden of nuchter zijn voor een ingreep worden direct beantwoord. Dit scheelt uw balie-personeel tot wel 60% van de telefoontjes.
+- **Veelgestelde Vragen:** Vragen over parkeren, tarieven, wachttijden of nuchter zijn voor een ingreep worden direct beantwoord. Dit scheelt uw balie-personeel een groot deel van de telefoontjes.
