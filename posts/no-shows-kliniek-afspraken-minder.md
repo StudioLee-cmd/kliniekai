@@ -31,13 +31,13 @@ Bovendien verlengt elke no-show de wachtlijst. Patienten die wachten op een afsp
 
 ## Wat aantoonbaar werkt
 
-**Dubbele herinnering via WhatsApp of SMS.** 48 uur van tevoren een bericht met datum, tijd en voorbereidingsinstructies ("Komt u nuchter", "Neem uw verzekeringspas mee"). Nogmaals 3 uur van tevoren: "Uw afspraak is vandaag om [tijd] bij [kliniek]." Dit vermindert no-shows met 40 tot 60 procent. Een [AI telefonist](/voice-ai) automatiseert dit volledig zonder dat je personeel er naar hoeft om te kijken.
+**Dubbele herinnering via WhatsApp of SMS.** 48 uur van tevoren een bericht met datum, tijd en voorbereidingsinstructies ("Komt u nuchter", "Neem uw verzekeringspas mee"). Nogmaals 3 uur van tevoren: "Uw afspraak is vandaag om [tijd] bij [kliniek]." Dit vermindert no-shows fors. Een [AI telefonist](/voice-ai) automatiseert dit volledig zonder dat je personeel er naar hoeft om te kijken.
 
 **Online wijzigen en annuleren.** Geef patienten een link waarmee ze zelf kunnen verzetten of annuleren, 24 uur per dag. Met een [chatbot](/chatbot) op je website maak je dit mogelijk zonder extra personeelsinzet. Liever een annulering een dag van tevoren dan een lege stoel op de dag zelf. Een geannuleerde afspraak kun je nog opvullen, een no-show niet.
 
 **Wachtlijst-systeem.** Houd een lijst bij van patienten die eerder willen komen dan hun geplande afspraak. Bij een annulering vul je het gat direct op. Stuur een automatisch bericht naar de wachtlijst: "Er is een plek vrijgekomen op [datum]. Wilt u eerder komen?" De eerste die reageert, krijgt de plek.
 
-**Aanbetaling bij duurdere behandelingen.** Bij behandelingen boven de 150 euro is een aanbetaling redelijk en effectief. Het filtert niet-serieuze boekingen en verlaagt de no-show kans drastisch. Communiceer het als standaardprocedure: "Om uw behandeling te reserveren, vragen wij een aanbetaling van 25 procent."
+**Aanbetaling bij duurdere behandelingen.** Bij behandelingen boven de 150 euro is een aanbetaling redelijk en effectief. Het filtert niet-serieuze boekingen en verlaagt de no-show kans drastisch. Communiceer het als standaardprocedure: "Om uw behandeling te reserveren, vragen wij een aanbetaling van [X] procent."
 
 **Persoonlijk contact bij veelplegers.** Na drie no-shows: een telefoontje van de praktijkmanager. Vaak spelen er onderliggende problemen (angst, vervoer, financien) die je kunt bespreken en oplossen. Soms is een vast belmoment voorafgaand aan de afspraak de simpelste oplossing.
 
@@ -45,6 +45,6 @@ Bovendien verlengt elke no-show de wachtlijst. Patienten die wachten op een afsp
 
 ## Begin met de maatregel die het snelst werkt
 
-Automatische herinneringen leveren het snelste resultaat met de minste investering. Start daar. Na een maand analyseer je de impact en voeg je de volgende maatregel toe: het wachtlijstsysteem. Na twee maanden heb je een compleet systeem dat 60 tot 80 procent van je no-shows elimineert.
+Automatische herinneringen leveren het snelste resultaat met de minste investering. Start daar. Na een maand analyseer je de impact en voeg je de volgende maatregel toe: het wachtlijstsysteem. Na twee maanden heb je een compleet systeem dat het merendeel van je no-shows elimineert.
 
 Wil je weten welke aanpak het meest oplevert voor jouw kliniek? Vraag een [gratis scan](/gratis-scan) aan en ontvang een plan op maat.
