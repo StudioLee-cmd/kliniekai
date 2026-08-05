@@ -17,10 +17,10 @@ Voor klinieken is dit extra gevoelig. Mensen vertrouwen hun gezondheid aan je to
 
 ## De cijfers achter online reputatie
 
-- 84% van de patienten leest online reviews voordat ze een kliniek kiezen
-- Een kliniek met minder dan 4.0 sterren verliest 70% van potentiele patienten
+- De meeste patienten lezen online reviews voordat ze een kliniek kiezen
+- Een kliniek met minder dan 4.0 sterren verliest een groot deel van potentiele patienten
 - 1 negatieve review ongedaan maken vereist gemiddeld 7-10 positieve reviews
-- Klinieken met 50+ reviews worden 3x vaker gekozen dan klinieken met minder dan 10
+- Klinieken met 50+ reviews worden veel vaker gekozen dan klinieken met minder dan 10
 
 ## Je reputatie opbouwen: proactief
 
@@ -92,7 +92,7 @@ Publiceer content die vertrouwen opbouwt:
 |----------|--------|
 | Rating 4.5+ sterren | Volledige bezetting, wachtlijst |
 | Rating 4.0-4.4 sterren | Normale bezetting |
-| Rating 3.5-3.9 sterren | 30-40% minder nieuwe patienten |
+| Rating 3.5-3.9 sterren | merkbaar minder nieuwe patienten |
 | Rating onder 3.5 | Praktijk loopt leeg, lastig te herstellen |
 
 ## Conclusie
