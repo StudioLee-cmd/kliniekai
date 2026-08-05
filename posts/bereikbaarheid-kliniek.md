@@ -75,8 +75,8 @@ Wat je niet meet, kun je niet verbeteren. Houd bij:
 
 Klinieken die investeren in bereikbaarheid zien:
 
-- Tot 40% minder gemiste telefoontjes
-- 25% meer online boekingen
+- Merkbaar minder gemiste telefoontjes
+- Meer online boekingen, ook buiten kantoortijd
 - Hogere [patienttevredenheidscores](/blog/patientbeleving-verbeteren-kliniek)
 - Minder no-shows door betere communicatie
 
