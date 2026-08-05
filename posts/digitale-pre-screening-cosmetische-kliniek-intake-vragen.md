@@ -14,11 +14,11 @@ Pre-screening is de oplossing die particuliere klinieken in Nederland trager opp
 
 **In het kort:**
 
-- Klinieken zonder pre-screening verliezen 25-40% van hun intake-tijd aan patiënten die ofwel ongeschikt zijn, ofwel verkeerde verwachtingen hebben.
-- Zeven vragen dekken 95% van de pre-screening-behoefte: behandelwens, gezondheidshistorie, medicatie, allergieën, eerdere behandelingen, motivatie/verwachting, foto's van het behandelgebied.
+- Klinieken zonder pre-screening verliezen een fors deel van hun intake-tijd aan patiënten die ofwel ongeschikt zijn, ofwel verkeerde verwachtingen hebben.
+- Zeven vragen dekken vrijwel de hele pre-screening-behoefte: behandelwens, gezondheidshistorie, medicatie, allergieën, eerdere behandelingen, motivatie/verwachting, foto's van het behandelgebied.
 - Pre-screening-formulieren werken het best voor cosmetische klinieken; pre-intake chatbots zijn beter voor klinieken met grote spreiding aan behandelingen; WhatsApp-pre-intake is voor solo-praktijken met persoonlijke benadering.
 - AVG-compliance is non-negotiable: nooit medische gegevens via standaard formulier of email, altijd via beveiligde route met expliciete toestemming voor verwerking.
-- Klinieken die pre-screening implementeren rapporteren 30-45% kortere intakes, 15-25% hogere intake-naar-behandeling conversie, en duidelijk minder 1- en 2-sterren reviews uit teleurstelling-bij-afwijzing.
+- Klinieken die pre-screening implementeren zien kortere intakes, een hogere intake-naar-behandeling conversie, en duidelijk minder 1- en 2-sterren reviews uit teleurstelling-bij-afwijzing.
 
 ## Wat is pre-screening en waarom doet niet elke kliniek het?
 
@@ -28,7 +28,7 @@ In Nederland is pre-screening voor cosmetische klinieken nog niet wijdverbreid o
 
 ## De 7 vragen die elke cosmetische pre-screening moet bevatten
 
-Op basis van wat goed werkt bij cosmetische klinieken (filler, botox, laser, mesotherapie, microneedling, lichaamsbehandeling) dekken zeven vragen circa 95% van de pre-screening-behoefte. Ze zijn opgesteld om medisch geschikt te filteren, verwachtingen te checken, en de intake gericht te kunnen voorbereiden.
+Op basis van wat goed werkt bij cosmetische klinieken (filler, botox, laser, mesotherapie, microneedling, lichaamsbehandeling) dekken zeven vragen vrijwel de hele pre-screening-behoefte. Ze zijn opgesteld om medisch geschikt te filteren, verwachtingen te checken, en de intake gericht te kunnen voorbereiden.
 
 ### 1. Wat is je specifieke behandelwens?
 
@@ -92,11 +92,11 @@ Drie meetbare effecten op basis van klinieken die pre-screening-flows hebben uit
 
 **1. Kortere intakes.** Een gemiddelde cosmetische intake duurt 30-45 minuten. Met pre-screening vooraf daalt dit naar 18-25 minuten — de behandelaar kent de geschiedenis al, de verwachting is gechecked, foto's zijn beoordeeld. Voor een kliniek met 6 intakes per dag is dat 90-120 minuten extra behandeltijd, oftewel ruimte voor 2-3 extra behandelingen per dag.
 
-**2. Hogere intake-naar-behandeling conversie.** Klinieken zonder pre-screening converteren typisch 55-65% van intakes naar behandeling. Met goed ingerichte pre-screening loopt dit op naar 75-85%, omdat de niet-geschikte patiënten al zijn uitgefilterd vóór de intake plaatsvond. Per behandeling à €450 gemiddeld scheelt elke 10% conversiestijging op 100 intakes per maand €4.500 omzet.
+**2. Hogere intake-naar-behandeling conversie.** Klinieken zonder pre-screening converteren maar een deel van hun intakes naar behandeling. Met goed ingerichte pre-screening loopt dat merkbaar op, omdat de niet-geschikte patiënten al zijn uitgefilterd vóór de intake plaatsvond. Per behandeling à €450 gemiddeld scheelt elke 10% conversiestijging op 100 intakes per maand €4.500 omzet.
 
 **3. Minder 1- en 2-sterren reviews uit teleurstelling.** Patiënten die op de afspraak voor het eerst horen "u bent niet geschikt voor deze behandeling" geven typisch een matige review — niet uit boosheid op de kliniek, maar uit frustratie over de verloren reis. Pre-screening verhuist dat moment naar online (waar het minder pijnlijk landt) en geeft de patiënt direct een alternatief of doorverwijzing. Klinieken rapporteren 0,3-0,5 sterren stijging op het Google-gemiddelde binnen 90 dagen — een effect dat doorwerkt op nieuwe patiëntenwerving via [Google reviews](https://www.kliniekai.nl/reviews).
 
-Bij een kliniek met 100 intakes per maand, gemiddelde behandelwaarde €450, en een conversiesprong van 60% naar 78% betekent dit een omzeteffect van €8.100 per maand bij gelijk volume. Op jaarbasis €97.200 — voor een AI-chatbot met pre-screening-flow van €197-€397 per maand een ROI van 20+ keer, nog zonder de bespaarde behandeltijd mee te tellen.
+In dit rekenvoorbeeld: bij een kliniek met 100 intakes per maand, gemiddelde behandelwaarde €450, en een conversiesprong van 60% naar 78% betekent dit een omzeteffect van €8.100 per maand bij gelijk volume. Op jaarbasis €97.200 — voor een AI-chatbot met pre-screening-flow van €197-€397 per maand een ROI van 20+ keer, nog zonder de bespaarde behandeltijd mee te tellen.
 
 ## Veelgestelde vragen
 
