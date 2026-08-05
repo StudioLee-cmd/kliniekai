@@ -35,11 +35,11 @@ Wat er onder die dalende lijn kan zitten is dus niet per se minder interesse. He
 
 ## Wat het onderzoek hierover laat zien
 
-Er is inmiddels wel wat cijfermateriaal, al is het jong. Ahrefs analyseerde ongeveer 300.000 zoekwoorden en constateerde dat de aanwezigheid van een AI Overview samenging met circa 34 procent minder kliks voor de website op positie één. Internationale nieuwsuitgevers rapporteerden dalingen in dezelfde orde van grootte en in uitschieters aanzienlijk meer.
+Er is inmiddels wel wat cijfermateriaal, al is het jong. Volgens Ahrefs, dat ongeveer 300.000 zoekwoorden analyseerde, ging de aanwezigheid van een AI Overview samen met circa 34 procent minder kliks voor de website op positie één. Internationale nieuwsuitgevers rapporteerden dalingen in dezelfde orde van grootte en in uitschieters aanzienlijk meer.
 
 Twee kanttekeningen horen daarbij, en die zijn voor een kliniek belangrijker dan het percentage zelf. Ten eerste komen die metingen grotendeels uit sectoren met veel algemene informatievragen, zoals nieuws en gezondheidsblogs. Een private kliniek die vooral op behandeling plus regio gevonden wordt, zit in een ander deel van het spectrum. Ten tweede zeggen verschillende specialisten dat de kliks die je nog wél krijgt beter converteren, juist omdat die bezoeker het basisantwoord al heeft gehad en bewust doorklikt.
 
-Neem die 34 procent dus niet over als jouw verwachte daling. Gebruik het als reden om je eigen cijfers op te splitsen naar type zoekopdracht, want daar zit jouw werkelijke antwoord.
+Neem die 34 procent uit de analyse van Ahrefs dus niet over als jouw verwachte daling. Gebruik het als reden om je eigen cijfers op te splitsen naar type zoekopdracht, want daar zit jouw werkelijke antwoord.
 
 ## De vier getallen die je nu wel bijhoudt
 
