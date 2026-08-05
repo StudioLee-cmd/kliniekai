@@ -12,7 +12,7 @@ tags: ["Lead opvolging", "Kliniek", "Bereikbaarheid"]
 
 De telefoon gaat. Je assistente is bezig met een patient aan de balie. De andere lijn is bezet. Na vier keer overgaan hangt de beller op. Wie was dat? Een bestaande patient met een vraag? Of een nieuwe patient die voor het eerst wilde bellen?
 
-In de gemiddelde kliniek worden 20 tot 30 procent van de inkomende oproepen gemist. Dat klinkt misschien acceptabel, tot je berekent wat het betekent. Bij 40 telefoontjes per dag zijn dat 8 tot 12 gemiste oproepen. Als slechts een kwart daarvan nieuwe patienten zijn, verlies je 2 tot 3 potentiele patienten per dag.
+In de gemiddelde kliniek wordt een deel van de inkomende oproepen gemist. Dat klinkt misschien acceptabel, tot je berekent wat het betekent. Reken met 20 tot 30 procent: bij 40 telefoontjes per dag zijn dat 8 tot 12 gemiste oproepen. Als slechts een kwart daarvan nieuwe patienten zijn, verlies je 2 tot 3 potentiele patienten per dag.
 
 Per maand zijn dat 40 tot 60 gemiste kansen. Bij een gemiddelde patientwaarde van 500 euro per jaar is dat 20.000 tot 30.000 euro aan potentiele jaaromzet die je laat liggen.
 
@@ -54,7 +54,7 @@ De eerste stap is meten. Hoeveel oproepen komen er dagelijks binnen? Hoeveel wor
 
 De meeste kliniek-telefoonsystemen loggen dit automatisch. Vraag je telefoomprovider om een overzicht van de afgelopen maand. De cijfers geven je een baseline om je verbetering te meten.
 
-Na het implementeren van automatische opvolging zou je gemiste-oproep-conversie (het percentage gemiste oproepen dat alsnog tot een afspraak leidt) moeten stijgen van onder de 10 procent naar boven de 50 procent.
+Na het implementeren van automatische opvolging zou je gemiste-oproep-conversie (het percentage gemiste oproepen dat alsnog tot een afspraak leidt) fors moeten stijgen: van een kleine minderheid naar de meerderheid.
 
 ## Conclusie: elke oproep verdient een antwoord
 
