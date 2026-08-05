@@ -18,13 +18,13 @@ Het gevolg: patiënten die lang wachten aan de telefoon. Afspraken die vergeten 
 
 ### Afspraakbevestigingen en herinneringen
 
-De nummer één tijdvreter: handmatig bellen om afspraken te bevestigen. Automatische SMS- of WhatsApp-herinneringen 48 uur en 2 uur voor de afspraak reduceren no-shows met 40 tot 60 procent. De patiënt bevestigt met één klik of belt om te verzetten.
+De nummer één tijdvreter: handmatig bellen om afspraken te bevestigen. Automatische SMS- of WhatsApp-herinneringen 48 uur en 2 uur voor de afspraak reduceren no-shows fors. De patiënt bevestigt met één klik of belt om te verzetten.
 
 Klinieken die dit implementeren rapporteren gemiddeld 3 uur per dag minder telefoonverkeer aan de balie.
 
 ### Online afspraken plannen
 
-Patiënten willen zelf hun afspraak inplannen, op een moment dat het hun uitkomt. 45 procent van alle online afspraken wordt buiten kantooruren gemaakt. Een online boekingssysteem dat koppelt aan je behandelagenda voorkomt dubbele boekingen en neemt telefonische planning volledig over.
+Patiënten willen zelf hun afspraak inplannen, op een moment dat het hun uitkomt. Een groot deel van alle online afspraken wordt buiten kantooruren gemaakt. Een online boekingssysteem dat koppelt aan je behandelagenda voorkomt dubbele boekingen en neemt telefonische planning volledig over.
 
 ### Intake en anamnese
 
@@ -67,7 +67,7 @@ De meeste moderne kliniekmanagementsystemen voldoen standaard aan deze eisen.
 ## Concrete resultaten
 
 - 3 tot 5 uur per dag minder telefoonverkeer
-- 40 tot 60 procent minder no-shows
+- Fors minder no-shows
 - Kortere consulten door digitale intake
 - Hogere patiënttevredenheid door snellere communicatie
 
