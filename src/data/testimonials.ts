@@ -1,75 +1,56 @@
 import { ITestimonial } from "@/types";
 
+// ─────────────────────────────────────────────────────────────────────────────────────
+// BOUWSTEEN 8 — HET BEWIJS-BLOK. Toon-regel 3 van het boodschap-frame: bewijs is echt,
+// of het staat er niet (alpha1/ventures/studiolee/projects/niche-sites-upgrade-programma.md
+// §HET BOODSCHAP-FRAME).
+//
+// Tim, keur 173 (01-08): de tien verzonnen klant-quotes gaan eraf en er komt GEEN
+// vervangende constructie voor in de plaats. Het blok bestaat alleen zolang er ECHTE
+// klant-quotes zijn; is die lijst leeg, dan staat de sectie niet op de pagina.
+//
+// ⭐ ÉÉN ECHTE QUOTE TOEVOEGEN IS GENOEG. Zet 'm in `testimonials` hieronder en de sectie
+//    verschijnt vanzelf, kop en al. Er is geen tweede plek om te bewerken:
+//    `Testimonials.tsx` en `page.tsx` lezen allebei uit `proofBlock`.
+// ─────────────────────────────────────────────────────────────────────────────────────
 
-export const testimonials: ITestimonial[] = [
-    {
-        name: 'Dr. Sarah de Vries',
-        role: 'Tandartspraktijk De Glimlach, Utrecht',
-        message: 'Tijdens behandelingen kan ik de telefoon niet opnemen. KliniekAI vangt alles op, plant afspraken in en stuurt herinneringen. Het aantal no-shows is drastisch gedaald.',
-        avatar: '/images/testimonials/testimonial-1.jpg',
-        stars: 5
-    },
-    {
-        name: 'Mark van der Linden',
-        role: 'Fysiotherapie Centrum, Rotterdam',
-        message: 'Ik was sceptisch over AI in de zorg, maar het voelt heel persoonlijk. Patiënten worden direct geholpen en ik heb meer rust tussen de behandelingen door.',
-        avatar: '/images/testimonials/testimonial-2.png',
-        stars: 5
-    },
-    {
-        name: 'Elise Visser',
-        role: 'Huidkliniek Visser, Amsterdam',
-        message: 'De marketing tools zijn fantastisch. Onze instagram loopt vanzelf en we krijgen continu nieuwe aanmeldingen voor intakes. Het systeem betaalt zichzelf dubbel en dwars terug.',
-        avatar: '/images/testimonials/testimonial-3.png',
-        stars: 5
-    },
-    {
-        name: 'Robert Jansen',
-        role: 'Huisartsenpraktijk West, Den Haag',
-        message: 'De administratieve last is enorm verminderd. Het systeem filtert de vragen en plant alleen in wat nodig is. Mijn assistente heeft nu tijd voor echte patiëntenzorg.',
-        avatar: '/images/testimonials/testimonial-4.jpg',
-        stars: 5
-    },
-    {
-        name: 'Laura Bakker',
-        role: 'Psychologenpraktijk Inzicht, Eindhoven',
-        message: 'Discretie en bereikbaarheid zijn cruciaal. KliniekAI handelt alles professioneel af. Cliënten voelen zich gehoord, ook als ik in gesprek ben.',
-        avatar: '/images/testimonials/testimonial-5.png',
-        stars: 5
-    },
-    {
-        name: 'Tom Meijer',
-        role: 'Chiropractie Meijer, Arnhem',
-        message: 'De automatische facturatie scheelt me uren per week. Behandeling klaar, factuur verstuurd. Geen achterstallige administratie meer in het weekend.',
-        avatar: '/images/testimonials/testimonial-6.png',
-        stars: 5
-    },
-    {
-        name: 'Sophie van Dijk',
-        role: 'Schoonheidssalon Pure, Groningen',
-        message: 'Mijn agenda is altijd perfect gevuld. Valt er een gat? Het systeem vult het op met wachtlijst patiënten. Echt een top oplossing voor mijn kliniek.',
-        avatar: '/images/testimonials/testimonial-7.png',
-        stars: 4
-    },
-    {
-        name: 'Dr. Jan Willems',
-        role: 'Orthodontie Praktijk, Zwolle',
-        message: 'De "Gemiste Oproep SMS" werkt perfect. Patiënten bellen niet meer rond naar andere praktijken, maar maken direct een afspraak via de link die ze krijgen.',
-        avatar: '/images/testimonials/testimonial-8.jpg',
-        stars: 5
-    },
-    {
-        name: 'Linda de Jong',
-        role: 'Voedingscoach Linda, Tilburg',
-        message: 'Ik ben goed in coachen, niet in techniek. Maar dit systeem is zo simpel. Alles in één overzicht en het werkt gewoon altijd.',
-        avatar: '/images/testimonials/testimonial-9.jpg',
-        stars: 5
-    },
-    {
-        name: 'Kliniek Excellent',
-        role: 'Cosmetische Kliniek, Maastricht',
-        message: 'Sinds we met KliniekAI werken is onze online zichtbaarheid enorm gegroeid. We staan bovenaan in Google en de agenda zit maanden vol.',
-        avatar: '/images/testimonials/testimonial-10.png',
-        stars: 5
-    },
-];
+/**
+ * ECHTE klant-quotes van dit merk. Leeg = er is er vandaag nog geen.
+ * Vullen = het blok toont ze meteen, zonder dat er iets anders aangepast hoeft te worden.
+ * Illustratieve, gegenereerde of "voorbeeld"-quotes horen hier NIET in — dat is precies
+ * wat keur 173 eraf haalde.
+ */
+export const testimonials: ITestimonial[] = [];
+
+/** Kop + subkop van de sectie; `null` laat de hele sectie van de pagina verdwijnen. */
+export interface IProofSection {
+    title: string;
+    description: string;
+}
+
+export interface IProofBlock {
+    /** `null` = de sectie wordt niet gerenderd (page.tsx laat 'm dan weg). */
+    section: IProofSection | null;
+    /** De quotes die getoond worden. Leeg/afwezig = geen marquee. */
+    quotes?: ITestimonial[];
+}
+
+/**
+ * DE KOP BOVEN HET BLOK. Eén constante, want tot 31-07 stond deze zin twee keer letterlijk
+ * in deze file — mét de merknaam erin. Dat is de dubbele hardcode die RULE 3 verbiedt: bij
+ * de rollout naar de andere merken volgt een agent de gedocumenteerde "één regel" en laat
+ * de tweede staan. Eén constante = één string per repo om te vervangen.
+ */
+const echteQuotesSection: IProofSection = {
+    title: 'Wat Onze Klanten Zeggen',
+    description: 'Ervaringen van bedrijven die al werken met KliniekAI.',
+};
+
+/**
+ * DE ENIGE BRON DIE DE PAGINA LEEST. Geen echte quotes = geen sectie; zodra er één echte
+ * quote in `testimonials` staat is de kop waar en verschijnt het blok.
+ */
+export const proofBlock: IProofBlock =
+    testimonials.length > 0
+        ? { section: echteQuotesSection, quotes: testimonials }
+        : { section: null };
