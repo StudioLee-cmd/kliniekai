@@ -25,7 +25,7 @@ Wacht je te lang, dan gebeurt een van drie dingen:
 - De motivatie zakt weg en de patient stelt de behandeling uit
 - De patient vergeet dat ze contact heeft opgenomen
 
-Onderzoek toont aan dat de kans op conversie met 80 procent daalt als je langer dan 5 minuten wacht met reageren. Niet 80 procent na een dag, maar na 5 minuten.
+De kans op conversie keldert als je langer dan 5 minuten wacht met reageren. Niet na een dag, maar na 5 minuten.
 
 ## Stap 1: Automatische bevestiging direct na de aanvraag
 
@@ -58,7 +58,7 @@ E-mail en WhatsApp zijn handig, maar niets vervangt een telefoontje. Een persoon
 
 - Bouwt direct vertrouwen op (de patient hoort een stem, geen template)
 - Geeft de mogelijkheid om vragen te beantwoorden die de patient niet durfde te mailen
-- Verhoogt de kans op een geboekte afspraak met 40 procent ten opzichte van alleen e-mailcontact
+- Verhoogt de kans op een geboekte afspraak duidelijk ten opzichte van alleen e-mailcontact
 
 Bel de patient terug, en stuur daarna een bevestiging via e-mail of WhatsApp met een samenvatting van het gesprek en een link om direct online een afspraak te boeken.
 
@@ -90,7 +90,7 @@ Dit verlaagt de drempel voor patienten die 's avonds of in het weekend beslissen
 
 ## Stap 6: Bereikbaarheid buiten kantoortijden
 
-40 procent van de online aanvragen voor klinieken komt buiten kantoortijden binnen. Dat zijn patienten die overdag werken en 's avonds onderzoek doen. Als je pas de volgende ochtend reageert, ben je te laat.
+Een groot deel van de online aanvragen voor klinieken komt buiten kantoortijden binnen. Dat zijn patienten die overdag werken en 's avonds onderzoek doen. Als je pas de volgende ochtend reageert, ben je te laat.
 
 Een [AI-telefonist](/voice-ai) die buiten kantoortijden bereikbaar is, vangt deze aanvragen op. De AI beantwoordt veelgestelde vragen, noteert de contactgegevens, en stuurt je direct een samenvatting. De volgende ochtend bel je terug met alle informatie die je nodig hebt.
 
@@ -100,7 +100,7 @@ Een [AI-telefonist](/voice-ai) die buiten kantoortijden bereikbaar is, vangt dez
 
 De impact van snellere opvolging is direct meetbaar:
 
-- 30 tot 50 procent meer geboekte afspraken uit dezelfde hoeveelheid aanvragen
+- Fors meer geboekte afspraken uit dezelfde hoeveelheid aanvragen
 - Hogere patienttevredenheid (snelle reactie = professionele indruk)
 - Minder afhankelijkheid van advertenties (je haalt meer uit bestaand verkeer)
 
