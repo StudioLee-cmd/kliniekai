@@ -23,7 +23,7 @@ De meest directe ROI van e-mailmarketing zit in afspraakherinneringen:
 - **24 uur voor de afspraak**: korte bevestiging met voorbereidingsinstructies
 - **Na de afspraak**: bedankmail met nazorginstructies
 
-Automatische herinneringen verminderen no-shows met 30-50%. Bij een gemiddelde no-show rate van 10% en een consultprijs van €150 bespaart dit al snel duizenden euro's per maand. Lees meer over hoe je [no-shows vermindert](/blog/no-shows-kliniek-verminderen) als kliniek.
+Automatische herinneringen verminderen no-shows aanzienlijk. Reken met een no-show rate van 10% en een consultprijs van €150 en dit bespaart al snel duizenden euro's per maand. Lees meer over hoe je [no-shows vermindert](/blog/no-shows-kliniek-verminderen) als kliniek.
 
 ## Gezondheidsnieuwsbrieven die gelezen worden
 
