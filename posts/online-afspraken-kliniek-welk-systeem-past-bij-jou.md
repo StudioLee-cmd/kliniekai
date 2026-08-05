@@ -127,7 +127,7 @@ Wat je idealiter binnen 60-90 dagen wilt hebben staan:
 - EPD-integratie (Promedico, MicroHis, of vergelijkbaar) voor dubbele-data-prevention
 - Klant-tevredenheid-flow: 48u na behandeling automatisch een review-vraag
 
-Voor [tarieven van een AI-pakket](/tarieven) dat dit hele systeem inclusief 24/7 telefoon-opvang draait vanaf 149 euro per maand, kijk je op de tariefpagina. Of begin met een [gratis AI-scan voor klinieken](/gratis-scan) om te zien wat het beste past bij jouw kliniek.
+Wat een AI-pakket kost dat dit hele systeem inclusief 24/7 telefoon-opvang draait, staat op de [tarieven van KliniekAI](/tarieven). Of begin met een [gratis AI-scan voor klinieken](/gratis-scan) om te zien wat het beste past bij jouw kliniek.
 
 ## Wat StudioLee voor je inricht
 
