@@ -9,15 +9,15 @@ tags: ["Website", "Conversie", "Patiënten"]
 cluster: "website"
 ---
 
-Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Misschien 1 op de 100 — terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.
+Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Stel dat het 1 op de 100 is — terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.
 
 Het probleem is zelden het verkeer. Het probleem is de conversie — het omzetten van een bezoeker in een patiënt. En dat is precies waar dit artikel over gaat.
 
 ## Wat is een goed conversiepercentage voor een kliniek?
 
-Voor medische websites ligt een gezond conversiepercentage tussen de 3% en 8%. Dat betekent: van elke 100 bezoekers maken er 3 tot 8 een afspraak, vullen een contactformulier in, of bellen het nummer dat op de website staat.
+Voor medische websites kun je rekenen met een gezond conversiepercentage van 3% tot 8%. Dat betekent: van elke 100 bezoekers maken er 3 tot 8 een afspraak, vullen een contactformulier in, of bellen het nummer dat op de website staat.
 
-Als je onder de 2% zit, laat je significant omzet op tafel liggen. De bezoekers zijn er al — ze hebben je gevonden via Google, via je [Google Bedrijfsprofiel](/), of via een doorverwijzing. Ze zijn geïnteresseerd. Ze moeten alleen nog dat laatste zetje krijgen.
+Als je daar duidelijk onder zit, laat je significant omzet op tafel liggen. De bezoekers zijn er al — ze hebben je gevonden via Google, via je [Google Bedrijfsprofiel](/), of via een doorverwijzing. Ze zijn geïnteresseerd. Ze moeten alleen nog dat laatste zetje krijgen.
 
 ## Het probleem: te veel stappen naar de afspraak
 
@@ -57,7 +57,7 @@ Lees ook ons artikel over [online reputatie als kliniek beschermen en versterken
 
 ### 4. Optimaliseer voor mobiel — echt
 
-Meer dan 60% van de bezoekers op kliniek-websites komt via een smartphone. Toch zijn veel kliniek-websites ontworpen voor desktop en "werken ook op mobiel." Dat is niet goed genoeg.
+Het merendeel van de bezoekers op kliniek-websites komt via een smartphone. Toch zijn veel kliniek-websites ontworpen voor desktop en "werken ook op mobiel." Dat is niet goed genoeg.
 
 Op mobiel moet je bel-knop altijd zichtbaar zijn. Je boekingsformulier moet met één duim in te vullen zijn. Tekst moet leesbaar zijn zonder te zoomen. En je belangrijkste call-to-action moet boven de vouw staan — dus zichtbaar zonder te scrollen.
 
@@ -88,6 +88,6 @@ A/B-testen hoeft niet ingewikkeld te zijn. Verander één element (de kleur van 
 
 ## Conclusie
 
-Meer patiënten beginnen niet altijd bij meer websiteverkeer. Vaak begint het bij een betere ervaring voor de bezoekers die er al zijn. Verlaag de frictie, toon vertrouwenssignalen, bied meerdere contactkanalen, en meet je resultaten. Een stijging van 2% naar 5% conversie betekent 150% meer afspraken — met dezelfde hoeveelheid bezoekers.
+Meer patiënten beginnen niet altijd bij meer websiteverkeer. Vaak begint het bij een betere ervaring voor de bezoekers die er al zijn. Verlaag de frictie, toon vertrouwenssignalen, bied meerdere contactkanalen, en meet je resultaten. In dit rekenvoorbeeld betekent een stijging van 2% naar 5% conversie 150% meer afspraken — met dezelfde hoeveelheid bezoekers.
 
 Wil je hulp bij het optimaliseren van je kliniek-website? Bekijk wat [KliniekAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
