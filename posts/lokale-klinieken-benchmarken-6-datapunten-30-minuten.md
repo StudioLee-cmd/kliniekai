@@ -32,7 +32,7 @@ Open een incognito-tabblad, typ jouw belangrijkste zoekterm in Google ("cosmetis
 - gemiddelde sterren-rating
 - zichtbare positie in het 3-pack (1, 2 of 3) of niet zichtbaar
 
-**Waarom:** de lokale 3-pack levert de overgrote meerderheid van de organische klikken op zoekopdrachten met een lokale intentie. Een kliniek die niet in het 3-pack staat krijgt vaak minder dan 5 procent van de klikken die de top-3 deelt. Reviews zijn de op-een-na-zwaarste lokale ranking-factor na proximity, en bij patienten zelf zijn ze de eerste filter na de Maps-pin. Een verschil van 100 reviews tussen jou en de top-concurrent is geen klein verschil, het is de meest directe verklaring waarom hun belkliek hoger ligt.
+**Waarom:** de lokale 3-pack levert de overgrote meerderheid van de organische klikken op zoekopdrachten met een lokale intentie. Een kliniek die niet in het 3-pack staat krijgt vaak maar een fractie van de klikken die de top-3 deelt. Reviews zijn de op-een-na-zwaarste lokale ranking-factor na proximity, en bij patienten zelf zijn ze de eerste filter na de Maps-pin. Een verschil van 100 reviews tussen jou en de top-concurrent is geen klein verschil, het is de meest directe verklaring waarom hun belkliek hoger ligt.
 
 ![Premium kliniek-werkplek voor concurrent-meting: een licht eikenhouten bureau met een matgrijze laptop open op een vergelijkingsoverzicht, een leren notitieboek met messing penclip, een glazen carafe water, een kleine messing pen op een leren onderzetter, een matzwart koffiebekertje, een opgevouwen donker linnen handdoek, een verticaal opgehangen kunstprint met geometrische lijnen op crème wand, geen leesbare tekst op het scherm, geen mensen in beeld, premium minimalistische sfeer met goud, hout en wit als basispalet](/images/blog/lokale-klinieken-benchmarken-6-datapunten-30-minuten-2.jpg)
 
@@ -44,7 +44,7 @@ Klik op de Instagram-, Facebook- en eventueel TikTok-handle van jouw drie concur
 - aantal posts in de laatste 30 dagen (scroll het profiel terug en tel)
 - of er een professioneel content-thema te zien is (voor-na, behind-the-scenes, educatief) of een willekeurige verzameling
 
-**Waarom:** social media bouwt het visuele vertrouwen dat een Google Bedrijfsprofiel niet kan geven, zeker bij esthetische en tandheelkundige behandelingen waar patienten "wil ik dat ook zo bij mij" vergelijken voordat ze contact opnemen. Een concurrent met 30 posts per maand en een herkenbaar thema krijgt 6 tot 10 keer meer profielbezoeken dan een kliniek die 2 posts per maand willekeurig deelt. Het verschil zit niet in talent, het zit in een planning die uitgevoerd wordt. Wie [social media voor klinieken](/social-media) structureel inricht haalt de gap binnen 90 dagen dicht.
+**Waarom:** social media bouwt het visuele vertrouwen dat een Google Bedrijfsprofiel niet kan geven, zeker bij esthetische en tandheelkundige behandelingen waar patienten "wil ik dat ook zo bij mij" vergelijken voordat ze contact opnemen. Een concurrent met 30 posts per maand en een herkenbaar thema krijgt een veelvoud aan profielbezoeken vergeleken met een kliniek die 2 posts per maand willekeurig deelt. Het verschil zit niet in talent, het zit in een planning die uitgevoerd wordt. Wie [social media voor klinieken](/social-media) structureel inricht haalt de gap binnen 90 dagen dicht.
 
 ### 3. Website-snelheid en directe boekingsmogelijkheid
 
@@ -53,7 +53,7 @@ Plak elke concurrent-URL plus je eigen URL in [PageSpeed Insights](https://pages
 - hoeveel klikken het kost tot een afspraak-aanvraag is verstuurd
 - of er een directe online-agenda is, of een formulier dat naar de receptie wordt gemaild
 
-**Waarom:** een kliniek-website die laadt in 4 seconden of langer verliest tot 40 procent van de bezoekers voordat de eerste sectie zichtbaar is, en dat verlies is op mobiel het grootst (waar 70+ procent van de patienten je site bezoekt). Een directe online-agenda zonder receptie-tussenstap converteert ongeveer dubbel zo vaak als een contactformulier dat 's avonds op een dichte mailbox landt. Twee concurrenten met een snelle site en directe boeking onttrekken meetbaar leads aan een kliniek met een trage site en e-mail-formulier. Een nieuwe [gratis website voor klinieken](/gratis-website) lost beide problemen tegelijk op.
+**Waarom:** een kliniek-website die laadt in 4 seconden of langer verliest een fors deel van de bezoekers voordat de eerste sectie zichtbaar is, en dat verlies is op mobiel het grootst (waar de meeste patienten je site bezoeken). Een directe online-agenda zonder receptie-tussenstap converteert ongeveer dubbel zo vaak als een contactformulier dat 's avonds op een dichte mailbox landt. Twee concurrenten met een snelle site en directe boeking onttrekken meetbaar leads aan een kliniek met een trage site en e-mail-formulier. Een nieuwe [gratis website voor klinieken](/gratis-website) lost beide problemen tegelijk op.
 
 ### 4. Online tarief-transparantie
 
@@ -63,7 +63,7 @@ Scroll op de website van elke concurrent naar de behandel- of tarievenpagina. No
 - staat er een spoed- of avondtoeslag transparant vermeld
 - is er een online-aanbetaling of intake-deposito-systeem zichtbaar
 
-**Waarom:** patienten die op 22:00 op de bank zitten met een vergelijking-tabblad willen weten of een behandeling 600 of 6.000 euro kost voordat ze hun naam achterlaten. Klinieken die geen enkele prijsindicatie tonen verliezen 30 tot 50 procent van de geinteresseerden naar concurrenten die wel transparant zijn. Tegelijk werkt 100 procent prijslijst-transparantie niet voor elke behandeling. Wat je hier meet is wie het beter doet dan jij, en welk specifiek onderdeel (vanaf-prijzen, ranges per categorie, of pakket-tarieven) jij kunt overnemen zonder de medische realiteit te plat te trekken.
+**Waarom:** patienten die op 22:00 op de bank zitten met een vergelijking-tabblad willen weten of een behandeling 600 of 6.000 euro kost voordat ze hun naam achterlaten. Klinieken die geen enkele prijsindicatie tonen verliezen een fors deel van de geinteresseerden naar concurrenten die wel transparant zijn. Tegelijk werkt 100 procent prijslijst-transparantie niet voor elke behandeling. Wat je hier meet is wie het beter doet dan jij, en welk specifiek onderdeel (vanaf-prijzen, ranges per categorie, of pakket-tarieven) jij kunt overnemen zonder de medische realiteit te plat te trekken.
 
 ### 5. Online reviews buiten Google: Zorgkaart, Independer, Trustpilot
 
@@ -99,7 +99,7 @@ Twee specifieke valkuilen: vergelijk niet met de marktleider in een andere stad 
 
 ## Wanneer dit niet meer in 30 minuten past
 
-Drie situaties waarin een vrijdagmiddag-meting niet voldoende is. Een kliniek met 3 of meer locaties heeft per locatie een eigen lokale concurrentie en een eigen Google Bedrijfsprofiel, dat is 30 min per locatie, niet 30 min totaal. Een kliniek die overweegt te verhuizen of een nieuwe vestiging te openen heeft een uitgebreidere markt-scan nodig (verkeer, parkeren, demografie). En een kliniek waarvan de instroom in een kwartaal met meer dan 20 procent is gedaald moet niet alleen de zichtbaarheidsgap meten maar ook de patient-uitstroom (welke patienten zijn weggegaan, waarom, en waar zijn ze nu).
+Drie situaties waarin een vrijdagmiddag-meting niet voldoende is. Een kliniek met 3 of meer locaties heeft per locatie een eigen lokale concurrentie en een eigen Google Bedrijfsprofiel, dat is 30 min per locatie, niet 30 min totaal. Een kliniek die overweegt te verhuizen of een nieuwe vestiging te openen heeft een uitgebreidere markt-scan nodig (verkeer, parkeren, demografie). En een kliniek waarvan de instroom in een kwartaal scherp is gedaald (stel de grens op 20 procent) moet niet alleen de zichtbaarheidsgap meten maar ook de patient-uitstroom (welke patienten zijn weggegaan, waarom, en waar zijn ze nu).
 
 Voor alle drie geldt: de 6-datapunten-meting hierboven is nog steeds de eerste stap. Het is niet voldoende, maar het is wel het juiste begin. Pas als je weet waar je staat op de basismetingen weet je welke vervolgvragen waard zijn om dieper te onderzoeken.
 
