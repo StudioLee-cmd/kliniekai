@@ -18,4 +18,4 @@ Traditionele oplossingen zoals handmatig nabellen kosten veel tijd voor uw assis
 - **2. De Slimme Herinnering:** 24 tot 48 uur van tevoren stuurt de AI een vriendelijke herinnering. Hierin staat een duidelijke bevestigingsknop: "Ik ben er bij". Reageert de patiënt niet? Dan kan de AI zelfs automatisch even bellen om te verifiëren.
 - **3. De Last-Minute Opvulling:** Zegt iemand toch af? De AI ziet het gat vallen en kan direct de patiënten op uw 'snelbellijst' of wachtlijst een bericht sturen: "Er is morgen om 14:00 een plekje vrijgekomen, heeft u interesse?". Binnen enkele minuten is het gat vaak weer gevuld.
 
-Door deze automatisering zien klinieken hun no-show percentage vaak dalen van 10-15% naar minder dan 2%. Dat is directe winst voor uw praktijkvoering.
+Door deze automatisering zien klinieken hun no-show percentage vaak sterk dalen. Dat is directe winst voor uw praktijkvoering.
