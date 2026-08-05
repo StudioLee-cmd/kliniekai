@@ -10,13 +10,13 @@ tags: ["Herinneringen", "No-shows", "Automatisering"]
 ---
 ## Waarom herinneringen het effectiefst zijn tegen no-shows
 
-Van alle maatregelen tegen gemiste afspraken zijn automatische herinneringen de simpelste en de meest effectieve. Een WhatsApp-bericht 24 tot 48 uur voor de afspraak vermindert no-shows met 40 tot 60 procent. Dat is meetbaar, direct en het kost bijna niets.
+Van alle maatregelen tegen gemiste afspraken zijn automatische herinneringen de simpelste en de meest effectieve. Een WhatsApp-bericht 24 tot 48 uur voor de afspraak vermindert no-shows aanzienlijk. Dat is meetbaar, direct en het kost bijna niets.
 
 De reden is simpel: de meeste patiënten missen hun afspraak omdat ze het vergeten. Niet uit onwil, maar omdat het leven druk is. Een herinnering op het juiste moment brengt de afspraak terug in hun bewustzijn en geeft ze de kans om te annuleren als het niet meer uitkomt.
 
 ## WhatsApp vs SMS vs e-mail: wat werkt het best
 
-WhatsApp heeft een openingspercentage van meer dan 95 procent. SMS zit rond de 90 procent. E-mail haalt 20 tot 30 procent. Voor klinieken is WhatsApp veruit het effectiefst: de patiënt leest het bericht direct, kan met een tik reageren en het voelt persoonlijker dan een e-mail.
+WhatsApp wordt vrijwel altijd geopend. SMS zit daar net onder. E-mail blijft er ver bij achter. Voor klinieken is WhatsApp veruit het effectiefst: de patiënt leest het bericht direct, kan met een tik reageren en het voelt persoonlijker dan een e-mail.
 
 SMS werkt als fallback voor patiënten die geen WhatsApp gebruiken, met name oudere patiënten. E-mail is geschikt als bevestiging bij het maken van de afspraak, maar niet als herinnering vlak ervoor: de kans dat het gelezen wordt is te laag.
 
@@ -42,6 +42,6 @@ Combineer herinneringen met een wachtlijstsysteem. Houd een lijst bij van patië
 
 ## De impact na een maand
 
-Na een maand met automatische herinneringen meet je het verschil. De meeste klinieken zien een daling van 40 tot 50 procent in no-shows. Bij drie gemiste afspraken per dag en een behandelwaarde van 120 euro is dat een besparing van meer dan 7.000 euro per maand.
+Na een maand met automatische herinneringen meet je het verschil. De meeste klinieken zien een duidelijke daling in no-shows. Bij drie gemiste afspraken per dag en een behandelwaarde van 120 euro loopt de gemiste omzet op tot meer dan 7.000 euro per maand.
 
 Wil je weten wat herinneringen voor jouw kliniek opleveren? Bekijk de [tarieven](/tarieven) of vraag een [gratis scan](/gratis-scan) aan.
