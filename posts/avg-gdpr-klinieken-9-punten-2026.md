@@ -12,7 +12,7 @@ cluster: "automatisering"
 **In het kort:**
 - AVG-overtredingen in de zorg leiden in 2026 tot gemiddelde boetes van €18.000 tot €145.000, afhankelijk van klinieken-omvang en aard van de overtreding.
 - Gezondheidsgegevens zijn een "bijzondere categorie" persoonsgegevens: extra strikte regels voor verwerking, opslag en deling.
-- Negen onderwerpen samen vormen 95% van wat een Nederlandse kliniek goed moet hebben: grondslag-keuze, toestemmingen voor foto's, retentie, datalek-protocol, verwerkersovereenkomsten, beveiliging, recht op inzage, AI-tools-screening, en register van verwerkingen.
+- Negen onderwerpen samen vormen vrijwel alles wat een Nederlandse kliniek goed moet hebben: grondslag-keuze, toestemmingen voor foto's, retentie, datalek-protocol, verwerkersovereenkomsten, beveiliging, recht op inzage, AI-tools-screening, en register van verwerkingen.
 - AI-tools (chatbots, voice-AI, marketing-platforms) zijn één van de drie nieuwe pijnpunten voor klinieken in 2026; verkeerde implementatie levert direct AVG-issues op.
 - Een goede AVG-setup is geen project van 6 maanden, maar een doorlopend onderhoud van 8 tot 12 uur per kwartaal voor de meeste klinieken.
 
@@ -65,7 +65,7 @@ Vier dingen die het verschil maken tussen "AVG geregeld op papier" en "AVG werke
 - [ ] **Datalek-oefening 1× per jaar.** Een fictief scenario doornemen met je team. "We hebben net een laptop verloren. Wat doen we de komende 72 uur?" Niet om te schaduw-trainen, om de stappen scherp te houden.
 - [ ] **Patiënt-toestemmings-formulieren digitaal.** Geen papieren toestemmingsformulieren meer die zoekraken; digitaal ondertekend, opgeslagen in het patient-dossier, makkelijk terug te vinden.
 
-[Een goed CRM voor klinieken](/blog/patientendossier-crm-kliniek-verschil) houdt deze toestemmingen per patiënt apart bij. Zonder dat overzicht ben je 90% van je patiënten kwijt aan welke toestemming wanneer is gegeven.
+[Een goed CRM voor klinieken](/blog/patientendossier-crm-kliniek-verschil) houdt deze toestemmingen per patiënt apart bij. Zonder dat overzicht raak je het spoor bijster van welke patiënt welke toestemming wanneer heeft gegeven.
 
 ## Hoe je het in de praktijk operationeel maakt
 
@@ -91,6 +91,6 @@ Drie dingen die ik vaak zie misgaan in klinieken die nog niet structureel AVG-ge
 
 ## Conclusie
 
-AVG voor klinieken is geen eenmalig project maar een doorlopende operationele discipline. Negen punten samen dekken 95% van wat de Autoriteit Persoonsgegevens van een Nederlandse kliniek verwacht in 2026. Een kwartaal-review van 30 minuten en een jaarlijkse VWO-check houden het op orde zonder dat het je hele week overneemt.
+AVG voor klinieken is geen eenmalig project maar een doorlopende operationele discipline. Negen punten samen dekken vrijwel alles wat de Autoriteit Persoonsgegevens van een Nederlandse kliniek verwacht in 2026. Een kwartaal-review van 30 minuten en een jaarlijkse VWO-check houden het op orde zonder dat het je hele week overneemt.
 
 Wil je weten welke AVG-punten in jouw kliniek het meeste werk vragen en welke AI-tools veilig zijn voor jouw situatie? [Doe een gratis AI-scan voor klinieken](/gratis-scan), dan zien we welke risico's prioriteit hebben en welke quick-wins je deze maand al kunt regelen.
