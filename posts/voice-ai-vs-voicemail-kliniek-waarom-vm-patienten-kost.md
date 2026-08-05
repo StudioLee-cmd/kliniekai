@@ -14,7 +14,7 @@ Voicemail voelt voor veel klinieken nog steeds als een veilig vangnet. Dat was h
 
 **In het kort:**
 
-- Van bellers die op voicemail terechtkomen spreekt naar schatting 15 tot 25 procent een bericht in. De rest legt op en zoekt verder. Voor een kliniek met 100 inkomende oproepen per maand betekent dat 75 tot 85 verloren intentiesignalen.
+- Van bellers die op voicemail terechtkomen spreekt maar een minderheid een bericht in (reken met 15 tot 25 procent). De rest legt op en zoekt verder. Voor een kliniek met 100 inkomende oproepen per maand betekent dat 75 tot 85 verloren intentiesignalen.
 - Voicemail biedt geen 24/7 dekking voor avond- en weekendoproepen, geen meertalige opvang, geen agenda-koppeling en geen AVG-vriendelijke gesprekslogging.
 - Een [voice ai voor klinieken](/voice-ai) neemt elke oproep direct op, voert een eenvoudige intake-flow uit zonder medische diagnose te stellen, en zet de afspraak rechtstreeks in de praktijkagenda.
 - Voicemail is alleen nog verdedigbaar in zeer beperkte scenario's: zeer kleine praktijk met grotendeels vaste-patient-bel-volume, behandelaar die principieel geen automatisering wil, of een tijdelijke overbrugging tijdens een PMS-migratie.
@@ -25,19 +25,19 @@ De gemiddelde voicemail-flow in een private kliniek ziet er ongeveer zo uit. De 
 
 Wat er daarna gebeurt verschilt per beller-type.
 
-**Nieuwe patiënten** (waarschijnlijk 40 tot 60 procent van het belvolume bij een groeiende kliniek) hangen meestal direct op. Ze hadden minder dan een minuut commitment, geen relatie met de kliniek, en geen reden om hun persoonlijke gegevens in een onbekende voicemail te laten staan. Ze proberen de volgende kliniek.
+**Nieuwe patiënten** (reken met 40 tot 60 procent van het belvolume bij een groeiende kliniek) hangen meestal direct op. Ze hadden minder dan een minuut commitment, geen relatie met de kliniek, en geen reden om hun persoonlijke gegevens in een onbekende voicemail te laten staan. Ze proberen de volgende kliniek.
 
-**Bestaande patiënten** (40 tot 50 procent) spreken vaker wél in. Maar ook hier hangt zeker een derde direct op, vooral als ze in de auto zitten, op werk zijn, of haast hebben. Ze proberen later of vergeten het.
+**Bestaande patiënten** (reken met 40 tot 50 procent) spreken vaker wél in. Maar ook hier hangt zeker een derde direct op, vooral als ze in de auto zitten, op werk zijn, of haast hebben. Ze proberen later of vergeten het.
 
-**Spoed-bellers** (5 tot 10 procent) zijn het zorgwekkendst. Een patiënt met een acute klacht buiten kantooruren komt op de voicemail terecht, hangt op, en zoekt iemand anders, of in het slechtste geval de spoedeisende hulp die jouw kliniek had kunnen ontlasten.
+**Spoed-bellers** (reken met 5 tot 10 procent) zijn het zorgwekkendst. Een patiënt met een acute klacht buiten kantooruren komt op de voicemail terecht, hangt op, en zoekt iemand anders, of in het slechtste geval de spoedeisende hulp die jouw kliniek had kunnen ontlasten.
 
 ## Waarom patiënten hangen-op (de cijfers)
 
 Internationale telecom-research en NL-call-handling-data laten een redelijk consistent patroon zien voor private B2C-services (waar private klinieken onder vallen):
 
-- 70 tot 85 procent van bellers die op voicemail terechtkomen, spreken geen bericht in.
-- Van de bellers die wel inspreken, is circa 30 procent niet meer terug te bereiken bij callback (telefoon op stil, nummer afgesloten, ander tijdslot beschikbaar geworden).
-- Voor nieuwe-patient-acquisitie ligt het inspreek-percentage nog lager: schattingen variëren van 10 tot 20 procent. Een nieuwe patiënt heeft geen relatie met de praktijk en daarom geen drempelverlagende reden om persoonlijke informatie in te spreken.
+- Het overgrote deel van de bellers die op voicemail terechtkomen, spreekt geen bericht in.
+- Van de bellers die wel inspreken, is een aanzienlijk deel niet meer terug te bereiken bij callback (telefoon op stil, nummer afgesloten, ander tijdslot beschikbaar geworden).
+- Voor nieuwe-patient-acquisitie ligt het inspreek-percentage nog lager: reken met 10 tot 20 procent. Een nieuwe patiënt heeft geen relatie met de praktijk en daarom geen drempelverlagende reden om persoonlijke informatie in te spreken.
 
 Dat zijn algemene cijfers. Voor klinieken specifiek is er een extra factor: medisch-gevoelige onderwerpen. Iemand die belt voor een cosmetisch consult, een tandarts-spoedklacht, of een fysio-intake na blessure, voelt zich extra ongemakkelijk om dat op een voicemail in te spreken die mogelijk door meerdere mensen wordt afgeluisterd. Discretie weegt zwaarder, drempel wordt hoger.
 
@@ -59,7 +59,7 @@ Het verschil zit niet in de techniek alleen. Het verschil zit in wat de beller v
 
 ## 8 redenen waarom voicemail je nieuwe patiënten kost
 
-1. **Hoge hangup-rate vooral bij nieuwe patiënten.** Geschat 70 tot 85 procent spreekt geen bericht in. Een [ai telefoonbeantwoorder voor klinieken](/voice-ai) heeft een hangup-rate die dichter bij nul zit omdat de beller wél contact heeft.
+1. **Hoge hangup-rate vooral bij nieuwe patiënten.** Reken met 70 tot 85 procent die geen bericht inspreekt. Een [ai telefoonbeantwoorder voor klinieken](/voice-ai) heeft een hangup-rate die dichter bij nul zit omdat de beller wél contact heeft.
 2. **Geen 24/7 dekking voor de praktijk waarvoor avond/weekend-uren juist de hoogste conversie hebben.** Cosmetische en tandheelkundige praktijken zien een piek in nieuwe-patient-oproepen tussen 18:00 en 21:00 op werkdagen plus zaterdagochtend.
 3. **Voicemail biedt geen taalondersteuning.** Een patient die alleen Pools, Arabisch of Engels spreekt, kan een Nederlandstalige voicemail überhaupt niet beluisteren laat staan inspreken.
 4. **Geen agenda-integratie.** Ook als een patient wél inspreekt, vergt de callback en de inplanning later handmatige tijd van praktijkmedewerkers. Voice AI plant direct.
@@ -74,13 +74,13 @@ Een kleine cosmetische praktijk met 1 hoofd-behandelaar en 1 assistent. Belvolum
 
 **Optie A, alleen voicemail buiten praktijk-uren:**
 - 40 oproepen buiten kantooruren komen op voicemail.
-- Inspreek-rate: 20 procent = 8 inspraken. Daarvan 30 procent niet meer bereikbaar = 5,6 actieve callbacks.
+- Reken met een inspreek-rate van 20 procent = 8 inspraken. Daarvan 30 procent niet meer bereikbaar = 5,6 actieve callbacks.
 - Conservatief: 2 tot 3 boekingen per maand uit deze 5,6 callbacks.
 - 40 oproepen minus 2,5 boekingen = **37,5 verloren patient-kansen per maand**.
 
 **Optie B, Voice AI:**
 - Voice AI vangt alle 40 buiten-kantoor-oproepen op.
-- Inboek-rate (afhankelijk van triggerwoorden en agenda-beschikbaarheid): 25 tot 35 procent = 10 tot 14 boekingen.
+- Inboek-rate (afhankelijk van triggerwoorden en agenda-beschikbaarheid): reken met 25 tot 35 procent = 10 tot 14 boekingen.
 - Maandelijkse netto-opbrengst Voice AI: 8 tot 11 extra boekingen × €180 = **€1.440 tot €1.980 extra omzet per maand**.
 
 Bij een [virtuele telefonist](/voice-ai) maandtarief van €80 tot €130 betaalt de oplossing zich vrijwel direct uit. Op jaarbasis: ruim **€17.000 tot €23.000 extra omzet**, vóór no-show-preventie en upsell.
@@ -93,7 +93,7 @@ Multidisciplinaire kliniek met 3 behandelaars en 2 assistenten. Belvolume 250 op
 
 **Optie A, voicemail buiten kantooruren + handmatige opvolging:**
 - 90 oproepen op voicemail buiten kantooruren.
-- 20 procent inspreek-rate = 18 inspraken. Min 30 procent niet bereikbaar = circa 13 callbacks.
+- Reken met 20 procent inspreek-rate = 18 inspraken. Min 30 procent niet bereikbaar = circa 13 callbacks.
 - 5 tot 7 boekingen uit deze 13.
 - **83 tot 85 verloren patient-kansen per maand**.
 
@@ -110,7 +110,7 @@ Zie de [tarieven KliniekAI](/tarieven) voor de exacte prijslijst per praktijk-gr
 
 Niet elke kliniek heeft voordeel bij Voice AI vandaag. Drie eerlijke uitzonderingen:
 
-1. **Heel kleine praktijk met >85 procent vaste patiënten.** Een 1-behandelaar fysiotherapiepraktijk in een dorp met grotendeels vaste, terugkerende patiënten die elkaar persoonlijk kennen, ziet beperkt voordeel. Vaste patiënten zijn loyaler en bellen vaak via andere kanalen (WhatsApp, e-mail).
+1. **Heel kleine praktijk met vrijwel uitsluitend vaste patiënten.** Een 1-behandelaar fysiotherapiepraktijk in een dorp met grotendeels vaste, terugkerende patiënten die elkaar persoonlijk kennen, ziet beperkt voordeel. Vaste patiënten zijn loyaler en bellen vaak via andere kanalen (WhatsApp, e-mail).
 
 2. **Tijdelijke overbrugging tijdens PMS-migratie.** Tijdens een migratie van Intramed naar een ander praktijkmanagementsysteem (typisch 4 tot 8 weken) is de agenda-koppeling soms instabiel. Een tijdelijke voicemail met daarop een duidelijke "Wij bellen u binnen 24 uur terug"-belofte en proactieve dagelijkse uitluister-routine kan dan beter werken dan een Voice AI die voor inboeking de agenda nodig heeft.
 
