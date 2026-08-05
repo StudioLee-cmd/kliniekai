@@ -119,7 +119,7 @@ Zodra je kliniek door de 50 reviews heen breekt, met een gemiddelde van 4,5 of h
 
 - Je verschijnt vaker in de top drie van het Google kaartresultaat voor "kliniek [stad]" of specifieke behandelingen
 - Patienten die zoeken naar specialistische zorg zien jou als geloofwaardige optie
-- Conversie van profielbezoek naar contactopname stijgt met 30 tot 50 procent
+- Conversie van profielbezoek naar contactopname stijgt merkbaar
 - Verwijzers (huisartsen, andere specialisten) checken ook reviews en sturen vaker patienten naar jou door
 
 Het is een investering die maandenlang doorwerkt zonder dat je elke maand iets nieuws hoeft te doen.
