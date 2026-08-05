@@ -27,7 +27,7 @@ De krachtigste aanpak combineert twee systemen:
 
 **Wachtlijstbeheer** vangt de resterende no-shows op. Zodra een patiënt niet bevestigt of annuleert, gaat het systeem automatisch de wachtlijst af.
 
-Samen reduceren ze de impact van no-shows met 70 tot 90 procent. Systemen zoals die van [KliniekAI](/) bieden beide functies geïntegreerd.
+Samen reduceren ze de impact van no-shows sterk. Systemen zoals die van [KliniekAI](/) bieden beide functies geïntegreerd.
 
 ![Rustige behandelkamer in een moderne kliniek](/images/blog/wachtlijstbeheer-kliniek-minder-no-shows-2.jpg)
 
@@ -53,9 +53,9 @@ Dit is in de medische sector gebruikelijk en wordt door patiënten geaccepteerd 
 
 ## De financiële impact van beter wachtlijstbeheer
 
-Een gemiddelde kliniek met 5 behandelkamers en een no-show percentage van 10 procent verliest wekelijks 2 tot 3 tijdsloten. Bij een gemiddelde behandelwaarde van €150 is dat €300 tot €450 per week — ofwel €15.000 tot €23.000 per jaar.
+Reken met een gemiddelde kliniek met 5 behandelkamers en een no-show percentage van 10 procent: die verliest wekelijks 2 tot 3 tijdsloten. Bij een gemiddelde behandelwaarde van €150 is dat €300 tot €450 per week — ofwel €15.000 tot €23.000 per jaar.
 
-Met actief wachtlijstbeheer vul je 80 procent van die lege slots. Dat is €12.000 tot €18.000 aan teruggewonnen omzet per jaar. De investering in een goed systeem verdient zich binnen de eerste maand terug.
+Met actief wachtlijstbeheer vul je het merendeel van die lege slots; reken met 80 procent. Dat is €12.000 tot €18.000 aan teruggewonnen omzet per jaar. De investering in een goed systeem verdient zich binnen de eerste maand terug.
 
 ## Veelgestelde vragen
 
