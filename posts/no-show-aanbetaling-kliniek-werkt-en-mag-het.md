@@ -24,7 +24,7 @@ Het korte antwoord: ja, mits je het goed inricht. Een aanbetaling werkt niet als
 
 Reken het eens door voor jouw situatie. Stel: een cosmetische intake leidt gemiddeld tot een behandeltraject van 800 euro, en een op de vijf intakes is een no-show. Bij twintig intakes per week loop je dan vier trajecten mis, week na week. Zelfs als de helft daarvan alsnog terugkomt, blijft er een structureel gat in je agenda en je omzet.
 
-Daar komt de verborgen kost bij: gereserveerde behandeltijd, voorbereiding, soms ingekochte materialen, en een behandelaar die duimen zit te draaien. Voor een premium kliniek is dat dubbel pijnlijk, want je verkoopt schaarse specialistentijd. Een no-show-percentage van 10 tot 20 procent is in de zorg niet ongebruikelijk, en juist in het duurdere segment tikt elk procent hard aan.
+Daar komt de verborgen kost bij: gereserveerde behandeltijd, voorbereiding, soms ingekochte materialen, en een behandelaar die duimen zit te draaien. Voor een premium kliniek is dat dubbel pijnlijk, want je verkoopt schaarse specialistentijd. Een dubbelcijferig no-show-percentage is in de zorg niet ongebruikelijk, en juist in het duurdere segment tikt elk procent hard aan.
 
 De vraag is dus niet of je no-shows serieus moet nemen, maar welk middel het beste past. Een aanbetaling is een van de krachtigste, omdat het ingrijpt op het moment dat de patiënt de afspraak maakt.
 
@@ -43,7 +43,7 @@ Er is niet één juiste vorm. Nederlandse klinieken hanteren grofweg vier modell
 | Model | Hoe het werkt | Geschikt voor |
 |---|---|---|
 | Vaste aanbetaling | Vast bedrag (bijvoorbeeld 25 tot 50 euro) bij boeken, verrekend met de behandeling | Intakes en consulten |
-| Percentage vooruit | Deel van het behandeltarief vooruit, bijvoorbeeld 25 of 50 procent | Duurdere behandelingen |
+| Percentage vooruit | Deel van het behandeltarief vooruit, reken met 25 of 50 procent | Duurdere behandelingen |
 | No-show-tarief achteraf | Geen aanbetaling, maar een bedrag dat je rekent bij niet verschijnen | Bestaande, vertrouwde patiënten |
 | Verrekenen bij annulering | Aanbetaling schuift mee naar een nieuwe afspraak bij tijdig afzeggen | Klantvriendelijke aanpak |
 
