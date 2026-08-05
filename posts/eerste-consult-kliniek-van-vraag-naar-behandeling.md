@@ -39,6 +39,6 @@ Met een [automatisch systeem](/voice-ai) gaan deze opvolgberichten vanzelf uit n
 
 ## Conversie verhogen zonder harder te verkopen
 
-Het gaat niet om harder verkopen. Het gaat om beter luisteren, eerlijker adviseren en consequenter opvolgen. Klinieken die hun consult-naar-behandeling ratio bijhouden zien na het verbeteren van de opvolging een stijging van 20 tot 35 procent.
+Het gaat niet om harder verkopen. Het gaat om beter luisteren, eerlijker adviseren en consequenter opvolgen. Klinieken die hun consult-naar-behandeling ratio bijhouden zien na het verbeteren van de opvolging een duidelijke stijging.
 
 Bekijk onze [tarieven](/tarieven) of wil je een compleet beeld? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
