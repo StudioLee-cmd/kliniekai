@@ -73,6 +73,6 @@ Een lead is geen patient. Er zit een stap tussen: de opvolging. Hoe je die doet,
 
 Leadgeneratie voor klinieken begint bij je website. Maak het makkelijk om contact op te nemen, bied meerdere conversiepunten aan en volg leads snel en persoonlijk op.
 
-De klinieken die dit goed doen, zien hun patient-instroom met 30 tot 50 procent groeien — zonder extra advertentiebudget.
+De klinieken die dit goed doen, zien hun patient-instroom fors groeien — zonder extra advertentiebudget.
 
 Wil je ontdekken hoe je kliniek online beter gevonden wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen.
