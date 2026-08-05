@@ -111,7 +111,7 @@ Voor een cosmetische kliniek met €1.2M-€2M omzet en gemiddeld 100 leads per 
 - 51 intake-consults uit dezelfde 100 leads (60% × 85 + 25% conversie van reguliere uren)
 - Toename: 25 → 51 intake-consults per maand, ofwel +26 per maand
 
-Bij een gemiddelde behandelingsomzet van €2.500 en consult-naar-behandeling-conversie van 40%, is dat +10,4 nieuwe behandelingen per maand × €2.500 = €26.000 extra omzet per maand. Min de kosten van een chatbot (€179-€349/maand voor premium klinieken bij [tarieven KliniekAI](/tarieven)), netto €25.500+ per maand.
+Bij een gemiddelde behandelingsomzet van €2.500 en consult-naar-behandeling-conversie van 40%, is dat +10,4 nieuwe behandelingen per maand × €2.500 = €26.000 extra omzet per maand. Min de kosten van een chatbot (zie [tarieven KliniekAI](/tarieven)), netto €25.500+ per maand.
 
 Niet elke kliniek haalt deze cijfers, maar de richting klopt. De grootste hefboom: niet meer leads genereren, wel de bestaande leads sneller en buiten-kantoortijd opvangen.
 
