@@ -45,7 +45,7 @@ Schrijf je een pagina op basis van deze punten, dan ontstaat vanzelf eigen tekst
 
 Een veelgemaakte denkfout is dat een Google Bedrijfsprofiel de stadspagina overbodig maakt, of andersom. Ze doen verschillend werk. Het bedrijfsprofiel per vestiging voedt de kaartresultaten en helpt je [hoger in Google komen als kliniek](/seo) in dat gebied, inclusief route, openingstijden en reviews. De landingspagina op je eigen site vertelt het volledige verhaal en zet de bezoeker aan tot een afspraak.
 
-Ze versterken elkaar. Elke vestiging verdient een eigen, volledig ingevuld bedrijfsprofiel dat naar de bijbehorende stadspagina linkt, en die stadspagina verwijst weer naar de juiste locatie op de kaart. Lokale reviews wegen mee in de kaartrangschikking, dus een actief verzamelde reputatie per vestiging helpt beide kanten op. Zo bouw je stap voor stap aan iets waarmee je [je lokale vindbaarheid structureel verbetert](/blog/lokale-vindbaarheid-kliniek-meer-patienten) in plaats van met losse trucs.
+Ze versterken elkaar. Elke vestiging verdient een eigen, volledig ingevuld bedrijfsprofiel dat naar de bijbehorende stadspagina linkt, en die stadspagina verwijst weer naar de juiste locatie op de kaart. Lokale reviews wegen mee in de kaartrangschikking, dus een actief verzamelde reputatie per vestiging helpt beide kanten op. Zo bouw je stap voor stap aan iets waarmee je [je lokale vindbaarheid structureel verbetert](/blog/hoe-een-kliniek-meer-patienten-trekt-via-google) in plaats van met losse trucs.
 
 ## De juiste structuur, en wanneer je géén stadspagina moet maken
 

@@ -20,6 +20,7 @@ const nextConfig = {
             { source: '/blog/robot-arts-priveeklinieken', destination: '/', permanent: true },
             { source: '/blog/social-media-voor-klinieken', destination: '/blog/social-media-klinieken-patienten', permanent: true },
             { source: '/blog/seo-kliniek-meer-patienten-google', destination: '/blog/hoe-een-kliniek-meer-patienten-trekt-via-google', permanent: true },
+            { source: '/blog/lokale-vindbaarheid-kliniek-meer-patienten', destination: '/blog/hoe-een-kliniek-meer-patienten-trekt-via-google', permanent: true },
         ];
     },
 };
