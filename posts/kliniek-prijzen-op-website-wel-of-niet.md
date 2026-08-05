@@ -14,10 +14,10 @@ Het echte antwoord is genuanceerder dan een simpel ja of nee: het hangt af van j
 
 **In het kort:**
 
-- Klinieken met prijzen op de site trekken 40% minder prijsshoppers en 25% hogere conversie.
+- Klinieken met prijzen op de site trekken minder prijsshoppers en halen een hogere conversie.
 - "Vanaf"-prijzen werken beter dan vaste bedragen voor behandelingen met grote variatie.
 - Esthetische klinieken: zet prijzen erop. Medische specialisten: vaak niet nodig.
-- Patiënten die geen prijs-info vinden, verlaten in 65% van de gevallen de site naar een concurrent die wel informeert.
+- Patiënten die geen prijs-info vinden, verlaten de site vaak alsnog naar een concurrent die wel informeert.
 - Een prijs-range geven is beter dan niks of alleen "op aanvraag".
 
 ## Waarom dit een belangrijke vraag is
@@ -130,7 +130,7 @@ Voorbeeld in één snip:
 
 Klinieken die van "geen prijzen" naar "vanaf-prijzen" overstappen zien meestal:
 
-- **Minder intake-gesprekken, maar hogere conversie per gesprek** (van 20% naar 45%).
+- **Minder intake-gesprekken, maar duidelijk hogere conversie per gesprek**.
 - **Minder "prijs-shoppers"** die 3 klinieken bezoeken en toch voor de goedkoopste gaan.
 - **Tevredener patiënten** omdat er geen verrassingen zijn bij de factuur.
 - **Betere ranking in Google** voor prijs-gerelateerde zoekopdrachten.
