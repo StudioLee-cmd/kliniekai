@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 Een gemiste afspraak bij de huisarts kost €30-50. Maar een no-show bij een privékliniek? Dat kan oplopen tot €200-500 per gemiste behandeling. Cosmetische ingrepen, tandheelkundige procedures, fysiotherapiesessies — elke lege behandelstoel is een directe omzetderving.
 
-Nederlandse privéklinieken rapporteren gemiddeld 8-12% no-shows. Bij een kliniek met 30 afspraken per dag is dat 3-4 gemiste behandelingen. Dagelijks.
+Reken met 8-12% no-shows bij Nederlandse privéklinieken. Bij een kliniek met 30 afspraken per dag is dat 3-4 gemiste behandelingen. Dagelijks.
 
 ## Waarom patiënten wegblijven
 
@@ -31,7 +31,7 @@ Eén herinnering is niet genoeg. De optimale reeks:
 - **24 uur van tevoren**: SMS met datum, tijd en locatie
 - **2 uur van tevoren**: WhatsApp-bericht "Tot zo!"
 
-Klinieken die deze drievoudige aanpak hanteren, reduceren no-shows met 40-50%.
+Klinieken die deze drievoudige aanpak hanteren, reduceren no-shows fors.
 
 ### 2. Bevestiging vragen (niet alleen herinneren)
 
@@ -43,7 +43,7 @@ Wie bevestigt, komt. Wie niet reageert, belt je proactief.
 
 ### 3. Aanbetaling bij high-value behandelingen
 
-Voor behandelingen boven de €150 is een aanbetaling van 25-50% gangbaar en geaccepteerd. Dit filtert niet-serieuze boekingen en vermindert no-shows drastisch.
+Voor behandelingen boven de €150 is een aanbetaling gangbaar en geaccepteerd; reken met 25-50%. Dit filtert niet-serieuze boekingen en vermindert no-shows drastisch.
 
 ### 4. Wachtlijstmanagement
 
@@ -63,11 +63,11 @@ Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bie
 
 | Maatregel | Reductie no-shows |
 |-----------|------------------|
-| Enkele SMS-herinnering | 25-30% |
-| Drievoudige herinnering | 40-50% |
-| + Actieve bevestiging | 55-65% |
-| + Aanbetaling | 70-80% |
-| Alle maatregelen samen | 80-90% |
+| Enkele SMS-herinnering | reken met 25-30% |
+| Drievoudige herinnering | reken met 40-50% |
+| + Actieve bevestiging | reken met 55-65% |
+| + Aanbetaling | reken met 70-80% |
+| Alle maatregelen samen | reken met 80-90% |
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kliniek-afspraken-minder" class="text-dark fw-semibold">No-shows in je kliniek verminderen: praktische aanpak</a> →</p></div></div></div>
 
