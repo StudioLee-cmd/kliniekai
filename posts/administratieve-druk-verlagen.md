@@ -14,4 +14,4 @@ De regeldruk in de zorg is enorm. Dossieropbouw, declaraties, verwijsbrieven; he
 KliniekAI biedt tools om deze druk te verlichten:
 - **Spraak-naar-Tekst Dossier:** Spreek uw bevindingen direct in na het consult. De AI transcribeert, vat samen en structureert het in de juiste medische terminologie voor in het dossier.
 - **Automatische Correspondentie:** "Maak een verwijsbrief voor de cardioloog op basis van dit consult." De AI genereert een conceptbrief die u alleen nog hoeft te controleren en te tekenen.
-- **Intake Automatisering:** Laat patiënten voorafgaand aan het bezoek een digitale intake doen via een AI-chat. De anamnese is al voor 80% compleet voordat de patiënt de spreekkamer binnenstapt.
+- **Intake Automatisering:** Laat patiënten voorafgaand aan het bezoek een digitale intake doen via een AI-chat. De anamnese is al grotendeels compleet voordat de patiënt de spreekkamer binnenstapt.
