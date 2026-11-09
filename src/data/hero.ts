@@ -1,5 +1,5 @@
 export const heroDetails = {
     heading: "De grootste kans voor klinieken sinds de uitvinding van de stethoscoop.",
-    subheading: 'Bespaar zeeën van tijd en focus volledig op uw patiënten. KliniekAI regelt uw afspraken, telefoon en administratie volledig automatisch. Zo kunt u ongestoord doen waar u goed in bent: zorg verlenen.',
+    subheading: "Wij maken de website voor jouw kliniek. Chatbot, telefoon en marketing sluit je erop aan via je pakket, zodat jij kunt doen waar je goed in bent.",
     centerImageSrc: '/images/hero-image.png',
 }
