@@ -99,7 +99,7 @@ Publiceer content die vertrouwen opbouwt:
 
 Je online reputatie is het belangrijkste marketinginstrument van je kliniek. Bouw hem proactief op met systematische reviewverzameling, bescherm hem met snelle en professionele reacties, en gebruik feedback om je dienstverlening te verbeteren.
 
-Met [KliniekAI](/) automatiseren we je reviewverzoeken en patientcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KliniekAI](/) automatiseren we je reviewverzoeken en patientcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je je online reputatie versterkt.
 

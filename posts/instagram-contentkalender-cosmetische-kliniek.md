@@ -85,6 +85,6 @@ Kijk maandelijks naar drie cijfers: nieuwe volgers, profielbezoeken en het aanta
 
 De vraag "wat post ik vandaag?" verdwijnt zodra je hem een keer oplost in plaats van dertig keer. De kalender hierboven is dat ene moment: vier pijlers, een vast weekskelet, een uur batchen per maand. Daarna draait je Instagram net zo planmatig als je behandelagenda, op de achtergrond, terwijl jij je op je patiënten richt.
 
-Wil je het hele systeem laten draaien zonder er zelf naar om te kijken? KliniekAI regelt [social media voor klinieken](/social-media) van planning tot posten, inclusief beeld en de juiste tijdstippen, binnen de kaders van de AVG en met onze Groei-of-Geld-Terug Garantie. Jij behandelt, wij regelen de patiëntcommunicatie.
+Wil je het hele systeem laten draaien zonder er zelf naar om te kijken? Jij behandelt, wij regelen de patiëntcommunicatie.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 10px; padding: 14px 18px; margin: 28px 0; font-size: 0.95rem;"><strong>Lees ook:</strong> <a href="/blog/social-media-strategie-klinieken"><strong>Social media strategie voor klinieken: expertise en resultaten tonen</strong></a> &rarr;</p>

@@ -107,4 +107,4 @@ De patiënt die de review schreef verandert zelden van mening. De twintig mensen
 
 Houd het daarom simpel. Vier zinnen, geen enkele bevestiging van wie het is, één privékanaal, en daarna de vraag of het patroon iets over je agenda zegt.
 
-Bij KliniekAI zetten we die vaste reactievorm klaar, met de zorg-grenzen als harde regel erin, en koppelen we de wachttijd-signalen aan je planning in plaats van alleen aan je profiel. Wil je eerst zien wat er nu over je kliniek online staat, dan brengt onze [gratis ai scan voor klinieken](/gratis-scan) dat in kaart. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij KliniekAI zetten we die vaste reactievorm klaar, met de zorg-grenzen als harde regel erin, en koppelen we de wachttijd-signalen aan je planning in plaats van alleen aan je profiel. Wil je eerst zien wat er nu over je kliniek online staat, dan brengt onze [gratis ai scan voor klinieken](/gratis-scan) dat in kaart.

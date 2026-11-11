@@ -87,4 +87,4 @@ Ja, een goede chatbot boekt rechtstreeks in het systeem dat je al gebruikt of in
 
 Terug naar die vrouw op de bank om half tien 's avonds. In de kliniek met een discrete WhatsApp-flow stelt ze haar vraag wél, krijgt meteen een richtprijs en een geruststellend antwoord over de gang van zaken, en staat er de volgende ochtend een consult in de agenda. Geen gemiste kans, geen ongemakkelijk telefoontje, en een balie die er niets extra's voor hoefde te doen.
 
-Benieuwd hoeveel aanvragen er bij jouw kliniek buiten kantooruren binnenkomen en blijven liggen? Doe de [gratis ai scan voor klinieken](/gratis-scan) en je ziet precies waar patiënten weglekken. KliniekAI levert dit als managed dienst, getraind op jouw kliniek en tarieven en AVG-proof ingericht, met onze Groei-of-Geld-Terug Garantie. Jij behandelt, wij regelen de patiëntcommunicatie.
+Benieuwd hoeveel aanvragen er bij jouw kliniek buiten kantooruren binnenkomen en blijven liggen? Doe de [gratis ai scan voor klinieken](/gratis-scan) en je ziet precies waar patiënten weglekken. Jij behandelt, wij regelen de patiëntcommunicatie.

@@ -93,7 +93,7 @@ Goede [review software voor klinieken](/reviews) is daarom geen robot die jou ve
 
 Jouw reacties op reviews zijn openbare patiëntcommunicatie, en die verdient dezelfde betrouwbaarheid als je bereikbaarheid en je agenda. Premium zorg verdient premium bereikbaarheid, en dat geldt ook voor de digitale wachtkamer die je Google-profiel inmiddels is. Met vier veilige templates, duidelijke AVG-grondregels en een flow die concepten klaarzet terwijl jij behandelt, is elke review binnen een werkdag beantwoord.
 
-KliniekAI regelt dit als onderdeel van [review management](/reviews) voor klinieken: verzamelen, bewaken en beantwoorden in jouw toon, met menselijke controle waar dat hoort. Kies je voor een managed traject, dan valt het onder onze Groei-of-Geld-Terug Garantie.
+KliniekAI regelt dit als onderdeel van [review management](/reviews) voor klinieken: verzamelen, bewaken en beantwoorden in jouw toon, met menselijke controle waar dat hoort.
 
 Benieuwd wat dat kost? Je vindt de [tarieven](/tarieven) online, inclusief wat er per pakket in zit.
 

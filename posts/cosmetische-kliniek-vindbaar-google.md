@@ -69,4 +69,4 @@ Je hoeft niet alles tegelijk te doen. Begin met:
 1. Maak je Google Bedrijfsprofiel 100% compleet met foto's en beschrijving
 2. Maak voor je drie populairste behandelingen een aparte pagina op je website
 
-Wil je een compleet beeld van je online zichtbaarheid en de kansen die je nu mist? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je vindbaarheid, je concurrenten en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je een compleet beeld van je online zichtbaarheid en de kansen die je nu mist? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je vindbaarheid, je concurrenten en concrete verbeterpunten.

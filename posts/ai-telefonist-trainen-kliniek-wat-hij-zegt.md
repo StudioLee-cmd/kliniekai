@@ -81,4 +81,4 @@ Dat hangt volledig af van deze instructie. Onpersoonlijk wordt hij van standaard
 
 Een AI telefonist wordt zelden afgerekend op wat hij weet, maar bijna altijd op hoe hij klinkt. Leg daarom niet alleen je kennis vast maar ook je manier van spreken. Je naam zoals hij klinkt, korte zinnen, één vraag tegelijk, stoppen als de beller begint, en overdragen zodra het gesprek buiten zijn grenzen valt. Dat is een uur werk en het is het verschil tussen een systeem dat patiënten geruststelt en een systeem dat ze wegjaagt.
 
-Bij KliniekAI richten we die instructie samen met je in en schaven we hem bij op basis van de echte gesprekken, inclusief onze Groei-of-Geld-Terug Garantie. Wil je eerst weten hoe je bereikbaarheid er nu voor staat, vraag dan een [gratis scan voor je kliniek](/gratis-scan) aan. Premium zorg verdient premium bereikbaarheid.
+Wil je eerst weten hoe je bereikbaarheid er nu voor staat, vraag dan een [gratis scan voor je kliniek](/gratis-scan) aan. Premium zorg verdient premium bereikbaarheid.

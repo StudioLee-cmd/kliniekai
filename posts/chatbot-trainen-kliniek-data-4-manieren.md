@@ -75,6 +75,6 @@ En koppel hem daarna aan je systemen, want een goed antwoord is pas het halve we
 
 De bot zelf is niet het product; het inwerkdossier is het product. FAQ-import voor de snelheid, website-scraping voor het onderhoud, een Clinicminds-export voor de volledigheid en behandelplan-scripts voor de premium toon. Wie die vier combineert, heeft een [website chatbot voor klinieken](/chatbot) die antwoordt alsof je beste medewerker nachtdienst draait, zonder dat er iemand wakker ligt.
 
-Benieuwd waar jouw kliniek nu leads laat liggen? Vraag de [gratis ai scan voor klinieken](/gratis-scan) aan; dan zie je precies welke vragen onbeantwoord blijven en wat een getrainde [ai chatbot voor jouw kliniek](/chatbot) daarvan oppakt. En omdat we in ons eigen systeem geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niks op, dan krijg je je investering terug.
+Benieuwd waar jouw kliniek nu leads laat liggen? Vraag de [gratis ai scan voor klinieken](/gratis-scan) aan; dan zie je precies welke vragen onbeantwoord blijven en wat een getrainde [ai chatbot voor jouw kliniek](/chatbot) daarvan oppakt.
 
 Jij behandelt, wij regelen de patiëntcommunicatie.

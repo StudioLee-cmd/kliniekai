@@ -132,7 +132,7 @@ Voor een complete uitleg van [afspraakherinneringen voor klinieken](https://www.
 - Software/tool: vaak inbegrepen in modern HIS-abonnement, anders €49-149 per maand voor een geïntegreerd platform
 - Training van receptiebureau: 2-4 uur
 
-Voor een complete kostenbreakdown van een [kliniek-systeem inclusief overbooking](https://www.kliniekai.nl/tarieven) en de Groei-of-Geld-Terug Garantie, zie de pagina hierboven. ROI is in 90 procent van Nederlandse klinieken positief binnen één maand.
+ROI is in 90 procent van Nederlandse klinieken positief binnen één maand.
 
 ## Begin klein, schaal slim
 

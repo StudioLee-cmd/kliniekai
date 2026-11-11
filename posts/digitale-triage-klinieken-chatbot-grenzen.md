@@ -95,6 +95,4 @@ Wij bouwen dit gehele triage-systeem voor klinieken in onze managed service. Inc
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/avg-gdpr-klinieken-9-punten-2026" class="text-dark fw-semibold">AVG voor klinieken: 9 punten die je moet weten 2026</a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als na drie maanden de werkdruk op je receptie of telefoonteam niet meetbaar is afgenomen én je responstijd niet is verbeterd, krijg je je investering terug. Jij biedt zorg, wij zorgen dat alles eromheen soepel loopt.
+Jij biedt zorg, wij zorgen dat alles eromheen soepel loopt.

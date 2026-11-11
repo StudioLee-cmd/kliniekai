@@ -112,7 +112,6 @@ Bij KliniekAI helpen we klinieken hun BTW-flow inrichten zodat zowel juridisch c
 - AI-controle-script voor kwartaal-aangifte met anomalie-detectie
 - Software-keuze-advies (MoneyMonk, Exact, Twinfield) op basis van je klinieken-omvang
 - Een [seo voor klinieken](/seo) traject voor patient-acquisition zonder dat BTW-twijfel een drempel vormt
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor klinieken](/gratis-scan) of bekijk onze [tarieven KliniekAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

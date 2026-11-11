@@ -106,7 +106,7 @@ Verwacht een opbouw van maanden, geen week. Vertrouwen groeit precies zoals in d
 
 De uitleg die je elke dag in de spreekkamer geeft, is te waardevol om binnen die vier muren te houden. TikTok geeft je de kans om diezelfde deskundige rust te tonen aan iedereen die over een behandeling nadenkt, lang voordat ze een kliniek kiezen. Educatie eerst, promotie nooit, privacy heilig: dan is het kanaal geen risico maar een vertrouwensmachine.
 
-Liever dat dit gewoon elke maand gebeurt zonder dat jouw team er een dagtaak aan heeft? Jij behandelt, wij regelen de patiëntcommunicatie: KliniekAI verzorgt [social media uitbesteden voor klinieken](/social-media) van planning tot publicatie, met een Groei-of-Geld-Terug Garantie.
+Liever dat dit gewoon elke maand gebeurt zonder dat jouw team er een dagtaak aan heeft?
 
 Benieuwd wat dat kost? Bekijk de [tarieven van KliniekAI](/tarieven) en reken uit wat één extra consult per week betekent.
 

@@ -68,4 +68,4 @@ Combineer de review met de foto op je website en social media. Dit is de krachti
 
 Je hoeft niet te wachten op nieuwe patiënten. Stuur je vaste patiënten een persoonlijk bericht: "Je bent al [aantal] jaar patiënt bij ons. Zou je je ervaring willen delen in een Google review?" Veel trouwe patiënten doen dit graag maar hebben er nooit aan gedacht.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je [vindbaarheid](/seo) en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je [vindbaarheid](/seo) en concrete verbeterpunten.

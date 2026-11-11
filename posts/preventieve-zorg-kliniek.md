@@ -83,8 +83,6 @@ Patiënten zoeken steeds vaker online naar preventieve informatie. Zorg dat je k
 
 Bij StudioLee helpen we klinieken met hun online marketing — van [leadgeneratie](/blog/leadgeneratie-kliniek-nieuwe-patienten) tot patiëntcommunicatie. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe preventieve zorg je kliniek kan laten groeien.
 
 ## Conclusie

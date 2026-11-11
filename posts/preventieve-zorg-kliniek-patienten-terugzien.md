@@ -65,4 +65,4 @@ Je hoeft niet meteen een volledig preventieprogramma te lanceren. Begin met een 
 
 De klinieken die het beste draaien, zijn niet de klinieken met de meeste spoedgevallen. Het zijn de klinieken met een stabiele stroom van terugkerende patienten die vertrouwen op preventieve zorg.
 
-Wil je weten hoe jouw kliniek online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw kliniek online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

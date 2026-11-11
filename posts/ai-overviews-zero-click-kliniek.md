@@ -91,6 +91,6 @@ Terug naar die twee grafieken die de andere kant op wijzen. Ze betekenen niet da
 
 De klinieken die hier het rustigst doorheen komen zijn niet degene met de meeste content, maar degene die weten waar hun patiënten vandaan komen. Zolang je dat blijft meten en de plekken op orde houdt waar iemand nu binnenkomt, is een dalende bezoekersgrafiek een verandering in het kanaal en geen verlies aan patiënten.
 
-Wil je weten welke van je pagina's veel vertoningen en weinig kliks krijgen, en welke daarvan de moeite waard zijn om om te bouwen? Bekijk wat een [gratis website voor klinieken](/gratis-website) je oplevert als vertrekpunt. Bij KliniekAI richten we de meting en de opvolging standaard voor je in, en met onze Groei-of-Geld-Terug Garantie loop je daarbij geen risico. Jij behandelt, wij regelen de patiëntcommunicatie.
+Wil je weten welke van je pagina's veel vertoningen en weinig kliks krijgen, en welke daarvan de moeite waard zijn om om te bouwen? Bekijk wat een [gratis website voor klinieken](/gratis-website) je oplevert als vertrekpunt. Jij behandelt, wij regelen de patiëntcommunicatie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lokale-fysio-paginas-per-stad" class="text-dark fw-semibold">Lokale fysio-pagina's per stad, zonder duplicate content</a> →</p></div></div></div>

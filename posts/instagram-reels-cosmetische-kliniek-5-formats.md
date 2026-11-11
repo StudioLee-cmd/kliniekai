@@ -92,6 +92,6 @@ De kliniek die op Instagram laat zien wie er behandelt, hoe er gewerkt wordt en 
 
 Wil je dat die aandacht ook converteert? Dan moet je website hetzelfde premium gevoel geven als je Reels. Bekijk wat een [professionele website voor klinieken](/gratis-website) voor jouw kliniek kan doen.
 
-Liever alles uit handen? Bij KliniekAI regelen we de complete contentproductie inclusief Reels, met onze Groei-of-Geld-Terug Garantie. Jij behandelt, wij regelen de patiëntcommunicatie.
+Liever alles uit handen? Jij behandelt, wij regelen de patiëntcommunicatie.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/tiktok-voor-klinieken" class="text-dark fw-semibold">TikTok voor klinieken: educatieve content wint vertrouwen</a> →</p></div></div></div>
