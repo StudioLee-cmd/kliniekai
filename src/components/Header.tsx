@@ -92,6 +92,13 @@ const Header: React.FC = () => {
 
                     {/* Mobile Menu Button */}
                     <div className="md:hidden flex items-center gap-2 pointer-events-auto">
+                        <button
+                            onClick={() => setIsModalOpen(true)}
+                            type="button"
+                            className="text-black bg-primary hover:bg-primary-accent font-semibold px-4 h-10 rounded-full transition-colors flex items-center justify-center whitespace-nowrap"
+                        >
+                            Start Nu
+                        </button>
                         <AnimatedThemeToggler className="w-9 h-9" />
                         <button
                             onClick={toggleMenu}
