@@ -1,52 +1,56 @@
 import { IFAQ } from "@/types";
 
+// Klinieken-FAQ. Tot 24-07 stond hier de loodgieter-tekst van de bron-template ("terwijl je onder de
+// vloer zit", "kun je LoodgieterAI gebruiken", installateurs-software) — de template-kopieerlek uit
+// TEMPLATING-STRATEGIE §6. Herschreven naar het vak, en per het PROPOSITIE-CONTRACT zonder tool-namen:
+// we verkopen de uitkomst, niet de gereedschapskist.
 export const faqs: IFAQ[] = [
     {
-        question: "Hoe zit het met de veiligheid van patiëntgegevens?",
-        answer: "Veiligheid en privacy staan voorop. Wij voldoen strikt aan de AVG/GDPR en NEN 7510 richtlijnen voor de zorg. Patiëntgegevens zijn versleuteld en worden nooit gedeeld met derden.",
+        question: "Hoe zit het met de veiligheid van mijn klantgegevens?",
+        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR-richtlijnen. Je klantenbestand blijft van jou en wordt nooit gebruikt om publieke AI-modellen te trainen zonder jouw expliciete toestemming.",
     },
     {
-        question: "Wat levert het mijn praktijk op?",
-        answer: "Gemiddeld bespaart een kliniek 15+ uur per week aan administratie en telefoontjes. Daarnaast optimaliseren we uw bezetting door gaten in de agenda direct op te vullen. Meer tijd voor patiënten, minder bureaucratie.",
+        question: "Wat levert het mij concreet op?",
+        answer: "Je mist geen telefoontjes meer terwijl je in behandeling bent, en lege plekken door no-shows worden zeldzaam omdat herinneringen vanzelf gaan. Daarnaast bespaar je de tijd die nu opgaat aan appjes en administratie.",
     },
     {
-        question: "Heb ik technische kennis nodig?",
-        answer: "Nee, absoluut niet. Wij richten het systeem volledig voor u in. U en uw team kunnen er direct mee werken zonder training. Het is intuïtiever dan de meeste EPD-systemen.",
+        question: "Heb ik technische kennis nodig om dit te beheren?",
+        answer: "Nee, absoluut niet. Het dashboard is gemaakt voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je hier ook mee overweg. Wil je er zelf helemaal niet naar omkijken, dan doen wij het beheer.",
     },
     {
-        question: "Koppelt dit met mijn EPD/EHR?",
-        answer: "Ja, wij koppelen met gangbare systemen zoals Exact, Outlook, en diverse medische agenda software. Afspraken en dossiernotities worden veilig en correct gesynchroniseerd.",
+        question: "Kan ik dit koppelen aan mijn agenda en boekingssysteem?",
+        answer: "Ja. We sluiten aan op de agenda en het boekingssysteem waar je al mee werkt, zodat afspraken die de AI maakt gewoon in jouw planning verschijnen. Werk je nog met een papieren afsprakenboek, dan zetten we de online agenda voor je op.",
     },
     {
-        question: "Wat als de AI een medische vraag krijgt?",
-        answer: "De AI geeft geen medisch advies. Bij inhoudelijke medische vragen schakelt de assistent door naar een specialist of maakt een terugbelverzoek voor de dienstdoende arts.",
+        question: "Wat als de AI het antwoord niet weet?",
+        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek — een vraag over een specifieke behandeling bijvoorbeeld — dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
     },
     {
-        question: "Is dit geschikt voor zelfstandige specialisten?",
-        answer: "Zeker. Voor ZZP-artsen en therapeuten fungeren wij als full-time praktijkondersteuner. U focust op de behandeling, wij zorgen dat de telefoon wordt opgenomen en de administratie loopt.",
+        question: "Is dit geschikt voor een eenmanszaak of alleen voor grote klinieken?",
+        answer: "Juist als je alleen staat is het waardevol: de telefoon gaat door terwijl jij in behandeling bent. Werk je met meerdere behandelaars, dan helpt het bij het verdelen van afspraken over de agenda's en het opvullen van gaten.",
     },
     {
-        question: "Kan ik de bereikbaarheid instellen?",
-        answer: "Uiteraard. U bepaalt de kantoortijden. Buiten deze tijden kan de AI spoedgevallen filteren en doorzetten naar de waarnemer, of reguliere vragen parkeren voor de volgende werkdag.",
+        question: "Kan ik buiten openingstijden andere instellingen gebruiken?",
+        answer: "Zeker. Je stelt in wat er buiten openingstijden gebeurt. Bijvoorbeeld: alleen een afspraak inplannen voor de eerstvolgende dag dat je open bent, en spoed doorverbinden. Zo heb je ook écht vrij.",
     },
     {
-        question: "Zit ik vast aan een contract?",
-        answer: "Nee, onze samenwerking is flexibel en maandelijks opzegbaar. Wij geloven dat kwaliteit bindt, geen contracten.",
+        question: "Wat krijg ik precies gratis?",
+        answer: "Het website-ontwerp, en het bestand. Je kiest een van onze ontwerpen, ziet 'm meteen met je eigen bedrijfsnaam erin, en het ontwerpbestand mag je houden. Geen bedenktijd, geen voorwaarden. Wat níét gratis is, is het draaiend krijgen en houden: live zetten, gevonden worden, teksten die blijven komen en iemand die opneemt. Dat zit in het abonnement.",
     },
     {
-        question: "Is de demo vrijblijvend?",
-        answer: "Volledig. We analyseren uw praktijkvoering en kijken waar we winst kunnen behalen. Geen verplichtingen, wel direct inzicht in mogelijke verbeteringen.",
+        question: "Is de strategie-call echt gratis?",
+        answer: "Honderd procent. Geen addertjes. We denken graag met je mee hoe je dit het beste inzet voor jouw kliniek. Of je daarna klant wordt of niet, je krijgt altijd eerlijk advies waar je direct mee verder kunt.",
     },
     {
-        question: "Wat houdt 'managed service' in?",
-        answer: "Dat wij uw digitale praktijkondersteuner zijn. Wij beheren de software, zorgen voor updates, en helpen bij uw online positionering. U de zorg, wij de techniek.",
+        question: "Waarom is de managed service niet volledig geautomatiseerd?",
+        answer: "Omdat de techniek nog niet betrouwbaar genoeg is om dit helemaal zonder mens te doen. AI kan fouten maken, en juist bij een kliniek telt hoe iets klinkt. Een expert die meekijkt zorgt voor een merk dat klopt in plaats van iets dat spammerig overkomt.",
     },
     {
-        question: "Hoe snel kunnen we starten?",
-        answer: "Na de intake kunnen we binnen 24-48 uur operationeel zijn. We leiden uw telefonie om en koppelen uw agenda. Uw praktijk draait gewoon door.",
+        question: "Hoe snel is het inzetbaar?",
+        answer: "De basis staat binnen enkele minuten. Wil je dat de AI je prijzen, behandelingen en werkwijze écht kent, dan vul je één keer je bedrijfsprofiel in en ben je met onze hulp vaak binnen een werkdag volledig operationeel.",
     },
     {
         question: "Wat moet ik zelf nog doen?",
-        answer: "Dat bepaal je helemaal zelf. Je kunt kiezen tussen Self-Service, waarbij je alles zelf beheert via ons gebruiksvriendelijke dashboard, of onze Managed Service, waarbij wij alles voor je regelen. Bij de managed optie hoef je slechts ~15 minuten per maand te bellen met je vaste accountmanager voor updates en afstemming. De rest doen wij.",
+        answer: "Dat bepaal je zelf. Je kunt alles zelf beheren via het dashboard, of ons het laten doen. Bij de managed variant bel je ongeveer een kwartier per maand met je vaste contactpersoon voor updates en afstemming. De rest doen wij.",
     }
 ];
