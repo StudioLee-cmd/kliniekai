@@ -11,7 +11,7 @@ cluster: "reviews"
 
 Patiënten kiezen hun behandelaar steeds vaker online. Ze zoeken op "Beste fysiotherapeut Utrecht" of "Dermatoloog reviews". Als uw kliniek daar niet tussen staat met een hoge score, loopt u dagelijks nieuwe patiënten mis.
 
-Het probleem? Tevreden patiënten vergeten vaak een review achter te laten. Ontevreden patiënten niet. Hierdoor geeft uw online score vaak een vertekend beeld. KliniekAI lost dit op met Reputatie Manager.
+Het probleem? Tevreden patiënten vergeten vaak een review achter te laten. Ontevreden patiënten niet. Hierdoor geeft uw online score vaak een vertekend beeld. KliniekAI lost dit op met Review Management.
 
 ## Hoe werkt het?
 
