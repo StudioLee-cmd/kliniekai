@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Koppelt dit met mijn EPD/EHR?",
-        answer: "Ja, wij koppelen met gangbare systemen zoals Exact, Outlook, en diverse medische agenda software. Afspraken en dossiernotities worden veilig en correct gesynchroniseerd.",
+        answer: "Koppelt met je agenda zonder je patientgegevens te verplaatsen. Clinicminds en Pabau koppelen we direct; voor Intramed en andere praktijksystemen loopt een afspraak via je eigen online boekingslink of via je Google- of Outlook-agenda. Medische gegevens blijven in je eigen systeem.",
     },
     {
         question: "Wat als de AI een medische vraag krijgt?",
