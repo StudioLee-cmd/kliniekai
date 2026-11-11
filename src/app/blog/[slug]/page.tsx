@@ -8,6 +8,7 @@ import { getAuthorBySlug } from '@/data/authors';
 import { siteDetails } from '@/data/siteDetails';
 import Container from '@/components/Container';
 import BlogContent from '@/components/BlogContent';
+import ArticleScanCta from '@/components/ArticleScanCta';
 import { FiArrowLeft, FiClock } from 'react-icons/fi';
 
 const SITE_URL = 'https://www.kliniekai.nl';
@@ -149,6 +150,8 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
                     </div>
 
                     <BlogContent content={contentHtml} />
+
+                    <ArticleScanCta slug={slug} />
 
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
