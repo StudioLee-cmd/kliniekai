@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Overstappen naar andere tandartssoftware zonder je röntgen, declaraties en patiënthistorie te verliezen. Zo migreer je veilig."
 image: "/images/blog/tandartssoftware-overstappen-rontgen-behouden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Software"]
+tags: ["Software", "Tandarts"]
 cluster: "automatisering"
 ---
 

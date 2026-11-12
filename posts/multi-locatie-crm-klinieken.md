@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Groeit je kliniek naar meerdere vestigingen? Zo houd je één patiëntenbestand over al je locaties, zonder dubbele dossiers, gemiste opvolging of AVG-risico."
 image: "/images/blog/multi-locatie-crm-klinieken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering", "AVG"]
+tags: ["CRM", "Praktijkmanagement", "AVG"]
 cluster: "automatisering"
 ---
 

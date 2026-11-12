@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als kliniek je specialisatie online uitdraagt om de juiste
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-kliniek-juiste-patienten.png"
-tags: ["Specialisatie", "Marketing"]
+tags: ["Patiëntenwerving"]
 cluster: "branding"
 ---
 ## Waarom specialisatie aantrekkingskracht heeft

@@ -5,7 +5,7 @@ excerpt: "Patiënten bellen niet alleen tussen 9 en 5. Met een AI-telefoniste be
 date: "2026-02-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-zorg.png"
-tags: ["Bereikbaarheid", "Voice AI"]
+tags: ["Telefonie", "Patiëntservice"]
 cluster: "voice-ai"
 ---
 In de moderne maatschappij verwachten patiënten directe bereikbaarheid. Maar u wilt 's avonds en in het weekend niet gestoord worden voor niet-dringende zaken. En tijdens spreekuren kan uw assistente niet altijd de telefoon opnemen omdat ze patiënten aan de balie helpt.

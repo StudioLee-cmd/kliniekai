@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met huisartsen, fysiotherapeuten en apothe
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-kliniek-partnerschappen.png"
-tags: ["Groei", "Branding"]
+tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 

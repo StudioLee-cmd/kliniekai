@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eerste-consult-kliniek-van-vraag-naar-behandeling.jpg"
-tags: ["Leads", "Conversie", "Groei"]
+tags: ["Leads", "Conversie"]
 ---
 ## Het eerste consult is je verkoopmoment
 

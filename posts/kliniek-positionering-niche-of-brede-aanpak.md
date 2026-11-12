@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Wil je als kliniek alles voor iedereen zijn of juist een scherpe niche kiezen? Zo bepaal je welke positionering meer en betere patiënten oplevert."
 image: "/images/blog/kliniek-positionering-niche-of-brede-aanpak.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Specialisatie"]
+tags: ["Branding", "Positionering"]
 cluster: "branding"
 ---
 

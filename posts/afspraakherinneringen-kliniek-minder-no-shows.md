@@ -6,7 +6,7 @@ date: "2026-04-18"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-kliniek-minder-no-shows.jpg"
-tags: ["No-shows", "Automatisering"]
+tags: ["Herinneringen", "No-shows"]
 ---
 ## Waarom herinneringen het effectiefst zijn tegen no-shows
 

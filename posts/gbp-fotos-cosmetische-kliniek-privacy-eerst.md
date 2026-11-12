@@ -6,7 +6,7 @@ cluster: "vindbaarheid"
 excerpt: "Foto's op je Google Bedrijfsprofiel als cosmetische kliniek zonder patiëntgezichten. Welke shots, hoe je vertrouwen wekt, en de WGBO/AVG-grens uitgelegd."
 image: "/images/blog/gbp-fotos-cosmetische-kliniek-privacy-eerst.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Privacy", "Google"]
+tags: ["Foto's", "Privacy"]
 ---
 
 # Google Bedrijfsprofiel foto's voor cosmetische klinieken: privacy-eerst, vertrouwen-volgens

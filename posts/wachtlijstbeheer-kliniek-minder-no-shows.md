@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijstbeheer-kliniek-minder-no-shows.jpg"
-tags: ["No-shows", "Planning"]
+tags: ["Wachtlijstbeheer", "Planning"]
 ---
 ## Waarom wachtlijstbeheer de sleutel is tot minder no-shows
 

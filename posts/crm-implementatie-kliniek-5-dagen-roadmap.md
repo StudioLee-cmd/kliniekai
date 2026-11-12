@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Een CRM invoeren hoeft geen maandenlang IT-project te zijn. Zo zet je als kliniek in vijf gerichte dagen je patiëntenbestand AVG-proof in één systeem."
 image: "/images/blog/crm-implementatie-kliniek-5-dagen-roadmap.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering", "AVG"]
+tags: ["CRM", "Praktijkmanagement", "AVG"]
 cluster: "automatisering"
 ---
 

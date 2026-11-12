@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-cosmetische-kliniek-meer-patienten.jpg"
-tags: ["Reviews", "Vindbaarheid", "Groei"]
+tags: ["Reviews", "Vindbaarheid"]
 ---
 ## Reviews zijn de beslisfactor bij cosmetische behandelingen
 

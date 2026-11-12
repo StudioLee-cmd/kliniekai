@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als kliniek no-shows structureel vermindert met digitale i
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-reduceren.jpg"
-tags: ["No-shows", "Groei"]
+tags: ["Praktijkmanagement"]
 cluster: "automatisering"
 ---
 ## De impact van no-shows op medische klinieken

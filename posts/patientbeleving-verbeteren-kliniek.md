@@ -5,7 +5,7 @@ excerpt: "Van het eerste telefoontje tot de nazorg-mail: elk contactmoment bepaa
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientbeleving-verbeteren-kliniek.png"
-tags: ["Automatisering"]
+tags: ["Patientbeleving", "Klantreis"]
 cluster: "automatisering"
 ---
 ## Patientbeleving begint niet bij de behandeling

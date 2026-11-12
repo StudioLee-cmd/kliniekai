@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een aanbetaling kan no-shows op dure intakes flink terugdringen. Ontdek of het werkt, wat je mag vragen en hoe je het AVG-proof en patiëntvriendelijk inricht."
 image: "/images/blog/no-show-aanbetaling-kliniek-werkt-en-mag-het.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["No-shows", "Automatisering"]
+tags: ["AVG", "Praktijkmanagement"]
 cluster: "automatisering"
 ---
 

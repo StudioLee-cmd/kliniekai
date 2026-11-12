@@ -5,7 +5,7 @@ excerpt: "Online reputatie is cruciaal voor klinieken. Ontdek hoe u automatisch 
 date: "2026-01-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/zorgkaart-reviews-automatiseren.png"
-tags: ["Marketing", "Reputatie", "Groei"]
+tags: ["Reputatie"]
 cluster: "reviews"
 ---
 

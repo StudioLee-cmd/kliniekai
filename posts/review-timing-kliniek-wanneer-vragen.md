@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Review timing in je kliniek bepaalt waarover een patiënt schrijft. De 3 momenten naast elkaar: direct na de behandeling, na de controle en na 12 weken."
 image: "/images/blog/review-timing-kliniek-wanneer-vragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Patiënten"]
+tags: ["Reviews", "Timing"]
 cluster: "reviews"
 ---
 

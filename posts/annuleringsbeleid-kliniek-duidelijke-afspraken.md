@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annuleringsbeleid-kliniek-duidelijke-afspraken.jpg"
-tags: ["No-shows", "Automatisering"]
+tags: ["No-shows", "Beleid"]
 ---
 ## Waarom communicatie het verschil maakt
 

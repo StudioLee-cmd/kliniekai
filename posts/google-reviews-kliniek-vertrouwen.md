@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-kliniek-vertrouwen.jpg"
-tags: ["Reviews", "Google"]
+tags: ["Reviews", "Vertrouwen", "Google"]
 ---
 ## Waarom reviews voor klinieken extra belangrijk zijn
 

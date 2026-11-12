@@ -5,7 +5,7 @@ excerpt: "Nederlandse zorgverleners besteden 40% van hun tijd aan administratie.
 date: "2026-01-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratieve-druk-verlagen.png"
-tags: ["Administratie", "Patiënten"]
+tags: ["Werkdruk", "Zorginnovatie"]
 cluster: "automatisering"
 ---
 

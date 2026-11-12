@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-pre-screening-cosmetische-kliniek-intake-vragen.jpg"
-tags: ["Digitale triage", "Intake"]
+tags: ["Pre-screening", "Intake"]
 ---
 Een cosmetische kliniek in Amsterdam bekeek vorig kwartaal de cijfers achter de intake-flow. Van de 220 aanvragen die binnenkwamen voor een filler-consult, kwamen er 178 op de eerste afspraak — en daarvan kreeg 84 een behandeladvies waar de patiënt mee verder kon. De andere 94 hoorden tijdens de intake voor het eerst dat ze ofwel ongeschikt waren (medische contra-indicatie), ofwel dat hun verwachting niet overeen kwam met wat realistisch is, ofwel dat ze een verkeerde behandeling in gedachten hadden. Voor elke afgewezen patiënt verloor de kliniek 25 à 40 minuten consult-tijd, een gemiste behandelbon, en een patiënt die teleurgesteld vertrekt en soms een matige review achterlaat omdat de afwijzing pas tijdens het persoonlijk gesprek viel.
 

@@ -5,7 +5,7 @@ excerpt: "No-shows zijn een dure kostenpost voor elke praktijk. Ontdek hoe slimm
 date: "2026-02-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-zorg.png"
-tags: ["No-shows", "Automatisering", "AI"]
+tags: ["Efficiency", "No-shows"]
 cluster: "automatisering"
 ---
 

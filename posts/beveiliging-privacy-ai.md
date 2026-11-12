@@ -4,7 +4,7 @@ excerpt: "Innovatie kan niet zonder veiligheid. Lees hoe wij voldoen aan de stre
 date: "2026-01-05"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beveiliging-privacy-ai.png"
-tags: ["Privacy", "AVG", "Automatisering"]
+tags: ["Privacy", "AVG", "Veiligheid"]
 cluster: "automatisering"
 ---
 

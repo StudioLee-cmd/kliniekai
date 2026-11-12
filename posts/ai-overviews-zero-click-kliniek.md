@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Je vertoningen stijgen, je bezoekers dalen. Zo lees je die cijfers goed, en dit zijn de vier getallen die een kliniek nu wel moet bijhouden."
 image: "/images/blog/ai-overviews-zero-click-kliniek.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "AI"]
+tags: ["AI Overviews", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

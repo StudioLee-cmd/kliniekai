@@ -4,7 +4,7 @@ excerpt: "Mensen zoeken online naar een kliniek die bij hen past. Wie op het jui
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-kliniek-meer-patienten-trekt-via-google.png"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Google", "Patiënten"]
 cluster: "vindbaarheid"
 ---
 ## Waarom klinieken steeds meer online gevonden worden

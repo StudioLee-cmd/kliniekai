@@ -5,7 +5,7 @@ excerpt: "Bouw vertrouwen op bij potentiële patiënten via social media. Prakti
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-strategie-klinieken.jpg"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 Patiënten kiezen een kliniek niet alleen op basis van locatie of prijs. Ze willen weten wie hen behandelt, welke resultaten je behaalt en of andere patiënten tevreden zijn. [Social media](/social-media) is het kanaal waar je dat verhaal kunt vertellen — mits je het goed aanpakt.

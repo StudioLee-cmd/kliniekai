@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Welke workflows automatiseer je het eerst in je kliniek? De 5 stappen van consult tot review met de hoogste ROI, gerangschikt op wat ze echt opleveren."
 image: "/images/blog/kliniek-workflows-consult-tot-review-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Reviews"]
+tags: ["Automatisering", "Workflows"]
 cluster: "automatisering"
 ---
 

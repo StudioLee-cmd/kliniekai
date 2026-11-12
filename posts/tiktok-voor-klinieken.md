@@ -5,7 +5,7 @@ excerpt: "TikTok voor klinieken: 6 educatieve videoformats zonder patiënten in 
 date: "2026-07-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tiktok-voor-klinieken.jpg"
-tags: ["Social Media", "Communicatie"]
+tags: ["TikTok", "Social Media"]
 cluster: "social-media"
 ---
 

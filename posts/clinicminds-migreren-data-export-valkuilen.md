@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Stap je als kliniek over van Clinicminds naar een nieuw systeem? Zo exporteer je patiëntdata veilig en vermijd je de 3 grootste valkuilen."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/clinicminds-migreren-data-export-valkuilen.jpg"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Datamigratie"]
 cluster: "automatisering"
 ---
 

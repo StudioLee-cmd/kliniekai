@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Handmatige declaratie kost je kliniek doorgaans 15 tot 25 uur per maand. Zo bouw je een gekoppeld VECOZO-systeem dat de meeste fouten vooraf vangt."
 image: "/images/blog/declaratie-automatiseren-kliniek-vecozo-koppeling.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["VECOZO", "EPD", "Administratie"]
 cluster: "automatisering"
 ---
 

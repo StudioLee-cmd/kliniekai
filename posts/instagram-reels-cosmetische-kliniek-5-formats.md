@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "De 5 Reels-formats die voor cosmetische klinieken blijven werken, met per format het recept en de spelregels rond patiëntbeelden en claims."
 image: "/images/blog/instagram-reels-cosmetische-kliniek-5-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Instagram", "Social Media"]
+tags: ["Instagram", "Reels"]
 cluster: "social-media"
 ---
 

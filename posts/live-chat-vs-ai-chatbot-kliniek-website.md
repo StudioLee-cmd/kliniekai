@@ -5,7 +5,7 @@ date: "2026-05-26"
 excerpt: "Live chat of AI chatbot op je kliniek-website? Vergelijking voor cosmetisch, tandheelkunde en fysio: anonimiteit, kosten, AVG en conversie."
 image: "/images/blog/live-chat-vs-ai-chatbot-kliniek-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Marketing"]
+tags: ["Chatbot", "Website Conversie"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Drie vragen houden je balie de hele dag bezig: kan ik een afspraak maken, wat kost het, en ik heb acute pijn. Zo handelt een WhatsApp chatbot ze af."
 image: "/images/blog/whatsapp-chatbot-tandartspraktijk.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot"]
+tags: ["WhatsApp", "Tandartspraktijk"]
 cluster: "chatbot"
 ---
 

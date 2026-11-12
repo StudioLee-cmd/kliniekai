@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek-patienten-terugzien.jpg"
-tags: ["Preventieve Zorg"]
+tags: ["Patientenbinding"]
 ---
 ## De meeste patienten komen te laat
 

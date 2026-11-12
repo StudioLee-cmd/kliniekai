@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als kliniek de patiëntervaring structureel verbetert voor
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-kliniek-patientervaring.jpg"
-tags: ["Patientervaring", "Groei"]
+tags: ["Klanttevredenheid"]
 cluster: "automatisering"
 ---
 ## Waarom patiënttevredenheid centraal staat

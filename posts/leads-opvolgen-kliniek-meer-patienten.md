@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-kliniek-meer-patienten.jpg"
-tags: ["Leads", "Automatisering"]
+tags: ["Leads", "Patientwerving"]
 ---
 ## De onzichtbare patienten die je kwijtraakt
 

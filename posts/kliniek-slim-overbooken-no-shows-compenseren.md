@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Klinieken die overbooken halen 12-18% meer omzet zonder extra personeel. Het slimme model: hoe doe je het zonder boze patiënten of dubbele afspraken?"
 image: "/images/blog/kliniek-slim-overbooken-no-shows-compenseren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["No-shows", "Planning"]
+tags: ["Overbooking", "Capaciteit"]
 cluster: "automatisering"
 ---
 

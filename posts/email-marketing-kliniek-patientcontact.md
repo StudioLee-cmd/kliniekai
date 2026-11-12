@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als kliniek met slimme e-mails patiënten behoudt, no-show
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kliniek-patientcontact.png"
-tags: ["E-mail", "Marketing"]
+tags: ["E-mail", "Patiëntbehoud"]
 cluster: "automatisering"
 ---
 

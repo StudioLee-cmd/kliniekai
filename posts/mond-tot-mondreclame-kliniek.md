@@ -5,7 +5,7 @@ excerpt: "De krachtigste marketingvorm voor klinieken is mond-tot-mondreclame. L
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-kliniek.png"
-tags: ["Marketing", "Branding"]
+tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 

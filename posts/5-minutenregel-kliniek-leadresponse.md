@@ -5,7 +5,7 @@ excerpt: "Onderzoek van MIT laat zien dat leads die binnen 5 minuten contact ter
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/5-minutenregel-kliniek-leadresponse.jpg"
-tags: ["Conversie", "Intake", "Leads"]
+tags: ["Lead response", "Intake"]
 cluster: "automatisering"
 ---
 Het onderzoek van MIT (Oldroyd, 2007) dat de 5-minutenregel populair maakte, is inmiddels bijna twintig jaar oud en nog steeds onverminderd van toepassing. Leads die binnen vijf minuten na aanvraag worden teruggebeld of beantwoord, converteren 21 keer vaker dan leads die 30 minuten of langer moeten wachten. Voor klinieken is dit principe extra relevant: patiënten die een specifieke behandeling overwegen zijn actief aan het vergelijken, en wie eerst reageert, zit in de shortlist. Wie zes uur later reageert, is niet meer in beeld.

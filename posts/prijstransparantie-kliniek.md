@@ -5,7 +5,7 @@ excerpt: "Klinieken die transparant zijn over prijzen, trekken meer en betere pa
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijstransparantie-kliniek.png"
-tags: ["Prijzen", "Marketing"]
+tags: ["Prijzen"]
 cluster: "website"
 ---
 
