@@ -5,7 +5,7 @@ excerpt: "Een negatieve review kan je kliniek meer schaden dan een slechte behan
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-kliniek-beschermen-versterken.png"
-tags: ["Kliniek", "Online Reputatie", "Reviews"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

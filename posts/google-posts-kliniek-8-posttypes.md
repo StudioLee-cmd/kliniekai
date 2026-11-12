@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Google posts zijn gratis zichtbaarheid die bijna geen kliniek benut. Deze 8 posttypes leveren boekingen op, met voorbeelden en een haalbaar ritme."
 image: "/images/blog/google-posts-kliniek-8-posttypes.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google", "Vindbaarheid", "Lokale SEO", "Patiënten"]
+tags: ["Google", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

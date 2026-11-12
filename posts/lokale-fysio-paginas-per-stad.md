@@ -5,7 +5,7 @@ excerpt: "Meerdere vestigingen, maar niet vindbaar op fysio plus stadsnaam? Zo b
 date: "2026-07-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-fysio-paginas-per-stad.jpg"
-tags: ["SEO", "Lokale vindbaarheid", "Vindbaarheid"]
+tags: ["Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Hoe scheidt een tandartspraktijk routinevragen overdag van echte spoed in de avond? Zo richt je met een AI-telefonist een heldere triage-lijn in."
 image: "/images/blog/spoed-triage-tandartspraktijk-dag-avond.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Tandartspraktijk", "Bereikbaarheid"]
+tags: ["Voice AI", "Tandartspraktijk"]
 cluster: "voice-ai"
 ---
 

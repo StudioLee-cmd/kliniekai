@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "5 online-afspraak-systemen voor klinieken vergeleken: Treatwell, SimplyBook, Acuity, EasyWeek en custom. Welke past bij jouw behandelaar-aantal en budget?"
 image: "/images/blog/online-afspraken-kliniek-welk-systeem-past-bij-jou.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software-vergelijking", "Online-afspraken", "Booking", "Kliniek"]
+tags: ["Vergelijking"]
 cluster: "automatisering"
 ---
 

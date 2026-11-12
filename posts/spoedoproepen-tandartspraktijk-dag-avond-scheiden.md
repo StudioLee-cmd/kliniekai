@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Spoed en reguliere afspraken lopen door één telefoon. Zo scheid je als tandartspraktijk de dag- en avondstroom en blijf je bereikbaar zonder te verzuipen."
 image: "/images/blog/spoedoproepen-tandartspraktijk-dag-avond-scheiden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Tandartspraktijk", "Bereikbaarheid"]
+tags: ["Voice AI", "Tandartspraktijk"]
 cluster: "voice-ai"
 ---
 

@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-automatisering-patientcommunicatie.jpg"
-tags: ["Automatisering", "Kliniek", "Patiëntcommunicatie"]
+tags: ["Automatisering"]
 ---
 ## De balie als flessenhals
 

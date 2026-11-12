@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw kliniek genoemd door ChatGPT, Perplexity en Google AI Ov
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-vindbaar-chatgpt-ai-search.jpg"
-tags: ["SEO", "AI Search", "ChatGPT", "Kliniek"]
+tags: ["Vindbaarheid", "ChatGPT", "AI"]
 cluster: "vindbaarheid"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-05"
 excerpt: "AVG voor klinieken in 2026: 9 concrete punten die elke kliniek-eigenaar moet hebben geregeld om boetes en reputatieschade te voorkomen."
 image: "/images/blog/avg-gdpr-klinieken-9-punten-2026.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AVG", "GDPR", "Privacy", "AI Automatisering"]
+tags: ["AVG", "Privacy", "Automatisering"]
 cluster: "automatisering"
 ---
 

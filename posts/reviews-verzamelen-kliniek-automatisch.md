@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-verzamelen-kliniek-automatisch.jpg"
-tags: ["Reviews", "Kliniek", "AVG"]
+tags: ["Reviews", "AVG"]
 ---
 ## Waarom reviews cruciaal zijn voor klinieken
 

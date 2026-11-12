@@ -5,7 +5,7 @@ excerpt: "Je kliniek-website trekt bezoekers, maar te weinig afspraken. Ontdek h
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-website-conversie-meer-patienten.png"
-tags: ["Website", "Conversie", "Patiënten"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

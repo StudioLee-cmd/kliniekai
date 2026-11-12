@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-telefoontjes-kliniek-opvolgen.jpg"
-tags: ["Lead opvolging", "Kliniek", "Bereikbaarheid"]
+tags: ["Lead opvolging"]
 ---
 ## Het probleem dat elke kliniek herkent
 

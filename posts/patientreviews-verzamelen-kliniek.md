@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientreviews-verzamelen-kliniek.jpg"
-tags: ["Reviews", "Groei", "Tips"]
+tags: ["Reviews", "Groei"]
 ---
 ## Waarom patiëntreviews alles bepalen
 

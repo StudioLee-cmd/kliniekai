@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "De wachttijd is de meest voorkomende klacht in zorgreviews, en de reactie erop kent regels die andere branches niet hebben. Dit is de vorm die werkt."
 image: "/images/blog/review-over-wachttijd-kliniek-reactie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Reputatie", "Kliniek"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

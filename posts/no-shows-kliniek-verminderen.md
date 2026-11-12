@@ -5,7 +5,7 @@ excerpt: "No-shows kosten klinieken duizenden euro's per maand — vooral bij hi
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-verminderen.png"
-tags: ["Kliniek", "No-shows", "Patiëntbeheer"]
+tags: ["No-shows", "Automatisering"]
 cluster: "automatisering"
 ---
 ## Wat no-shows je kliniek écht kosten

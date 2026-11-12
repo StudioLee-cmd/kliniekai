@@ -7,7 +7,7 @@ excerpt: "Je kliniek-website trekt bezoekers, maar hoeveel worden er patient? On
 image: "/images/blog/leadgeneratie-kliniek-nieuwe-patienten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["leadgeneratie", "kliniek", "patienten"]
+tags: ["Leads", "Patiënten"]
 cluster: "automatisering"
 ---
 

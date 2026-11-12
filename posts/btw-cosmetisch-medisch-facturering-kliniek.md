@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Medisch noodzakelijk is BTW-vrij, cosmetisch 21 procent BTW. Splitsings-flow op facturen, juridische grenzen en AI-tools voor de aangifte in 2026."
 image: "/images/blog/btw-cosmetisch-medisch-facturering-kliniek.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Prijzen", "BTW", "Administratie", "Facturering", "Kliniek"]
+tags: ["Prijzen", "Administratie"]
 cluster: "automatisering"
 ---
 

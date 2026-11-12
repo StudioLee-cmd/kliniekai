@@ -4,7 +4,7 @@ excerpt: "Waarin verschilt een CRM van een patiëntdossier in een kliniek? Wat d
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patientendossier-crm-kliniek-verschil.jpg"
-tags: ["CRM", "Patiëntdossier", "Kliniek Operatie"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 ## In het kort

@@ -5,7 +5,7 @@ excerpt: "Patiënten die geen Nederlands spreken lopen vast op je voicemail. Zo 
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meertalige-ai-telefonist-kliniek-4-talen.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Patiëntcommunicatie"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Het is kwart voor zeven, je receptie is dicht, en er belt een patiënt die net een behandeling heeft gehad en zich zorgen maakt over wat zwelling. Ze spreekt Turks en een beetje Engels, geen Nederlands. Ze krijgt je voicemail in het Nederlands, begrijpt de helft, en hangt op. Morgen belt ze niet je kliniek terug, maar de kliniek twee straten verderop die wél opnam.

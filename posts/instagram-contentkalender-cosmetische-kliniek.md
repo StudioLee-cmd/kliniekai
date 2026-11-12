@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer twijfelen wat je post. Met deze 30-dagen Instagram contentkalender voor je cosmetische kliniek plan je een maand content in een uur."
 image: "/images/blog/instagram-contentkalender-cosmetische-kliniek.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Content", "Planning"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

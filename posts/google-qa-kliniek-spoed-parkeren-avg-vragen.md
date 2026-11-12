@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "De vragensectie op je Google-profiel is verdwenen. Google stelt het antwoord over je kliniek nu zelf samen, en dat vraagt iets anders van je praktijk."
 image: "/images/blog/google-qa-kliniek-spoed-parkeren-avg-vragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "AVG"]
+tags: ["Vindbaarheid", "AVG", "Google"]
 cluster: "vindbaarheid"
 ---
 

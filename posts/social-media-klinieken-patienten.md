@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe klinieken social media inzetten om meer klanten te bereiken
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-klinieken-patienten.png"
-tags: ["Social Media", "Marketing", "Groei"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 ## Waarom social media onmisbaar is voor klinieken

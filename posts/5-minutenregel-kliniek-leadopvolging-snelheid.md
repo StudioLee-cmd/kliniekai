@@ -6,7 +6,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/5-minutenregel-kliniek-leadopvolging-snelheid.jpg"
-tags: ["Kliniek", "Lead opvolging", "AI"]
+tags: ["Lead opvolging", "AI"]
 ---
 ## Wat is de 5-minutenregel (en waarom is het voor klinieken zo hard)
 

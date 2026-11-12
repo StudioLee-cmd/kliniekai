@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/cosmetische-kliniek-vindbaar-google.jpg"
-tags: ["Vindbaarheid", "SEO", "Groei"]
+tags: ["Vindbaarheid", "Groei"]
 ---
 ## Waarom online vindbaarheid cruciaal is voor klinieken
 

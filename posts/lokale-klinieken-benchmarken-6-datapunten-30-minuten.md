@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Zo meet je in 30 minuten waar je kliniek staat ten opzichte van 3 lokale concurrenten. 6 concrete datapunten, geen consultant nodig."
 image: "/images/blog/lokale-klinieken-benchmarken-6-datapunten-30-minuten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Concurrentie", "Vindbaarheid", "Kliniek"]
+tags: ["Branding", "Vindbaarheid"]
 cluster: "branding"
 ---
 Een kliniek-eigenaar in Utrecht voelde aan dat haar instroom van nieuwe patienten al twee kwartalen afvlakte. Ze had geen idee waarom, want haar behandelteam was sterker dan ooit, de wachttijd was kort en de reviews die binnenkwamen waren positief. Op een zaterdagochtend ging ze zitten met een leeg A4 en haar laptop, en in 28 minuten had ze het antwoord. Drie kilometer verderop opende een tweede esthetische kliniek 8 maanden eerder. Die kliniek had inmiddels 287 Google-reviews op 4,9 sterren tegen haar 94 op 4,8. Op Instagram zaten ze op 4.100 volgers tegen haar 1.200. Hun website laadde in 1,2 seconde, de hare in 4,3. En ze hadden online-boeking met directe behandel-prijzen, terwijl bij haar de behandel-tarieven pas na een intake-gesprek besproken werden.

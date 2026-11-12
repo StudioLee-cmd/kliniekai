@@ -4,7 +4,7 @@ excerpt: "Welke software past bij jouw kliniek? Een eerlijke vergelijking van de
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-klinieksoftware-2026.png"
-tags: ["Software", "Vergelijking", "Tools"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Google reviews zijn goud waard voor klinieken. Ontdek hoe je automatis
 date: "2026-03-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-voor-je-kliniek.png"
-tags: ["Reviews", "Google", "Automatisering"]
+tags: ["Reviews", "Google"]
 cluster: "reviews"
 ---
 ## Waarom Google reviews cruciaal zijn voor klinieken

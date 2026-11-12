@@ -4,7 +4,7 @@ excerpt: "ChatGPT biedt interessante mogelijkheden voor klinieken, maar echte au
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-kliniek.png"
-tags: ["Tools", "ChatGPT", "Klinieken"]
+tags: ["ChatGPT", "Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Een chatbot die generieke antwoorden geeft past niet bij een premium kliniek. Vier manieren om hem te trainen op je eigen kliniek-data."
 image: "/images/blog/chatbot-trainen-kliniek-data-4-manieren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI", "Patiëntcommunicatie"]
+tags: ["Chatbot", "AI", "Communicatie"]
 cluster: "chatbot"
 ---
 

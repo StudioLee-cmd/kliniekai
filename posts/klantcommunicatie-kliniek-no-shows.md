@@ -7,7 +7,7 @@ excerpt: "No-shows kosten je kliniek duizenden euro's per jaar. Slimme communica
 image: "/images/blog/klantcommunicatie-kliniek-no-shows.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["communicatie", "kliniek", "no-shows"]
+tags: ["Communicatie", "No-shows"]
 cluster: "automatisering"
 ---
 ## Wat no-shows je kliniek kosten

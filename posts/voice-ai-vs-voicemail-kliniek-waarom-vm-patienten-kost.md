@@ -4,7 +4,7 @@ excerpt: "Voicemail in een kliniek voelt veilig, maar nieuwe patiënten haken al
 date: "2026-05-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-vs-voicemail-kliniek-waarom-vm-patienten-kost.jpg"
-tags: ["Voice AI", "Voicemail", "Bereikbaarheid", "Kliniek"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

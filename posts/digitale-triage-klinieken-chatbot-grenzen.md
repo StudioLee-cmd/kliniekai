@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/digitale-triage-klinieken-chatbot-grenzen.jpg"
-tags: ["Kliniek", "Chatbot", "Digitale triage", "Patiëntcommunicatie"]
+tags: ["Chatbot", "Digitale triage"]
 ---
 Elke privékliniek bespreekt vroeg of laat de vraag: moeten we een chatbot inzetten om patiëntvragen op te vangen? Het antwoord is vrijwel altijd ja — maar alleen met een duidelijke grens tussen wat de chatbot doet en wat altijd een mens moet blijven. Die grens noemen we digitale triage: het vooraf beoordelen of een vraag standaard genoeg is om automatisch beantwoord te worden, of dat er een medewerker of behandelaar aan te pas moet komen.
 

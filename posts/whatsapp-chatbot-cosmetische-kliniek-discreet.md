@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "Wie twijfelt over een cosmetische behandeling belt niet graag. Zo vangt een discrete WhatsApp chatbot die aanvragen 24/7 op en zet ze om in afspraken."
 image: "/images/blog/whatsapp-chatbot-cosmetische-kliniek-discreet.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot", "Cosmetische kliniek", "Patiëntcommunicatie"]
+tags: ["WhatsApp", "Chatbot"]
 cluster: "chatbot"
 ---
 

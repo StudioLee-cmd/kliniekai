@@ -5,7 +5,7 @@ excerpt: "Een patiënt wil haar voor-en-na-foto offline. Zo weet je waar het bee
 date: "2026-07-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/toestemming-intrekken-fotos-kliniek-verwijderen.jpg"
-tags: ["AVG", "Social Media", "Patiëntcommunicatie"]
+tags: ["AVG", "Social Media"]
 cluster: "social-media"
 ---
 

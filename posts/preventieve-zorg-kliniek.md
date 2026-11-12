@@ -5,7 +5,7 @@ excerpt: "Preventieve zorg is niet alleen goed voor patiënten — het is ook ee
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek.png"
-tags: ["preventieve zorg", "kliniek", "patiëntbinding"]
+tags: ["Preventieve Zorg", "Branding"]
 cluster: "branding"
 ---
 

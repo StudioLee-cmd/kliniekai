@@ -4,7 +4,7 @@ excerpt: "Klinieken die prijzen communiceren krijgen minder onderzoeksvragen maa
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-prijzen-op-website-wel-of-niet.jpg"
-tags: ["Prijzen", "Website", "Kliniek"]
+tags: ["Prijzen", "Website"]
 cluster: "website"
 ---
 

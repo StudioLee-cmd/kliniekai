@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-kliniek-patientcommunicatie.jpg"
-tags: ["WhatsApp", "Kliniek", "Communicatie"]
+tags: ["WhatsApp", "Communicatie"]
 ---
 ## De telefoon die niet stopt met rinkelen
 

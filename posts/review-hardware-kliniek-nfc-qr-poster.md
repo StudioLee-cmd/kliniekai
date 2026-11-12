@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "NFC-kaart, QR-sticker of poster in de wachtkamer: welke review-hardware past bij een premium kliniek? We vergelijken discretie, kosten en conversie."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-hardware-kliniek-nfc-qr-poster.jpg"
-tags: ["Reviews", "Kliniek", "Patientervaring"]
+tags: ["Reviews", "Patientervaring"]
 cluster: "reviews"
 ---
 

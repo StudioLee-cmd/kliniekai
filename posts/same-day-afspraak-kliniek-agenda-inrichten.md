@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Vraag naar vandaag laat je liggen als je agenda er niet op is ingericht. Zo reserveer je capaciteit en maak je die zichtbaar en boekbaar."
 image: "/images/blog/same-day-afspraak-kliniek-agenda-inrichten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Agenda", "Patientcommunicatie"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 

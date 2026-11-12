@@ -5,7 +5,7 @@ excerpt: "Honderden namen in je systeem die nooit meer geweest zijn. Zo richt je
 date: "2026-07-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/heractivatie-mailflow-kliniek-patienten-terughalen.jpg"
-tags: ["Automatisering", "E-mailmarketing", "Patiëntcommunicatie"]
+tags: ["Automatisering", "E-mail"]
 cluster: "automatisering"
 ---
 

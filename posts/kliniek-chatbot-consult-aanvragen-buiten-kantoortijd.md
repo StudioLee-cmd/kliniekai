@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "65% van consult-aanvragen aan cosmetische klinieken komt na 18:00 binnen. Lees welke vragen de chatbot mag afhandelen en wat het oplevert in concrete leads."
 image: "/images/blog/kliniek-chatbot-consult-aanvragen-buiten-kantoortijd.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leads", "Bereikbaarheid"]
+tags: ["Chatbot", "Leads"]
 cluster: "chatbot"
 ---
 Een potentiele patient zit op donderdagavond om 21:47 op de bank. Ze heeft net een Instagram-Reel gezien van een ooglid-correctie voor-en-na, klikt door naar je kliniek-website, scrolt langs de behandelingenpagina en heeft drie vragen: "Hoeveel kost een bovenooglid-correctie ongeveer?", "Hoe lang ben ik daarna uit de roulatie?" en "Is er een gratis intake-consult mogelijk?". Op je website is een chat-bubble rechtsonder, ze typt. Het is 21:47, de receptie is om 17:30 dicht gegaan. Vrijdagochtend om 09:18 ziet je receptioniste het bericht. Geen reactie meer van de patient. Want zij heeft donderdagavond om 22:08 al een intake-consult-aanvraag verzonden bij de kliniek twee deuren verderop, die wel binnen 90 seconden antwoordde.

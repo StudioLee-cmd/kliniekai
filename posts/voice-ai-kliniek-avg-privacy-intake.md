@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-kliniek-avg-privacy-intake.jpg"
 cluster: "voice-ai"
-tags: ["Voice AI", "AVG", "Kliniek Operaties"]
+tags: ["Voice AI", "AVG"]
 ---
 Een patient belt een private huidkliniek voor een afspraak voor een mol-controle. De voicemail is vol. Niemand neemt op. De patient probeert een tweede kliniek, krijgt direct een mens aan de lijn, plant een afspraak, en komt nooit terug bij de eerste kliniek. Dit gebeurt 30 tot 50 keer per maand bij een gemiddelde private kliniek met één behandelkamer. Vertrouwen wordt verbroken in de eerste 30 seconden van de eerste oproep, en vertrouwen wint elke keer van merknaam.
 

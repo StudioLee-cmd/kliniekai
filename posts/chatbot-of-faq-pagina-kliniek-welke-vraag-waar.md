@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Een FAQ-pagina wordt gelezen door Google, een chatbot vangt de aanvraag. Zo bepaal je welke vraag op welk oppervlak thuishoort in je kliniek."
 image: "/images/blog/chatbot-of-faq-pagina-kliniek-welke-vraag-waar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Vindbaarheid", "AVG", "Patiëntcommunicatie"]
+tags: ["Chatbot", "Vindbaarheid", "AVG"]
 cluster: "chatbot"
 ---
 

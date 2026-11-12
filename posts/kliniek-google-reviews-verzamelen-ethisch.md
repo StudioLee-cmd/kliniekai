@@ -5,7 +5,7 @@ date: "2026-04-08"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kliniek-google-reviews-verzamelen-ethisch.jpg"
-tags: ["Reviews", "Kliniek", "Patientcommunicatie"]
+tags: ["Reviews", "Communicatie"]
 ---
 ## Waarom reviews voor klinieken anders zijn
 

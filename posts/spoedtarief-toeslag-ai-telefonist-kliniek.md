@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Een patiënt belt om 22:00 met spoed. Het spoedtarief noemen zonder te shockeren is een kunst. Zo laat je AI-telefonist het rustig en helder uitleggen."
 image: "/images/blog/spoedtarief-toeslag-ai-telefonist-kliniek.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Patiëntcommunicatie", "Tarieven"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

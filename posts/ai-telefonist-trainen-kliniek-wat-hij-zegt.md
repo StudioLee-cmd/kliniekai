@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Een AI telefonist kan het juiste antwoord geven en toch verkeerd klinken. Dit hoort er in zijn instructie te staan voordat hij je hoofdnummer aanneemt."
 image: "/images/blog/ai-telefonist-trainen-kliniek-wat-hij-zegt.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Patientcommunicatie"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

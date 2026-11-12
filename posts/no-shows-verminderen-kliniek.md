@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-verminderen-kliniek.jpg"
-tags: ["No-shows", "Kliniek", "Automatisering"]
+tags: ["No-shows", "Automatisering"]
 ---
 ## Het lege behandelblok
 

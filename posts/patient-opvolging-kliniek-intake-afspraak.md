@@ -5,7 +5,7 @@ date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/patient-opvolging-kliniek-intake-afspraak.jpg"
-tags: ["Patiënten", "Opvolging", "Automatisering"]
+tags: ["Patiënten", "Lead opvolging"]
 ---
 Een patiënt vult het intakeformulier in op je website. Twee dagen later belt de assistente terug om een afspraak in te plannen. Voicemail. Ze probeert het de volgende dag opnieuw. Weer geen gehoor. Na drie pogingen verdwijnt het formulier in de stapel en de patiënt naar een andere kliniek.
 
