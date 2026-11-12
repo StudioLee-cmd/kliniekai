@@ -1,125 +1,169 @@
 ---
-title: "Review timing kliniek: wanneer vraag je om een review?"
+title: "Review timing kliniek: wanneer vraag je een patiënt om een review?"
 slug: review-timing-kliniek-wanneer-vragen
 date: "2026-11-12"
-excerpt: "Review timing in je kliniek: direct na de behandeling, na de controle of na twaalf weken? Zo weeg je per behandeling het juiste moment af."
-image: "/images/blog/kliniek-google-reviews-verzamelen-ethisch.jpg"
+excerpt: "Review timing in je kliniek bepaalt waarover een patiënt schrijft. De 3 momenten naast elkaar: direct na de behandeling, na de controle en na 12 weken."
+image: "/images/blog/review-timing-kliniek-wanneer-vragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["reviews", "google reviews", "review timing", "patiëntcommunicatie"]
+tags: ["Reviews", "Timing", "Kliniek"]
 cluster: "reviews"
 ---
 
-Een tevreden patiënt is nog geen review. Tussen het moment dat iemand je kliniek blij verlaat en het moment dat hij of zij sterren geeft, zit een vraag. En of die vraag landt, hangt minder af van hoe je hem stelt dan van wanneer. Review timing in je kliniek is daarmee een keuze die je één keer bewust maakt, in plaats van iets wat de receptie tussen twee telefoontjes door probeert.
+Een patiënt verlaat dinsdag om 11:20 je behandelkamer na een ooglidcorrectie. Ze is blij met de begeleiding, maar ze draagt een zonnebril, heeft een koelkompres in haar tas en staat over 10 dagen ingepland voor controle. Stuur je haar vanavond een reviewverzoek, dan beoordeelt ze een gezicht dat nog gezwollen is. Stuur je het een dag na de controle, waarin de arts heeft gezegd dat alles mooi geneest, dan beoordeelt ze het hele traject. Dezelfde patiënt en dezelfde kliniek, maar een heel andere review.
 
-In dit artikel wegen we de drie momenten waarop een kliniek het reviewverzoek kan sturen: direct na de behandeling, na de controle-afspraak en na twaalf weken. Per moment kijk je wat de patiënt op dat moment kan beoordelen, wat er mis kan gaan en voor welk soort behandeling het past. Geen ranglijst met effectiviteitscijfers, want die hangen af van jouw patiënten en jouw behandelingen. Wel een afweging waarmee je zelf kiest.
+Review timing in je kliniek bepaalt dus niet alleen of een patiënt reageert, maar vooral waarover ze schrijft. Dat kies je 1 keer bewust per behandeling, in plaats van dat de receptie het tussen 2 telefoontjes door probeert.
 
-Wil je weten hoe je het verzamelen als geheel inricht, met kanalen, teksten en opvolging? Dat staat op de pagina over [review management voor klinieken](/reviews). Hier gaat het alleen over het moment.
+In dit artikel wegen we de 3 momenten die voor een kliniek in aanmerking komen: direct na de behandeling, na de controle-afspraak en na twaalf weken. Per moment lees je wat de patiënt dan kan beoordelen, wanneer het werkt en wanneer je het overslaat. Een ranglijst met responspercentages krijg je niet: die hangen af van jouw patiënten en behandelingen, en wij hebben ze niet gemeten. Wel een afweging per behandeling, plus een uitgewerkt voorbeeld van 1 maand in een huidkliniek.
 
-## Waarom het moment van je reviewverzoek zoveel uitmaakt
+Hoe je het verzamelen als geheel inricht, met kanalen, teksten en opvolging, staat bij [review management voor klinieken](/reviews). Hier gaat het alleen om het moment.
 
-Een patiënt beoordeelt niet alleen de behandeling. Hij beoordeelt de hele ervaring zoals die op dat moment voelt. Vraag je te vroeg, dan beoordeelt iemand vooral de ontvangst, de wachtruimte en het gesprek. Vraag je te laat, dan is de ervaring vervaagd en voelt je verzoek als een mail uit het niets.
+## In het kort
 
-Daar komt bij dat een review voor een kliniek gevoeliger ligt dan voor een restaurant of een webwinkel. Het resultaat van een behandeling is soms pas na weken zichtbaar. Er kan zwelling zijn, een herstelperiode of een tweede sessie. Een patiënt die op dag één wordt gevraagd om sterren te geven, terwijl het resultaat nog niet te zien is, voelt zich ongemakkelijk. Een patiënt die na een geslaagde controle hoort dat alles goed geheeld is, heeft juist iets te vertellen.
+- **Het moment bepaalt wat de patiënt beoordeelt:** de ontvangst en bejegening, het hele traject, of het blijvende resultaat.
+- **Moment 1, direct na de behandeling,** past bij korte behandelingen zonder herstel, zoals een gebitsreiniging of een consult. Je stuurt het op de dag zelf of de dag erna.
+- **Moment 2, na de controle-afspraak,** past bij behandelingen met herstel of met meerdere sessies. Blijft er bij de controle iets open, dan schuift het verzoek op tot dat is afgehandeld.
+- **Moment 3, na twaalf weken,** past bij resultaten die zich langzaam laten zien, zoals een huidtraject of een revalidatietraject.
+- **Elke patiënt krijgt 1 verzoek per traject**, vastgelegd per behandeling in je systeem, zodat het niet afhangt van een drukke dag aan de balie.
 
-Het moment bepaalt dus drie dingen tegelijk:
+## Waarom het moment meer uitmaakt dan de tekst
 
-- **Wat de patiënt kan beoordelen.** De service, het resultaat, of allebei.
-- **Hoe de vraag voelt.** Als logisch vervolg op je zorg, of als marketing.
-- **Hoe groot de kans is dat iemand het daadwerkelijk doet.** Een vraag die aansluit op een moment van tevredenheid wordt sneller beantwoord dan een vraag die binnenkomt als de patiënt al met iets anders bezig is.
+De meeste klinieken besteden een uur aan de tekst van het verzoek en nul minuten aan het moment. De tekst bepaalt hoe het verzoek klinkt, het moment bepaalt wat de patiënt kan vertellen. Een mooie tekst op het verkeerde moment levert een review op over het verkeerde deel van de zorg.
 
-Welke vragen je wel en niet mag stellen, en waar de grens ligt bij het vragen om een positieve beoordeling, lees je in ons artikel over [Google reviews ethisch verzamelen als kliniek](/blog/kliniek-google-reviews-verzamelen-ethisch). Dat laten we hier bewust buiten beschouwing.
+### Wat een patiënt op dag 1, week 2 en week 12 kan beoordelen
+
+Op dag 1 beoordeelt een patiënt vooral de mensen: de ontvangst, de uitleg vooraf, de rust in de behandelkamer en of de afspraak op tijd begon. Rond week 2, na een controle, kan ze ook het herstel en de nazorg beoordelen: was de kliniek bereikbaar bij vragen, klopte wat er vooraf over het herstel was gezegd? In week 12 gaat het om het resultaat dat blijft. Dat zijn 3 verschillende reviews. Op dag 1 klinkt dat bijvoorbeeld als "vriendelijk ontvangen en alles rustig uitgelegd", in week 2 als "goed bereikbaar bij vragen over het herstel" en in week 12 als "mijn huid is na 3 maanden nog steeds rustig".
+
+### Waarom een kliniek anders is dan een kapsalon
+
+Bij een kapper is het resultaat klaar als de klant opstaat uit de stoel. In een kliniek zelden: denk aan zwelling, een herstel van 1 tot 3 weken, een tweede sessie of een patiënt die nog onder invloed is van verdoving. Daar komt bij dat patiënten in de zorg kwetsbaarder zijn. Waar de grens ligt bij het vragen zelf, lees je in ons artikel over [Google reviews ethisch verzamelen als kliniek](/blog/kliniek-google-reviews-verzamelen-ethisch). In dit artikel gaat het over het wanneer.
 
 ## Moment 1: direct na de behandeling
 
-Het eerste moment is het meest voor de hand liggend. De patiënt staat bij de balie, rekent af of loopt net naar buiten, en een paar uur later volgt een bericht via WhatsApp of e-mail met de vraag om een review.
+Direct na de behandeling betekent niet aan de balie tijdens het afrekenen, en niet zolang de verdoving werkt. Het betekent: een paar uur na de afspraak of de dag erna, als de patiënt thuis is. Voor een consult zonder ingreep kan dat dezelfde middag, na een peeling kies je de volgende dag.
 
-**Wat de patiënt hier kan beoordelen:** de ontvangst, de bejegening, de uitleg van de behandelaar, de sfeer in de kliniek en de vlotheid van de afspraak. Het resultaat van de behandeling zelf meestal nog niet.
+### Wanneer moment 1 werkt
 
-**Waarom dit moment werkt:** de ervaring is vers. De patiënt herinnert zich de naam van de behandelaar, het kopje koffie in de wachtruimte en het geruststellende gesprek vooraf. Juist die details maken een review geloofwaardig voor andere patiënten.
+Bij behandelingen waarbij de ervaring zelf het product is. De patiënt weet nog precies wie haar ontving en hoe de uitleg ging, en schrijft bijvoorbeeld: "de mondhygiëniste nam echt de tijd voor mijn vragen". Juist zulke details maken een review geloofwaardig. Denk aan een gebitsreiniging, een periodieke controle bij de tandarts, een intakegesprek, een eerste fysiotherapiesessie of een consult waarin een behandelplan wordt besproken.
 
-**Waar het misgaat:** bij behandelingen waarvan het resultaat pas later zichtbaar is, vraag je iets wat de patiënt nog niet kan geven. Bij cosmetische ingrepen met een herstelperiode kan een vroeg verzoek zelfs averechts werken: de patiënt ziet op dat moment vooral roodheid of zwelling en schrijft daarover. Ook na een spannende of pijnlijke behandeling is direct vragen ongepast. Dan wil iemand naar huis, niet beoordelen.
+### Wanneer je moment 1 overslaat
 
-**Past bij:** korte, afgeronde behandelingen waarbij de ervaring zelf het product is. Denk aan een gebitsreiniging, een intakegesprek, een eerste fysiotherapiesessie of een consult zonder ingreep.
+Bij alles waarvan het resultaat pas later zichtbaar is. Na een cosmetische ingreep ziet de patiënt op dag 1 vooral roodheid of zwelling, en schrijft ze bijvoorbeeld "nog erg gezwollen, afwachten". Ook na een pijnlijke behandeling sla je moment 1 over: dan wil iemand bijkomen, niet beoordelen. En een patiënt met een vervolgafspraak vraag je pas aan het einde van het traject.
 
 ## Moment 2: na de controle-afspraak
 
-Bij veel behandelingen hoort een controle. Bij die afspraak kijkt de behandelaar samen met de patiënt naar het verloop, beantwoordt vragen en bevestigt dat alles goed gaat. Dat is een natuurlijk moment om de vraag te stellen.
+![Moment 2: na de controle-afspraak](/images/blog/review-timing-kliniek-wanneer-vragen-2.jpg)
 
-**Wat de patiënt hier kan beoordelen:** de behandeling én de nazorg. De patiënt heeft het herstel doorgemaakt, heeft gemerkt of de kliniek bereikbaar was bij vragen en heeft van de behandelaar gehoord hoe het ervoor staat.
+Bij veel behandelingen hoort een controle, meestal 1 tot 3 weken na de behandeling. De behandelaar kijkt met de patiënt naar het verloop en bevestigt dat het goed gaat. Het verzoek gaat de dag na de controle uit, of dezelfde middag als de controle in de ochtend was.
 
-**Waarom dit moment werkt:** de controle sluit de behandeling af. Er is een bevestiging van een professional, en vaak is er opluchting. Een review die op dit moment geschreven wordt, gaat over het hele traject: van eerste contact tot resultaat. Dat is precies wat een nieuwe patiënt wil lezen als hij twijfelt tussen jouw kliniek en een andere.
+### Waarom de controle een natuurlijk eindpunt is
 
-**Waar het misgaat:** niet elke controle is positief. Als er bij de controle iets wordt bijgesteld of als de patiënt ontevreden is over het verloop, dan hoort daar eerst een gesprek bij, geen reviewverzoek. Daarom moet de vraag na de controle afhankelijk zijn van wat er bij de controle is vastgelegd. Een kliniek die automatisch na elke controle een verzoek stuurt, zonder te kijken naar de uitkomst, loopt het risico dat een patiënt met een open vraag een verzoek krijgt.
+De patiënt heeft het herstel achter de rug, heeft gemerkt of de kliniek bereikbaar was bij vragen en heeft van een professional gehoord dat het goed gaat. Vaak is er opluchting. Een review op dat moment gaat over het hele traject, bijvoorbeeld "van het eerste telefoontje tot de controle voelde ik me goed begeleid". Dat is precies wat een nieuwe patiënt wil lezen als ze twijfelt tussen jouw kliniek en een andere.
 
-**Past bij:** behandelingen met een vast herstel- of controletraject. Denk aan cosmetische ingrepen, implantaten, behandelingen in meerdere sessies of een afgerond fysiotraject.
+### De uitkomst van de controle beslist
+
+Niet elke controle eindigt met een tevreden patiënt. Wordt er iets bijgesteld, is er een extra afspraak nodig of heeft de patiënt een vraag die nog open staat, dan hoort daar eerst een gesprek bij, en komt het reviewverzoek pas als dat is afgerond. Uitstellen is iets anders dan overslaan: Google staat niet toe dat je alleen tevreden patiënten om een review vraagt, dus ook deze patiënt krijgt het verzoek, alleen later. Daarom koppel je moment 2 aan wat er bij de controle is vastgelegd, bijvoorbeeld een vinkje "afgerond, geen open vragen" in de patiëntkaart. Wie na elke controle blind een verzoek stuurt, stuurt het vroeg of laat naar de patiënt die net hoorde dat er een correctie nodig is.
 
 ## Moment 3: na twaalf weken
 
-Het derde moment ligt verder weg. Twaalf weken na de behandeling stuur je de patiënt een bericht met de vraag hoe het nu gaat, en daarin vraag je om een review.
+Twaalf weken na de laatste behandeling stuur je de patiënt een bericht met de vraag hoe het nu gaat, en daarin vraag je om een review. Voor sommige trajecten is dit het enige moment waarop de patiënt kan zeggen of de behandeling deed wat ze hoopte.
 
-**Wat de patiënt hier kan beoordelen:** het blijvende resultaat. Na een paar maanden weet iemand of de behandeling heeft gedaan wat hij hoopte, of het resultaat stabiel is en of hij er in het dagelijks leven iets aan heeft.
+### Wat 12 weken wel oplevert
 
-**Waarom dit moment werkt:** een review na twaalf weken gaat over iets wat nieuwe patiënten het liefst willen weten: houdt het resultaat stand? Dat soort ervaringen weegt zwaar voor iemand die nog twijfelt.
+Een review over het blijvende resultaat. Na 3 maanden weet iemand of de huid rustiger is, of het implantaat goed zit of of ze weer pijnvrij kan sporten, en schrijft bijvoorbeeld "na 4 sessies en 3 maanden is het resultaat er nog steeds". Dat weegt zwaar voor een nieuwe patiënt die twijfelt. Denk aan huidverbeteringstrajecten, laserbehandelingen in 3 of 4 sessies, orthodontie in een tussenfase of een revalidatietraject na een blessure.
 
-**Waar het misgaat:** na twaalf weken is de band met je kliniek losser. De patiënt is niet meer in een behandeltraject, heeft misschien geen afspraak meer staan en leest je bericht tussen andere mails door. De kans dat iemand op dat moment de moeite neemt, is kleiner dan vlak na een fijne afspraak. Ook moet je bericht dan meer context geven: wie je bent, welke behandeling het was en waarom je het nu vraagt.
+### Wat je bericht na 12 weken extra moet doen
 
-**Past bij:** behandelingen waarvan het resultaat zich pas over langere tijd laat zien. Denk aan huidverbeteringstrajecten, orthodontie in een tussenfase of een revalidatietraject waar de patiënt pas later merkt wat het oplevert.
+Na 12 weken is de band met je kliniek losser en leest de patiënt je bericht tussen andere mails door. Je bericht geeft daarom meer context: wie je bent, welke behandeling het was, wanneer en waarom je het nu vraagt. Een bericht dat begint met "Hoe gaat het met je, 12 weken na je laatste laserbehandeling bij ons?" doet dat in 1 zin.
 
 ## De drie momenten naast elkaar
 
-Zet je de drie momenten op een rij, dan zie je dat er geen moment is dat altijd wint. Elk moment laat de patiënt iets anders beoordelen.
+Op een rij gezet zie je dat geen moment altijd wint. Elk moment laat de patiënt iets anders beoordelen en heeft een eigen risico.
 
-| Moment | Wat de patiënt beoordeelt | Sterk punt | Risico |
-|---|---|---|---|
-| Direct na de behandeling | Ontvangst, bejegening, uitleg | Verse herinnering, veel details | Resultaat nog niet zichtbaar |
-| Na de controle-afspraak | Behandeling en nazorg samen | Afgerond traject, bevestiging van de behandelaar | Verzoek na een controle met open vragen |
-| Na twaalf weken | Het blijvende resultaat | Review over wat stand houdt | Losser contact, meer context nodig |
+| Moment | Wanneer | Wat de patiënt beoordeelt |
+|---|---|---|
+| Na de behandeling | dezelfde dag of de dag erna | ontvangst en uitleg |
+| Na de controle | de dag na de controle | behandeling en nazorg |
+| Na twaalf weken | 12 weken na de laatste sessie | het blijvende resultaat |
 
-Voor de meeste klinieken is het antwoord daarom geen keuze voor één moment, maar een keuze per type behandeling. Je legt vast welke behandelingen bij welk moment horen, en je zorgt dat elke patiënt maar één verzoek krijgt.
+| Moment | Sterk punt | Risico |
+|---|---|---|
+| Na de behandeling | verse herinnering | resultaat nog niet zichtbaar |
+| Na de controle | afgerond traject | controle met open vragen |
+| Na twaalf weken | resultaat dat blijft | losser contact |
+
+Voor de meeste klinieken is het antwoord daarom een keuze per behandeling: je legt vast welke behandeling bij welk moment hoort, en elke patiënt krijgt maar 1 verzoek.
 
 ## Zo kies je het moment per behandeling
 
-Een praktische manier om te kiezen: loop je behandelaanbod door en stel bij elke behandeling drie vragen.
+Loop je behandelaanbod door en stel bij elke behandeling 3 vragen:
 
 1. **Is het resultaat op de dag zelf zichtbaar of voelbaar?** Ja: moment 1 kan. Nee: kies moment 2 of 3.
 2. **Hoort er een controle bij?** Ja: moment 2 ligt voor de hand, omdat de patiënt dan het hele traject heeft meegemaakt en de behandelaar de uitkomst kent.
-3. **Gaat het om een resultaat dat zich over maanden ontwikkelt?** Ja: overweeg moment 3, en zorg dat je bericht dan genoeg context geeft.
+3. **Ontwikkelt het resultaat zich over maanden?** Ja: kies moment 3, en geef je bericht genoeg context.
 
-Een paar voorbeelden uit verschillende soorten klinieken:
+Zo pakt dat uit bij 4 soorten klinieken:
 
-- **Tandartspraktijk.** Een periodieke controle of gebitsreiniging past bij moment 1. Een implantaattraject past bij moment 2, na de laatste controle.
-- **Cosmetische kliniek.** Een eerste consult zonder ingreep past bij moment 1. Een ingreep met herstelperiode past bij moment 2. Een huidtraject in meerdere sessies past bij moment 3.
-- **Fysiotherapie.** Na de eerste sessie kun je vragen naar de ervaring, maar de meeste waarde zit in de review na de afronding van het traject: moment 2.
-- **Specialistische kliniek.** Hier bepaalt het traject het moment. Een kortdurende behandeling past bij moment 1 of 2, een langer traject bij moment 3.
+- **Tandartspraktijk:** moment 1 bij een gebitsreiniging of periodieke controle, moment 2 bij een implantaat, moment 3 bij orthodontie in een tussenfase.
+- **Cosmetische kliniek:** moment 1 bij een consult zonder ingreep, moment 2 bij filler of ooglidcorrectie, moment 3 bij een huidtraject van 3 tot 4 sessies.
+- **Fysiotherapie:** moment 1 bij een kort traject, moment 2 bij een traject van 6 tot 9 sessies, moment 3 bij revalidatie na een operatie.
+- **Specialistische kliniek:** moment 1 bij een intake of second opinion, moment 2 bij een dagbehandeling met nacontrole, moment 3 bij een traject dat pas na maanden effect toont.
 
-Twijfel je bij een behandeling? Kies dan het moment waarop de behandelaar de uitkomst heeft gezien. Dat is vaak de controle.
+Twijfel je, bijvoorbeeld bij een filler zonder vaste controle? Kies dan het moment waarop de behandelaar de uitkomst heeft gezien.
+
+## Voorbeeld: 1 maand reviewverzoeken in een huidkliniek
+
+Neem een huidkliniek met 4 behandelaars en zo'n 160 behandelingen per maand. Daarvan zijn er 60 consulten en peelings zonder herstel, 70 injectables met een controle na 2 weken en 30 behandelingen die deel zijn van een lasertraject van 4 sessies.
+
+- **Moment 1:** de 60 consulten en peelings krijgen de dag na de afspraak een verzoek. Dat zijn ongeveer 3 berichten per werkdag.
+- **Moment 2:** de 70 injectables krijgen een verzoek de dag na de controle. Stel dat bij 6 controles iets wordt bijgesteld: die 6 patiënten krijgen hun verzoek pas na de extra afspraak. Deze maand gaan er dus 64 uit, de andere 6 volgen later.
+- **Moment 3:** de 30 lasersessies horen bij ongeveer 8 patiënten. Zij krijgen 1 verzoek, 12 weken na hun laatste sessie, en niet na elke sessie.
+
+Zonder vaste regels was het anders gelopen. De 8 laserpatiënten hadden na elke sessie een bericht gekregen, 32 in totaal. De 6 patiënten met een bijgestelde controle hadden een verzoek gekregen op de dag dat ze over de correctie hoorden. En de receptie had elke dag opnieuw moeten bedenken wie wat krijgt. Met de regels per behandeling gaan er die maand ongeveer 130 verzoeken uit, verspreid over de weken, en geen enkele patiënt krijgt er 2.
+
+## Het bericht dat bij elk moment hoort
+
+Een bericht dat het moment benoemt, voelt als een vervolg op je zorg in plaats van als marketing. Houd elk bericht onder de 60 woorden, met 1 link en de naam van de behandelaar als afzender. Drie voorbeelden:
+
+- **Moment 1:** "Dank je wel voor je bezoek van vandaag bij Sanne. We hopen dat je je goed geholpen voelde. Wil je in 2 minuten delen hoe je de afspraak hebt ervaren?"
+- **Moment 2:** "Fijn dat de controle van gisteren goed was. Je hebt het hele traject nu achter de rug. Zou je andere patiënten willen vertellen hoe je het hebt ervaren?"
+- **Moment 3:** "Het is nu 12 weken geleden dat je laatste laserbehandeling bij ons was. We zijn benieuwd hoe het gaat. Een korte review over je ervaring helpt andere patiënten op weg."
+
+Let op wat je over de behandeling noemt: een bericht kan door iemand anders worden gelezen. Noem de behandeling alleen met toestemming van de patiënt, en anders algemeen, bijvoorbeeld "je behandeling bij ons".
 
 ## Leg de timing vast, zodat het niet van de drukte afhangt
 
-De meeste klinieken die te weinig reviews krijgen, hebben geen tekort aan tevreden patiënten. Ze hebben een tekort aan vragen. Het verzoek wordt vergeten op drukke dagen, gaat naar de verkeerde patiënt of komt drie keer binnen bij dezelfde persoon.
+Klinieken met te weinig reviews hebben zelden een tekort aan tevreden patiënten, wel aan verzoeken op het juiste moment. Het verzoek wordt vergeten op een drukke maandag, of komt 3 keer binnen bij dezelfde persoon. Dat los je op door de timing te koppelen aan wat er in je agenda en patiëntkaart al staat.
 
-Dat los je op door de timing niet aan de receptie over te laten, maar te koppelen aan wat er in je agenda en patiëntkaart al staat. Een behandeling wordt afgerond, een controle wordt als afgesloten gemarkeerd of er zijn twaalf weken verstreken sinds de laatste afspraak: dat zijn allemaal momenten die een systeem kan herkennen. Met [automatische opvolging voor je kliniek](/automatisering) gaat het verzoek op het moment dat jij per behandeling hebt gekozen, en alleen naar patiënten bij wie het past.
+Denk aan een afgeronde behandeling, een controle die als afgesloten is gemarkeerd, of 12 weken sinds de laatste sessie: 3 momenten die een systeem kan herkennen. Met [workflow automatisering voor klinieken](/automatisering) gaat het verzoek uit op het moment dat jij per behandeling hebt gekozen, en de uitkomst van de controle staat in je [crm voor klinieken](/crm). Leg daarbij deze 4 regels vast:
 
-Een paar regels die je daarbij vastlegt:
+1. **1 verzoek per traject.** Wie na moment 1 al een review gaf, krijgt na de controle geen tweede vraag.
+2. **Een pauze bij open vragen.** Staat er bij de controle iets genoteerd dat aandacht vraagt, dan gaat er geen verzoek uit tot dat is opgelost. Daarna krijgt de patiënt het gewoon, ook als het traject anders liep dan gehoopt.
+3. **Een vast tijdvenster.** Verstuur bijvoorbeeld tussen 10:00 en 19:00 op werkdagen, niet om 23:00.
+4. **Hoogstens 1 herinnering.** Reageert de patiënt niet, stuur dan na 5 tot 7 dagen 1 herinnering en daarna niets meer.
 
-- **Eén verzoek per traject.** Wie na moment 1 al een review heeft gegeven, krijgt na de controle geen tweede vraag.
-- **Een uitzondering voor open vragen.** Is er bij de controle iets genoteerd dat aandacht vraagt, dan gaat er geen verzoek uit tot dat is opgelost.
-- **Rekening houden met toestemming.** Stuur het verzoek alleen via een kanaal waarvoor de patiënt toestemming heeft gegeven en ga zorgvuldig om met wat je over de behandeling in het bericht noemt. Privacy is in de zorg geen detail.
-- **Een persoonlijke afzender.** Een bericht namens de behandelaar die de patiënt kent, voelt anders dan een bericht namens een algemeen adres.
+Wil je dat patiënten bij de controle zelf in de kliniek een review geven? Combineer moment 2 dan met een kaartje uit het [review pakket voor klinieken](/review-pakket). Het moment blijft hetzelfde, alleen het kanaal verschilt.
 
-Wil je liever dat patiënten op het moment zelf in de kliniek een review kunnen geven, bijvoorbeeld na de controle aan de balie? Dan kun je de timing combineren met een fysiek hulpmiddel uit het [review pakket voor klinieken](/review-pakket). De keuze voor het moment blijft hetzelfde; alleen het kanaal verschilt.
+## Veelgestelde vragen
+
+**Kan ik 2 momenten combineren voor dezelfde patiënt?**
+Liever niet. Een patiënt die 2 keer wordt gevraagd voor dezelfde behandeling, ervaart het tweede verzoek als druk, ook als ze de eerste keer niet reageerde.
+
+**Wat doe ik bij een behandeling zonder controle-afspraak?**
+Is het resultaat direct zichtbaar, kies moment 1. Ontwikkelt het zich langzaam, kies moment 3. Twijfel je, laat dan een korte check na 2 weken als controle tellen.
+
+**Is het niet te laat om na 12 weken nog te vragen?**
+Voor korte behandelingen wel. Voor trajecten waarvan het resultaat pas na maanden blijkt, is het juist het eerste moment waarop de patiënt iets zinnigs kan zeggen.
+
+**Hoe weet ik welk moment bij mijn kliniek het meeste oplevert?**
+Door het zelf te tellen. Houd 3 maanden per moment bij hoeveel verzoeken er uitgingen, hoeveel reviews terugkwamen en hoe bruikbaar ze zijn, bijvoorbeeld of ze het herstel of het resultaat beschrijven. Daarna stuur je bij per behandeling.
 
 ## Zo begin je deze week
 
-Je hoeft niet alles in één keer om te bouwen. Begin klein en meet wat je ziet.
+Je hoeft niet alles in 1 keer om te bouwen. Reken op 2 uur werk, verdeeld over 4 stappen:
 
-1. **Maak een lijst van je vijf meest voorkomende behandelingen.** Zet bij elke behandeling het moment dat volgens de drie vragen hierboven past.
-2. **Schrijf per moment één bericht.** Voor moment 1 kort en warm, voor moment 2 met een verwijzing naar de controle, voor moment 3 met iets meer context over de behandeling en de tijd die is verstreken.
-3. **Leg de uitzonderingen vast.** Wie krijgt nooit een verzoek, en wanneer wacht je?
-4. **Kijk na een paar maanden terug.** Welk moment levert bij jouw patiënten de meeste reviews op, en welke reviews zijn het meest bruikbaar voor nieuwe patiënten? Daar stuur je op bij.
+1. **Maak een lijst van je 10 meest voorkomende behandelingen** en zet bij elke behandeling het moment dat volgens de 3 vragen past. Dat kost ongeveer 30 minuten.
+2. **Schrijf per moment 1 bericht** van hoogstens 60 woorden, met de naam van de behandelaar als afzender.
+3. **Leg de uitzonderingen vast:** wie krijgt nooit een verzoek, wanneer pauzeer je na een controle, en in welk tijdvenster verstuur je?
+4. **Tel na 3 maanden terug** per moment, en stel bij waar het nodig is.
 
-Hoe je daarna het verzamelen als geheel inricht, van kanaalkeuze tot opvolging, lees je in ons stappenplan om [patiëntreviews te verzamelen als kliniek](/blog/patientreviews-verzamelen-kliniek).
-
-Wil je weten hoe je kliniek er online nu voor staat? Vraag dan de [gratis ai scan voor klinieken](/gratis-scan) aan. Je krijgt een beoordeling van je vindbaarheid, je website en je lokale signalen, met de belangrijkste verbeterpunten.
-
-Jij behandelt, wij regelen de patiëntcommunicatie.
+Hoe je het verzamelen daarna als geheel inricht, lees je in ons stappenplan om [patiëntreviews te verzamelen als kliniek](/blog/patientreviews-verzamelen-kliniek). Wil je eerst weten hoe je reviews, vindbaarheid en website er nu voor staan? Vraag dan een [gratis ai scan voor klinieken](/gratis-scan) aan. Jij behandelt, wij regelen de patiëntcommunicatie.
