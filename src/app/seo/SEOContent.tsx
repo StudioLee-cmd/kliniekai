@@ -160,12 +160,13 @@ export default function SEOContent() {
           <motion.h1
             className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6 bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 sl-reveal"
           >
-            SEO voor {nichePlural}: Gevonden Worden in Google
+            SEO voor {nichePlural}: Gevonden in Google en AI-zoekmachines
           </motion.h1>
           <motion.p
             className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 sl-reveal sl-reveal-1"
           >
-            Meer klanten via Google, zonder dure advertenties. {siteDetails.siteName} regelt je
+            Online marketing die blijft werken: meer klanten via Google, Google Maps en
+            AI-zoekmachines als ChatGPT, zonder dure advertenties. {siteDetails.siteName} regelt je
             volledige SEO-strategie: van keyword research tot publicatie.
           </motion.p>
           <motion.div

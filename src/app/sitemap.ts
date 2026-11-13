@@ -15,7 +15,7 @@ const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
     '/gratis-website': '2026-07-25',
     '/chatbot': '2026-07-25',
     '/voice-ai': '2026-07-25',
-    '/seo': '2026-07-25',
+    '/seo': '2026-11-11',
     '/reviews': '2026-07-25',
     '/social-media': '2026-07-25',
     '/privacy': '2026-07-25',

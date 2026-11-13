@@ -6,13 +6,20 @@ const niche = 'kliniek';
 const nichePlural = 'klinieken';
 
 export const metadata: Metadata = {
-  title: `SEO voor ${nichePlural} — Beter in Google | ${siteDetails.siteName}`,
-  description: `SEO voor ${nichePlural}: meer klanten via Google. Blogartikelen, lokale SEO en Google Business — vanaf ${"\u20AC"}79/maand.`,
+  title: `SEO voor ${nichePlural}: vindbaar in Google en AI | ${siteDetails.siteName}`,
+  description: `SEO en online marketing voor ${nichePlural}: vindbaar in Google, Google Maps en AI-zoekmachines als ChatGPT. Blogartikelen, lokale SEO en Google Bedrijfsprofiel, vanaf ${"\u20AC"}79/maand.`,
   openGraph: {
-    title: `SEO voor ${nichePlural} | ${siteDetails.siteName}`,
-    description: `Wil je als ${niche} beter gevonden worden in Google? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
+    title: `SEO voor ${nichePlural}: vindbaar in Google en AI | ${siteDetails.siteName}`,
+    description: `Wil je als ${niche} beter gevonden worden in Google en in AI-zoekmachines? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
     url: `${siteDetails.siteUrl}seo`,
+    locale: "nl_NL",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `SEO voor ${nichePlural}: vindbaar in Google en AI | ${siteDetails.siteName}`,
+    description: `SEO en online marketing voor ${nichePlural}: vindbaar in Google, Google Maps en AI-zoekmachines, vanaf ${"\u20AC"}79/maand.`,
+    images: ["/images/twitter-image.jpg"],
   },
   alternates: {
     canonical: `${siteDetails.siteUrl}seo`,
