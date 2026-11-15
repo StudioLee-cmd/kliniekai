@@ -86,4 +86,4 @@ Nee. Met een test-migratie vooraf en het oude systeem als read-only vangnet kun 
 
 ## Klaar om over te stappen zonder risico?
 
-Een overstap is geen sprong in het diepe als je precies weet welke data mee moet en de import vooraf test. Wil je weten of jouw praktijk klaar is voor een moderner systeem met automatische opvolging, begin dan met een [gratis AI-scan voor klinieken](/gratis-scan). We kijken naar je huidige software en communicatie en laten zien waar je tijd en omzet laat liggen. Onze aanpak werkt met een Groei-of-Geld-Terug Garantie, dus je loopt geen risico zonder resultaat.
+Een overstap is geen sprong in het diepe als je precies weet welke data mee moet en de import vooraf test. Wil je weten of jouw praktijk klaar is voor een moderner systeem met automatische opvolging, begin dan met een [gratis AI-scan voor klinieken](/gratis-scan). We kijken naar je huidige software en communicatie en laten zien waar je tijd en omzet laat liggen.

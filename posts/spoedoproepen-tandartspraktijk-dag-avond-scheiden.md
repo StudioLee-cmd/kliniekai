@@ -84,6 +84,4 @@ Nee, het ontlast haar. De AI vangt het volume en de avonduren op, zodat je recep
 
 De fout die de meeste praktijken maken is harder werken aan een probleem dat structureel is: één trechter voor twee heel verschillende soorten oproepen. Scheid die stromen, laat de techniek het sorteren en routeren doen, en houd de medische afweging bij je team. Dan is je praktijk overdag rustiger, 's avonds bereikbaar, en mis je de patiënt met pijn niet meer.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 Jij behandelt, wij regelen de patiëntcommunicatie.

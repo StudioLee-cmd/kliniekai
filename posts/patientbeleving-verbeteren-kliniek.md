@@ -96,7 +96,7 @@ Al deze contactmomenten handmatig beheren is onmogelijk bij 30+ patienten per da
 
 Patientbeleving is meer dan een goede behandeling. Het is de som van elk contactmoment — van het eerste telefoontje tot de nazorg-mail. Klinieken die elk contactmoment optimaliseren, bouwen een reputatie die patienten aantrekt en vasthoudt.
 
-Met [KliniekAI](/) automatiseren we elk contactmoment in de patientreis. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KliniekAI](/) automatiseren we elk contactmoment in de patientreis. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je de patientbeleving in je kliniek verbetert.
 

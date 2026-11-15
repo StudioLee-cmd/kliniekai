@@ -112,6 +112,6 @@ Het medisch deel wel: daarvoor geldt de wettelijke bewaarplicht van de WGBO van 
 
 De vraag waar dit stuk mee begon, wat er gebeurt met tien jaar patiënthistorie, heeft nu een antwoord: die verhuist compleet, beveiligd en gecontroleerd mee, als je de export serieus neemt, de privacy vooraf regelt en jezelf een parallelperiode gunt. De drie valkuilen zijn stuk voor stuk te vermijden, en geen ervan hoort bij een professioneel begeleide overstap.
 
-Benieuwd hoe jouw kliniek ervoor staat en wat een overstap concreet zou opleveren? Vraag de [gratis ai scan voor klinieken](/gratis-scan) aan, dan zie je binnen een paar minuten waar je huidige systeem omzet laat liggen. Alles wat KliniekAI voor je inricht valt onder de Groei-of-Geld-Terug Garantie: jij behandelt, wij regelen de patiëntcommunicatie.
+Benieuwd hoe jouw kliniek ervoor staat en wat een overstap concreet zou opleveren? Vraag de [gratis ai scan voor klinieken](/gratis-scan) aan, dan zie je binnen een paar minuten waar je huidige systeem omzet laat liggen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/crm-implementatie-kliniek-5-dagen-roadmap" class="text-dark fw-semibold">CRM-implementatie kliniek: roadmap in 5 dagen</a> →</p></div></div></div>
