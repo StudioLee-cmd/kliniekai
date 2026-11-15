@@ -75,7 +75,7 @@ Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bie
 
 No-shows zijn geen onvermijdelijk probleem in de zorg — het is een communicatieprobleem. Met de juiste combinatie van [herinneringen](/automatisering), bevestigingen en empathische opvolging houd je je behandelstoelen bezet.
 
-Met [KliniekAI](/) automatiseer je het volledige patiëntcommunicatieproces. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KliniekAI](/) automatiseer je het volledige patiëntcommunicatieproces. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel je bespaart door no-shows te reduceren.
 

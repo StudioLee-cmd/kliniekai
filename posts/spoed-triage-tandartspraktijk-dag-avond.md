@@ -65,7 +65,7 @@ Reken het voor jezelf door in termen van gemiste afspraken en onderbroken behand
 4. Regel de doorschakeling naar de dienstdoende tandarts met maximaal één tussenschakel.
 5. Meld de gespreksopname vooraf en leg de AVG-afspraken schriftelijk vast.
 
-Wil je weten hoe bereikbaar jouw praktijk nu echt is en hoeveel spoed- en routinegesprekken je laat liggen? Vraag een [gratis AI-scan voor klinieken](/gratis-scan) aan. We brengen je telefoonstroom in kaart, en met de Groei-of-Geld-Terug Garantie loop je geen risico. Jij behandelt, wij regelen de patiëntcommunicatie.
+Wil je weten hoe bereikbaar jouw praktijk nu echt is en hoeveel spoed- en routinegesprekken je laat liggen? Vraag een [gratis AI-scan voor klinieken](/gratis-scan) aan. Jij behandelt, wij regelen de patiëntcommunicatie.
 
 **Lees ook:** [Voice AI vs voicemail kliniek: waarom voicemail patiënten kost](/blog/voice-ai-vs-voicemail-kliniek-waarom-vm-patienten-kost)
 

@@ -51,4 +51,4 @@ Bij een gemiddelde behandelwaarde van €150 en tien aanvragen per week die je n
 
 ## Direct starten
 
-Elke dag zonder automatische opvolging is een dag met gemiste patiënten. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel aanvragen je kunt omzetten in afspraken. Groei-of-Geld-Terug Garantie.
+Elke dag zonder automatische opvolging is een dag met gemiste patiënten. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel aanvragen je kunt omzetten in afspraken.

@@ -104,7 +104,3 @@ Drie situaties waarin een vrijdagmiddag-meting niet voldoende is. Een kliniek me
 Voor alle drie geldt: de 6-datapunten-meting hierboven is nog steeds de eerste stap. Het is niet voldoende, maar het is wel het juiste begin. Pas als je weet waar je staat op de basismetingen weet je welke vervolgvragen waard zijn om dieper te onderzoeken.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/preventieve-zorg-kliniek-patienten-terugzien" class="text-dark fw-semibold">Preventieve zorg promoten: zo komen patienten vaker terug</a> →</p></div></div></div>
-
-## Groei-of-Geld-Terug Garantie
-
-KliniekAI bouwt voor private medische, esthetische en paramedische klinieken het volledige zichtbaarheids- en bereikbaarheidssysteem dat na deze 30-minuten-meting nodig blijkt. Lokale SEO, automatische reviews na elke behandeling, AVG-conforme social media-planning, een snelle website en een AI-telefonist die geen oproep meer mist. Geen contract, wel een Groei-of-Geld-Terug Garantie. Begin met een [gratis ai scan voor klinieken](/gratis-scan) waarin we deze zes datapunten samen met je doormeten en het concrete verbeterplan opstellen. Twintig minuten, geen verplichting.

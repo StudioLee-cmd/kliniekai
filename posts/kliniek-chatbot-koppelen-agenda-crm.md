@@ -77,6 +77,6 @@ Reken voor jezelf eens uit hoeveel aanvragen er per week binnenkomen en hoeveel 
 
 De les is simpel: een chatbot aanschaffen zonder koppeling is een half project. De winst zit niet in het opvangen van de aanvraag, maar in wat er daarna automatisch gebeurt. Zorg dus dat je vanaf dag één nadenkt over de verbinding met je agenda en je CRM, en over de grens waar de logistiek stopt en de zorg begint.
 
-Wil je weten of jouw huidige opzet die stap al maakt, of waar aanvragen nu blijven hangen? Vraag een [gratis ai scan voor klinieken](/gratis-scan) aan, dan brengen we in kaart waar je afspraken laat liggen. En laat je de koppeling door KliniekAI inrichten, dan doen we dat AVG-conform en met onze Groei-of-Geld-Terug Garantie: minder no-shows, meer tevreden patiënten.
+Wil je weten of jouw huidige opzet die stap al maakt, of waar aanvragen nu blijven hangen? Vraag een [gratis ai scan voor klinieken](/gratis-scan) aan, dan brengen we in kaart waar je afspraken laat liggen.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 10px; padding: 14px 18px; margin: 28px 0; font-size: 0.95rem;"><strong>Lees ook:</strong> <a href="/blog/whatsapp-chatbot-cosmetische-kliniek-discreet"><strong>WhatsApp chatbot cosmetische kliniek: discreet en 24/7</strong></a> &rarr;</p>

@@ -64,7 +64,7 @@ Dat vierde punt is de belangrijkste: je zet niets live wat je niet zelf in elke 
 
 ## Aan de slag
 
-Je hoeft geen meertalig receptieteam aan te nemen om meertalig bereikbaar te zijn. Wij bij KliniekAI zetten de telefonist op in de talen die jouw patiënten spreken, binnen jouw protocol en AVG-conform, zodat jij behandelt en wij de [patiëntcommunicatie](/blog/spoedtarief-toeslag-ai-telefonist-kliniek) regelen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Je hoeft geen meertalig receptieteam aan te nemen om meertalig bereikbaar te zijn. Wij bij KliniekAI zetten de telefonist op in de talen die jouw patiënten spreken, binnen jouw protocol en AVG-conform, zodat jij behandelt en wij de [patiëntcommunicatie](/blog/spoedtarief-toeslag-ai-telefonist-kliniek) regelen.
 
 Wil je eerst weten hoeveel anderstalige gesprekken je nu misloopt? Vraag een [gratis ai scan voor klinieken](/gratis-scan) aan, dan brengen we je bereikbaarheid per taal in kaart. Die Turkstalige patiënte van kwart voor zeven? Met een meertalige telefonist krijgt zij morgen gewoon antwoord, en jij de afspraak.
 

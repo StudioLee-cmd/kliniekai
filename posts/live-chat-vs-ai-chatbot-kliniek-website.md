@@ -82,7 +82,3 @@ Het is geen of-of vraag in de meeste klinieken. De meest succesvolle setup voor 
 - **Automatische follow-up** voor elke gestarte chat die niet eindigde in een boeking. Zie hoe je dit opzet via [klantcommunicatie automatiseren als kliniek](/automatisering): een WhatsApp-bericht 2 uur na een ge-abandoned chat haalt een deel van die prospects alsnog binnen.
 
 Deze drie-laagse setup (AI chatbot + voice AI + automatische opvolging) vervangt geen receptie, maar maakt elke receptie-uur productiever doordat ze niet meer overstroomd raken met chat-vragen waar de helft tand-rontgen-prijzen of openingstijden zijn die de website al toont.
-
-## Groei-of-Geld-Terug Garantie
-
-KliniekAI bouwt voor private klinieken de complete chatbot-flow inclusief de drie-laagse hybride hierboven beschreven: 24/7 AI chatbot op de website, doorverwijzing naar live receptie binnen kantooruren, voice AI backup buiten kantooruren, plus de automatische opvolging op niet-geconverteerde gesprekken. Geen vast contract, wel een Groei-of-Geld-Terug Garantie. Als de chatbot binnen 90 dagen niet meer kwalificeerde aanvragen oplevert dan jouw huidige live chat (of geen-chat) setup, krijg je het pakket terugbetaald. Wil je weten welke vorm bij jouw kliniek past, plan dan een gesprek via [website chatbot voor klinieken](/chatbot) of bekijk de [kosten ai platform voor klinieken](/tarieven). Twintig minuten, geen verplichting.

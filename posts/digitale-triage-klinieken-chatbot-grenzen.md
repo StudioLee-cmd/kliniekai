@@ -94,7 +94,3 @@ Een realistische invoering voor een kliniek van 5-30 medewerkers:
 Wij bouwen dit gehele triage-systeem voor klinieken in onze managed service. Inclusief de juridische review door onze medische eindverantwoordelijke, de kennisbank-inrichting, en koppeling met je agendasysteem en CRM zodat intakes automatisch terecht komen waar ze horen. Meer over [tarieven en implementatietraject](/tarieven) voor klinieken die dit in één keer goed willen doen. Of vraag een [gratis scan](/gratis-scan) aan waarin we jouw huidige patiëntenstromen in kaart brengen en samen bepalen waar triage-automatisering direct zinvol is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/avg-gdpr-klinieken-9-punten-2026" class="text-dark fw-semibold">AVG voor klinieken: 9 punten die je moet weten 2026</a> →</p></div></div></div>
-
-## Groei-of-Geld-Terug Garantie
-
-Als na drie maanden de werkdruk op je receptie of telefoonteam niet meetbaar is afgenomen én je responstijd niet is verbeterd, krijg je je investering terug. Jij biedt zorg, wij zorgen dat alles eromheen soepel loopt.

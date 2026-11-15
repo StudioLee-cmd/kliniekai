@@ -57,4 +57,4 @@ En het belangrijkste, tegelijk het minst gedaan: maak géén stadspagina voor ee
 
 Vat het samen als een korte checklist. Kies de steden waar je echt relevant bent. Geef elke stadspagina een eigen introductie, een eigen team, eigen praktische informatie en een concrete call-to-action. Koppel elke pagina aan het Google Bedrijfsprofiel van die vestiging. En schrijf nooit een pagina die alleen bestaat om op een plaatsnaam te ranken, zonder dat er iets waars en nuttigs op staat.
 
-Wil je weten voor welke steden je nu al vindbaar bent en waar je patiënten laat liggen? Vraag de [gratis seo scan voor klinieken](/gratis-scan) van KliniekAI aan. We brengen per vestiging in kaart waar je staat en wat een sterke stadspagina zou opleveren. Met onze Groei-of-Geld-Terug Garantie: levert het geen aantoonbare groei in vindbaarheid op, dan krijg je je investering terug.
+Wil je weten voor welke steden je nu al vindbaar bent en waar je patiënten laat liggen? Vraag de [gratis seo scan voor klinieken](/gratis-scan) van KliniekAI aan. We brengen per vestiging in kaart waar je staat en wat een sterke stadspagina zou opleveren.
