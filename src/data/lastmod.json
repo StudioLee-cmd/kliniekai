@@ -1,0 +1,406 @@
+{
+ "5-minutenregel-kliniek-leadopvolging-snelheid": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d19e9c8d036cace3b645e86618fda9884e58d7c1e109304729014cc3c4fa52a7"
+ },
+ "5-minutenregel-kliniek-leadresponse": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "b851cb1222b1e27f3d107c37c93bc0dba4493fde84c57684403ca56d90a32dfe"
+ },
+ "administratieve-druk-verlagen": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "f0ae3c1f1d528792c40424c6772e16496728f435d801565cde6bee104fc4576d"
+ },
+ "afspraakherinneringen-kliniek-minder-no-shows": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "e3c7c533d2cfc70662a84436f6bb18e10f45d6aca7aaeb2656d0b85ffaff8518"
+ },
+ "ai-overviews-zero-click-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "36ec443746e00370108b3393718ca282a269f15656446711951474ac8cb38ff3"
+ },
+ "ai-telefonist-trainen-kliniek-wat-hij-zegt": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f93431aef8be1ef2e277c316d9e74b86d45ad574c15af6fc3a2a2018f8c4a256"
+ },
+ "ai-telefoniste-zorg": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "86252335a80e66362a3c91865065c4e09790e1543f04a66e40bd3fad642ca213"
+ },
+ "annuleringsbeleid-kliniek-duidelijke-afspraken": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "0734cfcccd804783976d64e1c487b790abc3c37377aea9851b07e05d58a065bf"
+ },
+ "avg-gdpr-klinieken-9-punten-2026": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "1ac2a380dba4bb43e0b536a162fa1ce552b57c38dd44c80063ca213e4de6c783"
+ },
+ "bereikbaarheid-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "79a9388418133b3af7bb642f8fe6c20ce2f4abde15300fcc43ceb75de999a11a"
+ },
+ "beste-klinieksoftware-2026": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "a592310b388a36748615105c6f50ff788dd704559546d755957beec5f76c6fef"
+ },
+ "beveiliging-privacy-ai": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "8f10b5b2a11651ce2f871bece272357b6fbb36e01c20e5752b9eded23fc00067"
+ },
+ "branding-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "24ba3b2a275b026248e43c117382e6f9301a044600f6bb9452bb23a796eafb59"
+ },
+ "btw-cosmetisch-medisch-facturering-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "094b34c41f6df16480470d79968efbd7afd8d483a472ac741b7b40833cb76243"
+ },
+ "chatbot-of-faq-pagina-kliniek-welke-vraag-waar": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "cd29a9b284acb989469ffa70968f68acb81ce9460b67170780c6e5b5eaacbf9b"
+ },
+ "chatbot-trainen-kliniek-data-4-manieren": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "3473bde3cb2314268fa89f8ef7e41499232b9fc49334df25749c64f026d51a19"
+ },
+ "clinicminds-migreren-data-export-valkuilen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "2ac7bb027bd2c248dccf845cb0de7ce012917b135b31623101f045bb64ecaa6d"
+ },
+ "cosmetische-kliniek-prijzen-website-patient-conversie": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "66ff62ab941356181b7ae96fcb075dde213c5f9f1b8c7d03baa0bc3df3e39540"
+ },
+ "cosmetische-kliniek-vindbaar-google": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "3b18ef9c8a5c391db5a21a7a4efbba06c1c504a399e5733de4c1d3af8be0a31f"
+ },
+ "crm-implementatie-kliniek-5-dagen-roadmap": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "c9abf6f8ab67aea9d2ab53c7854ac7fa8ec4451592d4fc5f18d70b3db181be6f"
+ },
+ "declaratie-automatiseren-kliniek-vecozo-koppeling": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "9e48a20cbe09b81f339b54cb3ef47670feae86ff71a14eec3d41376309587ca9"
+ },
+ "digitale-pre-screening-cosmetische-kliniek-intake-vragen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "befaa5acfd35a583bc7345076a1d5209c634d8e168cc467419c22cfd07e9a925"
+ },
+ "digitale-triage-klinieken-chatbot-grenzen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "3f5508900c088b464acb686570c93c0db8ad49fd4db1bee657215ff74fbf84c8"
+ },
+ "eerste-consult-kliniek-van-vraag-naar-behandeling": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "4eb28f1c77b49a43feb4ab4e7ffb409d261f093f5330c0c6ac0452248add6a96"
+ },
+ "email-marketing-kliniek-patientcontact": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "2a383c28d7dd89b5c1cede8354b7b0a3b568d87041d3fe31362d426ecac87668"
+ },
+ "gbp-fotos-cosmetische-kliniek-privacy-eerst": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f1d5a955c375e79adc304e1c2f274e785cb2f19cec610b2400323340368197e2"
+ },
+ "gemiste-telefoontjes-kliniek-opvolgen": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "ac207c548f3566712c80f0b2ce342f4d0a4c3bef50486fde29fa6903fe460398"
+ },
+ "google-bedrijfsprofiel-kliniek": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "f69fc72a91090743188cefcd6c28f865a492b5db67738fec36347f126504bd2b"
+ },
+ "google-posts-kliniek-8-posttypes": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "17695ab7649e3e5211b2b9a5f18921fc93ecbdcb5f85a056561c0b0084452482"
+ },
+ "google-qa-kliniek-spoed-parkeren-avg-vragen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "183f65729ebf95a832a729a2904843b42570891d5c07949a3f560d1ee35ec0a5"
+ },
+ "google-reviews-cosmetische-kliniek-meer-patienten": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "985ccf886c46c5dfb87e206e3a9be7e85c32c6de61dab7611b7fc319a1e15162"
+ },
+ "google-reviews-kliniek-vertrouwen": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "2116ba3a8b014fbe46cac1c18eb8921705c6265b0a18c4683732033a860c9a25"
+ },
+ "heractivatie-mailflow-kliniek-patienten-terughalen": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "fd8ffe9a567686a5898a3c646a89807626a4b168b2c27f582fa589c477fd3aed"
+ },
+ "hoe-een-kliniek-meer-patienten-trekt-via-google": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "3b782d9e376ad0133ef24c9e2c65c7b73707a219c4d616fbc6e7ce9b5c6cc66b"
+ },
+ "hoe-klinieken-ai-gebruiken-patientbeheer-marketing": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "2d3beae13e09c1df394caca046a671a7cd301abbcdd6d8c043d0e49c22b993aa"
+ },
+ "instagram-contentkalender-cosmetische-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f2e0820d87e6d14e90c95a2372024e574cec26828d7978ed0fbee511b70325a2"
+ },
+ "instagram-reels-cosmetische-kliniek-5-formats": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "e24248b76e568aab01cf129ac51f43365ead8999d14108c72adc79e1a22b6788"
+ },
+ "klantcommunicatie-kliniek-no-shows": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "ee15508e56b00a89922c020f0c6b2f7180ba224fbf550caa0c883be1f92b88c3"
+ },
+ "klanttevredenheid-kliniek-patientervaring": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "546ff394e9f67e49dc92db4b3b80b1db242d0147d839cfe2687592f6bf9a50da"
+ },
+ "kliniek-automatisering-patientcommunicatie": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "0bd8daf48bdf62f41dc155a21f887c2e0ac63e6f7cd45c664d648de473bc9d30"
+ },
+ "kliniek-chatbot-consult-aanvragen-buiten-kantoortijd": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "eaa526a30090b3b0b90b356733e08c1ca774e79991976d0bb8953810578fb4ee"
+ },
+ "kliniek-chatbot-koppelen-agenda-crm": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "3e685340d8ccc88bb812fee0d8985fcc9c4694a4c78bc37eea7b34c7b13d5c35"
+ },
+ "kliniek-google-reviews-verzamelen-ethisch": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "869523df5843847b14604e7f57665ea8113272ad6b56aa41b84f650c7186c83b"
+ },
+ "kliniek-positionering-niche-of-brede-aanpak": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d7f719bf1df2a7e97dad4c0f4778f8b19338746b37d72dcd284966c6c65b615b"
+ },
+ "kliniek-prijzen-op-website-wel-of-niet": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "16ff86d49a13dae53f159c9984ae61c2f06b45d8ee397157df4cbd5a60739473"
+ },
+ "kliniek-slim-overbooken-no-shows-compenseren": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "a0efa3a209af7e5ef0dc1e895da81f3ef76c2f0f2b8bf105604638a95f9fc7e7"
+ },
+ "kliniek-vindbaar-chatgpt-ai-search": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "6a38110dc0ac05751f78adad17854e39a2125f6e287cae5db617d0e4f0ea4a0e"
+ },
+ "kliniek-website-conversie-meer-patienten": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "0e260535a02bedf94e793d045d1119c5d7f0cc3db4314f5d25f9cb960f0e1d52"
+ },
+ "kliniek-workflows-consult-tot-review-roi": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "432e08e6618c11af5b9adc9e9f1481d6bf2041a6b7525d5cd5be1e49c78f0037"
+ },
+ "leadgeneratie-kliniek-nieuwe-patienten": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "5f21ef705c82b96e199b00b707c9e72495c8dcd699a35156a29b02463060c93a"
+ },
+ "leads-opvolgen-kliniek-meer-patienten": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "b91889dd562036e431dfa549120132af8681f1e87a8ed74b47aa09a869691d08"
+ },
+ "live-chat-vs-ai-chatbot-kliniek-website": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d15973dcc2956448fd21972b74faef01c674284c8628101703dc1bbc4e47f1fd"
+ },
+ "lokale-fysio-paginas-per-stad": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "2225c7342bb5e24721a3981956d311488e4be86076eeeddbc90890be01569784"
+ },
+ "lokale-klinieken-benchmarken-6-datapunten-30-minuten": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "dabc39b8fe9410f95c92fb9e841a6bd5360e90bb7b93b8b611857ae6d0a44fd6"
+ },
+ "meer-google-reviews-voor-je-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "eafe8d3184b332f4e70fc6fdef2df6de235e3049d02a59546eabcbda8fd220af"
+ },
+ "meertalige-ai-telefonist-kliniek-4-talen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d3503a93b6a74345986b6f2179c80555eceaed11a8a261a622fc0470ade2d361"
+ },
+ "mond-tot-mondreclame-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "4931cd12effa6e6d0e71b92876681f0daddc504d268cafb242b76d9bdc37fb5d"
+ },
+ "multi-locatie-crm-klinieken": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f3bb31a504e30f7566f245935c0a186856cbd9d12086528e4138f2827b8fb35f"
+ },
+ "nen-7510-praktijksoftware-leveranciersvragen": {
+  "lastmod": "2026-11-15T05:29:37+01:00",
+  "sha256": "97d6432b04d5eb76363401eee30fd64b98058390c79c9d490e7b18b3690b0eef"
+ },
+ "no-show-aanbetaling-kliniek-werkt-en-mag-het": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "5e46befd751ad537ab32e0faada8c9ef9efacd646a8541c54285c9b4a794139d"
+ },
+ "no-shows-kliniek-afspraken-minder": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "58f47ee298425d3886003c94842a2aeea5e1690307a0cd745a1f5aaaaea2131e"
+ },
+ "no-shows-kliniek-reduceren": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "d5a20f43b74fbdbe833c2d1b4e789bbe1ef63ac74628680b998cdfe182cda0df"
+ },
+ "no-shows-kliniek-verminderen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d93d7a5ebf96a039d3c8b0d0e2989ee0b84935e8543a02cc44e43dd67da12dfc"
+ },
+ "no-shows-verminderen-kliniek": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "c0e20fdf6aac99513b024475733a2eeebaa659eab5e763f0c7cdce651b9fcfc1"
+ },
+ "no-shows-verminderen-zorg": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "c5aec657697d17bd7039ad07b6caa64cf94ec018e6eaa59d9b3c868909f9f0de"
+ },
+ "online-afspraken-kliniek-welk-systeem-past-bij-jou": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "2b51d416ed1b3aab2d3543681e18d0fdb77604dfdb296bb5e842440da41ff71a"
+ },
+ "online-reputatie-kliniek-beschermen-versterken": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "9a918f144c74cce79b43789efda6d170a3c9893c075482fc3ff5ebf9edaa7134"
+ },
+ "patient-opvolging-kliniek-intake-afspraak": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d085c6e41966a5e0e64b699a0885731dea39a38e8da10b4958865bfa5bea0d09"
+ },
+ "patientbeleving-verbeteren-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "60864870604e24ac84ca6c478f0f5689844857822246e88f0dc18829521ba630"
+ },
+ "patientendossier-crm-kliniek-verschil": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f1d7b01e795fe6a5e82a4534cf146ee9e0f3240a5f52fb67244d8cf11122eb1d"
+ },
+ "patientreviews-verzamelen-kliniek": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "f17eb41990f0885cbe5fa5ecb3ac77d75fcef090001dde6a1a69a91057099dba"
+ },
+ "praktijkmanagement-uitbesteden-of-automatiseren-kliniek": {
+  "lastmod": "2026-11-14T16:47:01+01:00",
+  "sha256": "300558864be349d1ab92fa5e756ab2c3dc3aade79da694dd2399ea3c5e76813e"
+ },
+ "preventieve-zorg-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "f298a2cbbb27ccc664f30bed4c47c93297778131b0fc107da9bfbc07b5afa8ae"
+ },
+ "preventieve-zorg-kliniek-patienten-terugzien": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "8eb92ac0c91cb6a03034cf7aab7b945d1acc7b4cf9647df826fa4efd9fcf6b97"
+ },
+ "prijstransparantie-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "bd88099dd18325d63cb69098c81a2b3e92030ebcad617ae7d6edb27576aacaa2"
+ },
+ "review-hardware-kliniek-nfc-qr-poster": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "9d31595f346fdc132d1c160ed97b25613f0316fa84fcd27d8e4be26ec357dd57"
+ },
+ "review-over-wachttijd-kliniek-reactie": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "c993ddedb0f3c7cd2ae1bd0ac3f63f1af55a9d677b1482d10ea5dc5064978fc7"
+ },
+ "review-respons-automatiseren-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "fedf99423fe9d680b9b77992a69c6189239de8548576dd3c28757574ef5159d2"
+ },
+ "review-strategie-kliniek-vertrouwen": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "524f204024195d1111c756e5c3eec2ab27cb3a7964494d3a1f8b1ea708f066ec"
+ },
+ "review-timing-kliniek-wanneer-vragen": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "b49de97e6c8d0a3d34de4ac11aeb38c5094c64b6344912589d0c42400c6ea976"
+ },
+ "reviews-verzamelen-kliniek-automatisch": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "cea4888b591f7aec466d1abebe16e10c605bfbb0eb7eb0046ce1bc3b737b8580"
+ },
+ "same-day-afspraak-kliniek-agenda-inrichten": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "798f78463ddaf2a26da4a33fd58e223e931d2cc7eb2be40df4505e7397a1c3c5"
+ },
+ "samenwerken-als-kliniek-partnerschappen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "d3bfb43746789ae9fbfe88760ef89469e82d070a119d5125248ee274b1761fd1"
+ },
+ "seizoensmarketing-kliniek-behandelingen": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "6f3aff2df5d48469b125e33fb7907d03652c76a48f4f321ec129cd32d9d360e3"
+ },
+ "social-media-klinieken-patienten": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "abdcf2cbc29bfa34f304a5237992422e890727ecbe6feec024b6b41e9cc65722"
+ },
+ "social-media-strategie-klinieken": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "e660ebd4dcfc03f57ac66205e075f4bd4aeb7e98e8442863437c80896762cc83"
+ },
+ "specialisatie-kliniek-juiste-patienten": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "8f1df55dc0df6bde282c7140b9be601169f15c2b31b4303227d0a700e0b7c1ff"
+ },
+ "spoed-triage-tandartspraktijk-dag-avond": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "c79bcefe5b0d9b3598c1571a5b750dcbdb812e336d133f23b8b56fb8c4378d35"
+ },
+ "spoedoproepen-tandartspraktijk-dag-avond-scheiden": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "3919fcf3a56b3fd955eb9ca521b0c6f82b9a2632b9860c02169dbeaba931b929"
+ },
+ "spoedtarief-toeslag-ai-telefonist-kliniek": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "1a77ecc7260ced7819eb0317b810dd028b4fe57a593972e7b5681ed4881d506d"
+ },
+ "tandartssoftware-overstappen-rontgen-behouden": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "c30d2cc76ec88742c00288342842cc9d25bbcafc09e214d8c1db6520c4908ab5"
+ },
+ "tiktok-voor-klinieken": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "e2b863f9b3a69cf0c3d2747d4319a3c05140804269404f50b468b23f67904a6b"
+ },
+ "toestemming-intrekken-fotos-kliniek-verwijderen": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "82988a8d40c33aa527f575420cd8105b5a33531074098454032a4e24835c0598"
+ },
+ "voice-ai-kliniek-avg-privacy-intake": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "9bfacfaff4320ba4ed092edb8e603ae9ad2163e3ae1d083e3a36194a715ed269"
+ },
+ "voice-ai-vs-voicemail-kliniek-waarom-vm-patienten-kost": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "d10579c91446b348a912734a377c600996706c3f906f6d6c297aedf6ae40a414"
+ },
+ "wachtlijstbeheer-kliniek-minder-no-shows": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "f748ff1560cf7e0b21f9d7f8c986b060c218226afb68d6f030710727e2f9ce36"
+ },
+ "wat-is-chatgpt-hoe-gebruik-je-het-als-kliniek": {
+  "lastmod": "2026-11-12T19:33:34+01:00",
+  "sha256": "0f421db2518de9d849158ecc60b4b875cf9149e0ab232ff37bd95b168d414cf5"
+ },
+ "whatsapp-chatbot-cosmetische-kliniek-discreet": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "91d32c998702f65cd217e25789f7bcf75206fa9bc5892705e0f459bc82d15503"
+ },
+ "whatsapp-chatbot-tandartspraktijk": {
+  "lastmod": "2026-11-15T16:03:54+01:00",
+  "sha256": "c55940053add53b24db68ebb95ae8d78c6e7ae95d64fb664a25c638cc5b3a7c3"
+ },
+ "whatsapp-kliniek-patientcommunicatie": {
+  "lastmod": "2026-11-12T19:06:06+01:00",
+  "sha256": "1f3e3537167e3b9c5d3d3393c4e3d5b3320d2fb95755364d6e070aaf494283cf"
+ },
+ "zorgkaart-reviews-automatiseren": {
+  "lastmod": "2026-11-13T07:41:34+01:00",
+  "sha256": "ee39cb19a64df29cbbfc340c28052a47f20737901b7739195e8c4d64fc13e895"
+ }
+}
