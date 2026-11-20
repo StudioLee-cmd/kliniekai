@@ -1,7 +1,7 @@
 ---
 title: "No-shows verminderen in je kliniek: bewezen strategieën voor minder gemiste afspraken"
 seoTitle: "No-shows verminderen in je kliniek"
-excerpt: "No-shows kosten klinieken duizenden euro's per maand — vooral bij high-value behandelingen. Deze strategieën werken bewezen."
+excerpt: "No-shows kosten klinieken duizenden euro's per maand, vooral bij high-value behandelingen. Deze strategieën werken bewezen."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kliniek-verminderen.png"
@@ -10,17 +10,17 @@ cluster: "automatisering"
 ---
 ## Wat no-shows je kliniek écht kosten
 
-Een gemiste afspraak bij de huisarts kost €30-50. Maar een no-show bij een privékliniek? Dat kan oplopen tot €200-500 per gemiste behandeling. Cosmetische ingrepen, tandheelkundige procedures, fysiotherapiesessies — elke lege behandelstoel is een directe omzetderving.
+Een gemiste afspraak bij de huisarts kost €30-50. Maar een no-show bij een privékliniek? Dat kan oplopen tot €200-500 per gemiste behandeling. Cosmetische ingrepen, tandheelkundige procedures, fysiotherapiesessies: elke lege behandelstoel is een directe omzetderving.
 
 Reken met 8-12% no-shows bij Nederlandse privéklinieken. Bij een kliniek met 30 afspraken per dag is dat 3-4 gemiste behandelingen. Dagelijks.
 
 ## Waarom patiënten wegblijven
 
 De redenen bij klinieken zijn anders dan bij andere branches:
-- **Angst voor de behandeling** — vooral bij cosmetische en tandheelkundige ingrepen
-- **Financiële twijfel** — de kosten worden pas bij de afspraak écht voelbaar
-- **Vergeten** — zeker bij afspraken die weken van tevoren zijn gemaakt
-- **Schaamte om af te bellen** — patiënten vermijden het gesprek
+- **Angst voor de behandeling**: vooral bij cosmetische en tandheelkundige ingrepen
+- **Financiële twijfel**: de kosten worden pas bij de afspraak écht voelbaar
+- **Vergeten**: zeker bij afspraken die weken van tevoren zijn gemaakt
+- **Schaamte om af te bellen**: patiënten vermijden het gesprek
 
 ## 6 strategieën die bewezen werken
 
@@ -57,7 +57,7 @@ Vaak is angst de reden. Een begripvol telefoontje haalt de drempel weg.
 
 ### 6. Maak afzeggen makkelijk
 
-Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bied een directe afzeg-link aan in de herinneringsmail. Patiënten die eenvoudig kunnen afzeggen, doen dat — in plaats van gewoon niet komen opdagen.
+Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bied een directe afzeg-link aan in de herinneringsmail. Patiënten die eenvoudig kunnen afzeggen, doen dat, in plaats van gewoon niet komen opdagen.
 
 ## De impact in cijfers
 
@@ -73,7 +73,7 @@ Paradoxaal maar effectief: hoe makkelijker afzeggen is, hoe minder no-shows. Bie
 
 ## Conclusie
 
-No-shows zijn geen onvermijdelijk probleem in de zorg — het is een communicatieprobleem. Met de juiste combinatie van [herinneringen](/automatisering), bevestigingen en empathische opvolging houd je je behandelstoelen bezet.
+No-shows zijn geen onvermijdelijk probleem in de zorg. Het is een communicatieprobleem. Met de juiste combinatie van [herinneringen](/automatisering), bevestigingen en empathische opvolging houd je je behandelstoelen bezet.
 
 Met [KliniekAI](/) automatiseer je het volledige patiëntcommunicatieproces. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

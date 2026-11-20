@@ -9,7 +9,7 @@ tags: ["Reviews", "Review strategie"]
 ---
 ## Waarom reviews voor klinieken anders werken
 
-Bij een kapper is een review laagdrempelig. Bij een kliniek ligt het gevoeliger — patiënten delen niet graag dat ze een behandeling hebben ondergaan. Toch zijn reviews cruciaal. Nieuwe patiënten lezen ze aandachtig en baseren hun keuze erop.
+Bij een kapper is een review laagdrempelig. Bij een kliniek ligt het gevoeliger, want patiënten delen niet graag dat ze een behandeling hebben ondergaan. Toch zijn reviews cruciaal. Nieuwe patiënten lezen ze aandachtig en baseren hun keuze erop.
 
 De uitdaging is om reviews te verzamelen op een manier die respectvol is naar de privacy van de patiënt.
 
@@ -27,7 +27,7 @@ Nooit druk uitoefenen. Een review is een gunst, geen verplichting.
 
 ## Automatisering met een menselijke touch
 
-Stuur [reviewverzoeken automatisch](/reviews), maar maak ze persoonlijk. Gebruik de naam van de behandelaar en verwijs naar het type afspraak — zonder medische details.
+Stuur [reviewverzoeken automatisch](/reviews), maar maak ze persoonlijk. Gebruik de naam van de behandelaar en verwijs naar het type afspraak, zonder medische details.
 
 "Beste [naam], bedankt voor uw bezoek bij [behandelaar]. Wij streven naar de beste zorg. Zou u uw ervaring willen delen? [link]"
 
@@ -39,7 +39,7 @@ Systemen zoals die van [KliniekAI](/) sturen dit automatisch na selectieve afspr
 
 Bij het reageren op kliniekreviews gelden strenge regels:
 
-- **Nooit medische informatie delen** — ook niet als de patiënt dat zelf doet
+- **Nooit medische informatie delen**, ook niet als de patiënt dat zelf doet
 - **Geen behandelingen benoemen** in je reactie
 - **Bedank voor de feedback** en nodig uit voor persoonlijk contact bij klachten
 
@@ -64,4 +64,4 @@ Streef naar 30+ reviews op Google en 20+ op Zorgkaart. Dat is het punt waarop po
 
 Een doordachte review strategie bouwt vertrouwen op zonder de privacy van patiënten te schenden. Automatiseer het proces, kies de juiste momenten en reageer altijd professioneel.
 
-De investering in een goed reviewsysteem verdient zich terug in meer patiëntvertrouwen en betere vindbaarheid. Wil je ontdekken hoe KliniekAI je reviewverzameling respectvol automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij behandelt patiënten.
+De investering in een goed reviewsysteem verdient zich terug in meer patiëntvertrouwen en betere vindbaarheid. Wil je ontdekken hoe KliniekAI je reviewverzameling respectvol automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het, jij behandelt patiënten.

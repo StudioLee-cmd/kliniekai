@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom patiënttevredenheid centraal staat
 
-In de zorg draait alles om de patiënt. Maar patiënttevredenheid gaat verder dan medische kwaliteit — het omvat de hele ervaring, van het eerste telefoontje tot de nazorg na de behandeling.
+In de zorg draait alles om de patiënt. Maar patiënttevredenheid gaat verder dan medische kwaliteit. Het omvat de hele ervaring, van het eerste telefoontje tot de nazorg na de behandeling.
 
 Klinieken die structureel werken aan patiënttevredenheid zien het terug in hun resultaten: meer terugkerende patiënten, betere reviews, meer doorverwijzingen en een sterkere [reputatie](/reviews).
 
@@ -68,11 +68,11 @@ Bereikbaarheid gaat ook over online vindbaarheid. Zorg dat je website actueel is
 
 Een tevreden patiënt is goed. Een patiënt die je actief aanbeveelt is goud waard:
 
-1. **Vraag om reviews** na een positieve ervaring — de meeste patiënten willen je best helpen
+1. **Vraag om reviews** na een positieve ervaring, want de meeste patiënten willen je best helpen
 2. **Maak het makkelijk**: stuur een directe link naar je Google-reviewpagina
 3. **Reageer op reviews**: ook op positieve, dat toont betrokkenheid
 4. **Deel succesverhalen**: met toestemming van de patiënt, op je website en social media
 
-Structureel werken aan tevredenheid is de meest kosteneffectieve manier om je kliniek te laten groeien. Het kost geen advertentiebudget — alleen aandacht en consistentie.
+Structureel werken aan tevredenheid is de meest kosteneffectieve manier om je kliniek te laten groeien. Het kost geen advertentiebudget, alleen aandacht en consistentie.
 
 Wil je weten hoe jouw kliniek scoort op patiënttevredenheid? [Vraag een gratis scan aan](https://www.kliniekai.nl/gratis-scan) en ontdek je verbeterpunten.

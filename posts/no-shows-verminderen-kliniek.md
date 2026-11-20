@@ -10,7 +10,7 @@ tags: ["No-shows", "Automatisering"]
 ---
 ## Het lege behandelblok
 
-Patiënt verschijnt niet. Geen afbericht, geen telefoontje. Het behandelblok van 30 minuten is weg — en je had de wachtlijst kunnen bellen als je het eerder had geweten.
+Patiënt verschijnt niet. Geen afbericht, geen telefoontje. Het behandelblok van 30 minuten is weg, en je had de wachtlijst kunnen bellen als je het eerder had geweten.
 
 In klinieken zijn no-shows een chronisch probleem. Een aanzienlijk deel van alle afspraken wordt niet nagekomen. Bij sommige specialisaties loopt dat nog verder op.
 
@@ -23,7 +23,7 @@ Reken met een kliniek met 40 afspraken per dag en 12% no-shows:
 - Per maand: €8.000 verlies
 - Per jaar: bijna €100.000
 
-En dat is alleen het directe inkomstenverlies. De indirecte kosten — langere wachttijden voor andere patiënten, onderbezetting personeel, administratieve rompslomp — komen daar bovenop.
+En dat is alleen het directe inkomstenverlies. De indirecte kosten (langere wachttijden voor andere patiënten, onderbezetting personeel, administratieve rompslomp) komen daar bovenop.
 
 ![Automatische herinneringen kliniek](/images/blog/no-shows-verminderen-kliniek-2.jpg)
 
@@ -51,9 +51,9 @@ Wees transparant: "Bij herhaaldelijk niet verschijnen zonder afmelding behouden 
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als kliniek.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 

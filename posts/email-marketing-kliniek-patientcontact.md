@@ -34,7 +34,7 @@ Een maandelijkse of tweemaandelijkse nieuwsbrief houdt je kliniek top-of-mind:
 - **Team-updates**: stel nieuwe specialisten voor
 - **Succesverhalen**: (met toestemming) ervaringen van patiënten delen
 
-Houd de nieuwsbrief kort: maximaal 300 woorden met één duidelijke CTA. Stuur niet vaker dan maandelijks — te veel e-mails leiden tot afmeldingen.
+Houd de nieuwsbrief kort: maximaal 300 woorden met één duidelijke CTA. Stuur niet vaker dan maandelijks, want te veel e-mails leiden tot afmeldingen.
 
 ## Privacy en AVG bij medische e-mail
 
@@ -51,12 +51,12 @@ Afspraakherinneringen vallen onder de behandelrelatie en vereisen geen aparte ma
 
 Kies een e-mailtool die past bij de gezondheidszorg:
 
-- **Mailchimp**: populair, gebruiksvriendelijk, AVG-compliant — geschikt voor nieuwsbrieven
+- **Mailchimp**: populair, gebruiksvriendelijk, AVG-compliant, geschikt voor nieuwsbrieven
 - **Brevo**: goede automatisering, betaalbaar
 - **Je praktijksoftware**: veel medische systemen hebben ingebouwde e-mailfuncties voor afspraakherinneringen
 
-De ideale setup: gebruik je praktijksoftware voor afspraakgerelateerde e-mails en een dedicated e-mailtool voor nieuwsbrieven. Zo houd je behandelcommunicatie en marketing gescheiden — beter voor privacy en effectiviteit.
+De ideale setup: gebruik je praktijksoftware voor afspraakgerelateerde e-mails en een dedicated e-mailtool voor nieuwsbrieven. Zo houd je behandelcommunicatie en marketing gescheiden, beter voor privacy en effectiviteit.
 
 ## Conclusie
 
-E-mailmarketing is een krachtig maar onderbenut kanaal voor klinieken. Begin met afspraakherinneringen voor directe ROI, bouw dan uit naar een maandelijkse nieuwsbrief voor patiëntbehoud. Let op privacy en AVG — het is essentieel in de gezondheidszorg. Wil je ontdekken hoe je kliniek digitaal kan groeien? Vraag een [gratis scan](/gratis-scan) aan.
+E-mailmarketing is een krachtig maar onderbenut kanaal voor klinieken. Begin met afspraakherinneringen voor directe ROI, bouw dan uit naar een maandelijkse nieuwsbrief voor patiëntbehoud. Let op privacy en AVG, want het is essentieel in de gezondheidszorg. Wil je ontdekken hoe je kliniek digitaal kan groeien? Vraag een [gratis scan](/gratis-scan) aan.

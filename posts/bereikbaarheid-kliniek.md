@@ -8,7 +8,7 @@ image: "/images/blog/bereikbaarheid-kliniek.png"
 tags: ["Bereikbaarheid"]
 cluster: "voice-ai"
 ---
-Een patient belt je kliniek. De lijn is bezet. Ze proberen het later opnieuw — opnieuw bezet. De derde keer bellen ze een concurrent. Dit scenario speelt zich dagelijks af bij klinieken die hun bereikbaarheid niet op orde hebben.
+Een patient belt je kliniek. De lijn is bezet. Ze proberen het later opnieuw: opnieuw bezet. De derde keer bellen ze een concurrent. Dit scenario speelt zich dagelijks af bij klinieken die hun bereikbaarheid niet op orde hebben.
 
 Bereikbaarheid is meer dan een telefoonnummer. Het is de mate waarin patienten antwoord krijgen wanneer ze dat nodig hebben. In dit artikel lees je hoe je dat als kliniek organiseert.
 
@@ -16,10 +16,10 @@ Bereikbaarheid is meer dan een telefoonnummer. Het is de mate waarin patienten a
 
 Patienten contacteren een kliniek vaak op kwetsbare momenten. Ze hebben pijn, zorgen of dringende vragen. Als ze dan geen antwoord krijgen, heeft dat direct impact op:
 
-- **Patienttevredenheid** — frustratie leidt tot negatieve ervaringen
-- **Patientbehoud** — wie niet bereikbaar is, verliest patienten aan concurrenten
-- **Reputatie** — onbereikbaarheid leidt tot [negatieve reviews](/blog/online-reputatie-kliniek-beschermen-versterken)
-- **No-shows** — patienten die niet kunnen omboeken, komen simpelweg niet
+- **Patienttevredenheid**: frustratie leidt tot negatieve ervaringen
+- **Patientbehoud**: wie niet bereikbaar is, verliest patienten aan concurrenten
+- **Reputatie**: onbereikbaarheid leidt tot [negatieve reviews](/blog/online-reputatie-kliniek-beschermen-versterken)
+- **No-shows**: patienten die niet kunnen omboeken, komen simpelweg niet
 
 ## De moderne patient verwacht meer
 
@@ -30,13 +30,13 @@ Patienten contacteren een kliniek vaak op kwetsbare momenten. Ze hebben pijn, zo
 | WhatsApp of chat beschikbaar | Alleen telefoon en email |
 | Avond/weekend voor dringende vragen | Alleen kantooruren |
 
-De kloof tussen verwachting en realiteit is je grootste risico — en je grootste kans.
+De kloof tussen verwachting en realiteit is je grootste risico, en je grootste kans.
 
 ## 5 manieren om je bereikbaarheid te verbeteren
 
 ### 1. Online afspraken aanbieden
 
-Het meest effectieve wat je kunt doen: laat patienten online boeken via je [website](/blog/kliniek-website-conversie-meer-patienten). Geen wachttijden, geen bezette lijnen. Patienten boeken wanneer het hen uitkomt — ook 's avonds en in het weekend.
+Het meest effectieve wat je kunt doen: laat patienten online boeken via je [website](/blog/kliniek-website-conversie-meer-patienten). Geen wachttijden, geen bezette lijnen. Patienten boeken wanneer het hen uitkomt, ook 's avonds en in het weekend.
 
 ### 2. Telefoondruk verlagen
 
@@ -82,6 +82,6 @@ Klinieken die investeren in bereikbaarheid zien:
 
 ## Hulp nodig?
 
-Bij KliniekAI helpen we klinieken met het verbeteren van hun bereikbaarheid via slimme [automatisering](/automatisering). Van chatbots tot automatische herinneringen — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij KliniekAI helpen we klinieken met het verbeteren van hun bereikbaarheid via slimme [automatisering](/automatisering). Van chatbots tot automatische herinneringen: alles voor slechts 15 minuten per maand van jouw tijd.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe bereikbaar jouw kliniek werkelijk is.

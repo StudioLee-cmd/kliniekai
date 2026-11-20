@@ -9,7 +9,7 @@ cluster: "vindbaarheid"
 ---
 ## Waarom klinieken steeds meer online gevonden worden
 
-Patiënten die een kliniek zoeken — voor fysiotherapie, een esthetische behandeling, psychologie of een andere specialisatie — beginnen hun zoektocht online. Ze lezen reviews, vergelijken informatie, en boeken vervolgens via de website of telefoon.
+Patiënten die een kliniek zoeken (voor fysiotherapie, een esthetische behandeling, psychologie of een andere specialisatie) beginnen hun zoektocht online. Ze lezen reviews, vergelijken informatie, en boeken vervolgens via de website of telefoon.
 
 De kliniek die het beste scoort op Google en de meest geloofwaardige online aanwezigheid heeft, trekt de meeste nieuwe patiënten. Verwijzingen via huisarts of mond-tot-mondreclame zijn nog steeds waardevol, maar de online kanalen groeien elk jaar.
 
@@ -30,19 +30,19 @@ Voor klinieken is het Google Bedrijfsprofiel het eerste wat potentiële patiënt
 
 ## Stap 2: Bouw aan je online beoordelingsprofiel
 
-Reviews zijn in de zorgsector extra krachtig — mensen stellen [vertrouwen](/reviews) in een behandelaar en willen bewijs dat anderen goede ervaringen hebben gehad.
+Reviews zijn in de zorgsector extra krachtig, want mensen stellen [vertrouwen](/reviews) in een behandelaar en willen bewijs dat anderen goede ervaringen hebben gehad.
 
 Vraag patiënten na de behandeling om een review:
 
 > "Bedankt voor uw bezoek vandaag. Als u tevreden bent, zou u ons dan willen helpen met een Google-review? Dat helpt anderen de juiste kliniek te vinden: [link]"
 
-Dit kan via WhatsApp, SMS of e-mail — afhankelijk van hoe u met patiënten communiceert. Automatiseer het zodat het na elke afgeronde afspraak automatisch verstuurd wordt.
+Dit kan via WhatsApp, SMS of e-mail, afhankelijk van hoe u met patiënten communiceert. Automatiseer het zodat het na elke afgeronde afspraak automatisch verstuurd wordt.
 
 ---
 
 ## Stap 3: Zorg voor informatieve content per specialisatie
 
-Patiënten zoeken niet alleen naar een kliniknaam — ze zoeken naar een antwoord op hun klacht of vraag. Als jouw website die vraag beantwoordt, kom je bovenaan.
+Patiënten zoeken niet alleen naar een kliniknaam. Ze zoeken naar een antwoord op hun klacht of vraag. Als jouw website die vraag beantwoordt, kom je bovenaan.
 
 Schrijf informatieve artikelen en pagina's:
 - Wat doet een fysiotherapeut bij rugklachten?
@@ -64,13 +64,13 @@ Elke drempel die je wegneemt, verhoogt het aantal boekingen. Zorg voor:
 - Transparante informatie over vergoeding (basisverzekering, aanvullend, zelfbetaler)
 - Mogelijkheid tot eerste telefonisch consult of kennismaking
 
-Mensen boeken het liefst op hun eigen moment — vaak 's avonds. Als je online boeken aanbiedt, leg je geen drempel op.
+Mensen boeken het liefst op hun eigen moment, vaak 's avonds. Als je online boeken aanbiedt, leg je geen drempel op.
 
 ---
 
 ## Stap 5: Wees bereikbaar als patiënten vragen hebben
 
-'s Avonds besluit iemand een afspraak te maken. Ze bezoeken je website, hebben een vraag — maar de balie is gesloten. Ze sluiten het venster en vergeten het.
+'s Avonds besluit iemand een afspraak te maken. Ze bezoeken je website en hebben een vraag, maar de balie is gesloten. Ze sluiten het venster en vergeten het.
 
 Een AI Chatbot op je website vangt die vragen op. Hij beantwoordt standaardvragen (wachttijd, vergoeding, werkwijze), vraagt contactgegevens op, en stuurt een melding naar de praktijk. De volgende ochtend belt iemand van de balie terug.
 

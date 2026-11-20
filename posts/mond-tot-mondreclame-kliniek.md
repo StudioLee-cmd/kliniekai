@@ -9,7 +9,7 @@ tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 
-Wanneer iemand een kliniek zoekt voor een behandeling, vraagt die persoon eerst aan vrienden en familie. "Ken je een goede kliniek?" Dat gesprek vindt dagelijks plaats — en het is de krachtigste marketingvorm die er bestaat voor medische zorg.
+Wanneer iemand een kliniek zoekt voor een behandeling, vraagt die persoon eerst aan vrienden en familie. "Ken je een goede kliniek?" Dat gesprek vindt dagelijks plaats, en het is de krachtigste marketingvorm die er bestaat voor medische zorg.
 
 In dit artikel leer je hoe je als kliniek mond-tot-mondreclame stimuleert zonder commercieel over te komen.
 
@@ -28,7 +28,7 @@ Klinieken die actief aan mond-tot-mond werken, zien:
 
 ### De patientervaring is de basis
 
-Alles begint bij de ervaring. Van de [bereikbaarheid](/blog/bereikbaarheid-kliniek) tot de nazorg — elk contactmoment telt. Patienten die zich gehoord en goed behandeld voelen, delen dat spontaan.
+Alles begint bij de ervaring. Van de [bereikbaarheid](/blog/bereikbaarheid-kliniek) tot de nazorg: elk contactmoment telt. Patienten die zich gehoord en goed behandeld voelen, delen dat spontaan.
 
 ### Het juiste moment om te vragen
 
@@ -46,7 +46,7 @@ Bel of mail de patient een week na de behandeling. Vraag hoe het gaat. Dit gebaa
 
 ### 2. Informatieve content
 
-Deel [gezondheids-tips](/blog/social-media-klinieken-patienten) op social media. Patienten delen waardevolle informatie met hun netwerk — indirect marketje voor je kliniek.
+Deel [gezondheids-tips](/blog/social-media-klinieken-patienten) op social media. Patienten delen waardevolle informatie met hun netwerk, en dat is indirect marketing voor je kliniek.
 
 ### 3. Reviewsysteem
 
@@ -62,13 +62,13 @@ Vraag bij elk nieuw patient: "Hoe heeft u ons gevonden?" Registreer dit in je sy
 
 ## Mond-tot-mond in het digitale tijdperk
 
-De klassieke mond-tot-mondreclame is niet verdwenen — ze is versterkt. Wanneer iemand zegt "ga naar die kliniek", googelt de ontvanger je naam. Wat ze dan vinden moet kloppen met de aanbeveling: sterke reviews, een professionele website en een compleet Google Bedrijfsprofiel.
+De klassieke mond-tot-mondreclame is niet verdwenen. Ze is versterkt. Wanneer iemand zegt "ga naar die kliniek", googelt de ontvanger je naam. Wat ze dan vinden moet kloppen met de aanbeveling: sterke reviews, een professionele website en een compleet Google Bedrijfsprofiel.
 
 De offline aanbeveling triggert de online verificatie. Zorg dat beide kanalen hetzelfde verhaal vertellen: een kliniek die patienten centraal stelt en uitstekende zorg levert.
 
 ## Het ambassadeurs-effect
 
-De meest waardevolle patienten zijn degenen die actief over je praten. Dat zijn niet per se de patienten met de grootste behandelingen, maar de patienten die de beste ervaring hadden. Investeer in het identificeren en waarderen van deze ambassadeurs. Een bedankkaart na een doorverwijzing, een extra attent telefoontje — kleine gebaren die grote effecten hebben.
+De meest waardevolle patienten zijn degenen die actief over je praten. Dat zijn niet per se de patienten met de grootste behandelingen, maar de patienten die de beste ervaring hadden. Investeer in het identificeren en waarderen van deze ambassadeurs. Een bedankkaart na een doorverwijzing, een extra attent telefoontje: kleine gebaren die grote effecten hebben.
 
 ## Hulp nodig?
 

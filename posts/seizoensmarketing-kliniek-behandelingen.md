@@ -25,7 +25,7 @@ Het voorjaar is het moment waarop patienten actie ondernemen:
 
 **Preventieve screenings**. Het voorjaar is een goed moment om huidcontroles te promoten. "Lentescan: laat je huid controleren voor de zomer." Laagdrempelig en het brengt patienten in contact met je kliniek.
 
-**Allergiediagnostiek**. Het pollenenseizoen begint — klinieken die allergiebehandelingen aanbieden, kunnen dit actief promoten.
+**Allergiediagnostiek**. Het pollenenseizoen begint, dus klinieken die allergiebehandelingen aanbieden, kunnen dit actief promoten.
 
 ## Zomer: bescherming en herstel
 
@@ -35,7 +35,7 @@ De zomer brengt specifieke uitdagingen:
 
 **Lichtere behandelingen**. Intensieve laser- en peelbehandelingen zijn minder geschikt in de zomer vanwege UV-gevoeligheid. Promoot in plaats daarvan injectables, hydratatie-behandelingen en onderhoudsbehandelingen.
 
-**Vakantievoorbereiding**. "Zomerklaar met een frisse uitstraling" — pakketten voor patienten die er op vakantie goed uit willen zien.
+**Vakantievoorbereiding**. "Zomerklaar met een frisse uitstraling": pakketten voor patienten die er op vakantie goed uit willen zien.
 
 ## Herfst en winter: intensieve behandelingen
 
@@ -60,7 +60,7 @@ De herfst en winter zijn ideaal voor behandelingen met hersteltijd:
 | November | Feestdagenpakketten + cadeaubonnen | Alle kanalen |
 | Januari | Jaarplanning | Email aan bestaande patienten |
 
-Plan deze communicatie in december voor het hele jaar. Zes momenten, zes gerichte campagnes — beheerbaar en effectief.
+Plan deze communicatie in december voor het hele jaar. Zes momenten, zes gerichte campagnes: beheerbaar en effectief.
 
 ## Aan de slag
 

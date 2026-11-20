@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Patientbeleving begint niet bij de behandeling
 
-De meeste klinieken focussen op de behandeling zelf — terecht, want dat is de kern. Maar de patientbeleving begint veel eerder en eindigt veel later. Het eerste telefoontje, de wachtruimte, de factuur, de nazorg — elk contactmoment vormt het totaalbeeld.
+De meeste klinieken focussen op de behandeling zelf, terecht, want dat is de kern. Maar de patientbeleving begint veel eerder en eindigt veel later. Het eerste telefoontje, de wachtruimte, de factuur, de nazorg: elk contactmoment vormt het totaalbeeld.
 
 Een kliniek met excellente behandelingen maar een chaotische receptie, lange wachttijden en geen nazorg verliest patienten aan een kliniek die misschien iets minder gespecialiseerd is, maar waar alles soepel loopt.
 
@@ -49,7 +49,7 @@ De wachtruimte is het visitekaartje van je kliniek. Investeer in:
 
 ### 5. De behandeling zelf
 
-Dit is de kern — maar communicatie maakt het verschil:
+Dit is de kern, maar communicatie maakt het verschil:
 - Leg uit wat je gaat doen, stap voor stap
 - Vraag of de patient vragen heeft
 - Geef aan wat normaal is (pijn, hersteltijd, bijwerkingen)
@@ -65,7 +65,7 @@ Na de behandeling:
 
 ### 7. De nazorg (24-48 uur later)
 
-Dit contactmoment wordt het vaakst vergeten — en is misschien het belangrijkst:
+Dit contactmoment wordt het vaakst vergeten en is misschien het belangrijkst:
 - **Na 24 uur**: "Hoe gaat het na uw behandeling? Mocht u vragen hebben, u kunt ons bereiken op [nummer]."
 - **Na 1 week**: "We horen graag hoe het met u gaat. Heeft u nog klachten?"
 - **Na 1 maand**: "We nodigen u uit voor een controleafspraak / Zou u een review willen achterlaten?"
@@ -84,17 +84,17 @@ Al deze contactmomenten handmatig beheren is onmogelijk bij 30+ patienten per da
 
 ## Wat verbeterde patientbeleving oplevert
 
-- **Meer terugkerende patienten** — ze voelen zich gezien en verzorgd
-- **Meer verwijzingen** — tevreden patienten vertellen het door
-- **Hogere Google reviews** — nazorgberichten leiden tot reviews
-- **Minder no-shows** — goede communicatie vooraf verhoogt aanwezigheid
-- **Hogere omzet per patient** — vertrouwen leidt tot meer behandelingen
+- **Meer terugkerende patienten**: ze voelen zich gezien en verzorgd
+- **Meer verwijzingen**: tevreden patienten vertellen het door
+- **Hogere Google reviews**: nazorgberichten leiden tot reviews
+- **Minder no-shows**: goede communicatie vooraf verhoogt aanwezigheid
+- **Hogere omzet per patient**: vertrouwen leidt tot meer behandelingen
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-kliniek-patientervaring" class="text-dark fw-semibold">Klanttevredenheid in je kliniek: zo verbeter je de patiëntervaring</a> →</p></div></div></div>
 
 ## Conclusie
 
-Patientbeleving is meer dan een goede behandeling. Het is de som van elk contactmoment — van het eerste telefoontje tot de nazorg-mail. Klinieken die elk contactmoment optimaliseren, bouwen een reputatie die patienten aantrekt en vasthoudt.
+Patientbeleving is meer dan een goede behandeling. Het is de som van elk contactmoment, van het eerste telefoontje tot de nazorg-mail. Klinieken die elk contactmoment optimaliseren, bouwen een reputatie die patienten aantrekt en vasthoudt.
 
 Met [KliniekAI](/) automatiseren we elk contactmoment in de patientreis. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

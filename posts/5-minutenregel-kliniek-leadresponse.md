@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 Het onderzoek van MIT (Oldroyd, 2007) dat de 5-minutenregel populair maakte, is inmiddels bijna twintig jaar oud en nog steeds onverminderd van toepassing. Leads die binnen vijf minuten na aanvraag worden teruggebeld of beantwoord, converteren 21 keer vaker dan leads die 30 minuten of langer moeten wachten. Voor klinieken is dit principe extra relevant: patiënten die een specifieke behandeling overwegen zijn actief aan het vergelijken, en wie eerst reageert, zit in de shortlist. Wie zes uur later reageert, is niet meer in beeld.
 
-De vraag is dus niet of 5 minuten response-tijd belangrijk is. Die is het. De vraag is hoe je als kliniek — met beperkte receptie-capaciteit en een gemiddelde piek van inkomende aanvragen buiten kantooruren — die 5 minuten structureel haalt. Dit artikel legt de drie mechanismen uit die je response-tijd van gemiddeld 6 tot 12 uur terugbrengen naar onder de 5 minuten, ook 's avonds en in het weekend.
+De vraag is dus niet of 5 minuten response-tijd belangrijk is. Die is het. De vraag is hoe je als kliniek, met beperkte receptie-capaciteit en een gemiddelde piek van inkomende aanvragen buiten kantooruren, die 5 minuten structureel haalt. Dit artikel legt de drie mechanismen uit die je response-tijd van gemiddeld 6 tot 12 uur terugbrengen naar onder de 5 minuten, ook 's avonds en in het weekend.
 
 ## Waarom klinieken systematisch te traag zijn
 
@@ -49,7 +49,7 @@ Dit voorkomt dat leads die niet direct boeken in de vergetelheid raken. Zonder a
 
 Voor telefonische inkomende contacten werkt een AI telefonist uitstekend. Hij beantwoordt de eerste vraag, doet de intake in natuurlijk Nederlands, plant een terugbelafspraak of videobel-consult binnen jouw werkingebied, en stuurt samenvatting naar je medisch team voor de volgende dag. Geen voicemail-achterstand, geen "we hebben uw bericht ontvangen" zonder daadwerkelijke opvolging.
 
-Voor klinieken waar het eerste gesprek met een menselijk medewerker extra belangrijk is (bijvoorbeeld bij gevoelige cosmetische ingrepen), kan de AI telefonist ook gewoon doorschakelen zodra hij spoed of emotionele intensiteit herkent. De klant merkt geen verschil met een normale telefoniste — alleen dat ze altijd binnen een paar minuten iemand aan de lijn krijgen.
+Voor klinieken waar het eerste gesprek met een menselijk medewerker extra belangrijk is (bijvoorbeeld bij gevoelige cosmetische ingrepen), kan de AI telefonist ook gewoon doorschakelen zodra hij spoed of emotionele intensiteit herkent. De klant merkt geen verschil met een normale telefoniste, alleen dat ze altijd binnen een paar minuten iemand aan de lijn krijgen.
 
 ## De gecombineerde impact
 
@@ -58,9 +58,9 @@ Klinieken die alle drie mechanismen implementeren rapporteren na drie maanden:
 - **Response-tijd gemiddeld onder de 5 minuten**, ook in weekenden en avonden
 - **Conversie van lead naar behandelingsafspraak** stijgt merkbaar
 - **Verlies aan concurrent** daalt van een groot deel van de aanvragen naar een kleine minderheid
-- **Werkbelasting receptie** stabiliseert omdat de eerste vragen zijn geautomatiseerd — het team kan focussen op complexere gesprekken
+- **Werkbelasting receptie** stabiliseert omdat de eerste vragen zijn geautomatiseerd, zodat het team kan focussen op complexere gesprekken
 
-In dit rekenvoorbeeld: voor een middelgrote kliniek met 50 nieuwe aanvragen per maand bij een gemiddelde eerste-behandeling-waarde van 1.800 euro, betekent 40 procent hogere conversie ongeveer 25.000 euro extra maandomzet. De investering is 300 tot 600 euro per maand runkosten plus 3.000 tot 7.000 euro eenmalige setup — direct renderend.
+In dit rekenvoorbeeld: voor een middelgrote kliniek met 50 nieuwe aanvragen per maand bij een gemiddelde eerste-behandeling-waarde van 1.800 euro, betekent 40 procent hogere conversie ongeveer 25.000 euro extra maandomzet. De investering is 300 tot 600 euro per maand runkosten plus 3.000 tot 7.000 euro eenmalige setup, direct renderend.
 
 ## Juridische aandachtspunten
 
@@ -73,7 +73,7 @@ Voor klinieken gelden bijzondere regels:
 Praktisch betekent dit dat je AI chatbot en telefonist:
 - Versleutelde communicatie gebruiken (TLS 1.3 minimum)
 - Tweefactor-authenticatie hebben voor toegang tot persoonlijke info
-- Geen medische diagnose of advies geven — altijd doorschakelen
+- Geen medische diagnose of advies geven, maar altijd doorschakelen
 - Duidelijk zichzelf identificeren als AI
 - Juiste verwerkersovereenkomsten ondertekend hebben met de leverancier
 

@@ -12,7 +12,7 @@ cluster: "automatisering"
 ---
 ## Wat no-shows je kliniek kosten
 
-Een gemiste afspraak kost een kliniek gemiddeld 75 tot 150 euro — afhankelijk van het type behandeling. Reken met een no-show percentage van 10% en 40 afspraken per dag: dan verlies je dagelijks 300 tot 600 euro aan omzet. Op jaarbasis loopt dat op tot tienduizenden euro's.
+Een gemiste afspraak kost een kliniek gemiddeld 75 tot 150 euro, afhankelijk van het type behandeling. Reken met een no-show percentage van 10% en 40 afspraken per dag: dan verlies je dagelijks 300 tot 600 euro aan omzet. Op jaarbasis loopt dat op tot tienduizenden euro's.
 
 Maar het gaat niet alleen om geld. No-shows veroorzaken gaten in je planning, frustratie bij je team en langere wachttijden voor andere patienten. Een patient die niet komt opdagen, blokkeert een plek die iemand anders had kunnen gebruiken.
 
@@ -22,11 +22,11 @@ Het goede nieuws: met betere communicatie kun je je no-show percentage fors verl
 
 De meest effectieve manier om no-shows te verminderen is automatische afspraakherinneringen. Uit onderzoek blijkt dat twee [herinneringen](/automatisering) het optimale aantal is:
 
-**Herinnering 1 — 48 uur van tevoren**: per e-mail. Benoem de datum, tijd, locatie en eventuele voorbereiding. Geef de mogelijkheid om te bevestigen of te verzetten.
+**Herinnering 1 (48 uur van tevoren)**: per e-mail. Benoem de datum, tijd, locatie en eventuele voorbereiding. Geef de mogelijkheid om te bevestigen of te verzetten.
 
-**Herinnering 2 — 3 uur van tevoren**: per SMS of WhatsApp. Kort en direct: "Uw afspraak bij [kliniek] is vandaag om [tijd]. Tot straks!"
+**Herinnering 2 (3 uur van tevoren)**: per SMS of WhatsApp. Kort en direct: "Uw afspraak bij [kliniek] is vandaag om [tijd]. Tot straks!"
 
-Twee herinneringen verlagen het no-show percentage merkbaar. De kosten zijn minimaal — de meeste [praktijkmanagement-software](/blog/no-shows-kliniek-verminderen) biedt dit als standaardfunctie.
+Twee herinneringen verlagen het no-show percentage merkbaar. De kosten zijn minimaal, want de meeste [praktijkmanagement-software](/blog/no-shows-kliniek-verminderen) biedt dit als standaardfunctie.
 
 ## Bevestigingsberichten die werken
 
@@ -39,7 +39,7 @@ Een goed bevestigingsbericht bevat:
 - Een link om de afspraak te verzetten of annuleren
 - Je telefoonnummer voor vragen
 
-Maak het makkelijk om af te zeggen. Dat klinkt tegenstrijdig, maar een patient die makkelijk kan annuleren, doet dat eerder dan simpelweg niet komen opdagen. Een annulering kun je opvullen — een no-show niet.
+Maak het makkelijk om af te zeggen. Dat klinkt tegenstrijdig, maar een patient die makkelijk kan annuleren, doet dat eerder dan simpelweg niet komen opdagen. Een annulering kun je opvullen, een no-show niet.
 
 ## Nazorg als contactmoment
 
@@ -64,7 +64,7 @@ Niet elke patient prefereert hetzelfde kanaal. De beste aanpak is meerdere optie
 
 Vraag bij de eerste afspraak welk kanaal de patient prefereert en sla dat op. Een patient die liever gebeld wordt, irriteer je met een WhatsApp. En andersom.
 
-De trend gaat richting WhatsApp en SMS — sneller, persoonlijker en hogere open rates dan e-mail. Maar e-mail blijft waardevol voor uitgebreidere communicatie.
+De trend gaat richting WhatsApp en SMS: sneller, persoonlijker en hogere open rates dan e-mail. Maar e-mail blijft waardevol voor uitgebreidere communicatie.
 
 ## Veelgemaakte fouten
 

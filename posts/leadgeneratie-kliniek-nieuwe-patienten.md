@@ -13,11 +13,11 @@ cluster: "automatisering"
 
 ## Waarom je website je beste verkoopkanaal is
 
-De meeste patienten beginnen hun zoektocht online. Ze googelen hun klacht, vergelijken klinieken en bekijken [reviews](/blog/meer-google-reviews-voor-je-kliniek). Pas daarna pakken ze de telefoon — als ze al bellen.
+De meeste patienten beginnen hun zoektocht online. Ze googelen hun klacht, vergelijken klinieken en bekijken [reviews](/blog/meer-google-reviews-voor-je-kliniek). Pas daarna pakken ze de telefoon, als ze al bellen.
 
 Je website is het scharnierpunt in die zoektocht. Het is het moment waarop een bezoeker besluit: "Dit is de kliniek voor mij" of "ik ga verder zoeken." En de meeste kliniekwebsites verliezen op dat moment.
 
-Niet omdat ze er slecht uitzien, maar omdat ze geen duidelijk pad bieden van "ik ben geinteresseerd" naar "ik maak een afspraak". Dat pad heet leadgeneratie — en het is voor klinieken een van de meest onderschatte groeikansen.
+Niet omdat ze er slecht uitzien, maar omdat ze geen duidelijk pad bieden van "ik ben geinteresseerd" naar "ik maak een afspraak". Dat pad heet leadgeneratie, en het is voor klinieken een van de meest onderschatte groeikansen.
 
 ## De patient journey online
 
@@ -29,7 +29,7 @@ Voordat je je website optimaliseert, moet je begrijpen hoe patienten online naar
 
 **Beslissing**. De patient is bijna overtuigd en zoekt een laagdrempelige manier om contact op te nemen. Niet meteen een afspraak maken, maar eerst een vraag stellen of een intakegesprek inplannen.
 
-Elke fase vraagt om andere content op je website. De fout die de meeste klinieken maken, is direct naar de beslissingsfase springen — terwijl de patient nog in de bewustwordingsfase zit.
+Elke fase vraagt om andere content op je website. De fout die de meeste klinieken maken, is direct naar de beslissingsfase springen, terwijl de patient nog in de bewustwordingsfase zit.
 
 ## Conversiepunten op je website
 
@@ -37,7 +37,7 @@ Een conversiepunt is een plek op je website waar een bezoeker een actie kan onde
 
 **Contactformulier met lage drempel**. Niet "Maak een afspraak" (te definitief voor veel patienten), maar "Stel een vraag" of "Vraag een vrijblijvend intakegesprek aan." De drempel moet zo laag mogelijk zijn.
 
-**Online afspraken**. Steeds meer patienten willen online boeken. Een directe koppeling met je agenda-systeem bespaart telefoontjes en laat patienten op hun eigen moment boeken — ook om 23:00 uur 's avonds.
+**Online afspraken**. Steeds meer patienten willen online boeken. Een directe koppeling met je agenda-systeem bespaart telefoontjes en laat patienten op hun eigen moment boeken, ook om 23:00 uur 's avonds.
 
 **Terugbelverzoek**. Sommige patienten bellen liever niet zelf maar willen wel gebeld worden. Een simpel formulier: naam, telefoonnummer en gewenst tijdstip. Dit vangt de groep die het contactformulier overslaat.
 
@@ -61,7 +61,7 @@ Leadgeneratie zonder vertrouwen werkt niet. Patienten laten zich pas behandelen 
 
 Een lead is geen patient. Er zit een stap tussen: de opvolging. Hoe je die doet, bepaalt of de lead converteert.
 
-**Reageer snel**. Op een formulieraanvraag of vraag reageer je binnen twee uur. Na vier uur is de kans al gehalveerd dat de patient nog geinteresseerd is — ze hebben ondertussen een andere kliniek gevonden.
+**Reageer snel**. Op een formulieraanvraag of vraag reageer je binnen twee uur. Na vier uur is de kans al gehalveerd dat de patient nog geinteresseerd is, want ze hebben ondertussen een andere kliniek gevonden.
 
 **Wees persoonlijk**. Geen standaardmail maar een persoonlijke reactie die ingaat op de specifieke vraag of wens van de patient.
 
@@ -73,6 +73,6 @@ Een lead is geen patient. Er zit een stap tussen: de opvolging. Hoe je die doet,
 
 Leadgeneratie voor klinieken begint bij je website. Maak het makkelijk om contact op te nemen, bied meerdere conversiepunten aan en volg leads snel en persoonlijk op.
 
-De klinieken die dit goed doen, zien hun patient-instroom fors groeien — zonder extra advertentiebudget.
+De klinieken die dit goed doen, zien hun patient-instroom fors groeien, zonder extra advertentiebudget.
 
 Wil je ontdekken hoe je kliniek online beter gevonden wordt? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen.

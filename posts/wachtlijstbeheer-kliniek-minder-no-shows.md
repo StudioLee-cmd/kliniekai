@@ -9,7 +9,7 @@ tags: ["Wachtlijstbeheer", "Planning"]
 ---
 ## Waarom wachtlijstbeheer de sleutel is tot minder no-shows
 
-Elke kliniek kent het probleem: een patiënt belt af op het laatste moment en het tijdslot blijft leeg. Tegelijkertijd staan er patiënten te wachten op een eerdere afspraak. Het verbinden van die twee groepen — dat is wachtlijstbeheer.
+Elke kliniek kent het probleem: een patiënt belt af op het laatste moment en het tijdslot blijft leeg. Tegelijkertijd staan er patiënten te wachten op een eerdere afspraak. Het verbinden van die twee groepen: dat is wachtlijstbeheer.
 
 Een actief wachtlijstsysteem doet twee dingen tegelijk. Het vermindert de impact van no-shows door lege plekken direct te vullen. En het verkort de wachttijd voor patiënten die flexibel zijn, wat hun tevredenheid verhoogt.
 
@@ -39,7 +39,7 @@ Niet elke patiënt is geschikt voor de wachtlijst. De ideale wachtlijst-patiënt
 - Kan binnen 24 uur reageren op een aanbod
 - Heeft een behandeling nodig die in het vrijgevallen tijdslot past
 
-Vraag bij de intake: "Wilt u op de wachtlijst voor een eerder moment? We sturen u een bericht zodra er een plek vrijkomt." De meeste patiënten zeggen ja — ze willen graag eerder geholpen worden.
+Vraag bij de intake: "Wilt u op de wachtlijst voor een eerder moment? We sturen u een bericht zodra er een plek vrijkomt." De meeste patiënten zeggen ja, want ze willen graag eerder geholpen worden.
 
 ## No-show beleid voor klinieken
 
@@ -53,7 +53,7 @@ Dit is in de medische sector gebruikelijk en wordt door patiënten geaccepteerd 
 
 ## De financiële impact van beter wachtlijstbeheer
 
-Reken met een gemiddelde kliniek met 5 behandelkamers en een no-show percentage van 10 procent: die verliest wekelijks 2 tot 3 tijdsloten. Bij een gemiddelde behandelwaarde van €150 is dat €300 tot €450 per week — ofwel €15.000 tot €23.000 per jaar.
+Reken met een gemiddelde kliniek met 5 behandelkamers en een no-show percentage van 10 procent: die verliest wekelijks 2 tot 3 tijdsloten. Bij een gemiddelde behandelwaarde van €150 is dat €300 tot €450 per week, ofwel €15.000 tot €23.000 per jaar.
 
 Met actief wachtlijstbeheer vul je het merendeel van die lege slots; reken met 80 procent. Dat is €12.000 tot €18.000 aan teruggewonnen omzet per jaar. De investering in een goed systeem verdient zich binnen de eerste maand terug.
 
