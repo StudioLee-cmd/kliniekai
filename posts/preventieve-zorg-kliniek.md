@@ -1,7 +1,7 @@
 ---
 title: "Preventieve zorg als kliniek: voorlichting die patiënten bindt"
 seoTitle: "Preventieve zorg als kliniek"
-excerpt: "Preventieve zorg is niet alleen goed voor patiënten — het is ook een slimme groeistrategie voor klinieken. Zo zet je het op."
+excerpt: "Preventieve zorg is niet alleen goed voor patiënten. Het is ook een slimme groeistrategie voor klinieken. Zo zet je het op."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/preventieve-zorg-kliniek.png"
@@ -9,16 +9,16 @@ tags: ["Patiëntbinding"]
 cluster: "branding"
 ---
 
-De meeste klinieken richten zich op behandelen: patiënten komen met een klacht, je lost het op, en ze vertrekken. Maar de klinieken die investeren in preventieve zorg, bouwen een veel sterkere band met hun patiënten — en een stabieler verdienmodel.
+De meeste klinieken richten zich op behandelen: patiënten komen met een klacht, je lost het op, en ze vertrekken. Maar de klinieken die investeren in preventieve zorg, bouwen een veel sterkere band met hun patiënten en een stabieler verdienmodel.
 
 ## Waarom preventieve zorg loont
 
-Preventieve zorg is niet alleen ethisch verantwoord — het is ook slimme bedrijfsvoering:
+Preventieve zorg is niet alleen ethisch verantwoord, maar ook slimme bedrijfsvoering:
 
-- **Patiëntbinding** — regelmatig contact houdt patiënten bij je kliniek
-- **Spreiding** — preventieve afspraken zijn planbaar, niet ad hoc
-- **Reputatie** — klinieken die preventie bieden, worden als zorgzamer gezien
-- **Doorverwijzingen** — tevreden patiënten bevelen je sneller aan
+- **Patiëntbinding**: regelmatig contact houdt patiënten bij je kliniek
+- **Spreiding**: preventieve afspraken zijn planbaar, niet ad hoc
+- **Reputatie**: klinieken die preventie bieden, worden als zorgzamer gezien
+- **Doorverwijzingen**: tevreden patiënten bevelen je sneller aan
 
 ## Welke preventieve diensten kun je aanbieden?
 
@@ -81,10 +81,10 @@ Patiënten zoeken steeds vaker online naar preventieve informatie. Zorg dat je k
 
 ## Laat je preventieve marketing professioneel aanpakken
 
-Bij StudioLee helpen we klinieken met hun online marketing — van [leadgeneratie](/blog/leadgeneratie-kliniek-nieuwe-patienten) tot patiëntcommunicatie. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee helpen we klinieken met hun online marketing, van [leadgeneratie](/blog/leadgeneratie-kliniek-nieuwe-patienten) tot patiëntcommunicatie. Met slechts **15 minuten per maand** aan jouw kant.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe preventieve zorg je kliniek kan laten groeien.
 
 ## Conclusie
 
-Preventieve zorg is de brug tussen patiënten behandelen en patiënten behouden. Het biedt een planbaar verdienmodel, versterkt je reputatie en houdt patiënten bij je kliniek. Begin met een simpele jaarplanning en automatische herinneringen — de resultaten volgen vanzelf.
+Preventieve zorg is de brug tussen patiënten behandelen en patiënten behouden. Het biedt een planbaar verdienmodel, versterkt je reputatie en houdt patiënten bij je kliniek. Begin met een simpele jaarplanning en automatische herinneringen, dan volgen de resultaten vanzelf.

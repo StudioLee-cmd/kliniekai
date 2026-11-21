@@ -9,7 +9,7 @@ tags: ["Prijzen"]
 cluster: "website"
 ---
 
-"Wat kost een behandeling bij jullie?" Het is de vraag die elke potentiele patient stelt — vaak aan zichzelf, achter een scherm. Als je [website](/blog/kliniek-website-conversie-meer-patienten) geen antwoord geeft, klikt de patient door naar een kliniek die dat wel doet.
+"Wat kost een behandeling bij jullie?" Het is de vraag die elke potentiele patient stelt, vaak aan zichzelf, achter een scherm. Als je [website](/blog/kliniek-website-conversie-meer-patienten) geen antwoord geeft, klikt de patient door naar een kliniek die dat wel doet.
 
 ## Waarom patienten prijzen willen weten
 
@@ -29,7 +29,7 @@ Het woord "vanaf" beschermt je tegen verwachtingen. Voeg toe: "Exacte kosten na 
 
 ### Behandelpakketten
 
-Bied duidelijke pakketten aan: basis, standaard, uitgebreid. Patienten die pakketten zien, kiezen vaak het middelste — dat is doorgaans de hoogste marge.
+Bied duidelijke pakketten aan: basis, standaard, uitgebreid. Patienten die pakketten zien, kiezen vaak het middelste, en dat is doorgaans de hoogste marge.
 
 ### Financieringsmogelijkheden
 
@@ -37,24 +37,24 @@ Vermeld eventuele betalingsregelingen of termijnbetalingen. Dit verlaagt de drem
 
 ## De voordelen van transparantie
 
-- Gekwalificeerde leads — wie belt, weet wat het kost
-- Meer vertrouwen — transparantie straalt professionaliteit uit
-- Minder no-shows — patienten die weten wat het kost, verschijnen vaker
+- Gekwalificeerde leads: wie belt, weet wat het kost
+- Meer vertrouwen: transparantie straalt professionaliteit uit
+- Minder no-shows: patienten die weten wat het kost, verschijnen vaker
 - Betere [patientbeleving](/blog/patientbeleving-verbeteren-kliniek)
 
 ## Bezwaren ontkracht
 
-"Elke patient is anders" — daarom gebruik je richtprijzen, geen vaste bedragen. "Het voelt commercieel" — transparantie is het tegenovergestelde van commercieel; het is eerlijk.
+"Elke patient is anders": daarom gebruik je richtprijzen, geen vaste bedragen. "Het voelt commercieel": transparantie is het tegenovergestelde van commercieel; het is eerlijk.
 
 Combineer prijstransparantie met sterke [Google reviews](/blog/meer-google-reviews-voor-je-kliniek) en een professionele [online reputatie](/blog/online-reputatie-kliniek-beschermen-versterken). Als patienten zien dat je eerlijk bent over kosten en dat anderen tevreden zijn, kiezen ze voor jou.
 
 ## Prijstransparantie en SEO
 
-Prijsgerelateerde zoekopdrachten hebben hoge volumes: "behandeling kosten", "kliniek tarieven", "wat kost [behandeling]." Door deze informatie op je website te tonen, word je beter gevonden en trek je precies de patienten aan die klaar zijn om te boeken. Google beloont pagina's die direct antwoord geven op veelgestelde vragen — een duidelijke prijspagina is daarvoor ideaal.
+Prijsgerelateerde zoekopdrachten hebben hoge volumes: "behandeling kosten", "kliniek tarieven", "wat kost [behandeling]." Door deze informatie op je website te tonen, word je beter gevonden en trek je precies de patienten aan die klaar zijn om te boeken. Google beloont pagina's die direct antwoord geven op veelgestelde vragen, en een duidelijke prijspagina is daarvoor ideaal.
 
 ## Vertrouwen opbouwen met transparantie
 
-Prijstransparantie is niet alleen een marketinginstrument — het is een blijk van respect voor de patient. Klinieken die open zijn over kosten, worden ervaren als betrouwbaarder. Dat vertrouwen vertaalt zich in meer boekingen, positievere [reviews](/blog/meer-google-reviews-voor-je-kliniek) en sterkere doorverwijzingen.
+Prijstransparantie is niet alleen een marketinginstrument. Het is een blijk van respect voor de patient. Klinieken die open zijn over kosten, worden ervaren als betrouwbaarder. Dat vertrouwen vertaalt zich in meer boekingen, positievere [reviews](/blog/meer-google-reviews-voor-je-kliniek) en sterkere doorverwijzingen.
 
 ## Begin vandaag
 

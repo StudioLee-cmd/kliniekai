@@ -24,7 +24,7 @@ Het patiënt-koopgedrag voor cosmetische, tandheelkundige en specialistische beh
 - **Hoge intentie, korte beslistijd:** een patiënt die een formulier invult voor een liposuctie, implantaat of fysio-intake heeft de intentie binnen 1 tot 7 dagen te boeken. De keuze valt vrijwel altijd op één van de eerste twee responders.
 - **Vertrouwen wordt in de eerste reactie gevormd:** een algemeen "Wij nemen binnen drie werkdagen contact op" mailtje is dodelijk. De toon, snelheid en personalisatie van de eerste reactie bepaalt of de patiënt überhaupt nog naar een offerte of intakegesprek wil.
 
-Voor klinieken is dit dubbel pijnlijk. De gemiddelde behandelwaarde ligt tussen 600 en 4.000 euro per patiënt. Eén verloren lead is geen 5 euro koopomzet, maar een paar duizend euro die naar een concurrent gaat. Lees ook hoe je [een chatbot op je website inzet voor 24/7 patiëntopvang](/chatbot) — een typisch eerste verdedigingsmiddel.
+Voor klinieken is dit dubbel pijnlijk. De gemiddelde behandelwaarde ligt tussen 600 en 4.000 euro per patiënt. Eén verloren lead is geen 5 euro koopomzet, maar een paar duizend euro die naar een concurrent gaat. Lees ook hoe je [een chatbot op je website inzet voor 24/7 patiëntopvang](/chatbot), een typisch eerste verdedigingsmiddel.
 
 ## De verborgen kosten van late opvolging voor premium klinieken
 
@@ -35,7 +35,7 @@ Reken concreet door wat een kliniek met 40 nieuwe aanvragen per maand kost als d
 - Bij gemiddelde response 30+ minuten: reken met een conversie van 8 procent → omzet 3.040 euro per maand.
 - Verschil: 10.260 euro netto per maand verloren omzet, oftewel 123.000 euro per jaar.
 
-Dat zijn cijfers die ondernemers niet geloven tot ze ze in hun eigen agenda terugzien. En dit gaat nog niet eens over de reputatieschade: een patiënt die te laat een reactie krijgt, schrijft soms een negatieve review of vertelt het in haar netwerk. Een gemiste lead is geen één-op-één omzetverlies, het is een vermenigvuldiger op je groei. Bekijk onze [tarieven](/tarieven) als je wilt zien wat een AI-opvolgsysteem maandelijks kost — voor de meeste premium klinieken is het binnen één extra geboekt consult terugverdiend.
+Dat zijn cijfers die ondernemers niet geloven tot ze ze in hun eigen agenda terugzien. En dit gaat nog niet eens over de reputatieschade: een patiënt die te laat een reactie krijgt, schrijft soms een negatieve review of vertelt het in haar netwerk. Een gemiste lead is geen één-op-één omzetverlies, het is een vermenigvuldiger op je groei. Bekijk onze [tarieven](/tarieven) als je wilt zien wat een AI-opvolgsysteem maandelijks kost. Voor de meeste premium klinieken is het binnen één extra geboekt consult terugverdiend.
 
 ## Waar het stuk loopt: typische bottlenecks bij klinieken
 
@@ -44,7 +44,7 @@ In ons werk met klinieken zien we dezelfde vier bottlenecks terugkomen:
 - De receptie is overdag bezig met patiënten in de wachtkamer en oppakken van inkomende calls. Een formulier dat om 14:32 binnenkomt wordt soms pas om 17:50 gelezen.
 - Het contactformulier op de website komt binnen op een algemene info@-mailbox die niemand actief bemant.
 - Aanvragen die buiten kantooruren binnenkomen (en dat zijn er veel, want patiënten zoeken in de avond) blijven liggen tot de volgende ochtend.
-- Telefonische bellers krijgen een voicemail of een receptie die zegt "een collega belt u terug" — wat soms gebeurt, soms niet.
+- Telefonische bellers krijgen een voicemail of een receptie die zegt "een collega belt u terug", wat soms gebeurt, soms niet.
 
 Elk van deze bottlenecks lekt leads weg. De gemiddelde kliniek verliest een fors deel van haar binnengekomen aanvragen door deze structuur, zonder het ooit te kwantificeren. De fix zit niet in harder werken, het zit in het bouwen van een systeem dat de eerste reactie automatisch en altijd binnen vijf minuten levert.
 
@@ -77,7 +77,7 @@ Snelheid mag nooit ten koste gaan van patient-privacy. De praktische AVG-regels 
 - Een contactformulier op de website geldt als impliciete toestemming voor opvolging via het opgegeven kanaal (mail of telefoon). Geen extra checkbox nodig voor de eerste reactie.
 - WhatsApp-berichten mogen geen medische details (diagnose, foto van de aandoening, medicatie) bevatten zonder expliciete toestemming. Voor de eerste reactie volstaat een algemene bevestiging zonder gevoelige info.
 - Bewaartermijnen: een lead zonder vervolgcontact verwijder je na 6 maanden uit je systeem. Patiënten die wel klant worden vallen onder de WGBO-bewaarplicht (15 jaar dossier).
-- Marketing-vervolging na een lead vereist apart opt-in — een vinkje in een vervolgmail is voldoende, of een mondelinge toestemming tijdens het intakegesprek.
+- Marketing-vervolging na een lead vereist apart opt-in: een vinkje in een vervolgmail is voldoende, of een mondelinge toestemming tijdens het intakegesprek.
 
 Met deze regels is automatische snelle opvolging volledig AVG-proof, mits je systeem de medische details kort houdt en bewaartermijnen volgt.
 

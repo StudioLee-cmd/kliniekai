@@ -11,11 +11,11 @@ tags: ["Foto's", "Privacy"]
 
 # Google Bedrijfsprofiel foto's voor cosmetische klinieken: privacy-eerst, vertrouwen-volgens
 
-Foto's zijn een van de zwaarste ranking-factoren op Google Bedrijfsprofiel. Voor cosmetische klinieken zit er een paradox: hoe meer foto's, hoe hoger je rankt — maar je mag geen patiëntgezichten tonen, je mag geen voor-na zonder uitdrukkelijke schriftelijke toestemming, en je mag niet eens suggereren dat een specifieke behandeling is uitgevoerd op een herkenbare persoon.
+Foto's zijn een van de zwaarste ranking-factoren op Google Bedrijfsprofiel. Voor cosmetische klinieken zit er een paradox: hoe meer foto's, hoe hoger je rankt, maar je mag geen patiëntgezichten tonen, je mag geen voor-na zonder uitdrukkelijke schriftelijke toestemming, en je mag niet eens suggereren dat een specifieke behandeling is uitgevoerd op een herkenbare persoon.
 
 Resultaat: veel cosmetische klinieken laten de foto-sectie ofwel leeg, ofwel vol met stockfoto's van glanzende laser-apparaten zonder context. Beide werken niet. Dit artikel geeft een fotostrategie die binnen WGBO en AVG blijft én Google's algoritme overtuigt dat je een actieve, professionele kliniek bent.
 
-Voor de bredere strategie zie ons [Google Bedrijfsprofiel als kliniek pillar](/blog/google-bedrijfsprofiel-kliniek) artikel — foto's is laag 4 in de optimalisatie-stack, na categorie, services en NAP-consistentie.
+Voor de bredere strategie zie ons [Google Bedrijfsprofiel als kliniek pillar](/blog/google-bedrijfsprofiel-kliniek) artikel. Foto's is laag 4 in de optimalisatie-stack, na categorie, services en NAP-consistentie.
 
 ## Wat de wet je toelaat (en waar de grens ligt)
 
@@ -35,16 +35,16 @@ In de praktijk: je mag heel veel foto's plaatsen ZONDER patiënten erop, en dat 
 De behandelruimte met laser-apparatuur, behandelstoel, instrumenten, opgeruimd licht. Toont professionaliteit en hygiëne. 8-12 foto's, verschillende hoeken.
 
 **2. Apparatuur-detailshots**
-Een close-up van bijvoorbeeld de Cynosure laser, de hyaluron-injectie-pen, de afgesloten medicatiekoeler. Detailfoto's wegen aantoonbaar zwaar — Google's beeldherkenning detecteert het type apparatuur en koppelt het aan zoekopdrachten.
+Een close-up van bijvoorbeeld de Cynosure laser, de hyaluron-injectie-pen, de afgesloten medicatiekoeler. Detailfoto's wegen aantoonbaar zwaar, want Google's beeldherkenning detecteert het type apparatuur en koppelt het aan zoekopdrachten.
 
 **3. Receptie en wachtruimte**
 De eerste indruk die patiënten krijgen. Comfort-elementen (bank, planten, magazines, water), een sfeer van rust. Geen patiënten in beeld, ook geen hoofd-van-achteren.
 
 **4. Team-shots (met expliciete medewerkers-toestemming)**
-Een teamfoto, individuele medewerker-foto's met BIG-registratie zichtbaar als naamplaatje. Dit is voor Google een sterk vertrouwenssignaal en is eenvoudig wettelijk goed te regelen — medewerkers tekenen een aparte beeldrechten-overeenkomst bij indiensttreding.
+Een teamfoto, individuele medewerker-foto's met BIG-registratie zichtbaar als naamplaatje. Dit is voor Google een sterk vertrouwenssignaal en is eenvoudig wettelijk goed te regelen: medewerkers tekenen een aparte beeldrechten-overeenkomst bij indiensttreding.
 
 **5. Pre-treatment / consultatieruimte**
-De ruimte waar patiënten het intake-gesprek hebben — een zacht-verlichte spreekkamer met een bureau, twee stoelen, een tablet voor uitleg. Zonder mensen erin.
+De ruimte waar patiënten het intake-gesprek hebben: een zacht-verlichte spreekkamer met een bureau, twee stoelen, een tablet voor uitleg. Zonder mensen erin.
 
 **6. Apparatuur-in-actie zonder gezicht**
 De arts in steriele werkkleding die met een laser-pen werkt op een NIET-herkenbaar lichaamsdeel (bijvoorbeeld een hand, onderarm). Vaag genoeg om geen specifieke patiënt te identificeren, herkenbaar genoeg om de behandeling te tonen.
@@ -53,7 +53,7 @@ De arts in steriele werkkleding die met een laser-pen werkt op een NIET-herkenba
 
 **1. Stockfoto's van glanzende laser-apparaten.** Google detecteert ze, klanten herkennen ze ("die zag ik gisteren bij die andere kliniek"). Tellen niet voor ranking, schaden vertrouwen.
 
-**2. Voor-na foto's zonder schriftelijke toestemming.** Wettelijk niet toegestaan, en zelfs met toestemming risicovol — patiënten kunnen toestemming intrekken en eisen verwijdering.
+**2. Voor-na foto's zonder schriftelijke toestemming.** Wettelijk niet toegestaan, en zelfs met toestemming risicovol, want patiënten kunnen toestemming intrekken en eisen verwijdering.
 
 **3. Patiënten van achteren of vanaf opzij waar ze nog herkenbaar zijn.** Tatoeages, kapsels, hand-juwelen kunnen iemand identificeren. Crop strakker.
 
@@ -69,7 +69,7 @@ Voor elke foto met een herkenbaar persoon (medewerker of patiënt-met-toestemmin
 
 **1. Schriftelijk vooraf, niet achteraf.** Een gesproken "ja, leuk" is niet voldoende. Een ondertekend formulier wel.
 
-**2. Specifiek per platform.** "Toestemming voor gebruik op website + Google Bedrijfsprofiel + Instagram + Facebook" — niet "voor marketing in het algemeen".
+**2. Specifiek per platform.** "Toestemming voor gebruik op website + Google Bedrijfsprofiel + Instagram + Facebook", niet "voor marketing in het algemeen".
 
 **3. Tijdsgebonden.** Standaard 12-24 maanden, daarna verlenging schriftelijk vragen of de foto verwijderen.
 
@@ -104,7 +104,7 @@ Voor de bredere [lokale seo voor klinieken](/seo) hangt foto-cadans aan dezelfde
 
 **1. Te veel foto's tegelijk uploaden.** Upload max 5 per batch met 30 seconden ertussen. Anders krijg je upload-fouten of EXIF-stripping.
 
-**2. EXIF-data uitzetten "voor privacy".** Locatie-data wordt niet door publiek gezien — het is een interne ranking-signaal. Laat aan, behalve op foto's met herkenbare straatnamen of huisnummers.
+**2. EXIF-data uitzetten "voor privacy".** Locatie-data wordt niet door publiek gezien. Het is een interne ranking-signaal. Laat aan, behalve op foto's met herkenbare straatnamen of huisnummers.
 
 **3. Foto's nooit updaten.** Een profiel met foto's uit 2022 lijkt verlaten. Ververs minimaal kwartaal.
 
@@ -134,6 +134,6 @@ Ja, maar je hebt er weinig controle over. Werk eraan dat de foto's die JIJ uploa
 
 ## Aan de slag
 
-Foto's op je Google Bedrijfsprofiel zijn een van de weinige ranking-factoren waar cosmetische klinieken ondergemiddeld scoren — niet door wettelijke beperkingen, maar door onbekendheid met wat wel mag. De zes shot-types hierboven leveren je 30-50 foto's op binnen een dag fotograferen, allemaal binnen WGBO en AVG.
+Foto's op je Google Bedrijfsprofiel zijn een van de weinige ranking-factoren waar cosmetische klinieken ondergemiddeld scoren, niet door wettelijke beperkingen, maar door onbekendheid met wat wel mag. De zes shot-types hierboven leveren je 30-50 foto's op binnen een dag fotograferen, allemaal binnen WGBO en AVG.
 
 Wil je weten hoeveel foto's jouw concurrenten in jouw stad hebben en welke types jouw kliniek nu nog mist? Plan een [gratis ai scan voor klinieken](/gratis-scan) via [de demo-aanvraag](/demo). Wij doen een live audit op je foto-galerij plus een visuele vergelijking met de top-3 cosmetische klinieken in jouw regio.

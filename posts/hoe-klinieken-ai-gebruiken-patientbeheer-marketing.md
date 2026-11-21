@@ -1,32 +1,32 @@
 ---
 title: "Hoe klinieken AI gebruiken voor patiëntbeheer en marketing"
-excerpt: "AI helpt klinieken bij afsprakenbeheer, patiëntcommunicatie en online zichtbaarheid — voor een efficiëntere praktijk en meer nieuwe patiënten."
+excerpt: "AI helpt klinieken bij afsprakenbeheer, patiëntcommunicatie en online zichtbaarheid, voor een efficiëntere praktijk en meer nieuwe patiënten."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-klinieken-ai-gebruiken-patientbeheer-marketing.png"
 tags: ["Automatisering"]
 cluster: "automatisering"
 ---
-Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én een efficiënte organisatie draaien. Wachttijden, no-shows, administratie, online zichtbaarheid — de operationele druk groeit. AI helpt klinieken beide uitdagingen aan te pakken.
+Klinieken staan voor een dubbele uitdaging: excellent medisch werk leveren én een efficiënte organisatie draaien. Wachttijden, no-shows, administratie, online zichtbaarheid: de operationele druk groeit. AI helpt klinieken beide uitdagingen aan te pakken.
 
 ## Wat AI doet voor klinieken
 
 - **Afsprakenbeheer**: Online inplannen, automatische herinneringen en eenvoudig verzetten van afspraken reduceren no-shows en administratieve belasting.
 - **Patiëntcommunicatie**: Geautomatiseerde berichten voor voorbereiding (nuchter komen, formulieren invullen), bevestigingen en nazorg houden patiënten goed geïnformeerd.
-- **Intakeformulieren**: Digitale formulieren worden automatisch verwerkt en klaargezet voor de behandelaar — geen handmatige invoer meer.
+- **Intakeformulieren**: Digitale formulieren worden automatisch verwerkt en klaargezet voor de behandelaar, dus handmatige invoer is niet meer nodig.
 - **Wachtlijstbeheer**: AI bewaakt de wachtlijst en vult automatisch opengevallen plekken op.
 
 ## No-shows terugdringen
 
-No-shows kosten klinieken een merkbaar deel van de omzet. Een geautomatiseerde herinneringsstroom — 48 uur en 2 uur voor de afspraak — reduceert dit significant. Patiënten kunnen eenvoudig bevestigen of afzeggen, waarna de kliniek de plek direct kan herverdelen.
+No-shows kosten klinieken een merkbaar deel van de omzet. Een geautomatiseerde herinneringsstroom (48 uur en 2 uur voor de afspraak) reduceert dit significant. Patiënten kunnen eenvoudig bevestigen of afzeggen, waarna de kliniek de plek direct kan herverdelen.
 
 Klinieken die AI-gestuurde [herinneringen](/automatisering) inzetten, zien binnen enkele maanden fors minder no-shows.
 
 ## Online zichtbaarheid en nieuwe patiënten
 
-Nieuwe patiënten zoeken klinieken via Google. Een sterk profiel met positieve, recente reviews is essentieel. AI automatiseert het reviewproces: na elke behandeling ontvangt de patiënt een vriendelijk verzoek. Tevreden patiënten plaatsen een review — en de kliniek groeit organisch.
+Nieuwe patiënten zoeken klinieken via Google. Een sterk profiel met positieve, recente reviews is essentieel. AI automatiseert het reviewproces: na elke behandeling ontvangt de patiënt een vriendelijk verzoek. Tevreden patiënten plaatsen een review, en de kliniek groeit organisch.
 
-Bovendien helpt AI bij het bijhouden van sociale media content: actuele informatie over behandelingen, gezondheidsadvies en klinieknieuws — automatisch gepland en gepubliceerd.
+Bovendien helpt AI bij het bijhouden van sociale media content: actuele informatie over behandelingen, gezondheidsadvies en klinieknieuws, automatisch gepland en gepubliceerd.
 
 ## In 3 stappen beginnen
 

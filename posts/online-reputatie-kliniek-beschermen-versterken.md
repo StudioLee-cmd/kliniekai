@@ -11,7 +11,7 @@ cluster: "reviews"
 
 ## Waarom online reputatie alles is voor klinieken
 
-Een patient die een kliniek zoekt, leest reviews. Niet een of twee — ze lezen de laatste 10-15 reviews, zoeken naar negatieve ervaringen en vormen een oordeel voordat ze ooit contact opnemen.
+Een patient die een kliniek zoekt, leest reviews. Niet een of twee: ze lezen de laatste 10-15 reviews, zoeken naar negatieve ervaringen en vormen een oordeel voordat ze ooit contact opnemen.
 
 Voor klinieken is dit extra gevoelig. Mensen vertrouwen hun gezondheid aan je toe. Een negatieve review over onpersoonlijke behandeling, lange wachttijden of onverwachte kosten kan weken van marketing tenietdoen.
 
@@ -26,16 +26,16 @@ Voor klinieken is dit extra gevoelig. Mensen vertrouwen hun gezondheid aan je to
 
 ### Systematisch reviews verzamelen
 
-Wacht niet tot patienten zelf een review schrijven — de meest gemotiveerde schrijvers zijn de ontevreden patienten. Bouw een systeem:
+Wacht niet tot patienten zelf een review schrijven, want de meest gemotiveerde schrijvers zijn de ontevreden patienten. Bouw een systeem:
 
 1. **Na elke behandeling**: automatische SMS 24 uur later met een persoonlijk bericht en Google review-link
-2. **Timing**: stuur het bericht wanneer de patient tevreden is — na een succesvolle behandeling, niet na een pijnlijke ingreep
+2. **Timing**: stuur het bericht wanneer de patient tevreden is: na een succesvolle behandeling, niet na een pijnlijke ingreep
 3. **Personaliseer**: "Hoe gaat het na uw [behandeling]? We horen graag hoe u het hebt ervaren."
 4. **Maak het makkelijk**: een directe link naar je Google review-pagina, geen omweg
 
 ### Reageer op elke review
 
-Elke review verdient een reactie — positief en negatief:
+Elke review verdient een reactie, positief en negatief:
 
 **Positieve review:**
 "Dank u voor uw fijne woorden! We zijn blij dat u tevreden bent over de behandeling. Tot uw volgende afspraak!"

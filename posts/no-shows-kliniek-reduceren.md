@@ -9,7 +9,7 @@ cluster: "automatisering"
 ---
 ## De impact van no-shows op medische klinieken
 
-No-shows treffen klinieken harder dan de meeste andere sectoren. Behandelingen duren langer, er is vaak specifieke voorbereiding nodig, en personeel wordt ingepland op basis van de agenda. Een gemiste afspraak is niet alleen omzetverlies — het verstoort het hele dagritme van de kliniek.
+No-shows treffen klinieken harder dan de meeste andere sectoren. Behandelingen duren langer, er is vaak specifieke voorbereiding nodig, en personeel wordt ingepland op basis van de agenda. Een gemiste afspraak is niet alleen omzetverlies. Het verstoort het hele dagritme van de kliniek.
 
 Bij een gemiddelde behandelwaarde van €100 tot €250 en twee no-shows per dag, kan het jaarlijkse verlies oplopen tot meer dan €100.000. Dat is geld dat je zou kunnen investeren in betere apparatuur, meer personeel of uitbreiding.
 
@@ -19,10 +19,10 @@ De indirecte kosten zijn minstens zo hoog. Specialisten die op een patiënt wach
 
 De redenen zijn voorspelbaarder dan je denkt:
 
-- **Vergeten** staat bovenaan — vooral bij afspraken die weken van tevoren zijn ingepland
+- **Vergeten** staat bovenaan, vooral bij afspraken die weken van tevoren zijn ingepland
 - **Angst of onzekerheid** over de behandeling
-- **Praktische obstakels** — geen vervoer, werk, kinderopvang
-- **Moeilijk te wijzigen** — als annuleren ingewikkeld is, verschijnen patiënten gewoon niet
+- **Praktische obstakels**: geen vervoer, werk, kinderopvang
+- **Moeilijk te wijzigen**: als annuleren ingewikkeld is, verschijnen patiënten gewoon niet
 
 Elk van deze oorzaken vraagt om een andere aanpak.
 
@@ -47,7 +47,7 @@ Werkbare aanpak:
 - Communiceer het beleid in de bevestigingsmail en op de website
 - Start met een herinnering bij de eerste no-show
 - Vraag bij herhaling om een aanbetaling van de eigen bijdrage
-- Maak annuleren zo makkelijk mogelijk — als patiënten niet komen omdat ze niet konden annuleren, is dat jouw probleem
+- Maak annuleren zo makkelijk mogelijk, want als patiënten niet komen omdat ze niet konden annuleren, is dat jouw probleem
 
 ## Digitale intake en bevestiging
 
@@ -55,7 +55,7 @@ Een digitale intake voorafgaand aan de afspraak doet twee dingen: het bereidt de
 
 Overweeg ook online check-in: patiënten bevestigen hun aanwezigheid via een app of link voordat ze naar de kliniek komen. Dit geeft je realtime inzicht in wie er daadwerkelijk komt en stelt je in staat om lege plekken snel op te vullen.
 
-Een bijkomend voordeel van digitale intake is dat patiënten hun eigen gegevens actueel houden. Adreswijzigingen, nieuw telefoonnummer, gewijzigde medicatie — dit alles wordt vastgelegd voordat de patiënt de kliniek binnenloopt.
+Een bijkomend voordeel van digitale intake is dat patiënten hun eigen gegevens actueel houden. Adreswijzigingen, nieuw telefoonnummer, gewijzigde medicatie: dit alles wordt vastgelegd voordat de patiënt de kliniek binnenloopt.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-verminderen-kliniek" class="text-dark fw-semibold">No-shows verminderen in je kliniek: automatische oplossingen die werken</a> →</p></div></div></div>
 

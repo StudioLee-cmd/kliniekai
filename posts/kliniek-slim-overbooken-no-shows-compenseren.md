@@ -9,7 +9,7 @@ tags: ["Overbooking", "Capaciteit"]
 cluster: "automatisering"
 ---
 
-Klinieken die geen no-show-strategie hebben, draaien een fors verlies aan onbenutte agenda-slots — €40.000 tot €120.000 per jaar voor een gemiddelde Nederlandse kliniek. De meest gebruikte oplossing is herinneringen verbeteren: SMS, WhatsApp, telefoontje vooraf. Die helpen — maar bereiken in de praktijk een plafond. De resterende no-shows blijven hangen.
+Klinieken die geen no-show-strategie hebben, draaien een fors verlies aan onbenutte agenda-slots: €40.000 tot €120.000 per jaar voor een gemiddelde Nederlandse kliniek. De meest gebruikte oplossing is herinneringen verbeteren: SMS, WhatsApp, telefoontje vooraf. Die helpen, maar bereiken in de praktijk een plafond. De resterende no-shows blijven hangen.
 
 Dit artikel is voor jou als kliniek-eigenaar of operationeel manager die de stap voorbij herinneringen wil zetten: slim overbooken. Geen ouderwetse luchtvaart-overbook waar patiënten weggestuurd worden, maar een data-gedreven model dat capaciteit vrijhoudt voor no-shows zonder dat je echte patiënten ooit dubbel boekt of moet weigeren.
 
@@ -19,11 +19,11 @@ Reken met een goed afspraakherinneringssysteem dat no-shows van 12-15 procent te
 
 Drie categorieën van no-shows die herinneringen nooit gaan oplossen:
 
-- **De onverwachte:** patiënt wordt acuut ziek, krijgt een spoedgeval thuis, raakt verwikkeld in werk-onverwachte. Een klein deel van de afspraken — niet voorspelbaar, niet te voorkomen met herinneringen.
-- **De vergeters-met-herinneringen:** patiënten die de herinnering wel zagen maar alsnog vergaten. Een kleiner deel — laag, maar bestaat.
+- **De onverwachte:** patiënt wordt acuut ziek, krijgt een spoedgeval thuis, raakt verwikkeld in werk-onverwachte. Een klein deel van de afspraken, niet voorspelbaar en niet te voorkomen met herinneringen.
+- **De vergeters-met-herinneringen:** patiënten die de herinnering wel zagen maar alsnog vergaten. Een kleiner deel: laag, maar het bestaat.
 - **De afhakers:** patiënten die in twijfel raken tussen boeking en afspraak en stilletjes wegblijven (vooral bij esthetische klinieken, fysio, of behandelingen waar twijfel mogelijk is). Ook dat blijft een klein deel.
 
-Voor deze restwaarde-no-shows werkt slim overbooken — het bewust dubbel boeken van bepaalde slots op basis van statistische no-show-kansen.
+Voor deze restwaarde-no-shows werkt slim overbooken: het bewust dubbel boeken van bepaalde slots op basis van statistische no-show-kansen.
 
 ## Wat "slim overbooken" precies betekent
 
@@ -46,11 +46,11 @@ Niet elke afspraak is gelijk. De slots met statistisch hoogste no-show-kans:
 - **Online geboekte afspraken zonder vooruitbetaling:** reken met 8-14 procent (versus 2-4 procent voor afspraken met aanbetaling)
 - **Patiënten met historisch 2+ eerdere no-shows:** reken met 22-35 procent
 
-Deze slots zijn de kandidaten voor dubbele boeking — niet alle afspraken.
+Deze slots zijn de kandidaten voor dubbele boeking, niet alle afspraken.
 
 ![Reception desk in een Nederlandse kliniek met agenda-tablet, bloemen, koffie en clipboard](/images/blog/kliniek-slim-overbooken-no-shows-compenseren-2.jpg)
 
-## Hoe je het systeem opzet — 4 stappen
+## Hoe je het systeem opzet in 4 stappen
 
 ### Stap 1: data verzamelen (60-90 dagen)
 
@@ -78,7 +78,7 @@ Géén dubbele boeking voor:
 
 ### Stap 3: bevestigingsystem op groene-licht-basis
 
-24-48 uur voor de afspraak triggert het systeem een bevestigingsverzoek. Patiënten die binnen 4 uur bevestigen ("ja, ik kom"), gaan op groen — geen overlap-risico, dubbele boeking wordt gecanceld voor dat slot. Patiënten die niet bevestigen blijven op oranje — dubbele boeking blijft staan.
+24-48 uur voor de afspraak triggert het systeem een bevestigingsverzoek. Patiënten die binnen 4 uur bevestigen ("ja, ik kom"), gaan op groen: geen overlap-risico, dubbele boeking wordt gecanceld voor dat slot. Patiënten die niet bevestigen blijven op oranje, en de dubbele boeking blijft staan.
 
 In de praktijk bevestigt het merendeel van de patiënten binnen 4 uur, dus de meeste dubbele boekingen worden vóór de afspraak weggestreept zonder dat iemand iets merkt.
 
@@ -105,7 +105,7 @@ Reken met een kliniek met 1.200 afspraken per maand en historisch 9 procent no-s
 | Patiënt-tevredenheid bij overlap | n.v.t. | grotendeels behouden (na buffer-protocol) |
 | Maandelijkse extra omzet | €0 | €13.000-25.000 |
 
-Voor een gemiddelde Nederlandse kliniek met €750.000 jaaromzet betekent slim overbooken €150.000-€300.000 extra jaaromzet — bij dezelfde personeelsbezetting. Dat verschil is vrijwel volledig marge, omdat je vaste kosten (huur, salarissen, equipement) ongewijzigd blijven.
+Voor een gemiddelde Nederlandse kliniek met €750.000 jaaromzet betekent slim overbooken €150.000-€300.000 extra jaaromzet, bij dezelfde personeelsbezetting. Dat verschil is vrijwel volledig marge, omdat je vaste kosten (huur, salarissen, equipement) ongewijzigd blijven.
 
 ## Drie veelgemaakte fouten bij overbooking
 

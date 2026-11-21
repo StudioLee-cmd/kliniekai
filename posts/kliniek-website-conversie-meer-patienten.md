@@ -9,15 +9,15 @@ tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 
-Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Stel dat het 1 op de 100 is — terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.
+Je kliniek heeft een professionele website. De pagina's laden snel, de informatie klopt, en het design oogt modern. Maar als je kijkt naar hoeveel bezoekers daadwerkelijk een afspraak maken, is het percentage teleurstellend laag. Stel dat het 1 op de 100 is, terwijl je weet dat die bezoekers actief op zoek zijn naar een kliniek.
 
-Het probleem is zelden het verkeer. Het probleem is de conversie — het omzetten van een bezoeker in een patiënt. En dat is precies waar dit artikel over gaat.
+Het probleem is zelden het verkeer. Het probleem is de conversie: het omzetten van een bezoeker in een patiënt. En dat is precies waar dit artikel over gaat.
 
 ## Wat is een goed conversiepercentage voor een kliniek?
 
 Voor medische websites kun je rekenen met een gezond conversiepercentage van 3% tot 8%. Dat betekent: van elke 100 bezoekers maken er 3 tot 8 een afspraak, vullen een contactformulier in, of bellen het nummer dat op de website staat.
 
-Als je daar duidelijk onder zit, laat je significant omzet op tafel liggen. De bezoekers zijn er al — ze hebben je gevonden via Google, via je [Google Bedrijfsprofiel](/), of via een doorverwijzing. Ze zijn geïnteresseerd. Ze moeten alleen nog dat laatste zetje krijgen.
+Als je daar duidelijk onder zit, laat je significant omzet op tafel liggen. De bezoekers zijn er al: ze hebben je gevonden via Google, via je [Google Bedrijfsprofiel](/), of via een doorverwijzing. Ze zijn geïnteresseerd. Ze moeten alleen nog dat laatste zetje krijgen.
 
 ## Het probleem: te veel stappen naar de afspraak
 
@@ -29,13 +29,13 @@ Typische frictie op kliniek-websites:
 - Formulieren die vragen naar informatie die in dit stadium niet nodig is (BSN, verzekeringsnummer, medische voorgeschiedenis)
 - Geen mogelijkheid om online te boeken buiten kantoortijden
 
-De oplossing is niet meer verkeer — het is minder frictie.
+De oplossing is niet meer verkeer. Het is minder frictie.
 
 ## Vijf aanpassingen die je conversie verdubbelen
 
 ### 1. Plaats een boekingswidget op elke pagina
 
-Niet alleen op je contactpagina — op élke pagina. Een bezoeker die op je behandelpagina leest over een specifieke ingreep, moet direct vanaf die pagina een afspraak kunnen maken. Een floating button met "Maak een afspraak" die altijd zichtbaar is (ook op mobiel) verlaagt de drempel enorm.
+Niet alleen op je contactpagina, maar op élke pagina. Een bezoeker die op je behandelpagina leest over een specifieke ingreep, moet direct vanaf die pagina een afspraak kunnen maken. Een floating button met "Maak een afspraak" die altijd zichtbaar is (ook op mobiel) verlaagt de drempel enorm.
 
 Het boekingsformulier zelf moet minimaal zijn: naam, telefoonnummer, gewenste behandeling, en voorkeursdatum. Meer heb je niet nodig voor een eerste contact. De uitgebreide intake doe je later.
 
@@ -51,30 +51,30 @@ Reviews en testimonials zijn cruciaal voor klinieken. Patiënten willen zekerhei
 
 - Toon je Google-reviewscore prominent bovenaan elke pagina
 - Plaats specifieke testimonials bij de relevante behandelpagina's (een review over een ooglidcorrectie bij de pagina over ooglidcorrecties, niet op de homepage)
-- Voeg foto's van je team toe met korte bio's — patiënten willen weten door wie ze behandeld worden
+- Voeg foto's van je team toe met korte bio's, want patiënten willen weten door wie ze behandeld worden
 
 Lees ook ons artikel over [online reputatie als kliniek beschermen en versterken](/blog/online-reputatie-kliniek-beschermen-versterken) voor meer over het opbouwen van vertrouwen.
 
-### 4. Optimaliseer voor mobiel — echt
+### 4. Optimaliseer voor mobiel, echt
 
 Het merendeel van de bezoekers op kliniek-websites komt via een smartphone. Toch zijn veel kliniek-websites ontworpen voor desktop en "werken ook op mobiel." Dat is niet goed genoeg.
 
-Op mobiel moet je bel-knop altijd zichtbaar zijn. Je boekingsformulier moet met één duim in te vullen zijn. Tekst moet leesbaar zijn zonder te zoomen. En je belangrijkste call-to-action moet boven de vouw staan — dus zichtbaar zonder te scrollen.
+Op mobiel moet je bel-knop altijd zichtbaar zijn. Je boekingsformulier moet met één duim in te vullen zijn. Tekst moet leesbaar zijn zonder te zoomen. En je belangrijkste call-to-action moet boven de vouw staan, dus zichtbaar zonder te scrollen.
 
 Test je website op je eigen telefoon. Probeer een afspraak te maken alsof je een nieuwe patiënt bent. Als het meer dan 30 seconden duurt, is er werk aan de winkel.
 
 ### 5. Bied meerdere contactmogelijkheden
 
 Niet iedereen wil bellen. Niet iedereen wilt een formulier invullen. Bied minimaal drie opties:
-- **Telefonisch** — met een klikbaar nummer op mobiel
-- **Online boeken** — via een formulier of boekingssysteem
-- **WhatsApp** — steeds populairder, vooral bij jongere patiënten
+- **Telefonisch**: met een klikbaar nummer op mobiel
+- **Online boeken**: via een formulier of boekingssysteem
+- **WhatsApp**: steeds populairder, vooral bij jongere patiënten
 
 Hoe meer kanalen je biedt, hoe meer patiënten het kanaal vinden dat bij hen past. En elk extra kanaal is een extra kans op conversie.
 
 ## De rol van content in conversie
 
-Goede content doet meer dan SEO-verkeer binnenhalen — het overtuigt bezoekers om actie te ondernemen. Behandelpagina's die helder uitleggen wat er gebeurt (procedure, herstel, resultaat), wat het kost (of een indicatie), en wat patiënten ervaren (testimonials), converteren significant beter dan pagina's met alleen medische beschrijvingen.
+Goede content doet meer dan SEO-verkeer binnenhalen: het overtuigt bezoekers om actie te ondernemen. Behandelpagina's die helder uitleggen wat er gebeurt (procedure, herstel, resultaat), wat het kost (of een indicatie), en wat patiënten ervaren (testimonials), converteren significant beter dan pagina's met alleen medische beschrijvingen.
 
 Schrijf voor de patiënt, niet voor de arts. Gebruik begrijpelijke taal, beantwoord de vragen die patiënten echt hebben, en eindig elke pagina met een duidelijke volgende stap.
 
@@ -88,6 +88,6 @@ A/B-testen hoeft niet ingewikkeld te zijn. Verander één element (de kleur van 
 
 ## Conclusie
 
-Meer patiënten beginnen niet altijd bij meer websiteverkeer. Vaak begint het bij een betere ervaring voor de bezoekers die er al zijn. Verlaag de frictie, toon vertrouwenssignalen, bied meerdere contactkanalen, en meet je resultaten. In dit rekenvoorbeeld betekent een stijging van 2% naar 5% conversie 150% meer afspraken — met dezelfde hoeveelheid bezoekers.
+Meer patiënten beginnen niet altijd bij meer websiteverkeer. Vaak begint het bij een betere ervaring voor de bezoekers die er al zijn. Verlaag de frictie, toon vertrouwenssignalen, bied meerdere contactkanalen, en meet je resultaten. In dit rekenvoorbeeld betekent een stijging van 2% naar 5% conversie 150% meer afspraken, met dezelfde hoeveelheid bezoekers.
 
 Wil je hulp bij het optimaliseren van je kliniek-website? Bekijk wat [KliniekAI](/) voor je kan betekenen of [plan een gratis gesprek](/demo).

@@ -40,11 +40,11 @@ Huisartsen zijn de poortwachter van de zorg. Ze verwijzen patienten naar kliniek
 
 ### 2. Fysiotherapeuten: complementaire zorg
 
-Veel patienten combineren klinische behandelingen met fysiotherapie. Een samenwerking met een fysiotherapeut maakt het zorgpad voor de patient soepeler — en levert wederzijdse doorverwijzingen op.
+Veel patienten combineren klinische behandelingen met fysiotherapie. Een samenwerking met een fysiotherapeut maakt het zorgpad voor de patient soepeler en levert wederzijdse doorverwijzingen op.
 
 ### 3. Bedrijfsartsen
 
-Bedrijfsartsen verwijzen werknemers door bij werkgerelateerde klachten. Maak jezelf bekend bij bedrijfsartsen in je regio en zorg dat je snel kunt schakelen — snelle behandeling is voor werkgevers cruciaal.
+Bedrijfsartsen verwijzen werknemers door bij werkgerelateerde klachten. Maak jezelf bekend bij bedrijfsartsen in je regio en zorg dat je snel kunt schakelen, want snelle behandeling is voor werkgevers cruciaal.
 
 ![Verwijsdocumenten en visitekaartjes van zorgverleners op bureau](/images/blog/samenwerken-als-kliniek-partnerschappen-2.png)
 
@@ -52,7 +52,7 @@ Bedrijfsartsen verwijzen werknemers door bij werkgerelateerde klachten. Maak jez
 
 De toekomst van de zorg is multidisciplinair. Klinieken die samenwerken met meerdere disciplines bieden een completer zorgaanbod. Communiceer dit op je [website](/blog/kliniek-website-conversie-meer-patienten): "Wij werken samen met huisartsen, fysiotherapeuten en apothekers voor integrale zorg."
 
-Dit versterkt ook je [patientbeleving](/blog/patientbeleving-verbeteren-kliniek) — patienten waarderen het als hun zorgverleners onderling communiceren.
+Dit versterkt ook je [patientbeleving](/blog/patientbeleving-verbeteren-kliniek), want patienten waarderen het als hun zorgverleners onderling communiceren.
 
 ## Online zichtbaarheid
 
@@ -64,7 +64,7 @@ Registreer bij elke nieuwe patient de verwijsbron. Analyseer welke verwijzers de
 
 ## Structureel investeren in verwijsrelaties
 
-De klinieken die het snelst groeien, zijn niet degenen met het grootste marketingbudget. Het zijn de klinieken die structureel investeren in verwijsrelaties. Een maandelijks bezoek aan de belangrijkste huisartsen in je regio, een duidelijke terugrapportage na elke behandeling en een open lijn voor overleg — dat is wat verwijzers waarderen. De investering is minimaal in tijd en geld. Het rendement is een constante stroom gekwalificeerde patienten die al vertrouwen in je hebben voordat ze binnenlopen.
+De klinieken die het snelst groeien, zijn niet degenen met het grootste marketingbudget. Het zijn de klinieken die structureel investeren in verwijsrelaties. Een maandelijks bezoek aan de belangrijkste huisartsen in je regio, een duidelijke terugrapportage na elke behandeling en een open lijn voor overleg: dat is wat verwijzers waarderen. De investering is minimaal in tijd en geld. Het rendement is een constante stroom gekwalificeerde patienten die al vertrouwen in je hebben voordat ze binnenlopen.
 
 Maak het concreet: plan komende week een kennismakingsbezoek bij drie huisartsen in je regio. Neem informatiemateriaal mee over je behandelingen en specialisaties. Die ene uur investering kan maandenlang nieuwe patienten opleveren.
 

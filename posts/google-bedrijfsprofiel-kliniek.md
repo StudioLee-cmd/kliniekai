@@ -8,7 +8,7 @@ image: "/images/blog/google-bedrijfsprofiel-kliniek.png"
 tags: ["Google", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-Patienten kiezen een kliniek steeds vaker online. Ze zoeken op Google, vergelijken reviews en bekijken foto's voordat ze bellen. Je Google Bedrijfsprofiel is daarmee je digitale wachtkamer — het eerste contact dat potentiele patienten met je kliniek hebben.
+Patienten kiezen een kliniek steeds vaker online. Ze zoeken op Google, vergelijken reviews en bekijken foto's voordat ze bellen. Je Google Bedrijfsprofiel is daarmee je digitale wachtkamer: het eerste contact dat potentiele patienten met je kliniek hebben.
 
 Een goed onderhouden profiel straalt professionaliteit en betrouwbaarheid uit. Een verwaarloosd profiel wekt twijfel. In dit artikel leer je hoe je je kliniekprofiel optimaal benut.
 
@@ -20,7 +20,7 @@ Klinieken die actief hun profiel beheren verschijnen hoger in lokale zoekresulta
 
 ## Je kliniekprofiel optimaliseren
 
-Vul elk veld zorgvuldig in. Kies de juiste categorie — "Medische kliniek", "Huidkliniek" of "Tandartspraktijk" — en voeg subcategorieen toe die je specialisaties reflecteren. Een gedetailleerde beschrijving met je behandelaanbod, werkwijze en onderscheidende factoren helpt Google je te matchen met relevante zoekopdrachten.
+Vul elk veld zorgvuldig in. Kies de juiste categorie ("Medische kliniek", "Huidkliniek" of "Tandartspraktijk") en voeg subcategorieen toe die je specialisaties reflecteren. Een gedetailleerde beschrijving met je behandelaanbod, werkwijze en onderscheidende factoren helpt Google je te matchen met relevante zoekopdrachten.
 
 Zorg dat je NAW-gegevens (naam, adres, website) identiek zijn aan je website. Voeg je openingstijden toe, inclusief afwijkende tijden op feestdagen. Patienten die zoeken verwachten actuele informatie.
 
@@ -40,7 +40,7 @@ Foto's van je kliniek verlagen de drempel om een afspraak te maken. Toon een sch
 
 Overweeg een virtuele rondleiding via Google. Dit geeft patienten de mogelijkheid om je kliniek van binnen te bekijken voordat ze komen. Vooral voor angstige patienten (tandarts, chirurg) kan dit de drempel verlagen.
 
-Upload minimaal 15-20 foto's en werk ze tweemaal per jaar bij. Seizoensdecoratie, nieuwe apparatuur of een verbouwing — alles wat laat zien dat je kliniek actueel en verzorgd is.
+Upload minimaal 15-20 foto's en werk ze tweemaal per jaar bij. Seizoensdecoratie, nieuwe apparatuur of een verbouwing: alles wat laat zien dat je kliniek actueel en verzorgd is.
 
 ## Berichten en updates plaatsen
 
@@ -50,6 +50,6 @@ Je kunt ook aanbiedingen plaatsen: een gratis intakegesprek, korting op een spec
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is het visitekaartje van je kliniek. Volledig ingevuld, actief onderhouden en versterkt met goede reviews trekt het patienten aan die al [vertrouwen](/reviews) hebben voordat ze binnenstappen. Investeer er wekelijks twintig minuten in — het loont.
+Je Google Bedrijfsprofiel is het visitekaartje van je kliniek. Volledig ingevuld, actief onderhouden en versterkt met goede reviews trekt het patienten aan die al [vertrouwen](/reviews) hebben voordat ze binnenstappen. Investeer er wekelijks twintig minuten in: het loont.
 
 Benieuwd hoe jouw profiel scoort? Vraag een [gratis scan aan](/gratis-scan) en ontdek direct verbeterpunten.
